@@ -1,0 +1,11 @@
+# Abaikan cache dan file runtime Python
+__pycache__/
+*.pyc
+
+# Abaikan file dan direktori sistem
+.bashrc
+.cache/
+.gitconfig
+.profile
+.ssh/
+snap/
