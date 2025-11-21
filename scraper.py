@@ -33,7 +33,7 @@ TV_IDS = {
     "Motor Sports": "Racing.Dummy.us"
 }
 
-# --- FUNGSI BARU UNTUK VALIDASI M3U8 ---
+# --- FUNGSI VALIDASI M3U8 (DINONAKTIFKAN DI process_match) ---
 def check_m3u8_validity(url):
     """Mengecek apakah URL M3U8 dapat diakses menggunakan permintaan HEAD."""
     check_headers = {
@@ -53,7 +53,7 @@ def check_m3u8_validity(url):
         print(f"    ❌ M3U8 gagal cek koneksi: {e}")
         return False
 
-# --- FUNGSI EKSTRAKSI ---
+# --- FUNGSI EKSTRAKSI & API ---
 
 def get_matches(endpoint="all"):
     url = f"https://streamed.pk/api/matches/{endpoint}"
@@ -68,44 +68,90 @@ def get_matches(endpoint="all"):
         return []
 
 def find_m3u8_in_content(page_content):
+    """Mencari URL M3U8 menggunakan pola regex yang diperluas."""
     patterns = [
+        # Pola 1-4: Konfigurasi player JS
         r'source:\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
         r'file:\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
         r'hlsSource\s*=\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
         r'src\s*:\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
+        
+        # Pola 5: Tag <source> HTML5
+        r'<source\s+src\s*=\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
+
+        # Pola 6: Variabel JS 'url' atau 'link'
+        r'(?:url|link)\s*:\s*["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']',
+
+        # Pola 7 (Paling luas): Mencari M3U8 yang terlampir di mana saja
         r'["\'](https?://[^\'"]+\.m3u8?[^\'"]*)["\']'
     ]
-    # Hanya kembalikan yang pertama ditemukan
+    
     for pattern in patterns:
-        match = re.search(pattern, page_content)
+        match = re.search(pattern, page_content, re.IGNORECASE) 
         if match:
             return match.group(1)
     return None
 
-def extract_m3u8_from_embed(embed_page_url):
+def extract_m3u8_from_embed(embed_page_url, level=1):
     """
-    Mengambil halaman embed (baik alpha maupun non-alpha) 
-    dan mengekstrak URL .m3u8 yang sebenarnya.
+    Mengambil halaman embed (HTML) dan mengekstrak URL .m3u8 yang sebenarnya.
+    Mendukung two-level scraping untuk IFRAME.
     """
     try:
-        # Gunakan header kustom untuk mengakses halaman embed
-        resp = requests.get(embed_page_url, headers=CUSTOM_HEADERS, timeout=10)
+        # Gunakan header yang benar-benar kustom
+        temp_headers = CUSTOM_HEADERS.copy()
+        if level > 1:
+            # Jika ini adalah level iframe, referer-nya harus URL induknya
+            temp_headers["Referer"] = embed_page_url 
+            temp_headers["Origin"] = embed_page_url # Sesuaikan Origin
+
+        resp = requests.get(embed_page_url, headers=temp_headers, timeout=10)
         resp.raise_for_status()
-        # Cari M3U8 di dalam kode HTML/JS halaman embed
-        return find_m3u8_in_content(resp.text)
+        
+        page_content = resp.text
+
+        # 1. Coba cari M3U8 langsung
+        m3u8_link = find_m3u8_in_content(page_content)
+        if m3u8_link:
+            return m3u8_link
+
+        # 2. Jika M3U8 tidak ditemukan di Level 1, cari IFRAME
+        if level == 1:
+            # Pola untuk mencari IFRAME
+            iframe_match = re.search(
+                r'<iframe[^>]+src=["\'](https?://[^\'"]+)["\']', 
+                page_content, 
+                re.IGNORECASE
+            )
+            
+            if iframe_match:
+                iframe_url = iframe_match.group(1)
+                print(f"    ➡️ Ditemukan IFRAME Level 2: {iframe_url}. Melanjutkan scraping...")
+                
+                # Panggil fungsi ini secara rekursif (Level 2)
+                return extract_m3u8_from_embed(iframe_url, level=2)
+
+        # 3. Gagal di kedua level
+        if level == 2:
+             print(f"    *** DEBUG: GAGAL EKSTRAKSI DI LEVEL 2 ({embed_page_url}) ***")
+             # Hapus baris debug untuk konten setelah Anda berhasil
+             # print("--------------------------------------------------")
+             # print(page_content[:1000])
+             # print("--------------------------------------------------")
+             
+        return None
     except Exception as e:
         print(f"    ⚠️ Gagal mengekstrak M3U8 dari {embed_page_url}: {e}")
         return None
 
 
 def get_stream_embed_urls(source):
-    """Mengembalikan semua URL embed (baik HTML atau M3U8 mentah)."""
+    """Mengembalikan semua URL embed yang didapatkan dari API."""
     src_name = source.get('source')
     src_id = source.get('id')
     if not src_name or not src_id:
         return []
 
-    # Coba API biasa dan API alpha
     urls_to_try = [
         f"https://streamed.pk/api/stream/{src_name}/{src_id}",
         f"https://streamed.pk/api/stream/alpha/{src_name}/{src_id}"
@@ -118,8 +164,8 @@ def get_stream_embed_urls(source):
             response = requests.get(api_url, headers=CUSTOM_HEADERS, timeout=10)
             response.raise_for_status()
             
-            # Coba JSON
             try:
+                # Coba JSON
                 streams = response.json()
                 if streams:
                     for s in streams:
@@ -130,7 +176,7 @@ def get_stream_embed_urls(source):
             except:
                 pass
 
-            # Fallback: pencarian regex di halaman (jika bukan JSON)
+            # Fallback: pencarian regex di halaman
             m3u8_fallback = find_m3u8_in_content(response.text)
             if m3u8_fallback and m3u8_fallback not in embed_urls:
                 embed_urls.append(m3u8_fallback)
@@ -141,7 +187,7 @@ def get_stream_embed_urls(source):
     return embed_urls
 
 
-# --- FUNGSI PEMROSESAN METADATA ---
+# --- FUNGSI PEMROSESAN METADATA & UTAMA ---
 
 def validate_logo(url, category):
     cat = (category or "").lower().replace('-', ' ').strip()
@@ -174,7 +220,6 @@ def build_logo_url(match):
             logo_url = urljoin("https://streamed.pk", poster)
 
     if logo_url:
-        # Normalisasi URL (menghapus duplikat 'https://streamed.pk' dan '/' berulang)
         logo_url = re.sub(r'(https://streamed\.pk)+', 'https://streamed.pk', logo_url)
         logo_url = re.sub(r'/+', '/', logo_url).replace('https:/', 'https://')
 
@@ -182,12 +227,10 @@ def build_logo_url(match):
     return logo_url, api_category
 
 
-# --- FUNGSI UTAMA ---
-
 def process_match(match):
     """
     Memproses satu pertandingan, mengambil embed URL,
-    mengekstrak M3U8, dan MEMVALIDASI M3U8.
+    dan mengekstrak M3U8 (validasi koneksi dinonaktifkan untuk uji coba).
     """
     title = match.get('title', 'Untitled Match')
     sources = match.get('sources', [])
@@ -199,22 +242,26 @@ def process_match(match):
             if embed_url:
                 print(f"  🔎 Mengecek embed untuk '{title}': {embed_url}")
                 
-                # --- LANGKAH PENTING: SELALU EKSTRAK M3U8 DARI URL EMBED ---
-                # Asumsikan semua yang bukan .m3u8 adalah halaman embed yang perlu diurai
+                # --- LOGIKA EKSTRAKSI ---
                 if embed_url.endswith('.m3u8'):
                     m3u8 = embed_url
                 else:
-                    m3u8 = extract_m3u8_from_embed(embed_url)
+                    # Kini fungsi ini akan menangani scraping dua level
+                    m3u8 = extract_m3u8_from_embed(embed_url, level=1)
                 
                 if m3u8 and m3u8 not in m3u8_urls:
                     print(f"    ➡️ Ditemukan kandidat M3U8: {m3u8}")
                     
-                    # Cek apakah M3U8 dapat diakses (validasi koneksi)
-                    if check_m3u8_validity(m3u8):
-                        print(f"    ✅ M3U8 valid dan akan ditambahkan.")
-                        m3u8_urls.append(m3u8)
+                    # --- VALIDASI DINONAKTIFKAN SEMENTARA UNTUK UJI COBA ---
+                    # if check_m3u8_validity(m3u8):
+                    #     print(f"    ✅ M3U8 valid dan akan ditambahkan.")
+                    #     m3u8_urls.append(m3u8)
+                    
+                    # Tambahkan M3U8 tanpa validasi
+                    print(f"    ✅ M3U8 ditambahkan TANPA validasi koneksi.")
+                    m3u8_urls.append(m3u8)
+                    # ----------------------------------------------------
 
-    # Hanya kembalikan URL M3U8 yang sudah divalidasi
     return match, m3u8_urls if m3u8_urls else None
 
 
@@ -222,7 +269,6 @@ def generate_m3u8():
     all_matches = get_matches("all")
     live_matches = get_matches("live")
     
-    # Gabungkan dan hapus duplikat (menggunakan set pada ID pertandingan)
     unique_matches = {}
     for m in all_matches + live_matches:
         unique_matches[m.get('id')] = m
@@ -235,22 +281,18 @@ def generate_m3u8():
     success = 0
     
     # --- STRUKTUR HEADER URL UNTUK PEMUTAR ---
-    # Menggabungkan semua header kustom ke dalam string URL-encoded (untuk format URL|header)
-    # Gunakan urllib.parse.quote untuk User-Agent jika ada karakter yang perlu di-encode
     header_string = (
         f'Origin={quote(CUSTOM_HEADERS["Origin"])}'
         f'&Referer={quote(CUSTOM_HEADERS["Referer"])}'
         f'&User-Agent={quote(CUSTOM_HEADERS["User-Agent"])}'
     )
     
-    # Menggunakan multithreading untuk memproses pertandingan secara paralel
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         futures = {executor.submit(process_match, m): m for m in matches}
         for future in concurrent.futures.as_completed(futures):
             match, urls = future.result()
             title = match.get('title', 'Untitled Match')
             
-            # Hanya tambahkan jika ada URL yang valid
             if urls:
                 logo, cat = build_logo_url(match)
                 display_cat = cat.replace('-', ' ').title() if cat else "General"
@@ -260,15 +302,12 @@ def generate_m3u8():
                     # Gabungkan URL M3U8 dengan string header
                     url_with_headers = f"{url}|{header_string}" 
                     
-                    # Tambahkan baris EXTFINF, logo, group, dll.
                     content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}')
-                    
-                    # Tambahkan URL M3U8 yang DIMODIFIKASI
                     content.append(url_with_headers) 
                     success += 1
                     print(f"  ✅ {title} ({logo}) TV-ID: {tv_id}")
 
-    print(f"🎉 Ditemukan {success} stream yang berfungsi (sudah divalidasi).")
+    print(f"🎉 Ditemukan {success} stream yang berfungsi (tanpa validasi koneksi).")
     return "\n".join(content)
 
 
