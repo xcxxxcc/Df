@@ -91,6 +91,42 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
 
+#EXTINF:-1 group-title="FOX ONE" tvg-id="ESPN 1", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/E.png", ESPN 1 Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+
+#EXTINF:-1 group-title="FOX ONE" tvg-id="ESPN 2", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/E.png", ESPN 2 Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+
+#EXTINF:-1 group-title="FOX ONE" tvg-id="ESPN 3", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/E.png", ESPN 3 Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+
+#EXTINF:-1 group-title="FOX ONE" tvg-id="ESPN 4", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/E.png", ESPN 4 Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
+
+#EXTINF:-1 group-title="FOX ONE" tvg-id="NBA", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/nba-logo-1.jpg", NBA Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
+https://zap-live1-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
+
+#EXTINF:-1 group-title="FOX ONE" tvg-id="NFL", tvg-logo="https://raw.githubusercontent.com/xcxxxcc/Df/refs/heads/main/NFL.jpeg", NFL Zp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812232ec802794f7f0aedfdd82bb13d2:3c6a93ae956f0fc504b62983db808bad
+https://zap-live1-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd
+
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="ESPN", ESPN 🇨🇴
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="ESPN", ESPN 2 🇨🇴
