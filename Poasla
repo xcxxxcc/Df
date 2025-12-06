@@ -258,13 +258,31 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1765095295~acl=%2f*~id=d0eaf80a-ca1
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
 https://dice-live-oc.akamaized.net/hdntl=exp=1765095304~acl=%2f*~id=e9cbcb3b-176b-435f-9794-b84db5d009af~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjUwOTUzMzQmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=58417f9164ba4c71395500f9ced6f17512ecc3bef5915be81c217e8424eb71c8/dash/live/2093714/219039-308446/manifest-d.mpd
 
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png" group-title="SkySports",TUDN
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
+
+#EXTINF:-1 tvg-id="SKY Sports La Liga" tvg-name="SKY Sports La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="SKY Sports",SKY Sports LaLiga
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
+
+#EXTINF:-1 tvg-id="SKY Sports Bundesliga" tvg-name="SKY Sports Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="SKY Sports",SKY Sports Bundesliga
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+
 #EXTINF:-1 tvg-id="SKY Sports F1" tvg-name="SKY Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="SKY Sports",SKY Sports F1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
 https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
 
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="SKY Sports",SKY Sports
+#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thu/b/b7/Sky_Sports_2025.svg/560px-Sky_Sports_2025.svg.png" group-title="SKY Sports",SKY Sports 1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
