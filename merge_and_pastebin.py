@@ -1,5 +1,6 @@
 import requests
 import os
+import json
 
 # 1. Konfigurasi Sumber
 PLAYLIST_URLS = [
@@ -9,17 +10,19 @@ PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/felixiptv/FelixLive/refs/heads/main/PPVLand.m3u8" 
 ]
 HEADER = "#EXTM3U\n"
-# HEADER KUSTOM untuk mengatasi Error 403 (Meniru browser)
 CUSTOM_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-# 2. Fungsi Pengambilan Data
+# Variabel Global untuk menyimpan Gist ID (untuk pembaruan di masa depan)
+# Jika ini pertama kali, biarkan kosong. Skrip akan membuat Gist baru.
+GIST_ID = os.environ.get('GIST_ID') 
+GIST_FILE_NAME = "BL.m3u" # Nama file Gist Anda
+
+# 2. Fungsi Pengambilan Data (Sama seperti sebelumnya)
 def fetch_and_clean_playlist(url):
-    """Mengunduh konten dari URL dan membersihkan header M3U/M3U8."""
     print(f"Mengambil konten dari: {url}")
     try:
-        # MENGGUNAKAN HEADER KUSTOM DI SINI
         response = requests.get(url, headers=CUSTOM_HEADERS, timeout=15)
         response.raise_for_status() 
 
@@ -35,47 +38,67 @@ def fetch_and_clean_playlist(url):
         print(f"Gagal mengambil {url}: {e}")
         return ""
 
-# 3. Fungsi Pengunggahan ke Pastebin
-def upload_to_pastebin(api_key, content):
-    """Mengunggah konten gabungan ke Pastebin."""
+# 3. FUNGSI UNGGAHAN BARU KE GITHUB GIST
+def upload_to_gist(token, content):
+    """Mengunggah atau memperbarui konten ke GitHub Gist."""
     
-    PASTEBIN_URL = "https://pastebin.com/api/api_post.php"
+    GIST_URL = f"https://api.github.com/gists/{GIST_ID}" if GIST_ID else "https://api.github.com/gists"
     
-    # Parameter untuk pengunggahan
-    data = {
-        'api_dev_key': api_key,
-        'api_option': 'paste',
-        'api_paste_code': content,
-        'api_paste_name': 'BL.m3u',
-        'api_paste_format': 'm3u',
-        'api_paste_private': '0',
-        'api_paste_expire_date': 'N',
+    auth_headers = {
+        'Authorization': f'token {token}',
+        'Accept': 'application/vnd.github.v3+json'
     }
+
+    payload = {
+        "description": "Merged M3U Playlist (Auto Updated via GitHub Action)",
+        "public": True,
+        "files": {
+            GIST_FILE_NAME: {
+                "content": content
+            }
+        }
+    }
+
+    print(f"\n{'Memperbarui' if GIST_ID else 'Membuat'} Gist...")
     
-    print("\nSedang mengunggah ke Pastebin...")
     try:
-        # POST request untuk mengunggah konten
-        response = requests.post(PASTEBIN_URL, data=data, timeout=15)
+        if GIST_ID:
+            # Jika GIST_ID sudah ada, kita PATCH (Update)
+            response = requests.patch(GIST_URL, headers=auth_headers, json=payload, timeout=15)
+        else:
+            # Jika GIST_ID belum ada, kita POST (Create)
+            response = requests.post(GIST_URL, headers=auth_headers, json=payload, timeout=15)
+            
         response.raise_for_status()
         
-        if response.text.startswith("Bad API request"):
-            print(f"❌ Gagal mengunggah ke Pastebin: {response.text}")
-            return None
+        data = response.json()
+        gist_id_new = data['id']
+        raw_url = data['files'][GIST_FILE_NAME]['raw_url']
+
+        print(f"✅ Berhasil! Gist ID: {gist_id_new}")
+        print(f"✅ URL Mentah (Playlist): {raw_url}")
         
-        print(f"✅ Berhasil diunggah. URL Pastebin: {response.text}")
-        return response.text
+        # Jika GIST_ID belum disetel, cetak instruksi
+        if not GIST_ID:
+            print("\n🚨 PERHATIAN: Skrip membuat Gist baru.")
+            print("Untuk eksekusi berikutnya (agar skrip meng-update, bukan membuat baru),")
+            print(f"tambahkan GIST_ID = '{gist_id_new}' ke file Python Anda ATAU")
+            print(f"tambahkan SECRET baru bernama GIST_ID = {gist_id_new} di GitHub.")
+
+        return raw_url
 
     except requests.RequestException as e:
-        # Pesan error yang lebih membantu untuk masalah Pastebin
-        print(f"❌ Kesalahan saat mengirim ke Pastebin: {e}. Kemungkinan API Key salah, atau konten melanggar ToS.")
+        print(f"❌ Kesalahan saat mengunggah ke Gist: {e}")
+        print("Pastikan GIST_TOKEN memiliki izin 'gist' yang benar.")
         return None
 
 def main():
-    api_key = os.environ.get('PASTEBIN_API_KEY')
-    if not api_key:
-        print("❌ Error: PASTEBIN_API_KEY tidak ditemukan.")
+    token = os.environ.get('GIST_TOKEN')
+    if not token:
+        print("❌ Error: GIST_TOKEN tidak ditemukan. Silakan tambahkan SECRET baru di GitHub.")
         return
 
+    # 1. Gabungkan Konten
     all_content = []
     for url in PLAYLIST_URLS:
         content = fetch_and_clean_playlist(url)
@@ -84,8 +107,8 @@ def main():
     
     final_content = HEADER + "\n".join(all_content)
     
-    upload_to_pastebin(api_key, final_content)
+    # 2. Unggah ke Gist
+    upload_to_gist(token, final_content)
 
 if __name__ == "__main__":
     main()
-            
