@@ -3,7 +3,6 @@ name: Merge and Upload to Pastebin
 on:
   workflow_dispatch:
   schedule:
-    # Berjalan setiap 30 menit
     - cron: '0,30 * * * *' 
 
 jobs:
