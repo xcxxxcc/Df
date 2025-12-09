@@ -1,0 +1,28 @@
+name: Merge and Upload to Pastebin
+
+on:
+  workflow_dispatch:
+  # 2. schedule: Menjalankan Action secara otomatis sesuai jadwal (Cron).
+  schedule:
+    # PERUBAHAN DI SINI: Berjalan pada menit ke-0 dan menit ke-30 setiap jam, setiap hari.
+    - cron: '0,30 * * * *' 
+
+jobs:
+  pastebin:
+    runs-on: ubuntu-latest
+    steps:
+    - name: ⬇️ Checkout kode
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Siapkan Python
+      uses: actions:setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: ⚙️ Install dependensi
+      run: pip install requests
+
+    - name: 🏃 Jalankan skrip Penggabungan & Unggah ke Pastebin
+      env:
+        PASTEBIN_API_KEY: ${{ secrets.PASTEBIN_API_KEY }}
+      run: python merge_and_pastebin.py
