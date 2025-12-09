@@ -1,26 +1,30 @@
 import requests
 import os
 
-# 1. Konfigurasi Sumber - PERUBAHAN ADA DI BAGIAN INI
+# 1. Konfigurasi Sumber
 PLAYLIST_URLS = [
     "https://sp.networkerror404.top/playlist/sliv.php",
     "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
     "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u",
-    "https://raw.githubusercontent.com/felixiptv/FelixLive/refs/heads/main/PPVLand.m3u8" # <--- SUMBER BARU
+    "https://raw.githubusercontent.com/felixiptv/FelixLive/refs/heads/main/PPVLand.m3u8" 
 ]
 HEADER = "#EXTM3U\n"
+# HEADER KUSTOM untuk mengatasi Error 403 (Meniru browser)
+CUSTOM_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
 
 # 2. Fungsi Pengambilan Data
 def fetch_and_clean_playlist(url):
     """Mengunduh konten dari URL dan membersihkan header M3U/M3U8."""
     print(f"Mengambil konten dari: {url}")
     try:
-        response = requests.get(url, timeout=15)
+        # MENGGUNAKAN HEADER KUSTOM DI SINI
+        response = requests.get(url, headers=CUSTOM_HEADERS, timeout=15)
         response.raise_for_status() 
 
         content = response.text.strip()
         
-        # Hapus header '#EXTM3U' jika ada, karena kita hanya perlu satu header di awal
         if content.startswith(HEADER.strip()):
             content = content[len(HEADER.strip()):].lstrip('\n').lstrip('\r\n')
             
@@ -37,11 +41,12 @@ def upload_to_pastebin(api_key, content):
     
     PASTEBIN_URL = "https://pastebin.com/api/api_post.php"
     
+    # Parameter untuk pengunggahan
     data = {
         'api_dev_key': api_key,
         'api_option': 'paste',
         'api_paste_code': content,
-        'api_paste_name': 'BL (Auto Updated)',
+        'api_paste_name': 'BL.m3u',
         'api_paste_format': 'm3u',
         'api_paste_private': '0',
         'api_paste_expire_date': 'N',
@@ -49,7 +54,8 @@ def upload_to_pastebin(api_key, content):
     
     print("\nSedang mengunggah ke Pastebin...")
     try:
-        response = requests.post(PASTEBIN_URL, data=data)
+        # POST request untuk mengunggah konten
+        response = requests.post(PASTEBIN_URL, data=data, timeout=15)
         response.raise_for_status()
         
         if response.text.startswith("Bad API request"):
@@ -60,7 +66,8 @@ def upload_to_pastebin(api_key, content):
         return response.text
 
     except requests.RequestException as e:
-        print(f"❌ Kesalahan saat mengirim ke Pastebin: {e}")
+        # Pesan error yang lebih membantu untuk masalah Pastebin
+        print(f"❌ Kesalahan saat mengirim ke Pastebin: {e}. Kemungkinan API Key salah, atau konten melanggar ToS.")
         return None
 
 def main():
@@ -69,19 +76,16 @@ def main():
         print("❌ Error: PASTEBIN_API_KEY tidak ditemukan.")
         return
 
-    # 1. Gabungkan Konten
     all_content = []
     for url in PLAYLIST_URLS:
         content = fetch_and_clean_playlist(url)
         if content:
             all_content.append(content)
     
-    # Tambahkan header M3U tunggal
     final_content = HEADER + "\n".join(all_content)
     
-    # 2. Unggah ke Pastebin
     upload_to_pastebin(api_key, final_content)
 
 if __name__ == "__main__":
     main()
-    
+            
