@@ -1,11 +1,15 @@
 name: 🔄 Auto Merge Playlist
 
 on:
+  # Trigger saat ada commit ke branch main
   push:
-    branches: [ main ] # Tambahkan ini untuk memastikan pemicuan di branch main
+    branches: [ main ] 
   workflow_dispatch:
   schedule:
     - cron: '0,30 * * * *' 
+
+permissions: # <--- TAMBAHKAN BAGIAN INI
+  contents: write # Memberi izin kepada Action untuk menulis (membuat/mengubah) Gist
 
 jobs:
   pastebin:
@@ -17,6 +21,8 @@ jobs:
         python-version: '3.x'
     - run: pip install requests
     - name: Run Script and Upload
+      # UBAH VARIABEL LINGKUNGAN KE GIST_TOKEN
       env:
-        PASTEBIN_API_KEY: ${{ secrets.PASTEBIN_API_KEY }}
+        GIST_TOKEN: ${{ secrets.GIST_TOKEN }} 
       run: python merge_and_pastebin.py
+      
