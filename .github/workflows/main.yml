@@ -70,20 +70,16 @@ jobs:
           sed -i '/^$/d' "$FINAL_OUTPUT"
           echo "✅ Format dibersihkan."
 
-      - name: 8. Commit and Push
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          # PENTING: Hanya add file final_playlist.m3u
-          # Jangan add file mentah lain agar repo tetap bersih
-          git add final_playlist.m3u
-          
-          # Cek apakah ada perubahan sebelum commit agar tidak error
-          if git diff --cached --quiet; then
-            echo "Tidak ada update baru di playlist sumber."
-          else
-            git commit -m "Auto-Synced: Playlist Updated"
-            git push origin main
-          fi
+            # --- GANTI TOTAL LANGKAH 8 DENGAN INI ---
+      - name: 8. Commit and Push Changes (Menggunakan Action Khusus)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # File yang akan di-commit
+          files: 'final_playlist.m3u' 
+          # Pesan commit
+          commit_message: 'Auto-Synced: Playlist Updated'
+          # Token default (sudah memiliki izin write)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Opsi ini MENCEGAH error rejected. Action akan pull sebelum push.
+          push_options: '--force' 
           
