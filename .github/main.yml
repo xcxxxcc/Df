@@ -1,0 +1,89 @@
+name: Multi-Source M3U Synchronizer
+
+on:
+  schedule:
+    # Jalan setiap 30 menit otomatis
+    - cron: '*/30 * * * *' 
+  workflow_dispatch: # Tombol manual buat tes
+
+jobs:
+  sync-and-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Izin wajib supaya bisa save file ke repo
+    steps:
+      - name: 1. Checkout Code
+        uses: actions/checkout@v4
+
+      # --- FETCH SUMBER 1-4 ---
+      
+      - name: 2. Fetch BONGDA1
+        run: |
+          # Download dan simpan dengan nama huruf kecil
+          curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda.m3u" -o "bongda1.m3u" || echo "Gagal BONGDA1"
+
+      - name: 3. Fetch BONGDA2
+        run: |
+          curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda2.m3u" -o "bongda2.m3u" || echo "Gagal BONGDA2"
+
+      - name: 4. Fetch PPV
+        run: |
+          curl -sSL "https://raw.githubusercontent.com/felixiptv/FelixLive/main/PPVLand.m3u8" -o "ppv.m3u" || echo "Gagal PPV"
+          
+      - name: 5. Fetch Sony
+        run: |
+          curl -sSL -L --connect-timeout 20 "https://sp.networkerror404.top/playlist/sliv.php" -o "sony.m3u" || echo "Gagal Sony"
+
+      # --- PENGGABUNGAN (MERGE) ---
+      
+      - name: 6. Merge Playlists
+        run: |
+          FINAL_OUTPUT="final_playlist.m3u"
+          
+          # Buat Header Baru
+          echo "#EXTM3U" > "$FINAL_OUTPUT"
+          
+          # Fungsi Penggabungan
+          append_content() {
+              FILENAME=$1
+              NAME=$2
+              if [ -f "$FILENAME" ]; then
+                  echo -e "\n# --- $NAME Playlist Start ---" >> "$FINAL_OUTPUT"
+                  # Hapus baris pertama (header #EXTM3U sumber) dan masukkan sisanya
+                  tail -n +2 "$FILENAME" >> "$FINAL_OUTPUT"
+                  echo "✅ $NAME berhasil digabung."
+              else
+                  echo "⚠️ File $FILENAME kosong/gagal, dilewati."
+              fi
+          }
+
+          # Panggil file yang sudah didownload di atas
+          append_content "bongda1.m3u" "Bongda 1"
+          append_content "bongda2.m3u" "Bongda 2"
+          append_content "sony.m3u" "Sony"
+          append_content "ppv.m3u" "PPV"
+
+      - name: 7. Clean up Formatting
+        run: |
+          FINAL_OUTPUT="final_playlist.m3u"
+          # Hapus baris kosong
+          sed -i '/^$/d' "$FINAL_OUTPUT"
+          echo "✅ Format dibersihkan."
+
+      - name: 8. Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # PENTING: Hanya add file final_playlist.m3u
+          # Jangan add file mentah lain agar repo tetap bersih
+          git add final_playlist.m3u
+          
+          # Cek apakah ada perubahan sebelum commit agar tidak error
+          if git diff --cached --quiet; then
+            echo "Tidak ada update baru di playlist sumber."
+          else
+            git commit -m "Auto-Synced: Playlist Updated"
+            git push origin main
+          fi
+          
