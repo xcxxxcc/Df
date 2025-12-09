@@ -41,7 +41,7 @@ def upload_to_pastebin(api_key, content):
         'api_dev_key': api_key,
         'api_option': 'paste',
         'api_paste_code': content,
-        'api_paste_name': 'Merged M3U Playlist (Auto Updated)',
+        'api_paste_name': 'BL (Auto Updated)',
         'api_paste_format': 'm3u',
         'api_paste_private': '0',
         'api_paste_expire_date': 'N',
