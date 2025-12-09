@@ -1,0 +1,22 @@
+name: 🔄 Auto Merge Playlist
+
+on:
+  push:
+    branches: [ main ] # Tambahkan ini untuk memastikan pemicuan di branch main
+  workflow_dispatch:
+  schedule:
+    - cron: '0,30 * * * *' 
+
+jobs:
+  pastebin:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - run: pip install requests
+    - name: Run Script and Upload
+      env:
+        PASTEBIN_API_KEY: ${{ secrets.PASTEBIN_API_KEY }}
+      run: python merge_and_pastebin.py
