@@ -345,9 +345,11 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1766057992~acl=%2f*~id=f10ebc0d-9e9
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
 https://dice-live-oc.akamaized.net/hdntl=exp=1766058000~acl=%2f*~id=0e3d4955-f873-43f2-b9e0-32f0961744e6~data=hdntl,dWlkPTQwMTY0NnxkY2Uuc2t5bnomaXA9NzguMTQzLjIzNS4yMTgmZXhwPTE3NjYwNTgwMzAmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=f6c34c9a4a55da57859c14fc6dcf3129ec7b2e48920dedf38a0627339eec885f/dash/live/2093714/219039-308446/manifest-d.mpd
 
+
+
 #--- SONY START ---
 #EXTINF:-1 tvg-id="1090497811" tvg-name="DP World Men's U19 Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012422/1765779940878818_AC25_U19_BAN_vs_SL_15dec_Landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1765996201~acl=/*~id=f077f8fb3504b2f298e0f45286920936-1765953000116~hmac=bcc10062ed20d267eff6a11cd03c1d7c70e75f2314b93b692df32d849254ca41|x-playback-session-id=e3ba607371a7e0966bb4cdd9d6896410-1765970346526&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; LE2121; Build/TP1A.220905.001)
+https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1766017801~acl=/*~id=f4b768fae9b73d2c163b49375907e98f-1765974600107~hmac=46484f8421a3c14699928f3a2e3a4683fa64cdf13a8bfb90e74fce53f97a6c4c|x-playback-session-id=2d5170d285525d9139ea8e735d46f9b0-1765975864989&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3890; Build/AQ3A.240812.002)
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -361,14 +363,14 @@ https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8?hdntl=ex
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
 #EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8?hdntl=exp=1766054705~acl=%2f*~data=hdntl~hmac=8babbf144c6fd9733c16c27629b8efe30c995d321dd44c5301892fc26abda479
-#EXTINF:-1 tvg-id="0-1-6z5878232" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878232/list/1920x1080list4bcd61d34e874a76827162e3aa9c28b5b90151c0d71144959f1614c9518aeab4.jpg" tvg-language="english" group-title="ZEE 5",ENG | Pro - GSPL
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://falconstream.zee5.com/cmaf/live/2109039/COURT_01/master.m3u8?hdntl=exp=1766053808~acl=%2f*~data=hdntl~hmac=e843a65ff2c46b965ab25b92e87443548741f221f3a885711e7a70b11cd2ec2a
 #EXTINF:-1 tvg-id="0-1-6z5878233" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878233/list/1920x1080list5c8cda984812442ebe841edc7fa46b3a16cd46fa7591424aa8a906e41d5d80ae.jpg" tvg-language="english" group-title="ZEE 5",ENG | Challenger- GSPL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
 #EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2122015/COURT_02/master.m3u8?hdntl=exp=1766053804~acl=%2f*~data=hdntl~hmac=b58fa4c434d89d968a6a663778d01bf2dd986dc0f01beb1bef67970e7e61ba16
+#EXTINF:-1 tvg-id="0-1-6z5878232" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878232/list/1920x1080list4bcd61d34e874a76827162e3aa9c28b5b90151c0d71144959f1614c9518aeab4.jpg" tvg-language="english" group-title="ZEE 5",ENG | Pro - GSPL
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/COURT_01/master.m3u8?hdntl=exp=1766053808~acl=%2f*~data=hdntl~hmac=e843a65ff2c46b965ab25b92e87443548741f221f3a885711e7a70b11cd2ec2a
 #--- ZEE5 END ---
