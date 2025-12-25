@@ -310,9 +310,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766687401~acl=/*~id=8d0251d97d921a61e4ecad86b76570ea-1766644200129~hmac=d78d78bfe327395f3d8d035285a10fd1f6b7c03858fab28af1cec4a295d93331|x-playback-session-id=9fd0f8ed09b81fb4e723f119b3800985-1766658607995&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2510; Build/AP3A.240905.015.A2_NN_V000L1)
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766687401~acl=/*~id=8d0251d97d921a61e4ecad86b76570ea-1766644200129~hmac=d78d78bfe327395f3d8d035285a10fd1f6b7c03858fab28af1cec4a295d93331|x-playback-session-id=28159bf72570940ab8925fc2288e9272-1766661007636&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; OPG02; Build/SKQ1.210216.001)
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -329,30 +332,6 @@ https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8?hdntl=ex
 #--- ZEE5 END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png",16h30 WIB 25/12 Hantharwady United vs Dagon Star FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -425,14 +404,30 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_a30e4e50.png",16h00 WIB 25/12 Sagaing United vs Dagon Port (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_a30e4e50.png",16h00 WIB 25/12 Sagaing United vs Dagon Port (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125740_324f9a96.png",16h30 WIB 25/12 Hantharwady United vs Dagon (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -777,30 +772,46 @@ https://hotlivezz179602324.akainu.xyz/mzET44gaYEJFzOgAeZDDmQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766697846/0db747137a6bdc8e53ff7ae789f9695a/953641068/live/hoiFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png",16h00 WIB 25/12 Sagaing vs Dagon Port (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1766704687&sign=e1acec9fa63d1555976adb49ca758119
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/yD5wRS830NcaHtwncIY5ZQ/Fv2lucGIbhPi2caWYvF5Lg/1766704687512/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704687/440dc2c0089154d54c3dc8f902bc34fe/127651382/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Gqg_-ZLhA821hwP81KUcKw/Fv2lucGIbhPi2caWYvF5Lg/1766704687512/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704687/bdfd7fd5a1e25c3d5efedaf64839fb27/906068505/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1766704688&sign=4ace0256a7360a2a773b9ab123f86ec1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Mx1tl9KtuKTO9ruiD47Fpg/Fv2lucGIbhPi2caWYvF5Lg/1766704688666/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704688/ab253387d1d652dc3ca0fa076e5bf42a/173826573/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/O3Nm8fhugZcOYqpigX3soA/Fv2lucGIbhPi2caWYvF5Lg/1766704688666/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704688/139b044e775fe65ed534724762ef97d4/370193692/live/luaFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png",16h30 WIB 25/12 Hantharwady United vs Dagon Star FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -873,14 +884,30 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_a30e4e50.png",16h00 WIB 25/12 Sagaing United vs Dagon Port (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_a30e4e50.png",16h00 WIB 25/12 Sagaing United vs Dagon Port (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png",19h30 WIB 25/12 Al-Jabalain vs Al Ula FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125740_324f9a96.png",16h30 WIB 25/12 Hantharwady United vs Dagon (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1225,4 +1252,44 @@ https://hotlivezz179602324.akainu.xyz/mzET44gaYEJFzOgAeZDDmQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766697846/0db747137a6bdc8e53ff7ae789f9695a/953641068/live/hoiFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1766704687&sign=e1acec9fa63d1555976adb49ca758119
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/yD5wRS830NcaHtwncIY5ZQ/Fv2lucGIbhPi2caWYvF5Lg/1766704687512/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704687/440dc2c0089154d54c3dc8f902bc34fe/127651382/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Gqg_-ZLhA821hwP81KUcKw/Fv2lucGIbhPi2caWYvF5Lg/1766704687512/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 25/12 Shanghai Jiushi vs Suzhou Kendiya (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704687/bdfd7fd5a1e25c3d5efedaf64839fb27/906068505/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1766704688&sign=4ace0256a7360a2a773b9ab123f86ec1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Mx1tl9KtuKTO9ruiD47Fpg/Fv2lucGIbhPi2caWYvF5Lg/1766704688666/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704688/ab253387d1d652dc3ca0fa076e5bf42a/173826573/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/O3Nm8fhugZcOYqpigX3soA/Fv2lucGIbhPi2caWYvF5Lg/1766704688666/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 25/12 Guangsha vs Flying Leopards (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766704688/139b044e775fe65ed534724762ef97d4/370193692/live/luaFHD/playlist.m3u8
 #--- 10CAM END ---
