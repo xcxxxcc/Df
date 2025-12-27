@@ -303,9 +303,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766860201~acl=/*~id=7b332a3e4e0c2d052d5a78f76a4cb761-1766817000133~hmac=a621f850099fbcaf42bc9e6aa7b09e11c315cd259f5e68a3be787a21bf61c7ab|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; innova30; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4826ccf577eb92c303179bb088921586-1766837408091
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766881802~acl=/*~id=d704644f6dddfcc0797d02bcaed1b8df-1766838600132~hmac=2b826c631d67a605560e644779f8d3ec0488f830e39211a348df6c8da68d8f5c|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; vivo 1727; Build/PKQ1.190118.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f427f689d97bd56d8f5798dec126cf0a-1766841007240
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -508,14 +512,14 @@ https://gg.poocloud.in/ABC/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/greenbaypackers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15458" tvg-name="New York Knicks vs. Atlanta Hawks" tvg-logo="https://api.ppv.to/assets/thumb/73799728e6fc9f0b3b37f927b6864051-thumbnail.jpg" group-title="PPV-LIVE",New York Knicks vs. Atlanta Hawks - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/atlantahawks/index.m3u8
 #EXTINF:1 tvg-id="ppv-15460" tvg-name="Indiana Pacers vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/195c0be0727628fc0b246a5630257de0-thumbnail.jpg" group-title="PPV-LIVE",Indiana Pacers vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/miamiheat/index.m3u8
+#EXTINF:1 tvg-id="ppv-15461" tvg-name="Milwaukee Bucks vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/cb6f18f286b482cad2ae577c46f79b26-thumbnail.jpg" group-title="PPV-LIVE",Milwaukee Bucks vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTINF:1 tvg-id="ppv-15463" tvg-name="Cleveland Cavaliers vs. Houston Rockets" tvg-logo="https://api.ppv.to/assets/thumb/5f5dbbf97bc5fecb51f99d3927d5a62c-thumbnail.jpg" group-title="PPV-LIVE",Cleveland Cavaliers vs. Houston Rockets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -540,10 +544,6 @@ https://gg.poocloud.in/iihf/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:1 tvg-id="ppv-15426" tvg-name="LSU Tigers vs. Houston Cougars" tvg-logo="https://api.ppv.to/assets/thumb/b5fe61d543f89eb37fa97aa80fba6931-thumbnail.jpg" group-title="PPV-LIVE",LSU Tigers vs. Houston Cougars - 09:15 PM ET / 07:15 PM MT / 02:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:1 tvg-id="ppv-15472" tvg-name="Edmonton Oilers vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/3c242a1efc7a635ec7d0790879e2b4e9-thumbnail.jpg" group-title="PPV-LIVE",Edmonton Oilers vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -568,10 +568,10 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_sun/index.m3u8
-#EXTINF:1 tvg-id="ppv-15288" tvg-name="Equatorial Guinea vs. Sudan" tvg-logo="https://api.ppv.to/assets/thumb/6484d9a6022907b1733cc9640d0d4a6b-thumbnail.jpg" group-title="PPV-LIVE",Equatorial Guinea vs. Sudan - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:1 tvg-id="ppv-15323" tvg-name="Cremonese vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/c19eaa828a9e7f4cdc9776193c91927f-thumbnail.jpg" group-title="PPV-LIVE",Cremonese vs. Napoli - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/afcon/index.m3u8
+https://gg.poocloud.in/sa_cre/index.m3u8
 #EXTINF:1 tvg-id="ppv-15316" tvg-name="Crystal Palace vs. Tottenham Hotspur" tvg-logo="https://api.ppv.to/assets/thumb/9041e5048b1d05666bf9b3a217adc617-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Tottenham Hotspur - 11:30 AM ET / 09:30 AM MT / 16:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -580,10 +580,10 @@ https://gg.poocloud.in/pl_cry/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_bol/index.m3u8
-#EXTINF:1 tvg-id="ppv-15356" tvg-name="Arizona Cardinals vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/25035c294ebc26e362cc076873365827-thumbnail.jpg" group-title="PPV-LIVE",Arizona Cardinals vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:1 tvg-id="ppv-15289" tvg-name="Algeria vs. Burkina Faso" tvg-logo="https://api.ppv.to/assets/thumb/a137e15b77c8c4fea21da71ecdf71a37-thumbnail.jpg" group-title="PPV-LIVE",Algeria vs. Burkina Faso - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/cincinnatibengals/index.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:1 tvg-id="ppv-15359" tvg-name="Pittsburgh Steelers vs. Cleveland Browns" tvg-logo="https://api.ppv.to/assets/thumb/e48fc14b33e31a3a596c628d15b01ed9-thumbnail.jpg" group-title="PPV-LIVE",Pittsburgh Steelers vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -592,9 +592,113 @@ https://gg.poocloud.in/clevelandbrowns/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/tennesseetitans/index.m3u8
+#EXTINF:1 tvg-id="ppv-15365" tvg-name="Jacksonville Jaguars vs. Indianapolis Colts" tvg-logo="https://api.ppv.to/assets/thumb/f06f88f731415663cd77133b9e102bac-thumbnail.jpg" group-title="PPV-LIVE",Jacksonville Jaguars vs. Indianapolis Colts - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
+#EXTINF:1 tvg-id="ppv-15373" tvg-name="New England Patriots vs. New York Jets" tvg-logo="https://api.ppv.to/assets/thumb/43e0f565474b3d0cb791a89438c2f605-thumbnail.jpg" group-title="PPV-LIVE",New England Patriots vs. New York Jets - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/newyorkjets/index.m3u8
+#EXTINF:1 tvg-id="ppv-15376" tvg-name="Seattle Seahawks vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/24a50be34f52ac5c251f2d2470d5483a-thumbnail.jpg" group-title="PPV-LIVE",Seattle Seahawks vs. Carolina Panthers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15325" tvg-name="Atalanta vs. Inter Milan" tvg-logo="https://api.ppv.to/assets/thumb/d1a635fb918d88d70a0f45b071ece37d-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_ata/index.m3u8
+#EXTINF:1 tvg-id="ppv-15378" tvg-name="New York Giants vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/28ae5673cbb9e16046091b51d12b2c62-thumbnail.jpg" group-title="PPV-LIVE",New York Giants vs. Las Vegas Raiders - 04:05 PM ET / 02:05 PM MT / 21:05 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/lasvegasraiders/index.m3u8
+#EXTINF:1 tvg-id="ppv-15379" tvg-name="Philadelphia Eagles vs. Buffalo Bills" tvg-logo="https://api.ppv.to/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg" group-title="PPV-LIVE",Philadelphia Eagles vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/buffalobills/index.m3u8
+#EXTINF:1 tvg-id="ppv-15380" tvg-name="Chicago Bears vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/3c6e96c183dc419879fb33d07bf334de-thumbnail.jpg" group-title="PPV-LIVE",Chicago Bears vs. San Francisco 49ers - 08:20 PM ET / 06:20 PM MT / 01:20 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15334" tvg-name="Zimbabwe vs. South Africa" tvg-logo="https://api.ppv.to/assets/thumb/a15a395c2d12b467ae03c857af0a956d-thumbnail.jpg" group-title="PPV-LIVE",Zimbabwe vs. South Africa - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:1 tvg-id="ppv-15427" tvg-name="Georgia Southern Eagles vs. App State Mountaineers" tvg-logo="https://api.ppv.to/assets/thumb/7e071c3c8204c8e51b8e09f647d4bcce-thumbnail.jpg" group-title="PPV-LIVE",Georgia Southern Eagles vs. App State Mountaineers - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15335" tvg-name="Comoros vs. Mali" tvg-logo="https://api.ppv.to/assets/thumb/283ff43aacfcd8873528213e5f0bd53b-thumbnail.jpg" group-title="PPV-LIVE",Comoros vs. Mali - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:1 tvg-id="ppv-15336" tvg-name="Zambia vs. Morocco" tvg-logo="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" group-title="PPV-LIVE",Zambia vs. Morocco - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:1 tvg-id="ppv-15381" tvg-name="Los Angeles Rams vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/78103dcbc7712cff3aa665658996a4d7-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Rams vs. Atlanta Falcons - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/atlantafalcons/index.m3u8
+#EXTINF:1 tvg-id="ppv-15428" tvg-name="Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/01e2ba4fa3116d354ddb171a3593390f-thumbnail.jpg" group-title="PPV-LIVE",Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15429" tvg-name="Tennessee Volunteers vs. Illinois Fighting Illini" tvg-logo="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg" group-title="PPV-LIVE",Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15431" tvg-name="Iowa Hawkeyes vs. Vanderbilt Commodores" tvg-logo="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg" group-title="PPV-LIVE",Iowa Hawkeyes vs. Vanderbilt Commodores - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15432" tvg-name="Arizona State Sun Devils vs. Duke Blue Devils" tvg-logo="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg" group-title="PPV-LIVE",Arizona State Sun Devils vs. Duke Blue Devils - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/CBS/index.m3u8
+#EXTINF:1 tvg-id="ppv-15433" tvg-name="Michigan Wolverines vs. Texas Longhorns" tvg-logo="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg" group-title="PPV-LIVE",Michigan Wolverines vs. Texas Longhorns - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:1 tvg-id="ppv-15434" tvg-name="Nebraska Cornhuskers vs. Utah Utes" tvg-logo="https://api.ppv.to/assets/thumb/dfbf17cdb138c7fc756c6102bc66b249-thumbnail.jpg" group-title="PPV-LIVE",Nebraska Cornhuskers vs. Utah Utes - 03:30 PM ET / 01:30 PM MT / 20:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15436" tvg-name="Oregon Ducks vs. Texas Tech Red Raiders" tvg-logo="https://api.ppv.to/assets/thumb/35c49515b93c4a76afce636f3aae767b-thumbnail.jpg" group-title="PPV-LIVE",Oregon Ducks vs. Texas Tech Red Raiders - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15437" tvg-name="Alabama Crimson Tide vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg" group-title="PPV-LIVE",Alabama Crimson Tide vs. Indiana Hoosiers - 04:00 PM ET / 02:00 PM MT / 21:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15438" tvg-name="Ole Miss Rebels vs. Georgia Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" group-title="PPV-LIVE",Ole Miss Rebels vs. Georgia Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15440" tvg-name="Navy Midshipmen vs. Cincinnati Bearcats" tvg-logo="https://api.ppv.to/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" group-title="PPV-LIVE",Navy Midshipmen vs. Cincinnati Bearcats - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="PPV-LIVE",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:1 tvg-id="ppv-15442" tvg-name="Wake Forest Demon Deacons vs. Mississippi State Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" group-title="PPV-LIVE",Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/94bd035b8931736ca6736605492b461a.png",20h30 WIB 27/12 Sepahan vs Chadormalou Ardakan (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m107qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0ec2f07e39b8f7b8139684093c894c88.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -695,54 +799,6 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8d3a2131e406d269a406dddae78e604d.png",18h00 WIB 27/12 Ankaraspor FK vs S.Urfaspor (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -827,14 +883,6 @@ https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/f06bf4cf17007e633817e411183ba9c2.png",19h00 WIB 27/12 Pekanbaru United vs Persikad Depok (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/43556c16a64ceb93affe2d35594c998f.png",19h00 WIB 27/12 Barito Putera vs PSIS Semarang (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6dce6d37f0697151cbcb0356e5d4523b.png",19h00 WIB 27/12 Peykan vs Kheybar Khorramabad (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -895,30 +943,46 @@ https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/876e8108f87eb61877c6263228b67256.png",20h00 WIB 27/12 Belediye Vanspor vs Atakas Hatayspor (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/m103qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/c2e153d0aab300e5ef811234c98cdbe6.png",20h00 WIB 27/12 Ramtha Club vs Al Hussein Irbid (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m104qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5d8162c89f290d9dc4a60aa0e3d44518.png",20h00 WIB 27/12 Maccabi Ahi Nazareth vs Maccabi Haifa (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m105qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",20h20 WIB 27/12 Al-Shabbab vs Al-Riffa (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m106qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125606_8a506f33.png",18h30 WIB 27/12 Parma vs Fiorentina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -943,30 +1007,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -999,6 +1039,30 @@ https://gckc0525.edgemaxcdn.org/live/neymarhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/neymarhd.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132802_a5a9840e.png",19h30 WIB 27/12 Benin vs Botswana (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1319,90 +1383,30 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1766872810&sign=0289c6f4f4e1c51f65d1389ec6b437fe
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/-lMyoUE5ALZwaRx4Bt03ZA/Fv2lucGIbhPi2caWYvF5Lg/1766872810562/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766872810/0ccd93692440ba11f60aec57ac135233/588302043/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/3X_bYm_INCHC_e5YrYrx7Q/Fv2lucGIbhPi2caWYvF5Lg/1766872810562/live/daoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766872810/c4489af568e44d6d9d474a2bcb75ffdc/268963232/live/daoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://q7.itc.cn/q_70/images01/20251203/6d7c156486704345b9ec134d1a1542eb.png",17:15 WIB 27/12 King Cup 2025 (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/2zXCAgBZwhWdinpYLUa-1g/Fv2lucGIbhPi2caWYvF5Lg/1766877128070/live/may24/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1766877129&sign=4afe2d3cf923106a5a85072a8ca38fef
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/c1VuU04eM2OeeNFbT6w-8A/Fv2lucGIbhPi2caWYvF5Lg/1766877129270/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766877129/5a5b5e1a8368ba160c756cd9afe5bf84/108166950/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/zLwG-Co2XO5XODcGwDbaYA/Fv2lucGIbhPi2caWYvF5Lg/1766877129270/live/kienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766877129/9a4c73bcd6d5bfe24eeaf4ce02b1b97c/246973830/live/kienFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1766876048&sign=cc5de2376d1d0f1870a5aac0f5c48947
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/31nP4xDS2ieqxa04LpIhIg/Fv2lucGIbhPi2caWYvF5Lg/1766876048935/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766876048/1c3eac9b1a23e19ac0bc2e3d81c84f2e/542650793/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/m6HAl97QAt-mf4MWE8Zvsg/Fv2lucGIbhPi2caWYvF5Lg/1766876048935/live/socSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766876048/3fdac8de4289730cb403958a552ec746/720794252/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766878930&sign=25db496121cd187a3cb2aede866ea464
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766882529&sign=bb9d9c2e31029150fd19ebe7110791b4
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/_8qmK2iP3BjywGH4_BH5vQ/Fv2lucGIbhPi2caWYvF5Lg/1766878930434/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/WiMTjS618Z7Lb3nbYTZNVw/Fv2lucGIbhPi2caWYvF5Lg/1766882529093/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766878930/fe004274cc54802137e51e90bfda3968/822064396/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766882529/09e6cb594d5c19d6ec274d80739ba3c5/950961739/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/b2BmN-rtFQSHAuIE2DvqyA/Fv2lucGIbhPi2caWYvF5Lg/1766878930434/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_TXuwLYWSA35ZLUFYuoUFg/Fv2lucGIbhPi2caWYvF5Lg/1766882529093/live/bangSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766878930/8d233cde8b24fac7454566b2fff90414/713770770/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766882529/6a23ca39894bc3e4ea33e4d31da7e63d/591165583/live/bangFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/559cfc139ec9e214e54b4ddae5d1cba7.png",18:35 WIB 27/12 Beijing Royal Fighters vs Flying Leopards (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1578,43 +1582,47 @@ https://9ceg0825.edgemaxcdn.org/1766858778/fb0bb3eccf28ab6d981e2e3ad99d16c4/4538
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1766858779&sign=9bf54a64551c0b80e5c334aba11b8bcc
+https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1766859860&sign=5538417b97c3056f53e6d08d9edf17e9
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/wG6Usm6rV8q3QWIWCUazvA/Fv2lucGIbhPi2caWYvF5Lg/1766858779658/live/soiHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/pqfi0RkuSpf680Bv2I519g/Fv2lucGIbhPi2caWYvF5Lg/1766859860022/live/soiHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858779/684887101556e15fea5af64d8681995d/939961444/live/soiHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859860/244415a22eef3fb3b242c50e768a4202/392159920/live/soiHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/RB5n678QFKN-5r84I_D4iA/Fv2lucGIbhPi2caWYvF5Lg/1766858779659/live/soiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/WvgMmEwBBC4C2OyodqLy9Q/Fv2lucGIbhPi2caWYvF5Lg/1766859860022/live/soiSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858779/bf1b5dbe4b49a8442e2b2f3e376c56db/943994243/live/soiFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859860/e20baf7527ab950d3f7b186847234b21/602041785/live/soiFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1766858780&sign=43fa9656b2917939974c260b7395998f
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1766859861&sign=ce14c533a834677d24476f9899c727b7
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/znTFo8IsMnAwUsnG2nGC0Q/Fv2lucGIbhPi2caWYvF5Lg/1766858780790/live/trauHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/sq-sgkN0VgiwxSlZjYKTcA/Fv2lucGIbhPi2caWYvF5Lg/1766859861235/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858780/e8324ca5f7189afa9f4f5a202252b8ae/506597580/live/trauHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859861/fcaada56b2cc6b911ea1934ea924e33f/480715053/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Bggk3Ai67oeCRYcgMEANJA/Fv2lucGIbhPi2caWYvF5Lg/1766858780790/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cHGKN7Y-WaGuZxAdIAMGxw/Fv2lucGIbhPi2caWYvF5Lg/1766859861236/live/trauSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858780/c1918af53b4fbc3e2a1773f689617246/869553777/live/trauFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859861/baf34dc1dc8d56d355c3e2e2797c750c/789557649/live/trauFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/94bd035b8931736ca6736605492b461a.png",20h30 WIB 27/12 Sepahan vs Chadormalou Ardakan (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m107qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0ec2f07e39b8f7b8139684093c894c88.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1715,54 +1723,6 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/24067249253d42b354d1a6316a377f76.png",17h30 WIB 27/12 Sariyer vs Bodrum FK (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/228386b1b704899dc028000dbd27cac1.png",17h30 WIB 27/12 Sivasspor vs Bandirmaspor (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8d3a2131e406d269a406dddae78e604d.png",18h00 WIB 27/12 Ankaraspor FK vs S.Urfaspor (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1847,14 +1807,6 @@ https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/f06bf4cf17007e633817e411183ba9c2.png",19h00 WIB 27/12 Pekanbaru United vs Persikad Depok (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/43556c16a64ceb93affe2d35594c998f.png",19h00 WIB 27/12 Barito Putera vs PSIS Semarang (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6dce6d37f0697151cbcb0356e5d4523b.png",19h00 WIB 27/12 Peykan vs Kheybar Khorramabad (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1915,30 +1867,46 @@ https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/876e8108f87eb61877c6263228b67256.png",20h00 WIB 27/12 Belediye Vanspor vs Atakas Hatayspor (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/m103qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125843_8b97318c.png",17h30 WIB 27/12 Sivasspor vs Bandırmaspor (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",20h00 WIB 27/12 Al-Qadasiya vs Damac (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/c2e153d0aab300e5ef811234c98cdbe6.png",20h00 WIB 27/12 Ramtha Club vs Al Hussein Irbid (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m104qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5d8162c89f290d9dc4a60aa0e3d44518.png",20h00 WIB 27/12 Maccabi Ahi Nazareth vs Maccabi Haifa (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m105qt/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",20h20 WIB 27/12 Al-Shabbab vs Al-Riffa (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m106qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125606_8a506f33.png",18h30 WIB 27/12 Parma vs Fiorentina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1963,30 +1931,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2019,6 +1963,30 @@ https://gckc0525.edgemaxcdn.org/live/neymarhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/neymarhd.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125552_9c96cd68.png",19h30 WIB 27/12 Nottingham Forest vs Manchester City (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132802_a5a9840e.png",19h30 WIB 27/12 Benin vs Botswana (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2339,90 +2307,30 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1766872810&sign=0289c6f4f4e1c51f65d1389ec6b437fe
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/-lMyoUE5ALZwaRx4Bt03ZA/Fv2lucGIbhPi2caWYvF5Lg/1766872810562/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766872810/0ccd93692440ba11f60aec57ac135233/588302043/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/3X_bYm_INCHC_e5YrYrx7Q/Fv2lucGIbhPi2caWYvF5Lg/1766872810562/live/daoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 27/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766872810/c4489af568e44d6d9d474a2bcb75ffdc/268963232/live/daoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://q7.itc.cn/q_70/images01/20251203/6d7c156486704345b9ec134d1a1542eb.png",17:15 WIB 27/12 King Cup 2025 (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/2zXCAgBZwhWdinpYLUa-1g/Fv2lucGIbhPi2caWYvF5Lg/1766877128070/live/may24/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1766877129&sign=4afe2d3cf923106a5a85072a8ca38fef
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/c1VuU04eM2OeeNFbT6w-8A/Fv2lucGIbhPi2caWYvF5Lg/1766877129270/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766877129/5a5b5e1a8368ba160c756cd9afe5bf84/108166950/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/zLwG-Co2XO5XODcGwDbaYA/Fv2lucGIbhPi2caWYvF5Lg/1766877129270/live/kienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png",18:00 WIB 27/12 Gaziantep Genclik vs Cizre Bld (1) [Người Kiến] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766877129/9a4c73bcd6d5bfe24eeaf4ce02b1b97c/246973830/live/kienFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1766876048&sign=cc5de2376d1d0f1870a5aac0f5c48947
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/31nP4xDS2ieqxa04LpIhIg/Fv2lucGIbhPi2caWYvF5Lg/1766876048935/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766876048/1c3eac9b1a23e19ac0bc2e3d81c84f2e/542650793/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/m6HAl97QAt-mf4MWE8Zvsg/Fv2lucGIbhPi2caWYvF5Lg/1766876048935/live/socSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 27/12 Sơn Đông Ngụy Kiều vs Thượng Hải địa sản (1) [Người Sóc] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766876048/3fdac8de4289730cb403958a552ec746/720794252/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766878930&sign=25db496121cd187a3cb2aede866ea464
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766882529&sign=bb9d9c2e31029150fd19ebe7110791b4
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/_8qmK2iP3BjywGH4_BH5vQ/Fv2lucGIbhPi2caWYvF5Lg/1766878930434/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/WiMTjS618Z7Lb3nbYTZNVw/Fv2lucGIbhPi2caWYvF5Lg/1766882529093/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766878930/fe004274cc54802137e51e90bfda3968/822064396/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766882529/09e6cb594d5c19d6ec274d80739ba3c5/950961739/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/b2BmN-rtFQSHAuIE2DvqyA/Fv2lucGIbhPi2caWYvF5Lg/1766878930434/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_TXuwLYWSA35ZLUFYuoUFg/Fv2lucGIbhPi2caWYvF5Lg/1766882529093/live/bangSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f150720054888f1e892f8ee7e7c87ae7.png",18:30 WIB 27/12 Halkbank vs Istanbul GSK (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766878930/8d233cde8b24fac7454566b2fff90414/713770770/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766882529/6a23ca39894bc3e4ea33e4d31da7e63d/591165583/live/bangFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/559cfc139ec9e214e54b4ddae5d1cba7.png",18:35 WIB 27/12 Beijing Royal Fighters vs Flying Leopards (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2598,41 +2506,41 @@ https://9ceg0825.edgemaxcdn.org/1766858778/fb0bb3eccf28ab6d981e2e3ad99d16c4/4538
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1766858779&sign=9bf54a64551c0b80e5c334aba11b8bcc
+https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1766859860&sign=5538417b97c3056f53e6d08d9edf17e9
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/wG6Usm6rV8q3QWIWCUazvA/Fv2lucGIbhPi2caWYvF5Lg/1766858779658/live/soiHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/pqfi0RkuSpf680Bv2I519g/Fv2lucGIbhPi2caWYvF5Lg/1766859860022/live/soiHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858779/684887101556e15fea5af64d8681995d/939961444/live/soiHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859860/244415a22eef3fb3b242c50e768a4202/392159920/live/soiHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/RB5n678QFKN-5r84I_D4iA/Fv2lucGIbhPi2caWYvF5Lg/1766858779659/live/soiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/WvgMmEwBBC4C2OyodqLy9Q/Fv2lucGIbhPi2caWYvF5Lg/1766859860022/live/soiSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11b8e2dda6eca3685a390a6c2a8c89e.png",19:30 WIB 27/12 Hibernian vs Heart of Midlothian (1) [Người Sói] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858779/bf1b5dbe4b49a8442e2b2f3e376c56db/943994243/live/soiFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859860/e20baf7527ab950d3f7b186847234b21/602041785/live/soiFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1766858780&sign=43fa9656b2917939974c260b7395998f
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1766859861&sign=ce14c533a834677d24476f9899c727b7
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/znTFo8IsMnAwUsnG2nGC0Q/Fv2lucGIbhPi2caWYvF5Lg/1766858780790/live/trauHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/sq-sgkN0VgiwxSlZjYKTcA/Fv2lucGIbhPi2caWYvF5Lg/1766859861235/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858780/e8324ca5f7189afa9f4f5a202252b8ae/506597580/live/trauHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859861/fcaada56b2cc6b911ea1934ea924e33f/480715053/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Bggk3Ai67oeCRYcgMEANJA/Fv2lucGIbhPi2caWYvF5Lg/1766858780790/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cHGKN7Y-WaGuZxAdIAMGxw/Fv2lucGIbhPi2caWYvF5Lg/1766859861236/live/trauSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/benin.png",19:30 WIB 27/12 Benin vs Botswana (1) [Trâu Gác Bếp] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766858780/c1918af53b4fbc3e2a1773f689617246/869553777/live/trauFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766859861/baf34dc1dc8d56d355c3e2e2797c750c/789557649/live/trauFHD/playlist.m3u8
 #--- 10CAM END ---
