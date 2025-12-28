@@ -318,27 +318,25 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766968201~acl=/*~id=b22be53166d9b289bcd972927981ec29-1766925000143~hmac=64d889d6fdf7be1f62190f99d6c03abc7badbb2078fbd6ededcd2278d4e64fef|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; unknown; Build/UP1A.231105.003.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aef4850edd015cb43e48119eb162f7a8-1766926207422
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1766968201~acl=/*~id=b22be53166d9b289bcd972927981ec29-1766925000143~hmac=64d889d6fdf7be1f62190f99d6c03abc7badbb2078fbd6ededcd2278d4e64fef|User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; x96; Build/MHC19J)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=96c9383eea2b8de8f4ad16b48270b113-1766928607087
 #--- SONY END ---
 
 #--- ZEE5 START ---
 #EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list02c4be8db92a478286f051fceea5f9cbcfdc26c6c7894edeac295826673d4402.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/index-connected.m3u8?hdntl=exp=1767012124~acl=%2f*~data=hdntl~hmac=5dda8febc5a6f3eb7cf012e03f1a54ed677eb90dc3507d56c7955781962ab8cd
 #EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list02c4be8db92a478286f051fceea5f9cbcfdc26c6c7894edeac295826673d4402.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/index-connected.m3u8?hdntl=exp=1767012127~acl=%2f*~data=hdntl~hmac=55df9d40437a81f45f49e6718f9259d0ee5645d2577f16fddc2d0dcf19cd3bfc
-#EXTINF:1 tvg-id="0-1-6z5884825" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/list/1920x1080list4f0a28b0edbd4c1691bf1644fca56f48036a5c7e147c47ec89e2883ff4f25f57.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Kabaddi Champions League Auction
+#EXTINF:1 tvg-id="0-1-6z5853064" tvg-name="DP World ILT20" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853064/list/1920x1080listeee0e09dd3ce4372967bd9fc3f75d815ebfa4fef8aa046258bec90fae54a7a39.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | GG Vs ADKR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AUCTION-LIVE-EVENT/index-connected/index-connected.m3u8?hdntl=exp=1767013009~acl=%2f*~data=hdntl~hmac=07ea697ed807a1265e58fc673292f625787a578765f94b6684aaf8b5df359107
+https://falconstream.zee5.com/cmaf/live/2109037/GGVSADKRM30/index-connected.m3u8?hdntl=exp=1767015907~acl=%2f*~data=hdntl~hmac=c1b98d2550dce0c366e25663e79e779cc8fcb50b017d86910e8b3f43d6fa81ad
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -422,10 +420,6 @@ https://gg.poocloud.in/newyorkjets/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinapanthers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15476" tvg-name="Sweden vs. Switzerland" tvg-logo="https://api.ppv.to/assets/thumb/5ea4c054eb5df714471e5c526dfaf671-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Switzerland - 02:00 PM ET / 12:00 PM MT / 19:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wjc_swe/index.m3u8
 #EXTINF:1 tvg-id="ppv-15325" tvg-name="Atalanta vs. Inter Milan" tvg-logo="https://api.ppv.to/assets/thumb/d1a635fb918d88d70a0f45b071ece37d-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Inter Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -450,10 +444,10 @@ https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wjc_fin/index.m3u8
-#EXTINF:1 tvg-id="ppv-15481" tvg-name="New York Islanders vs. Columbus Blue Jackets" tvg-logo="https://api.ppv.to/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg" group-title="PPV-LIVE",New York Islanders vs. Columbus Blue Jackets - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:1 tvg-id="ppv-15479" tvg-name="Montreal Canadiens vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg" group-title="PPV-LIVE",Montreal Canadiens vs. Tampa Bay Lightning - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/columbusbluejackets/index.m3u8
+https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:1 tvg-id="ppv-15482" tvg-name="Memphis Grizzlies vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/c0b9a6fd5f2c3d89192acc92d10c2b9c-thumbnail.jpg" group-title="PPV-LIVE",Memphis Grizzlies vs. Washington Wizards - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -478,10 +472,10 @@ https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/laclippers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15333" tvg-name="Angola vs. Egypt" tvg-logo="https://api.ppv.to/assets/thumb/083cca91bb79170f7010740874cedf83-thumbnail.jpg" group-title="PPV-LIVE",Angola vs. Egypt - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTINF:1 tvg-id="ppv-15486" tvg-name="Sacramento Kings vs. Los Angeles Lakers" tvg-logo="https://api.ppv.to/assets/thumb/d60c289079119ed5962af076b3812607-thumbnail.jpg" group-title="PPV-LIVE",Sacramento Kings vs. Los Angeles Lakers - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/afcon/index.m3u8
+https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:1 tvg-id="ppv-15334" tvg-name="Zimbabwe vs. South Africa" tvg-logo="https://api.ppv.to/assets/thumb/a15a395c2d12b467ae03c857af0a956d-thumbnail.jpg" group-title="PPV-LIVE",Zimbabwe vs. South Africa - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -506,7 +500,7 @@ https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:1 tvg-id="ppv-15430" tvg-name="USC Trojans vs. TCU Horned Frogs" tvg-logo="https://api.ppv.to/assets/thumb/5ae695ca25a72e8c4672d7134cc21bd6-thumbnail.jpg" group-title="PPV-LIVE",USC Trojans vs. TCU Horned Frogs - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:1 tvg-id="ppv-15429" tvg-name="Tennessee Volunteers vs. Illinois Fighting Illini" tvg-logo="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg" group-title="PPV-LIVE",Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
@@ -522,7 +516,7 @@ https://gg.poocloud.in/CBS/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:1 tvg-id="ppv-15435" tvg-name="Miami Hurricanes vs. Ohio State Buckeyes" tvg-logo="https://api.ppv.to/assets/thumb/59d498f7b30490eaf5ed7c303802a2a8-thumbnail.jpg" group-title="PPV-LIVE",Miami Hurricanes vs. Ohio State Buckeyes - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:1 tvg-id="ppv-15434" tvg-name="Nebraska Cornhuskers vs. Utah Utes" tvg-logo="https://api.ppv.to/assets/thumb/dfbf17cdb138c7fc756c6102bc66b249-thumbnail.jpg" group-title="PPV-LIVE",Nebraska Cornhuskers vs. Utah Utes - 03:30 PM ET / 01:30 PM MT / 20:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
@@ -534,7 +528,7 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:1 tvg-id="ppv-15439" tvg-name="Rice Owls vs. Texas State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" group-title="PPV-LIVE",Rice Owls vs. Texas State Bobcats - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:1 tvg-id="ppv-15438" tvg-name="Ole Miss Rebels vs. Georgia Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" group-title="PPV-LIVE",Ole Miss Rebels vs. Georgia Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
@@ -550,10 +544,10 @@ https://gg.poocloud.in/FOX/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:1 tvg-id="ppv-15443" tvg-name="Illinois State Redbirds vs. Montana State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="PPV-LIVE",Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ufc/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
@@ -893,30 +887,6 @@ https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m301qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_ea998238.png",19h00 WIB 28/12 Persepam Madura Utd vs Semen Padang (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -952,27 +922,27 @@ https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong.flv
+https://cyber.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong/index.m3u8
+https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong.flv
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",21h00 WIB 28/12 Sunderland vs Leeds (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1213,26 +1183,6 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1766959208&sign=3e962e8dbf54fcea5e5f2edf0c2d4160
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/CLDwRZLvXW_xwLd7k3oA1Q/Fv2lucGIbhPi2caWYvF5Lg/1766959208823/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766959208/238c67f98edacfdf1c0ef574da25d4ad/240841262/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rc2d4vCH5hc3gwZqIh7I7A/Fv2lucGIbhPi2caWYvF5Lg/1766959208823/live/daoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766959208/bef2815bb5cc8cf20cc8a3790417439d/720483391/live/daoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 28/12 Sơn Đông Ngụy Kiều vs Căn cứ Hoàng Thạch (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1300,23 +1250,23 @@ https://9ceg0825.edgemaxcdn.org/1766966411/7d03384992d0e0f314ba91cfdf2379fc/6644
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1766966413&sign=c437bc0ab2977fa9fdbe830bb17cc55d
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1766971090&sign=250e8ffa92aaa53480a51cec9171cb43
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KZ95PyAbDzn9F-L39R5UvQ/Fv2lucGIbhPi2caWYvF5Lg/1766966413238/live/gayHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/yXnkohqhPZhulcft_VUN5A/Fv2lucGIbhPi2caWYvF5Lg/1766971090790/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766966413/39222b7f8ad1402fecb3a5b778687b0e/725497212/live/gayHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766971090/7f2392c5084b25efe040bddfdd2b1700/881190297/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/DXKX8XWjI7gvSHyjMOgYdQ/Fv2lucGIbhPi2caWYvF5Lg/1766966413238/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OBKJUtx5kLDzZMDp9SHfZg/Fv2lucGIbhPi2caWYvF5Lg/1766971090790/live/gaySD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766966413/dfc88d35a50557bd5013d8f33d5b5b1b/912548651/live/gayFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766971090/b54d020c47a395d2204ac44cf65ed9ae/927797396/live/gayFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",18:30 WIB 28/12 AC Milan vs Verona (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1361,26 +1311,6 @@ https://hotlivezz179602324.akainu.xyz/CbT5BhvS_5YwHO_oC7Dk9g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766944816/b8b553e6d5412ed2338e28a15df9103d/998129217/live/conFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766954170&sign=541d386d46e6ee400e967617a8e95198
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/EhisPJfgahaW10JdflUIVA/Fv2lucGIbhPi2caWYvF5Lg/1766954170141/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766954170/c35de676e21f92b95facc8f8b3e3ccc2/616690742/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxEdGo1UMArwpWdEeXR2ng/Fv2lucGIbhPi2caWYvF5Lg/1766954170141/live/lungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766954170/e922d8cba211176012d1c28144d2ca71/820231523/live/lungFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/gabon.png",19:30 WIB 28/12 Gabon vs Mozambique (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1401,6 +1331,46 @@ https://hotlivezz179602324.akainu.xyz/gYmOzzdfebKmqHsmV3hBnQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766945896/833ac0282042e916e52e133212450f81/551018462/live/meoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766971095&sign=53765651faab2fcbbc4c2666c1c5f489
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/NMEAfpKKB6EEaJjSPC2gmA/Fv2lucGIbhPi2caWYvF5Lg/1766971095793/live/lungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971095/4a77ab6f2adc3ddce1a552bd962d25d1/516272943/live/lungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/DJtiZSUBbfRFYktdMU4MLQ/Fv2lucGIbhPi2caWYvF5Lg/1766971095793/live/lungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971095/456af982894870cee80f02ab971fba62/627152694/live/lungFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1766971096&sign=c9e0cf65458676ae2d5fbdfd59018d3f
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/kFzhyt3aFcw0wfx5nOrzTw/Fv2lucGIbhPi2caWYvF5Lg/1766971096942/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971096/76b7f37db0c652f78cbd8cd5cfe6c724/352399372/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/AOAleoHC0mGIna2ZjYWQ9g/Fv2lucGIbhPi2caWYvF5Lg/1766971096942/live/dungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971096/c68b26e1f47e12311ed76499a70015ac/890612404/live/dungFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",18h30 WIB 28/12 AC Milan vs Verona (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1737,30 +1707,6 @@ https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m301qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125600_dcceb506.png",18h30 WIB 28/12 AC Milan vs Verona (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_ea998238.png",19h00 WIB 28/12 Persepam Madura Utd vs Semen Padang (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1796,27 +1742,27 @@ https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong.flv
+https://cyber.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong/index.m3u8
+https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133429_cc2168c8.png",21h00 WIB 28/12 Cremonese vs Napoli (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong.flv
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130856_4ebea02c.png",21h00 WIB 28/12 Sunderland vs Leeds (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2057,26 +2003,6 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1766959208&sign=3e962e8dbf54fcea5e5f2edf0c2d4160
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/CLDwRZLvXW_xwLd7k3oA1Q/Fv2lucGIbhPi2caWYvF5Lg/1766959208823/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766959208/238c67f98edacfdf1c0ef574da25d4ad/240841262/live/daoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rc2d4vCH5hc3gwZqIh7I7A/Fv2lucGIbhPi2caWYvF5Lg/1766959208823/live/daoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/e7a688ab4e81f68dd01955c15cde57f4.png",17:05 WIB 28/12 Voreas Hokkaido vs Toray Arrows (1) [Lơ Đao] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766959208/bef2815bb5cc8cf20cc8a3790417439d/720483391/live/daoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",18:00 WIB 28/12 Sơn Đông Ngụy Kiều vs Căn cứ Hoàng Thạch (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2144,23 +2070,23 @@ https://9ceg0825.edgemaxcdn.org/1766966411/7d03384992d0e0f314ba91cfdf2379fc/6644
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1766966413&sign=c437bc0ab2977fa9fdbe830bb17cc55d
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1766971090&sign=250e8ffa92aaa53480a51cec9171cb43
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KZ95PyAbDzn9F-L39R5UvQ/Fv2lucGIbhPi2caWYvF5Lg/1766966413238/live/gayHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/yXnkohqhPZhulcft_VUN5A/Fv2lucGIbhPi2caWYvF5Lg/1766971090790/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766966413/39222b7f8ad1402fecb3a5b778687b0e/725497212/live/gayHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766971090/7f2392c5084b25efe040bddfdd2b1700/881190297/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/DXKX8XWjI7gvSHyjMOgYdQ/Fv2lucGIbhPi2caWYvF5Lg/1766966413238/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OBKJUtx5kLDzZMDp9SHfZg/Fv2lucGIbhPi2caWYvF5Lg/1766971090790/live/gaySD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 28/12 Shanxi Fenjiu vs Guangdong Hongyuan (1) [Người Gầy] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766966413/dfc88d35a50557bd5013d8f33d5b5b1b/912548651/live/gayFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766971090/b54d020c47a395d2204ac44cf65ed9ae/927797396/live/gayFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",18:30 WIB 28/12 AC Milan vs Verona (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2205,26 +2131,6 @@ https://hotlivezz179602324.akainu.xyz/CbT5BhvS_5YwHO_oC7Dk9g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766944816/b8b553e6d5412ed2338e28a15df9103d/998129217/live/conFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766954170&sign=541d386d46e6ee400e967617a8e95198
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/EhisPJfgahaW10JdflUIVA/Fv2lucGIbhPi2caWYvF5Lg/1766954170141/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766954170/c35de676e21f92b95facc8f8b3e3ccc2/616690742/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxEdGo1UMArwpWdEeXR2ng/Fv2lucGIbhPi2caWYvF5Lg/1766954170141/live/lungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766954170/e922d8cba211176012d1c28144d2ca71/820231523/live/lungFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/gabon.png",19:30 WIB 28/12 Gabon vs Mozambique (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2245,4 +2151,44 @@ https://hotlivezz179602324.akainu.xyz/gYmOzzdfebKmqHsmV3hBnQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766945896/833ac0282042e916e52e133212450f81/551018462/live/meoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766971095&sign=53765651faab2fcbbc4c2666c1c5f489
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/NMEAfpKKB6EEaJjSPC2gmA/Fv2lucGIbhPi2caWYvF5Lg/1766971095793/live/lungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971095/4a77ab6f2adc3ddce1a552bd962d25d1/516272943/live/lungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/DJtiZSUBbfRFYktdMU4MLQ/Fv2lucGIbhPi2caWYvF5Lg/1766971095793/live/lungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pQSFfUXg-pGatLcF5.png",16:00 WIB 28/12 Oh My God vs LNG Esports (1) [Tai Lung] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971095/456af982894870cee80f02ab971fba62/627152694/live/lungFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1766971096&sign=c9e0cf65458676ae2d5fbdfd59018d3f
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/kFzhyt3aFcw0wfx5nOrzTw/Fv2lucGIbhPi2caWYvF5Lg/1766971096942/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971096/76b7f37db0c652f78cbd8cd5cfe6c724/352399372/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/AOAleoHC0mGIna2ZjYWQ9g/Fv2lucGIbhPi2caWYvF5Lg/1766971096942/live/dungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",20:45 WIB 28/12 Rzeszow W vs Bielsko-Biala W (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766971096/c68b26e1f47e12311ed76499a70015ac/890612404/live/dungFHD/playlist.m3u8
 #--- 10CAM END ---
