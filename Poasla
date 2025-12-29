@@ -417,10 +417,26 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767033243~acl=/*~id=0876c88a382cf78ac0d31952bf4f9013-1766990040642~hmac=eaa8bcf2e801833ca41cc6bd7be282d57264f517626f7908da3334799d044bcc|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S9160; Build/PQ3A.190705.09121607)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6137652fea1abbf9a173cca18da71e33-1767008047996
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767033243~acl=/*~id=0876c88a382cf78ac0d31952bf4f9013-1766990040642~hmac=eaa8bcf2e801833ca41cc6bd7be282d57264f517626f7908da3334799d044bcc|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX2101; Build/RKQ1.201217.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4e9613f46076f3ea480a7ddf36a86b98-1767009248168
 #--- SONY END ---
+
+#--- ZEE5 START ---
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list40ac0c619a3d4f4abf0291f0600c614bd0723ba47a21478fa4f672262944a76d.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767095346~acl=%2f*~data=hdntl~hmac=8bfc5a3ab14f989888a2b45ee06ffed42c242b7745a477f23851cdaf08258dbb
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list40ac0c619a3d4f4abf0291f0600c614bd0723ba47a21478fa4f672262944a76d.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767095349~acl=%2f*~data=hdntl~hmac=af099c16b04d26b6faaa5a607071abe565cc89eacf7d5f4c4bd5de424c0779de
+#--- ZEE5 END ---
 
 #--- PPVLAND START ---
 #EXTINF:1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
@@ -638,54 +654,30 @@ https://gg.poocloud.in/l1_hac/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD 1
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70e033e4c70751dc2273c39d413afad0.png",18h30 WIB 29/12 Adana Demirspor vs Istanbulspor (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -710,10 +702,6 @@ https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/fb53750a3134a5d7d7be783126d8d6e1.png",16h00 WIB 29/12 Glory Goal FC vs Myanmar Universitet (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/2892df547ebbd8520006eb11160141e6.png",17h00 WIB 29/12 Fasil Kenema vs Ethio Electric FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -722,6 +710,10 @@ https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6ba4ebb0187bed9ad0288db7da24e19f.png",19h00 WIB 29/12 Wolaita Dicha vs Arba Minch (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125844_aec98f1a.png",18h30 WIB 29/12 Adana Demirspor vs İstanbulspor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1094,54 +1086,30 @@ https://hotlivezz179602324.akainu.xyz/BK5XkBkoa69Av2voILFQXA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767050291/d6cf713d68f4b45c6796b2631f327e1d/516017130/live/phepFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD 1
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/47751f681935a504ad45c35e813c6baf.png",16h00 WIB 29/12 Ispe FC vs Yarmanya United FC (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/10db29eabad13994d9729d8983f8d21a.png",19h00 WIB 29/12 Persija Jakarta vs Bhayangkara Presisi Indonesia FC (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/28eb3cbdd54f97c70874e54e258d68af.png",16h30 WIB 29/12 Rakhine United FC vs Ayeyawady united (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70e033e4c70751dc2273c39d413afad0.png",18h30 WIB 29/12 Adana Demirspor vs Istanbulspor (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1166,10 +1134,6 @@ https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/fb53750a3134a5d7d7be783126d8d6e1.png",16h00 WIB 29/12 Glory Goal FC vs Myanmar Universitet (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/2892df547ebbd8520006eb11160141e6.png",17h00 WIB 29/12 Fasil Kenema vs Ethio Electric FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1178,6 +1142,10 @@ https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6ba4ebb0187bed9ad0288db7da24e19f.png",19h00 WIB 29/12 Wolaita Dicha vs Arba Minch (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125844_aec98f1a.png",18h30 WIB 29/12 Adana Demirspor vs İstanbulspor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
