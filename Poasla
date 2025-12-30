@@ -287,12 +287,21 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=53781c79161716b27ddfa70a8671cb9a:ec747fe222e238a6511202ce89a03df1
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2557; Build/UP1A.230620.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bab6fed0b56a7df9b998f7ea6c5b63fb-1767102847709
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767148152~acl=/*~id=4cf016cd6a47406c9cc66e45fd9c4d33-1763619206321-019aa4ccba0270818b0dc5b09f6db4f8~hmac=0b5eefe9de1b1a2f6d074684f27ff1de68af4578a92826358bafe574976f0799|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; AHD-1017; Build/QP1A.191105.004)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e61bf745c09e7c57fdb0184f0a184084-1767105247289
 #--- SONY END ---
 
 #--- ZEE5 START ---
+#EXTINF:1 tvg-id="0-1-6z5853061" tvg-name="DP World ILT20" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853061/list/1920x1080list257e681cb913401abae312c48b3b472977b0135dbbd948119dab11815e23cd91.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | DV Vs MIE - Qualifier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109037/QUALIFIER_1/master.m3u8?hdntl=exp=1767188946~acl=%2f*~data=hdntl~hmac=4b835d3d5600617e1188f222b21cd84fa7b1dceb4e351f9de8bcb9648a81cab2
 #EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list43f62cfd1d5f41b4994b4424e2f76c5db08980ab615a4ec6a81ffa8c274a2b6f.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
@@ -303,11 +312,6 @@ https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
 #EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767179947~acl=%2f*~data=hdntl~hmac=43f0cf462ce45e804aa246ed58cd6bd2e0e86e71ea19ae9b032912c31db4e4d3
-#EXTINF:1 tvg-id="0-1-6z5853061" tvg-name="DP World ILT20" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853061/list/1920x1080list257e681cb913401abae312c48b3b472977b0135dbbd948119dab11815e23cd91.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | DV Vs MIE - Qualifier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://falconstream.zee5.com/cmaf/live/2109037/QUALIFIER_1/master.m3u8?hdntl=exp=1767188946~acl=%2f*~data=hdntl~hmac=4b835d3d5600617e1188f222b21cd84fa7b1dceb4e351f9de8bcb9648a81cab2
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -383,10 +387,10 @@ https://gg.poocloud.in/pl_man/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/iihf/index.m3u8
-#EXTINF:1 tvg-id="ppv-15604" tvg-name="New Jersey Devils vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/53b0ca55b0cdc7a21d58d63123362354-thumbnail.jpg" group-title="PPV-LIVE",New Jersey Devils vs. Toronto Maple Leafs - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:1 tvg-id="ppv-15429" tvg-name="Tennessee Volunteers vs. Illinois Fighting Illini" tvg-logo="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg" group-title="PPV-LIVE",Tennessee Volunteers vs. Illinois Fighting Illini - 05:30 PM ET / 03:30 PM MT / 22:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:1 tvg-id="ppv-15607" tvg-name="Montreal Canadiens vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/bf291812b5082f4713dd4b3ca5cb4f53-thumbnail.jpg" group-title="PPV-LIVE",Montreal Canadiens vs. Florida Panthers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -427,7 +431,7 @@ https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/laclippers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15594" tvg-name="Sudan vs. Burkina Faso" tvg-logo="https://api.ppv.to/assets/thumb/e837742358d3fb6db7014aab70e66578-thumbnail.jpg" group-title="PPV-LIVE",Sudan vs. Burkina Faso - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTINF:1 tvg-id="ppv-15593" tvg-name="Equatorial Guinea vs. Algeria" tvg-logo="https://api.ppv.to/assets/thumb/7cf7727e3ecad0f8fefc602fbb424079-thumbnail.jpg" group-title="PPV-LIVE",Equatorial Guinea vs. Algeria - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
@@ -495,10 +499,10 @@ https://gg.poocloud.in/l1_tou/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ray/index.m3u8
-#EXTINF:1 tvg-id="ppv-15440" tvg-name="Navy Midshipmen vs. Cincinnati Bearcats" tvg-logo="https://api.ppv.to/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" group-title="PPV-LIVE",Navy Midshipmen vs. Cincinnati Bearcats - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTINF:1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="PPV-LIVE",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:1 tvg-id="ppv-15442" tvg-name="Wake Forest Demon Deacons vs. Mississippi State Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" group-title="PPV-LIVE",Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -507,10 +511,10 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:1 tvg-id="ppv-15565" tvg-name="Como vs. Udinese" tvg-logo="https://api.ppv.to/assets/thumb/d12aba40501e55e90e46258382098ec2-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Udinese - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTINF:1 tvg-id="ppv-15554" tvg-name="Aston Villa vs. Nottingham Forest" tvg-logo="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Nottingham Forest - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_como/index.m3u8
+https://gg.poocloud.in/pl_avl/index.m3u8
 #EXTINF:1 tvg-id="ppv-15519" tvg-name="Celta Vigo vs. Valencia" tvg-logo="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" group-title="PPV-LIVE",Celta Vigo vs. Valencia - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -519,14 +523,14 @@ https://gg.poocloud.in/ll_cel/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_gen/index.m3u8
-#EXTINF:1 tvg-id="ppv-15567" tvg-name="Sassuolo vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Parma - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_sas/index.m3u8
 #EXTINF:1 tvg-id="ppv-15555" tvg-name="Brighton & Hove Albion vs. Burnley" tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" group-title="PPV-LIVE",Brighton & Hove Albion vs. Burnley - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_bha/index.m3u8
+#EXTINF:1 tvg-id="ppv-15556" tvg-name="Wolverhampton Wanderers vs. West Ham United" tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" group-title="PPV-LIVE",Wolverhampton Wanderers vs. West Ham United - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_wol/index.m3u8
 #EXTINF:1 tvg-id="ppv-15524" tvg-name="Osasuna vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" group-title="PPV-LIVE",Osasuna vs. Athletic Club - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -535,26 +539,26 @@ https://gg.poocloud.in/ll_osa/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_mon/index.m3u8
-#EXTINF:1 tvg-id="ppv-15568" tvg-name="Juventus vs. Lecce" tvg-logo="https://api.ppv.to/assets/thumb/04ab1cc40cd1afed4b09282f3c42097e-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Lecce - 12:00 PM ET / 10:00 AM MT / 17:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_juv/index.m3u8
 #EXTINF:1 tvg-id="ppv-15528" tvg-name="Elche vs. Villarreal" tvg-logo="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg" group-title="PPV-LIVE",Elche vs. Villarreal - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_elc/index.m3u8
+#EXTINF:1 tvg-id="ppv-15557" tvg-name="AFC Bournemouth vs. Arsenal" tvg-logo="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg" group-title="PPV-LIVE",AFC Bournemouth vs. Arsenal - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_bou/index.m3u8
 #EXTINF:1 tvg-id="ppv-15576" tvg-name="Nice vs. Strasbourg" tvg-logo="https://api.ppv.to/assets/thumb/09a5c0b3d8ee8f06111ce21a91f713fe-thumbnail.jpg" group-title="PPV-LIVE",Nice vs. Strasbourg - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_nice/index.m3u8
-#EXTINF:1 tvg-id="ppv-15569" tvg-name="Atalanta vs. AS Roma" tvg-logo="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. AS Roma - 02:45 PM ET / 12:45 PM MT / 19:45 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_ata/index.m3u8
 #EXTINF:1 tvg-id="ppv-15530" tvg-name="Espanyol vs. Barcelona" tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" group-title="PPV-LIVE",Espanyol vs. Barcelona - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_esp/index.m3u8
+#EXTINF:1 tvg-id="ppv-15577" tvg-name="Lille vs. Stade Rennais" tvg-logo="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Stade Rennais - 03:05 PM ET / 01:05 PM MT / 20:05 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/l1_lill/index.m3u8
 #EXTINF:1 tvg-id="ppv-15602" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="PPV-LIVE",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -563,22 +567,18 @@ https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15588" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:1 tvg-id="ppv-15570" tvg-name="Lazio vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg" group-title="PPV-LIVE",Lazio vs. Napoli - 06:30 AM ET / 04:30 AM MT / 11:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_laz/index.m3u8
+#EXTINF:1 tvg-id="ppv-15558" tvg-name="Leeds United vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg" group-title="PPV-LIVE",Leeds United vs. Manchester United - 07:30 AM ET / 05:30 AM MT / 12:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_lee/index.m3u8
 #EXTINF:1 tvg-id="ppv-15536" tvg-name="Sevilla vs. Levante" tvg-logo="https://api.ppv.to/assets/thumb/ef9b2498fd10e0b2ba179f9b659bc469-thumbnail.jpg" group-title="PPV-LIVE",Sevilla vs. Levante - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_sev/index.m3u8
-#EXTINF:1 tvg-id="ppv-15571" tvg-name="Fiorentina vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/5c759575b428dc5adea5c69acda16048-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Cremonese - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTINF:1 tvg-id="ppv-15578" tvg-name="Marseille vs. Nantes" tvg-logo="https://api.ppv.to/assets/thumb/d7829d33a2ab0af4557f905d56f99514-thumbnail.jpg" group-title="PPV-LIVE",Marseille vs. Nantes - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -587,10 +587,10 @@ https://gg.poocloud.in/l1_olm/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_eve/index.m3u8
-#EXTINF:1 tvg-id="ppv-15561" tvg-name="Newcastle United vs. Crystal Palace" tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg" group-title="PPV-LIVE",Newcastle United vs. Crystal Palace - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:1 tvg-id="ppv-15560" tvg-name="Fulham vs. Liverpool" tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg" group-title="PPV-LIVE",Fulham vs. Liverpool - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_new/index.m3u8
+https://gg.poocloud.in/pl_ful/index.m3u8
 #EXTINF:1 tvg-id="ppv-15562" tvg-name="Tottenham Hotspur vs. Sunderland" tvg-logo="https://api.ppv.to/assets/thumb/c26cf49438aa869e01d4ad873dd169ad-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Sunderland - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -603,10 +603,10 @@ https://gg.poocloud.in/ll_rma/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_bre/index.m3u8
-#EXTINF:1 tvg-id="ppv-15581" tvg-name="Lorient vs. Metz" tvg-logo="https://api.ppv.to/assets/thumb/17e006f623c0a063a1ca1c418ef0e530-thumbnail.jpg" group-title="PPV-LIVE",Lorient vs. Metz - 11:15 AM ET / 09:15 AM MT / 16:15 UK
+#EXTINF:1 tvg-id="ppv-15580" tvg-name="Le Havre AC vs. Angers" tvg-logo="https://api.ppv.to/assets/thumb/00ee1ffb594f974bd3968628d8005343-thumbnail.jpg" group-title="PPV-LIVE",Le Havre AC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/l1_lor/index.m3u8
+https://gg.poocloud.in/l1_hac/index.m3u8
 #EXTINF:1 tvg-id="ppv-15572" tvg-name="Hellas Verona vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/af9fbb80c70992376a5554a553b0d635-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Torino - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -619,10 +619,10 @@ https://gg.poocloud.in/ll_ala/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_mll/index.m3u8
-#EXTINF:1 tvg-id="ppv-15608" tvg-name="New Orleans Saints vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="PPV-LIVE",New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:1 tvg-id="ppv-15563" tvg-name="Manchester City vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/819142cc3fd49934504f31d34bd88e3e-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Chelsea - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/atlantafalcons/index.m3u8
+https://gg.poocloud.in/pl_mnc/index.m3u8
 #EXTINF:1 tvg-id="ppv-15611" tvg-name="Cleveland Browns vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/c9fda0396269ada10e8703bf8ac2fc55-thumbnail.jpg" group-title="PPV-LIVE",Cleveland Browns vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -663,10 +663,10 @@ https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
-#EXTINF:1 tvg-id="ppv-15622" tvg-name="Arizona Cardinals vs. Los Angeles Rams" tvg-logo="https://api.ppv.to/assets/thumb/11f3db059bf62c2247acdb35daa7a265-thumbnail.jpg" group-title="PPV-LIVE",Arizona Cardinals vs. Los Angeles Rams - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTINF:1 tvg-id="ppv-15623" tvg-name="Miami Dolphins vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/7ed24fc2cd7d8e50f6cf5e4d3cfaea79-thumbnail.jpg" group-title="PPV-LIVE",Miami Dolphins vs. New England Patriots - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/losangelesrams/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:1 tvg-id="ppv-15624" tvg-name="Washington Commanders vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/485698f9e71ed5171636e9d50edddee5-thumbnail.jpg" group-title="PPV-LIVE",Washington Commanders vs. Philadelphia Eagles - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -679,37 +679,9 @@ https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png",19h15 WIB 30/12 Al-Ansar (LIB) vs Al Bourj (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -830,10 +802,30 @@ https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/2dd456663646544ea5909e8822c3eff8.jpg",19h00 WIB 30/12 Hawassa City vs Hadiya Hossana (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
+https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/aaa0772612d70513ad0aa33d6009de20.png",19h55 WIB 30/12 Al Ittifaq Dubai vs Al Urooba (UAE) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -866,34 +858,30 @@ https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w60",21h00 WIB 30/12 Qatar U23 vs Uzbekistan U23 (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/20251126_235032_0712526b.png",19h45 WIB 30/12 Al-Ula vs Al Anwar (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1206,30 +1194,6 @@ https://stream.chuoichien.tv/neymar/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/neymar.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d3337978628332fc9d89e0def0c6ae3c.png",18h30 WIB 30/12 Tractor S.C. vs Malavan (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png",19h15 WIB 30/12 Al-Ansar (LIB) vs Al Bourj (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1350,10 +1314,30 @@ https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/2dd456663646544ea5909e8822c3eff8.jpg",19h00 WIB 30/12 Hawassa City vs Hadiya Hossana (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
+https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/034494d615691afe65c5a21afeae872c.png",22h00 WIB 30/12 Talaea EI-Gaish vs Ghazl El Mahallah (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/aaa0772612d70513ad0aa33d6009de20.png",19h55 WIB 30/12 Al Ittifaq Dubai vs Al Urooba (UAE) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1386,34 +1370,30 @@ https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w60",21h00 WIB 30/12 Qatar U23 vs Uzbekistan U23 (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png",21h40 WIB 30/12 Al-Adalah vs Al-Jabalain (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134012_24cb02cc.png",19h25 WIB 30/12 Al Arabi SC vs Al Wehda Club (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/20251126_235032_0712526b.png",19h45 WIB 30/12 Al-Ula vs Al Anwar (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
