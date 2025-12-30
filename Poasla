@@ -299,9 +299,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Best Of Sports 2025 - 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767119642~acl=/*~id=7a8f091adcc963e9711f26b783b01c69-1767076440625~hmac=e227bf187e2a0693cb0435599ee3c14fd133c626876c4ba0dec58a55b9a4c6ef|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; A202ZT; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3329716d5e7c1d2d6cf95d8740f00984-1767080049640
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767119642~acl=/*~id=7a8f091adcc963e9711f26b783b01c69-1767076440625~hmac=e227bf187e2a0693cb0435599ee3c14fd133c626876c4ba0dec58a55b9a4c6ef|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G781B; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=929e53b9426c6a217285a58ff1b4be7a-1767081249586
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -681,6 +685,30 @@ https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lansd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133804_42cc55f1.png",15h00 WIB 30/12 Western Sydney Wanderers W vs Wellington Phoenix W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1092,23 +1120,87 @@ https://stream.chuoichien.tv/neymar.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767101406&sign=4cc802034679b1ac33ff3906b1711853
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767103206&sign=58bf7fdfb14fe8c52f19cd62eef016dc
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/BJpajiEo-iv-ivI7re2KBw/Fv2lucGIbhPi2caWYvF5Lg/1767101406273/live/thuHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DZglsToyzXFC-AEXHguXrg/Fv2lucGIbhPi2caWYvF5Lg/1767103206654/live/thuHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767101406/d0bcaa0a1a65098aebb9e8a7409c34d8/732215356/live/thuHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767103206/828cc1c2aa1053e4a4a37aacc24efe12/165330059/live/thuHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/06tXgJ2CrofWf5noFZ9txw/Fv2lucGIbhPi2caWYvF5Lg/1767101406273/live/thuSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6ofNrLRT6zj6cHJB01mNoQ/Fv2lucGIbhPi2caWYvF5Lg/1767103206655/live/thuSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767101406/9671bb96d3358ae56b26b8bb73e077d5/833773574/live/thuFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767103206/e7399c066ba0147c51ee5fa60e8ba67a/708266808/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1767103208&sign=a9cd4203a3135a38dcc7ca217eea813d
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/IsAumPx7bbqz1pdsxO1ZUg/Fv2lucGIbhPi2caWYvF5Lg/1767103208006/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767103208/d8377fc970c499977c831358638bf4fd/433690025/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/zJ1gn00LrqhMj-w7X2hU7Q/Fv2lucGIbhPi2caWYvF5Lg/1767103208006/live/trauSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767103208/94a307880f13bc9b9df05aeca5021d7d/696257708/live/trauFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cayHD.flv?expire=1767124809&sign=d511844d971ed96b1e05da46a1ff061c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/3RqmvnhZqd09Ys_szye_ig/Fv2lucGIbhPi2caWYvF5Lg/1767124809270/live/cayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767124809/beeaaf3c969ef5da6539f5b5bd9861b3/118780845/live/cayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/LQSWP2z768TnMDbH6CB2VQ/Fv2lucGIbhPi2caWYvF5Lg/1767124809271/live/caySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767124809/d55b3c2d2cbfde26ddbc080b4079415d/142830366/live/cayFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lansd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15h00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133804_42cc55f1.png",15h00 WIB 30/12 Western Sydney Wanderers W vs Wellington Phoenix W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1520,21 +1612,61 @@ https://stream.chuoichien.tv/neymar.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767101406&sign=4cc802034679b1ac33ff3906b1711853
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767103206&sign=58bf7fdfb14fe8c52f19cd62eef016dc
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/BJpajiEo-iv-ivI7re2KBw/Fv2lucGIbhPi2caWYvF5Lg/1767101406273/live/thuHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DZglsToyzXFC-AEXHguXrg/Fv2lucGIbhPi2caWYvF5Lg/1767103206654/live/thuHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767101406/d0bcaa0a1a65098aebb9e8a7409c34d8/732215356/live/thuHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767103206/828cc1c2aa1053e4a4a37aacc24efe12/165330059/live/thuHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/06tXgJ2CrofWf5noFZ9txw/Fv2lucGIbhPi2caWYvF5Lg/1767101406273/live/thuSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6ofNrLRT6zj6cHJB01mNoQ/Fv2lucGIbhPi2caWYvF5Lg/1767103206655/live/thuSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/53a3c4c0bbacf38116898ced61345918.png",15:00 WIB 30/12 WS Wanderers (w) vs Wellington Phoenix (w) (1) [Cá Sát Thủ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767101406/9671bb96d3358ae56b26b8bb73e077d5/833773574/live/thuFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767103206/e7399c066ba0147c51ee5fa60e8ba67a/708266808/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1767103208&sign=a9cd4203a3135a38dcc7ca217eea813d
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/IsAumPx7bbqz1pdsxO1ZUg/Fv2lucGIbhPi2caWYvF5Lg/1767103208006/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767103208/d8377fc970c499977c831358638bf4fd/433690025/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/zJ1gn00LrqhMj-w7X2hU7Q/Fv2lucGIbhPi2caWYvF5Lg/1767103208006/live/trauSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15:30 WIB 30/12 Arema FC vs Persita Tangerang (1) [Trâu Gác Bếp] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767103208/94a307880f13bc9b9df05aeca5021d7d/696257708/live/trauFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cayHD.flv?expire=1767124809&sign=d511844d971ed96b1e05da46a1ff061c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/3RqmvnhZqd09Ys_szye_ig/Fv2lucGIbhPi2caWYvF5Lg/1767124809270/live/cayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767124809/beeaaf3c969ef5da6539f5b5bd9861b3/118780845/live/cayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/LQSWP2z768TnMDbH6CB2VQ/Fv2lucGIbhPi2caWYvF5Lg/1767124809271/live/caySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/eba4bbba15054de591179e0001ab718b.png",15:30 WIB 30/12 Sydney Kings vs Brisbane Bullets (1) [Người Cây] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767124809/d55b3c2d2cbfde26ddbc080b4079415d/142830366/live/cayFHD/playlist.m3u8
 #--- 10CAM END ---
