@@ -597,13 +597,26 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498763" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767158901179170_UC26_spain_vs_argentina_31dec_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Spain vs Argentina - 2 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2699; Build/AP3A.240617.008)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=141ee1e09a121842fdefba5ec464d6e2-1767337807374
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 21091116UI; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c68c3fdbc3397ba28cccd61ec1208016-1767339007990
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 2/1/2026, 00:34:06
+#EXTINF:1 tvg-id="0-1-6z5873766" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873766/list/1920x1080list1bd4c40abc094859819e09baca5eb1da038abb7c58e94d989d27347f8c788774.jpg" tvg-language="bengali" group-title="ZEE 5",BEN | Howrah Hooghly Warriors Vs Jhr Royal City Fc Malda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8?hdntl=exp=1767425404~acl=%2f*~data=hdntl~hmac=1cdebff4656c56c6ba3f1ef1ed26aafef178ca41014488ebcffadeee597a6f44
+#EXTINF:1 tvg-id="0-1-6z5873766" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873766/list/1920x1080list1bd4c40abc094859819e09baca5eb1da038abb7c58e94d989d27347f8c788774.jpg" tvg-language="english" group-title="ZEE 5",ENG | Howrah Hooghly Warriors Vs Jhr Royal City Fc Malda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8?hdntl=exp=1767425407~acl=%2f*~data=hdntl~hmac=bd1a89449bc8ef073dd48b449a03434df193faaf830dab6f3c9d0d0251ab3022
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -758,30 +771,6 @@ https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -806,30 +795,6 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.wixstatic.com/media/3deb48_efd14a035e394e199bb07b07f5f6722f~mv2.png/v1/fill/w_273,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Income%20Tax.png",15h00 WIB 02/01 Income Tax FC vs Agorc FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -838,30 +803,6 @@ https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",15h35 WIB 02/01 Melbourne Victory vs Perth Glory (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -886,30 +827,6 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/971d8ffad95cbdfb0e3d54245656a603.png",15h30 WIB 02/01 Brothers Union vs Mohammedan Dhaka (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.wixstatic.com/media/3deb48_efd14a035e394e199bb07b07f5f6722f~mv2.png/v1/fill/w_273,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Income%20Tax.png",15h00 WIB 02/01 Income Tax FC vs Agorc FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
