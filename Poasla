@@ -585,9 +585,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498763" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767158901179170_UC26_spain_vs_argentina_31dec_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Spain vs Argentina - 2 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767357242~acl=/*~id=fc1230d037e14e0245084f4a4392acb8-1767314040631~hmac=5147816d0ad19b0fdc7cdfcd31788c486489ee46ba707b0a81501eaf55558480|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5000; Build/UKQ1.231108.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d6903d9ef215b8502b5df75a08793226-1767333127086
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767357242~acl=/*~id=fc1230d037e14e0245084f4a4392acb8-1767314040631~hmac=5147816d0ad19b0fdc7cdfcd31788c486489ee46ba707b0a81501eaf55558480|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-G986U; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=17d52a270b9f06bd7229a2afe76c1f2c-1767335408871
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -611,18 +615,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:1 tvg-id="ppv-15662" tvg-name="Boston Celtics vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" group-title="PPV-LIVE",Boston Celtics vs. Sacramento Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sacramentokings/index.m3u8
-#EXTINF:1 tvg-id="ppv-15667" tvg-name="Nashville Predators vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" group-title="PPV-LIVE",Nashville Predators vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seattlekraken/index.m3u8
-#EXTINF:1 tvg-id="ppv-15664" tvg-name="Utah Jazz vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg" group-title="PPV-LIVE",Utah Jazz vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/laclippers/index.m3u8
 #EXTINF:1 tvg-id="ppv-15668" tvg-name="Germany vs. Denmark" tvg-logo="https://api.ppv.to/assets/thumb/122eb9528fc9ef0e5571da91b056ea5f-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. Denmark - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -659,6 +651,10 @@ https://gg.poocloud.in/stlouisblues/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15672" tvg-name="Czech Republic vs. Switzerland" tvg-logo="https://api.ppv.to/assets/thumb/380c8929047323572b5a047346843c86-thumbnail.jpg" group-title="PPV-LIVE",Czech Republic vs. Switzerland - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wjc_cze/index.m3u8
 #EXTINF:1 tvg-id="ppv-15675" tvg-name="United States vs. Finland" tvg-logo="https://api.ppv.to/assets/thumb/5295923e9bab7bd0cdc0b070792e98c2-thumbnail.jpg" group-title="PPV-LIVE",United States vs. Finland - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -667,10 +663,10 @@ https://gg.poocloud.in/wjc_usa/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/indianapacers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15674" tvg-name="Brooklyn Nets vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/c9fdd6ca780610bf8ac9631557ad0914-thumbnail.jpg" group-title="PPV-LIVE",Brooklyn Nets vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:1 tvg-id="ppv-15676" tvg-name="Denver Nuggets vs. Cleveland Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/ac4f39bafabdb7a55affbe1be7fb2842-thumbnail.jpg" group-title="PPV-LIVE",Denver Nuggets vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/washingtonwizards/index.m3u8
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 #EXTINF:1 tvg-id="ppv-15680" tvg-name="Atlanta Hawks vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/b788992a27c64c9dc0f9063e96d446a3-thumbnail.jpg" group-title="PPV-LIVE",Atlanta Hawks vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -679,18 +675,18 @@ https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:1 tvg-id="ppv-15442" tvg-name="Wake Forest Demon Deacons vs. Mississippi State Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" group-title="PPV-LIVE",Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:1 tvg-id="ppv-15681" tvg-name="Orlando Magic vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/28de10e425c15355e2aff2e9dc62fc70-thumbnail.jpg" group-title="PPV-LIVE",Orlando Magic vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:1 tvg-id="ppv-15614" tvg-name="Green Bay Packers vs. Minnesota Vikings" tvg-logo="https://api.ppv.to/assets/thumb/cc4278e682e6e34097304dbf85516024-thumbnail.jpg" group-title="PPV-LIVE",Green Bay Packers vs. Minnesota Vikings - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:1 tvg-id="ppv-15682" tvg-name="Charlotte Hornets vs. Milwaukee Bucks" tvg-logo="https://api.ppv.to/assets/thumb/aecee0aea6992db0dfea3ede7382702e-thumbnail.jpg" group-title="PPV-LIVE",Charlotte Hornets vs. Milwaukee Bucks - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotavikings/index.m3u8
-#EXTINF:1 tvg-id="ppv-15615" tvg-name="Dallas Cowboys vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/4ca44c4ce248fe63c7307528270d13b0-thumbnail.jpg" group-title="PPV-LIVE",Dallas Cowboys vs. New York Giants - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+https://gg.poocloud.in/milwaukeebucks/index.m3u8
+#EXTINF:1 tvg-id="ppv-15683" tvg-name="Portland Trail Blazers vs. New Orleans Pelicans" tvg-logo="https://api.ppv.to/assets/thumb/6c8b3a5d82a846ce5bbdbf5cabb52664-thumbnail.jpg" group-title="PPV-LIVE",Portland Trail Blazers vs. New Orleans Pelicans - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newyorkgiants/index.m3u8
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
 #EXTINF:1 tvg-id="ppv-15616" tvg-name="Tennessee Titans vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/c2f0aea1c5a7bb6e45926baf2fb086f4-thumbnail.jpg" group-title="PPV-LIVE",Tennessee Titans vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -743,37 +739,13 @@ https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
-#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:1 tvg-id="ppv-15443" tvg-name="Illinois State Redbirds vs. Montana State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="PPV-LIVE",Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ufc/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png",10h30 WIB 02/01 Los Angeles Clippers vs Utah Jazz (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -798,38 +770,34 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 2
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 2
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 WIB 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://static.wixstatic.com/media/3deb48_efd14a035e394e199bb07b07f5f6722f~mv2.png/v1/fill/w_273,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Income%20Tax.png",15h00 WIB 02/01 Income Tax FC vs Agorc FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/91fe3eccd833195c9fdb3eac7c675c5d.png",10h30 WIB 02/01 Kerala (w) vs Garhwal (w) (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 WIB 02/01 Clippers vs Jazz (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -870,30 +838,6 @@ https://hotlivezz179602324.akainu.xyz/uSStZ48i-yetjKG0rDtL9g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767368530/613960efa64591210d6ab631d59ea4c1/129991061/live/meoFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 WIB 02/01 Sacramento Kings vs Boston Celtics (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png",10h30 WIB 02/01 Los Angeles Clippers vs Utah Jazz (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -918,38 +862,34 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 2
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 2
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 WIB 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 WIB 02/01 Dyes FC vs Snipers FC (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 WIB 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (QUAY TAY) Nhà đài
+#EXTINF:1 group-title="Random" tvg-logo="https://static.wixstatic.com/media/3deb48_efd14a035e394e199bb07b07f5f6722f~mv2.png/v1/fill/w_273,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Income%20Tax.png",15h00 WIB 02/01 Income Tax FC vs Agorc FC (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/91fe3eccd833195c9fdb3eac7c675c5d.png",10h30 WIB 02/01 Kerala (w) vs Garhwal (w) (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 WIB 02/01 Clippers vs Jazz (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
