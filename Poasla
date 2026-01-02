@@ -633,9 +633,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498763" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG |  Greece vs Japan - 2 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ATV R2; Build/RTT7.210923.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0e950fcdcfb87f47f921b425442577da-1767348609106
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4|User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-M366B; Build/BP2A.250605.031.A3)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ef6fc6bddf9e9071e7cc3195e71824b-1767349809048
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -649,6 +653,16 @@ https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8?hdntl=ex
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
 #EXTVLCOPT:http-origin=https://www.zee5.com
 https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8?hdntl=exp=1767425407~acl=%2f*~data=hdntl~hmac=bd1a89449bc8ef073dd48b449a03434df193faaf830dab6f3c9d0d0251ab3022
+#EXTINF:1 tvg-id="0-1-6z5873767" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/list/1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg" tvg-language="bengali" group-title="ZEE 5",BEN | Kopa Tigers Birbhum Vs Burdwan Blasters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8?hdntl=exp=1767436204~acl=%2f*~data=hdntl~hmac=ed05607cc8f321bdc2dab18354eb2451846a2f5585e454a8d84c2b2302402d96
+#EXTINF:1 tvg-id="0-1-6z5873767" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/list/1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg" tvg-language="english" group-title="ZEE 5",ENG | Kopa Tigers Birbhum Vs Burdwan Blasters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8?hdntl=exp=1767436207~acl=%2f*~data=hdntl~hmac=c95055500e9d946c3cb7ee39f7d266efe5353712df50b3b61c813b87e5b36469
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
