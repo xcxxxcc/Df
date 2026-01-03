@@ -941,15 +941,28 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
-#EXTINF:1 tvg-id="1090498797" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | USA vs Argentina - 3 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A305F; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cfaf736c87ffbfb30fdd78d6b3204342-1767438609890
 #EXTINF:1 tvg-id="1090498764" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Australia vs Norway - 3 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S928Q; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cfaf736c87ffbfb30fdd78d6b3204342-1767438609890
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Nokia G21; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f6632fda15c882191b2709e66324549f-1767439813934
+#EXTINF:1 tvg-id="1090498797" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | USA vs Argentina - 3 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2223; Build/RKQ1.211119.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f6632fda15c882191b2709e66324549f-1767439813934
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 3/1/2026, 16:00:05
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767526207~acl=%2f*~data=hdntl~hmac=6514a2d7b087852a1ca9afabb720e8a3291f65c0ee66f98d739665911c580d2a
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767526212~acl=%2f*~data=hdntl~hmac=e1a5e3cd7c609ea18335606f7919907a98127e087040f79832853d11e7c95d3e
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -1447,43 +1460,147 @@ https://9ceg0825.edgemaxcdn.org/1767476172/f355e1a15c4b8310b7c6587869a4baba/8904
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767479772&sign=3049be0ed0ca2273b17f73f4b67e70f2
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767481929&sign=6c0f2aff7b1530a0582a4e8112c83e8b
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/n1Pv_M631d0I-kTtUg0Nng/Fv2lucGIbhPi2caWYvF5Lg/1767479772564/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DdEfP_x29BT1XAHtiuRu_g/Fv2lucGIbhPi2caWYvF5Lg/1767481929227/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479772/55122f7f241b30b992d709bd1163c7e4/390787864/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481929/12adc6e1df5bea479f747af979fd9ebe/958314526/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4C9QnGi5o5WAVFbYwbZDnA/Fv2lucGIbhPi2caWYvF5Lg/1767479772565/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/wA7qlFShRhZ87phw6q0wHA/Fv2lucGIbhPi2caWYvF5Lg/1767481929228/live/bangSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479772/cf2a84682160336fd07b00a2c09f7e95/961674014/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481929/1402fb281ef35ac3b1b5ed34a2a0bb66/738259175/live/bangFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1767479773&sign=7af032ef1e3aeb974c38b1bf6ee8d2cb
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1767481930&sign=9c863188144ae9cfaf26d31ab0f2731f
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/EmGJnYRKc_sMWJxxbsIdqQ/Fv2lucGIbhPi2caWYvF5Lg/1767479773801/live/nenHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/e7ADGbsDNhaXf1c6-KCwRg/Fv2lucGIbhPi2caWYvF5Lg/1767481930386/live/nenHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479773/6f546f67c87ebcf1e6c0b2be00bbc97a/948800461/live/nenHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481930/14426adf0c744837355dd16c6c13d1d7/212997311/live/nenHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/A61skXCp5vB5y-SlJTLRlw/Fv2lucGIbhPi2caWYvF5Lg/1767479773801/live/nenSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/waA1dlbAhFYJUImzduIXnw/Fv2lucGIbhPi2caWYvF5Lg/1767481930387/live/nenSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479773/42d39b26cd183c8717f023d269cd6710/501096203/live/nenFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481930/7adc12bfedce1f12657ff3532aa6dc8b/925861170/live/nenFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1767481931&sign=8ae9c5428755a8d93ea7197ea7e8b94b
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/EyEl7k3cHslL_TJqUmEcOg/Fv2lucGIbhPi2caWYvF5Lg/1767481931617/live/khiaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481931/45c872bd8e78f3b8c3a09332a17e01da/548712211/live/khiaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/QDjCOiFms-Uf_12GaEFdxw/Fv2lucGIbhPi2caWYvF5Lg/1767481931617/live/khiaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481931/cead715780592201de19f4d886042f90/485310000/live/khiaFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1767460332&sign=171a7473bdf774bc11c7ed6adf6ee83d
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/__KipYbAd21X-8ErmaHsuA/Fv2lucGIbhPi2caWYvF5Lg/1767460332843/live/phoHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767460332/13a3c255ad9e845162265d663cc8503f/443200918/live/phoHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/phvBMsL7hnchvnDweEVgkw/Fv2lucGIbhPi2caWYvF5Lg/1767460332844/live/phoSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767460332/9ea45a129724dc830c245a4b2c028d3d/416053841/live/phoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/f51fQqaLUSfmXsESl-Vrmw/Fv2lucGIbhPi2caWYvF5Lg/1767460332844/live/may241/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1767481934&sign=185fdbeb61f2589ce4a3820064d3932c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/YkQgPYwJpazi4EVd-6_uVw/Fv2lucGIbhPi2caWYvF5Lg/1767481934065/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481934/2089c7f0b44a59904213bda6a96e20f8/640938319/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/9xYaXnZLlzpRgy00BI-mDw/Fv2lucGIbhPi2caWYvF5Lg/1767481934065/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481934/dbf91ed1418b1c35b1ee9be6735769ea/882663541/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1767481935&sign=f5c2ed9f98b4fa3c5ec0791d843b5b13
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/WsUGRBzq1WHt64WD809_oA/Fv2lucGIbhPi2caWYvF5Lg/1767481935196/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481935/71919085de670f7857aca6f1824a8adc/499199036/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/pRvoiNzQFALBSbZ7PzmqhA/Fv2lucGIbhPi2caWYvF5Lg/1767481935196/live/gaySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481935/c2602858ce4a44cf76227ef02382d22f/249767614/live/gayFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1767481936&sign=57f997bf36fc272fbe8af1757879dac9
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/TynRbguSf2ggYOcITrIvAQ/Fv2lucGIbhPi2caWYvF5Lg/1767481936314/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481936/0e504b4ed82b0007b71c2c09a91f255a/307541295/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/aJ-0zC4561rL_xxQOGnbPg/Fv2lucGIbhPi2caWYvF5Lg/1767481936314/live/thuongSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481936/8eeca925f347bc18a9d731a75ebb86b1/691216327/live/thuongFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",15h35 WIB 03/01 Melbourne City vs Sydney FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1695,41 +1812,145 @@ https://9ceg0825.edgemaxcdn.org/1767476172/f355e1a15c4b8310b7c6587869a4baba/8904
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767479772&sign=3049be0ed0ca2273b17f73f4b67e70f2
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767481929&sign=6c0f2aff7b1530a0582a4e8112c83e8b
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/n1Pv_M631d0I-kTtUg0Nng/Fv2lucGIbhPi2caWYvF5Lg/1767479772564/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DdEfP_x29BT1XAHtiuRu_g/Fv2lucGIbhPi2caWYvF5Lg/1767481929227/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479772/55122f7f241b30b992d709bd1163c7e4/390787864/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481929/12adc6e1df5bea479f747af979fd9ebe/958314526/live/bangHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4C9QnGi5o5WAVFbYwbZDnA/Fv2lucGIbhPi2caWYvF5Lg/1767479772565/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/wA7qlFShRhZ87phw6q0wHA/Fv2lucGIbhPi2caWYvF5Lg/1767481929228/live/bangSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/f719dabe880d220e161fb38a1a4a73d6.png",18:00 WIB 03/01 Ilbank W vs Besiktas W (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479772/cf2a84682160336fd07b00a2c09f7e95/961674014/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481929/1402fb281ef35ac3b1b5ed34a2a0bb66/738259175/live/bangFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1767479773&sign=7af032ef1e3aeb974c38b1bf6ee8d2cb
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1767481930&sign=9c863188144ae9cfaf26d31ab0f2731f
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/EmGJnYRKc_sMWJxxbsIdqQ/Fv2lucGIbhPi2caWYvF5Lg/1767479773801/live/nenHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/e7ADGbsDNhaXf1c6-KCwRg/Fv2lucGIbhPi2caWYvF5Lg/1767481930386/live/nenHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479773/6f546f67c87ebcf1e6c0b2be00bbc97a/948800461/live/nenHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481930/14426adf0c744837355dd16c6c13d1d7/212997311/live/nenHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/A61skXCp5vB5y-SlJTLRlw/Fv2lucGIbhPi2caWYvF5Lg/1767479773801/live/nenSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/waA1dlbAhFYJUImzduIXnw/Fv2lucGIbhPi2caWYvF5Lg/1767481930387/live/nenSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/6352441b4882bc36ac6004dec0b8ca3e.png",18:00 WIB 03/01 Kuzey Boru Genclik W vs Eczacibasi W (1) [Người Nện] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767479773/42d39b26cd183c8717f023d269cd6710/501096203/live/nenFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767481930/7adc12bfedce1f12657ff3532aa6dc8b/925861170/live/nenFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1767481931&sign=8ae9c5428755a8d93ea7197ea7e8b94b
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/EyEl7k3cHslL_TJqUmEcOg/Fv2lucGIbhPi2caWYvF5Lg/1767481931617/live/khiaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481931/45c872bd8e78f3b8c3a09332a17e01da/548712211/live/khiaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/QDjCOiFms-Uf_12GaEFdxw/Fv2lucGIbhPi2caWYvF5Lg/1767481931617/live/khiaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",18:25 WIB 03/01 Coco Gauff vs Solana Sierra (1) [Ba Khía] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481931/cead715780592201de19f4d886042f90/485310000/live/khiaFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1767460332&sign=171a7473bdf774bc11c7ed6adf6ee83d
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/__KipYbAd21X-8ErmaHsuA/Fv2lucGIbhPi2caWYvF5Lg/1767460332843/live/phoHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767460332/13a3c255ad9e845162265d663cc8503f/443200918/live/phoHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/phvBMsL7hnchvnDweEVgkw/Fv2lucGIbhPi2caWYvF5Lg/1767460332844/live/phoSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767460332/9ea45a129724dc830c245a4b2c028d3d/416053841/live/phoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",18:30 WIB 03/01 Como vs Udinese (1) [Phở Bò] Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/f51fQqaLUSfmXsESl-Vrmw/Fv2lucGIbhPi2caWYvF5Lg/1767460332844/live/may241/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1767481934&sign=185fdbeb61f2589ce4a3820064d3932c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/YkQgPYwJpazi4EVd-6_uVw/Fv2lucGIbhPi2caWYvF5Lg/1767481934065/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481934/2089c7f0b44a59904213bda6a96e20f8/640938319/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/9xYaXnZLlzpRgy00BI-mDw/Fv2lucGIbhPi2caWYvF5Lg/1767481934065/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",18:35 WIB 03/01 Shanghai Jiushi vs Ningbo Rockets (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481934/dbf91ed1418b1c35b1ee9be6735769ea/882663541/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1767481935&sign=f5c2ed9f98b4fa3c5ec0791d843b5b13
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/WsUGRBzq1WHt64WD809_oA/Fv2lucGIbhPi2caWYvF5Lg/1767481935196/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481935/71919085de670f7857aca6f1824a8adc/499199036/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/pRvoiNzQFALBSbZ7PzmqhA/Fv2lucGIbhPi2caWYvF5Lg/1767481935196/live/gaySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/fb44eee02df789207dee98898982cc16.png",18:35 WIB 03/01 Shenzhen Aviators vs Zhejiang Chouzhou Golden (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481935/c2602858ce4a44cf76227ef02382d22f/249767614/live/gayFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1767481936&sign=57f997bf36fc272fbe8af1757879dac9
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/TynRbguSf2ggYOcITrIvAQ/Fv2lucGIbhPi2caWYvF5Lg/1767481936314/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481936/0e504b4ed82b0007b71c2c09a91f255a/307541295/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/aJ-0zC4561rL_xxQOGnbPg/Fv2lucGIbhPi2caWYvF5Lg/1767481936314/live/thuongSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",18:35 WIB 03/01 Guangsha vs Beijing Ducks (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767481936/8eeca925f347bc18a9d731a75ebb86b1/691216327/live/thuongFHD/playlist.m3u8
 #--- 10CAM END ---
