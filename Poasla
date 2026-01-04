@@ -1277,15 +1277,28 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498851" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Italy vs Switzerland - 4 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767551401~acl=/*~id=280fc855ee7a5e8361ed94f7c82eae00-1767508200150~hmac=d107900f19bf2e14cc77ac089868b58daae22a231e0280d037660ddaeaae4cc6|User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S906E; Build/BP2A.250605.031.A3)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7ef1577eddef53cd18d5b576cfb75ed4-1767525011044
+https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767551401~acl=/*~id=280fc855ee7a5e8361ed94f7c82eae00-1767508200150~hmac=d107900f19bf2e14cc77ac089868b58daae22a231e0280d037660ddaeaae4cc6|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2166A; Build/SP1A.210812.003_NONFC)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=998d151387d039f403e29018bdf6483e-1767526211919
 #EXTINF:1 tvg-id="1090498819" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012906/176741854171177_UC26_Canada_vs_China_3jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Canada vs China - 4 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767551401~acl=/*~id=280fc855ee7a5e8361ed94f7c82eae00-1767508200150~hmac=d107900f19bf2e14cc77ac089868b58daae22a231e0280d037660ddaeaae4cc6|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; LAVA LZX411; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7ef1577eddef53cd18d5b576cfb75ed4-1767525011044
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767551401~acl=/*~id=280fc855ee7a5e8361ed94f7c82eae00-1767508200150~hmac=d107900f19bf2e14cc77ac089868b58daae22a231e0280d037660ddaeaae4cc6|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2249; Build/AP3A.240905.015.A2_IN)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=998d151387d039f403e29018bdf6483e-1767526211919
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 4/1/2026, 16:15:04
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767612605~acl=%2f*~data=hdntl~hmac=26a1744756cf6eb7a67383dcb8c8223cbe954d894679697654c87f072796f83f
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767612608~acl=%2f*~data=hdntl~hmac=7a264ebecd9f224874cd2ac7010eff0ebe3e4391a2affffb9db558d928cd37fb
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -1516,78 +1529,34 @@ https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD 1
+https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD 1
+https://mrkw1025.edgemaxcdn.org/live/heosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD 2
+https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD 1
+https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/577ece2ea9a8d814fed57d7b80268bb0.png",16h15 WIB 04/01 Kuala Lumpur vs Imigresen FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1660,30 +1629,6 @@ https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/rFVPPnBr-AgaXQ5bs.png",15h30 WIB 04/01 Adhyaksa Farmel FC vs Garudayaksa (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/111187735403171f460903cb8cd42bcf.png",17h00 WIB 04/01 Lecce U20 vs Inter Milan U20 (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fc36659e34da86240c5b2263f383720.png",17h00 WIB 04/01 Negele Arsi vs Defence Force ETH (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 WIB 04/01 Tiffy Army FC vs Boeung Ket Angkor (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",18h00 WIB 04/01 Svay Rieng FC vs Visakha FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a9e9d827b3ace9432a37b3ef3f01d313.png",18h00 WIB 04/01 Phnom Penh FC vs Life FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8c93ecb503f1153597997e095e0e3bc2.png",18h00 WIB 04/01 Prachuap Khiri Khan vs Buriram United (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1708,18 +1653,26 @@ https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Show Court
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ve4tjQBdZc2AoVduCjSpXg/Fv2lucGIbhPi2caWYvF5Lg/1767566885153/live/may271/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/TPnFS6oialqu6xFXwZjzxg/Fv2lucGIbhPi2caWYvF5Lg/1767566885154/live/may27/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c2b07f8cc8ec43846a2636202da1bf1f.png",16:00 WIB 04/01 Jasmine Paolini vs Belinda Bencic (1) [Nhà Đài] NHÀ ĐÀI
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Rz6IfuBYE6_CpjuEHQW3cQ/Fv2lucGIbhPi2caWYvF5Lg/1767562574673/live/may26/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/111187735403171f460903cb8cd42bcf.png",17h00 WIB 04/01 Lecce U20 vs Inter Milan U20 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fc36659e34da86240c5b2263f383720.png",17h00 WIB 04/01 Negele Arsi vs Defence Force ETH (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 WIB 04/01 Tiffy Army FC vs Boeung Ket Angkor (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",18h00 WIB 04/01 Svay Rieng FC vs Visakha FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a9e9d827b3ace9432a37b3ef3f01d313.png",18h00 WIB 04/01 Phnom Penh FC vs Life FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8fb827f3c7f49106bd645f1581f9f1d6.png",18:00 WIB 04/01 Prachuap Khiri Khan vs Buriram United (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1740,23 +1693,31 @@ https://hotlivezz179602324.akainu.xyz/K2SImaDrFxlX2THuXKkBRg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767545287/10d73d3a0ee31a30b3726e61b4bbc267/713509169/live/meoFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Show Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/ve4tjQBdZc2AoVduCjSpXg/Fv2lucGIbhPi2caWYvF5Lg/1767566885153/live/may271/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/TPnFS6oialqu6xFXwZjzxg/Fv2lucGIbhPi2caWYvF5Lg/1767566885154/live/may27/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1767565445&sign=8e4d757f190d52ebd02a678bdff235ca
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/Kq99doWDcrGOwYtRyNkvug/Fv2lucGIbhPi2caWYvF5Lg/1767565445762/live/cuonHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD2
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767565445/5bff333f20e8eb879a92a075565ba8ef/725373634/live/cuonHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] SD
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/mqmL3eJntMauHtZHNZlrxA/Fv2lucGIbhPi2caWYvF5Lg/1767565445762/live/cuonSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] FullHD
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767565445/d340e8db525c8c7ed54f2b25ad849a36/253773659/live/cuonFHD/playlist.m3u8
@@ -1808,78 +1769,114 @@ https://9ceg0825.edgemaxcdn.org/1767546008/a2e2e75862e4ae26293647a8feb5147d/9034
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/L6LWpgRPwnd0Ms5U6LRzgA/Fv2lucGIbhPi2caWYvF5Lg/1767546008233/live/may24/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767568691&sign=c2a51d7adfb4f8fef8d1198700ea0a1f
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/PmPpBxLEoH3n3dOtPZSPRA/Fv2lucGIbhPi2caWYvF5Lg/1767568691681/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568691/8f08c4c17803c3954a238201a6bda5bf/630476591/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Qrg1g7DHgCgNMllK4LdwHA/Fv2lucGIbhPi2caWYvF5Lg/1767568691682/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568691/b3a2ebdd09b6b53c54c16265d0aa01c7/261852613/live/luaFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1767568692&sign=9c8305c4256c43c7d9b6a12670b75683
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/IVzxNxBb0kEtlCbDEFTOoA/Fv2lucGIbhPi2caWYvF5Lg/1767568692936/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568692/072a2c15c2da7c98410935adccaeed33/465384472/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/rJRRanJw0kLsTYLsHYhVMQ/Fv2lucGIbhPi2caWYvF5Lg/1767568692937/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568692/0fa986314dfd89a40af06d9ad1802a36/796334015/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1767568694&sign=5351946e464ee6beaaf46e9677a3d0ca
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/or1jgSCChmhMVCbbUBx7gA/Fv2lucGIbhPi2caWYvF5Lg/1767568694107/live/nuiHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568694/56eaeacadb8a9875f9d5681043203d3e/192669016/live/nuiHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oIpLocgYu8ngzORv09xDVQ/Fv2lucGIbhPi2caWYvF5Lg/1767568694108/live/nuiSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568694/5e69cded354b83f77f80a4dd84a67c8c/566413037/live/nuiFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1767568695&sign=4b61542bfc3a1585130e4c6ba99280d1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/rhlRy6BoPnOxhM-9Q_w_iw/Fv2lucGIbhPi2caWYvF5Lg/1767568695345/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568695/fae616ff8fa8cda42e47c1deb00ca852/610956226/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/g2HYvpoDiEXp8BoT12VTtA/Fv2lucGIbhPi2caWYvF5Lg/1767568695345/live/thuongSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568695/7dcbef67afb1f8323a1c540febf2ac2d/397576299/live/thuongFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD 1
+https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD 1
+https://mrkw1025.edgemaxcdn.org/live/heosd1RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) SD 2
+https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) SD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 WIB 04/01 Adelaide United vs Central Coast Mariners (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD 1
+https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",18h30 WIB 04/01 Lazio vs Napoli (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1a64731cd883e9d734e29a83301ea849.png",15h30 WIB 04/01 PSIM Yogyakarta vs Semen Padang (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/72d17166b53b92400b51def102c3680e.png",15h30 WIB 04/01 Persis Solo FC vs Persita Tangerang (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/577ece2ea9a8d814fed57d7b80268bb0.png",16h15 WIB 04/01 Kuala Lumpur vs Imigresen FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1952,30 +1949,6 @@ https://mrkw1025.edgemaxcdn.org/live/dosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/rFVPPnBr-AgaXQ5bs.png",15h30 WIB 04/01 Adhyaksa Farmel FC vs Garudayaksa (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/111187735403171f460903cb8cd42bcf.png",17h00 WIB 04/01 Lecce U20 vs Inter Milan U20 (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fc36659e34da86240c5b2263f383720.png",17h00 WIB 04/01 Negele Arsi vs Defence Force ETH (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 WIB 04/01 Tiffy Army FC vs Boeung Ket Angkor (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",18h00 WIB 04/01 Svay Rieng FC vs Visakha FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a9e9d827b3ace9432a37b3ef3f01d313.png",18h00 WIB 04/01 Phnom Penh FC vs Life FC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8c93ecb503f1153597997e095e0e3bc2.png",18h00 WIB 04/01 Prachuap Khiri Khan vs Buriram United (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2000,18 +1973,26 @@ https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Show Court
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ve4tjQBdZc2AoVduCjSpXg/Fv2lucGIbhPi2caWYvF5Lg/1767566885153/live/may271/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/TPnFS6oialqu6xFXwZjzxg/Fv2lucGIbhPi2caWYvF5Lg/1767566885154/live/may27/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c2b07f8cc8ec43846a2636202da1bf1f.png",16:00 WIB 04/01 Jasmine Paolini vs Belinda Bencic (1) [Nhà Đài] NHÀ ĐÀI
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Rz6IfuBYE6_CpjuEHQW3cQ/Fv2lucGIbhPi2caWYvF5Lg/1767562574673/live/may26/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/111187735403171f460903cb8cd42bcf.png",17h00 WIB 04/01 Lecce U20 vs Inter Milan U20 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fc36659e34da86240c5b2263f383720.png",17h00 WIB 04/01 Negele Arsi vs Defence Force ETH (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 WIB 04/01 Tiffy Army FC vs Boeung Ket Angkor (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",18h00 WIB 04/01 Svay Rieng FC vs Visakha FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a9e9d827b3ace9432a37b3ef3f01d313.png",18h00 WIB 04/01 Phnom Penh FC vs Life FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8fb827f3c7f49106bd645f1581f9f1d6.png",18:00 WIB 04/01 Prachuap Khiri Khan vs Buriram United (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2032,23 +2013,31 @@ https://hotlivezz179602324.akainu.xyz/K2SImaDrFxlX2THuXKkBRg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767545287/10d73d3a0ee31a30b3726e61b4bbc267/713509169/live/meoFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Show Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/ve4tjQBdZc2AoVduCjSpXg/Fv2lucGIbhPi2caWYvF5Lg/1767566885153/live/may271/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",13:00 WIB 04/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/TPnFS6oialqu6xFXwZjzxg/Fv2lucGIbhPi2caWYvF5Lg/1767566885154/live/may27/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1767565445&sign=8e4d757f190d52ebd02a678bdff235ca
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/Kq99doWDcrGOwYtRyNkvug/Fv2lucGIbhPi2caWYvF5Lg/1767565445762/live/cuonHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD2
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767565445/5bff333f20e8eb879a92a075565ba8ef/725373634/live/cuonHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] SD
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/mqmL3eJntMauHtZHNZlrxA/Fv2lucGIbhPi2caWYvF5Lg/1767565445762/live/cuonSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:05 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] FullHD
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/c241ca862f518d645e9b7464455d175d.png",18:25 WIB 04/01 Flavio Cobolli vs Stan Wawrinka (1) [Bánh Cuốn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767565445/d340e8db525c8c7ed54f2b25ad849a36/253773659/live/cuonFHD/playlist.m3u8
@@ -2100,4 +2089,84 @@ https://9ceg0825.edgemaxcdn.org/1767546008/a2e2e75862e4ae26293647a8feb5147d/9034
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/L6LWpgRPwnd0Ms5U6LRzgA/Fv2lucGIbhPi2caWYvF5Lg/1767546008233/live/may24/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767568691&sign=c2a51d7adfb4f8fef8d1198700ea0a1f
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/PmPpBxLEoH3n3dOtPZSPRA/Fv2lucGIbhPi2caWYvF5Lg/1767568691681/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568691/8f08c4c17803c3954a238201a6bda5bf/630476591/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Qrg1g7DHgCgNMllK4LdwHA/Fv2lucGIbhPi2caWYvF5Lg/1767568691682/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/2428a8c17b5a31163b54cb9502998bbf.png",18:35 WIB 04/01 Fujian Sturgeons vs Xinjiang Yili (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568691/b3a2ebdd09b6b53c54c16265d0aa01c7/261852613/live/luaFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1767568692&sign=9c8305c4256c43c7d9b6a12670b75683
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/IVzxNxBb0kEtlCbDEFTOoA/Fv2lucGIbhPi2caWYvF5Lg/1767568692936/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568692/072a2c15c2da7c98410935adccaeed33/465384472/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/rJRRanJw0kLsTYLsHYhVMQ/Fv2lucGIbhPi2caWYvF5Lg/1767568692937/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/03173dab50b9418d1a834a91104d90a4.png",18:35 WIB 04/01 Flying Leopards vs Northeast Tigers (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568692/0fa986314dfd89a40af06d9ad1802a36/796334015/live/phepFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1767568694&sign=5351946e464ee6beaaf46e9677a3d0ca
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/or1jgSCChmhMVCbbUBx7gA/Fv2lucGIbhPi2caWYvF5Lg/1767568694107/live/nuiHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568694/56eaeacadb8a9875f9d5681043203d3e/192669016/live/nuiHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oIpLocgYu8ngzORv09xDVQ/Fv2lucGIbhPi2caWYvF5Lg/1767568694108/live/nuiSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/18171c45e2bbfebb9dfb5887b8aa138f.png",18:35 WIB 04/01 Shanxi Fenjiu vs Suzhou Kendiya (1) [A Núi] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568694/5e69cded354b83f77f80a4dd84a67c8c/566413037/live/nuiFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1767568695&sign=4b61542bfc3a1585130e4c6ba99280d1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/rhlRy6BoPnOxhM-9Q_w_iw/Fv2lucGIbhPi2caWYvF5Lg/1767568695345/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568695/fae616ff8fa8cda42e47c1deb00ca852/610956226/live/thuongHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/g2HYvpoDiEXp8BoT12VTtA/Fv2lucGIbhPi2caWYvF5Lg/1767568695345/live/thuongSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/ce76c8525e729717552d7ec2d5ae8ab4.png",18:35 WIB 04/01 Nanjing Toupaisujiu vs Shandong Hi-Speed (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767568695/7dcbef67afb1f8323a1c540febf2ac2d/397576299/live/thuongFHD/playlist.m3u8
 #--- 10CAM END ---
