@@ -335,21 +335,16 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #No live matches.
 #--- SONY END ---
 
 #--- ZEE5 START ---
-#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767785522~acl=%2f*~data=hdntl~hmac=500b1f7e4f432c42eb25b9d12ef1459856cec814a05ab09f7293efba86e88fd9
-#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.zee5.com/
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767785525~acl=%2f*~data=hdntl~hmac=813dd6db06689d967bec7f1d99b80655414b57f2e849c9857ec1b6c4c5e7958f
+# Last Checked: 6/1/2026, 18:02:18
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -421,6 +416,10 @@ https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkislanders/index.m3u8
+#EXTINF:1 tvg-id="ppv-15850" tvg-name="Florida Panthers vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/eaae3b8f4a62cde7ae9416ca88a2cfd4-thumbnail.jpg" group-title="PPV-LIVE",Florida Panthers vs. Toronto Maple Leafs - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTINF:1 tvg-id="ppv-15843" tvg-name="San Antonio Spurs vs. Memphis Grizzlies" tvg-logo="https://api.ppv.to/assets/thumb/cc8f12dad95c25bd563e9bc571e36e9d-thumbnail.jpg" group-title="PPV-LIVE",San Antonio Spurs vs. Memphis Grizzlies - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -433,6 +432,10 @@ https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/neworleanspelicans/index.m3u8
+#EXTINF:1 tvg-id="ppv-15852" tvg-name="Vegas Golden Knights vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/262f2ab855a24702ea4989a1995f2ff9-thumbnail.jpg" group-title="PPV-LIVE",Vegas Golden Knights vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:1 tvg-id="ppv-15827" tvg-name="WWE: NXT" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPV-LIVE",WWE: NXT - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -445,6 +448,170 @@ https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:1 tvg-id="ppv-15855" tvg-name="Boston Bruins vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/9b6125f22d660b76b0081d5521b83508-thumbnail.jpg" group-title="PPV-LIVE",Boston Bruins vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/seattlekraken/index.m3u8
+#EXTINF:1 tvg-id="ppv-15851" tvg-name="Dallas Mavericks vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/30371b450c89b33978b7855c574e0538-thumbnail.jpg" group-title="PPV-LIVE",Dallas Mavericks vs. Sacramento Kings - 11:00 PM ET / 09:00 PM MT / 04:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sacramentokings/index.m3u8
+#EXTINF:1 tvg-id="ppv-15809" tvg-name="Bologna vs. Atalanta" tvg-logo="https://api.ppv.to/assets/thumb/4dc857c21048c6d253c0a007d48be30f-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Atalanta - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_bol/index.m3u8
+#EXTINF:1 tvg-id="ppv-15810" tvg-name="Napoli vs. Hellas Verona" tvg-logo="https://api.ppv.to/assets/thumb/4a62506af2d3952389788c0d85953606-thumbnail.jpg" group-title="PPV-LIVE",Napoli vs. Hellas Verona - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_nap/index.m3u8
+#EXTINF:1 tvg-id="ppv-15797" tvg-name="AFC Bournemouth vs. Tottenham Hotspur" tvg-logo="https://api.ppv.to/assets/thumb/57192d629b684d92e6f5c0dde61bd2d5-thumbnail.jpg" group-title="PPV-LIVE",AFC Bournemouth vs. Tottenham Hotspur - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_bou/index.m3u8
+#EXTINF:1 tvg-id="ppv-15798" tvg-name="Brentford vs. Sunderland" tvg-logo="https://api.ppv.to/assets/thumb/b67a286215476107f75ef81c342debe9-thumbnail.jpg" group-title="PPV-LIVE",Brentford vs. Sunderland - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_bre/index.m3u8
+#EXTINF:1 tvg-id="ppv-15799" tvg-name="Crystal Palace vs. Aston Villa" tvg-logo="https://api.ppv.to/assets/thumb/3990d38694cbba2727998aa5259a5155-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Aston Villa - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_cry/index.m3u8
+#EXTINF:1 tvg-id="ppv-15800" tvg-name="Everton vs. Wolverhampton Wanderers" tvg-logo="https://api.ppv.to/assets/thumb/8e7b29025fa9499d22122d0846d806fb-thumbnail.jpg" group-title="PPV-LIVE",Everton vs. Wolverhampton Wanderers - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_eve/index.m3u8
+#EXTINF:1 tvg-id="ppv-15801" tvg-name="Fulham vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/e8e69f0a35fdc64c9bd627612a5ef3e7-thumbnail.jpg" group-title="PPV-LIVE",Fulham vs. Chelsea - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_ful/index.m3u8
+#EXTINF:1 tvg-id="ppv-15802" tvg-name="Manchester City vs. Brighton & Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/efe8c7a3d62f994d528ba75f5731f5db-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Brighton & Hove Albion - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_mnc/index.m3u8
+#EXTINF:1 tvg-id="ppv-15811" tvg-name="Lazio vs. Fiorentina" tvg-logo="https://api.ppv.to/assets/thumb/b2c1699e3db9d6c44e56d51399bfde98-thumbnail.jpg" group-title="PPV-LIVE",Lazio vs. Fiorentina - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_laz/index.m3u8
+#EXTINF:1 tvg-id="ppv-15812" tvg-name="Parma vs. Internazionale" tvg-logo="https://api.ppv.to/assets/thumb/f051244c9e4cc9c0359fa2a44390892e-thumbnail.jpg" group-title="PPV-LIVE",Parma vs. Internazionale - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_par/index.m3u8
+#EXTINF:1 tvg-id="ppv-15813" tvg-name="Torino vs. Udinese" tvg-logo="https://api.ppv.to/assets/thumb/d3e13fea9b20dba48e699b21748a0ab3-thumbnail.jpg" group-title="PPV-LIVE",Torino vs. Udinese - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_tor/index.m3u8
+#EXTINF:1 tvg-id="ppv-15803" tvg-name="Burnley vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/6327e2fb1f4336444860be58a285b004-thumbnail.jpg" group-title="PPV-LIVE",Burnley vs. Manchester United - 03:15 PM ET / 01:15 PM MT / 20:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_bur/index.m3u8
+#EXTINF:1 tvg-id="ppv-15804" tvg-name="Newcastle United vs. Leeds United" tvg-logo="https://api.ppv.to/assets/thumb/33042061323a1b4ffccbe47f18185324-thumbnail.jpg" group-title="PPV-LIVE",Newcastle United vs. Leeds United - 03:15 PM ET / 01:15 PM MT / 20:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_new/index.m3u8
+#EXTINF:1 tvg-id="ppv-15828" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPV-LIVE",AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15814" tvg-name="Cremonese vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/b5ba8a550a2753f86241fcb972e327ae-thumbnail.jpg" group-title="PPV-LIVE",Cremonese vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_cre/index.m3u8
+#EXTINF:1 tvg-id="ppv-15815" tvg-name="AC Milan vs. Genoa" tvg-logo="https://api.ppv.to/assets/thumb/96eb809059fb5b3afeb6c6bfcba8fdbc-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Genoa - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_mil/index.m3u8
+#EXTINF:1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" group-title="PPV-LIVE",Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15829" tvg-name="TNA: Impact" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15830" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15762" tvg-name="Getafe vs. Real Sociedad" tvg-logo="https://api.ppv.to/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Real Sociedad - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_get/index.m3u8
+#EXTINF:1 tvg-id="ppv-15836" tvg-name="Oregon Ducks vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" group-title="PPV-LIVE",Oregon Ducks vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:1 tvg-id="ppv-15772" tvg-name="Real Oviedo vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/4117c9f430b190ef3e464c67c964ee92-thumbnail.jpg" group-title="PPV-LIVE",Real Oviedo vs. Real Betis - 08:00 AM ET / 06:00 AM MT / 13:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ovi/index.m3u8
+#EXTINF:1 tvg-id="ppv-15816" tvg-name="Como vs. Bologna" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_como/index.m3u8
+#EXTINF:1 tvg-id="ppv-15788" tvg-name="1. FC Heidenheim 1846 vs. FC Cologne" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. FC Cologne - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_hdh/index.m3u8
+#EXTINF:1 tvg-id="ppv-15789" tvg-name="1. FC Union Berlin vs. Mainz" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Mainz - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_fcu/index.m3u8
+#EXTINF:1 tvg-id="ppv-15790" tvg-name="SC Freiburg vs. Hamburg SV" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Hamburg SV - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_scf/index.m3u8
+#EXTINF:1 tvg-id="ppv-15791" tvg-name="St. Pauli vs. RB Leipzig" tvg-logo="https://api.ppv.to/assets/thumb/bf9c9f8ffcec7218003fef3dd0de8ec8-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_stp/index.m3u8
+#EXTINF:1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_vil/index.m3u8
+#EXTINF:1 tvg-id="ppv-15818" tvg-name="AS Roma vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_roma/index.m3u8
+#EXTINF:1 tvg-id="ppv-15782" tvg-name="Girona vs. Osasuna" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Osasuna - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_gir/index.m3u8
+#EXTINF:1 tvg-id="ppv-15793" tvg-name="Bayer Leverkusen vs. VfB Stuttgart" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="PPV-LIVE",Bayer Leverkusen vs. VfB Stuttgart - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_b04/index.m3u8
+#EXTINF:1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPV-LIVE",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_val/index.m3u8
+#EXTINF:1 tvg-id="ppv-15758" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/9c7455eebac691891d928f0a58570de0-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15768" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/c359a45200d28cdd708520ec618ec4c8-thumbnail.jpg" group-title="PPV-LIVE",Green Bay Packers vs. Chicago Bears - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagobears/index.m3u8
+#EXTINF:1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPV-LIVE",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ray/index.m3u8
+#EXTINF:1 tvg-id="ppv-15821" tvg-name="Fiorentina vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. AC Milan - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_fio/index.m3u8
+#EXTINF:1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_bmg/index.m3u8
+#EXTINF:1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTINF:1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -457,10 +624,6 @@ https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_int/index.m3u8
-#EXTINF:1 tvg-id="ppv-15775" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/62fd0e19b395aa9aa9170cf7f1a46450-thumbnail.jpg" group-title="PPV-LIVE",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:1 tvg-id="ppv-15777" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/3ab7cde279f1289cde2632df8b51a7b8-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -477,10 +640,6 @@ https://gg.poocloud.in/sa_juv/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_sev/index.m3u8
-#EXTINF:1 tvg-id="ppv-15780" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/90bc034d1e1d2d74fff77be802b4bf63-thumbnail.jpg" group-title="PPV-LIVE",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -488,58 +647,82 @@ https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD 1
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD 1
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lansd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD 1
+https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD 1
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD 2
+https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fa22db02182e418b4982b5be594bdf9.png",16h30 WIB 06/01 Ayeyawady united vs Thitsar Arman FC (QUAY TAY) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 WIB 06/01 Malaysia Open 2026 (1) [Người Đất] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -612,26 +795,62 @@ https://hotlivezz179602324.akainu.xyz/5kvFgjbiH5DSBAz4sHxd7Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767736456/bfc43999c3dc21ac91b19667d32a77cc/356793042/live/bangFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767736457&sign=255e82da5da809030147eb3bdaf57da5
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD1
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1767721696&sign=800634f7af82c96432cbd274bafcf626
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/E9nHXYdhEBN4xGFA191S0A/Fv2lucGIbhPi2caWYvF5Lg/1767736457874/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD2
+https://hotlivezz179266008.akainu.xyz/MMM5-eMoXN6mz-gnJnkNrg/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767736457/e14797f5f5e6cc06abf28a040e9cb11e/508733316/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] SD
+https://9ceg0825.edgemaxcdn.org/1767721696/5263ebf27900a8819342147291dc2e78/895390378/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/_DgHeYazcnEABp3dxTIqmw/Fv2lucGIbhPi2caWYvF5Lg/1767736457875/live/xienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] FullHD
+https://hotlivezz179602324.akainu.xyz/a2LB7aZBOW1YWprSEXRhPw/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/conSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767736457/4169dd872351f9c5d7439ddadf59cda3/956078251/live/xienFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767721696/fe85d78b63552b7b15f0eed94616881c/811948303/live/conFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lj1FHKXflGPU9sPdvLKIlw/Fv2lucGIbhPi2caWYvF5Lg/1767721696106/live/sd-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/zfUQySbzlK6ckKDzl6eEmA/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/hd-en-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767721696&sign=d38d51293aaeb5440d2a0930dec04876
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/2FunxWBNtJmM4ZUEcFQmmg/Fv2lucGIbhPi2caWYvF5Lg/1767721696108/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767721696/bf165aca56800077e367e205dea7ca81/571898271/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/DjcxRt1V7vFNspDcSGZc2Q/Fv2lucGIbhPi2caWYvF5Lg/1767721696108/live/thuSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767721696/e7724a484c0cfd298b03ac16f2977253/994781676/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lj1FHKXflGPU9sPdvLKIlw/Fv2lucGIbhPi2caWYvF5Lg/1767721696106/live/sd-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/zfUQySbzlK6ckKDzl6eEmA/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/hd-en-6MvXriMEys4isxht2w/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 WIB 06/01 United Cup (1) [Nhà Đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -643,67 +862,91 @@ https://hotlivezz179026907.akainu.xyz/42T6MCLNWlpfaYfNK20tNA/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/uOTR2o47zobJ00i6f_4_uQ/Fv2lucGIbhPi2caWYvF5Lg/1767738612665/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/b-L4TjfYGStgzaWLIHocMw/Fv2lucGIbhPi2caWYvF5Lg/1767743299012/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RZqE4ULPSyfFtt2haaX5Lg/Fv2lucGIbhPi2caWYvF5Lg/1767738612665/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Hiw2MCsBFS_FjpyuV8phfg/Fv2lucGIbhPi2caWYvF5Lg/1767743299013/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 06/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/sXp99lADHlocJ1qT-So0-A/Fv2lucGIbhPi2caWYvF5Lg/1767738613850/live/may281/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD 1
+https://hotlivezz179026907.akainu.xyz/VeITo-9igay-pD9M8YJ3BA/Fv2lucGIbhPi2caWYvF5Lg/1767743300189/live/may281/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD 1
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lansd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD 2
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",16h00 WIB 06/01 Shan United vs Ispe FC (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100",18h30 WIB 06/01 Vietnam U23 vs Jordan U23 (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD 1
+https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD 1
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) SD 2
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 WIB 06/01 Yangon United vs Sagaing (QUAY TAY) HD 2
+https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0fa22db02182e418b4982b5be594bdf9.png",16h30 WIB 06/01 Ayeyawady united vs Thitsar Arman FC (QUAY TAY) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d48bf087cac6d7c3f62fb7c8d55f89b5.png",18h00 WIB 06/01 Academico Viseu U23 vs Torreense U23 (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/608b8974ad512df1293585825bef3cee.png",19h35 WIB 06/01 Al Bukayriyah vs Al-Baten (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 WIB 06/01 Malaysia Open 2026 (1) [Người Đất] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -776,26 +1019,62 @@ https://hotlivezz179602324.akainu.xyz/5kvFgjbiH5DSBAz4sHxd7Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767736456/bfc43999c3dc21ac91b19667d32a77cc/356793042/live/bangFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767736457&sign=255e82da5da809030147eb3bdaf57da5
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD1
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1767721696&sign=800634f7af82c96432cbd274bafcf626
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/E9nHXYdhEBN4xGFA191S0A/Fv2lucGIbhPi2caWYvF5Lg/1767736457874/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] HD2
+https://hotlivezz179266008.akainu.xyz/MMM5-eMoXN6mz-gnJnkNrg/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767736457/e14797f5f5e6cc06abf28a040e9cb11e/508733316/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] SD
+https://9ceg0825.edgemaxcdn.org/1767721696/5263ebf27900a8819342147291dc2e78/895390378/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/_DgHeYazcnEABp3dxTIqmw/Fv2lucGIbhPi2caWYvF5Lg/1767736457875/live/xienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3b225d432554bdac3c7850c1a36164bc.png",17:00 WIB 06/01 Elena Rybakina vs Zhang Shuai (1) [Thịt Xiên] FullHD
+https://hotlivezz179602324.akainu.xyz/a2LB7aZBOW1YWprSEXRhPw/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/conSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767736457/4169dd872351f9c5d7439ddadf59cda3/956078251/live/xienFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767721696/fe85d78b63552b7b15f0eed94616881c/811948303/live/conFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lj1FHKXflGPU9sPdvLKIlw/Fv2lucGIbhPi2caWYvF5Lg/1767721696106/live/sd-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Người Cồn] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/zfUQySbzlK6ckKDzl6eEmA/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/hd-en-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767721696&sign=d38d51293aaeb5440d2a0930dec04876
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/2FunxWBNtJmM4ZUEcFQmmg/Fv2lucGIbhPi2caWYvF5Lg/1767721696108/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767721696/bf165aca56800077e367e205dea7ca81/571898271/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/DjcxRt1V7vFNspDcSGZc2Q/Fv2lucGIbhPi2caWYvF5Lg/1767721696108/live/thuSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767721696/e7724a484c0cfd298b03ac16f2977253/994781676/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lj1FHKXflGPU9sPdvLKIlw/Fv2lucGIbhPi2caWYvF5Lg/1767721696106/live/sd-6MvXriMEys4isxht2w/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",18:30 WIB 06/01 Vietnam U23 vs Jordan U23 (1) [Cá Sát Thủ] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/zfUQySbzlK6ckKDzl6eEmA/Fv2lucGIbhPi2caWYvF5Lg/1767721696107/live/hd-en-6MvXriMEys4isxht2w/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/unique-tournament/aeb3488ce486ad81beab5c15fab1db89.png",06:30 WIB 06/01 United Cup (1) [Nhà Đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -807,13 +1086,13 @@ https://hotlivezz179026907.akainu.xyz/42T6MCLNWlpfaYfNK20tNA/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/uOTR2o47zobJ00i6f_4_uQ/Fv2lucGIbhPi2caWYvF5Lg/1767738612665/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/b-L4TjfYGStgzaWLIHocMw/Fv2lucGIbhPi2caWYvF5Lg/1767743299012/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RZqE4ULPSyfFtt2haaX5Lg/Fv2lucGIbhPi2caWYvF5Lg/1767738612665/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Hiw2MCsBFS_FjpyuV8phfg/Fv2lucGIbhPi2caWYvF5Lg/1767743299013/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 06/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/sXp99lADHlocJ1qT-So0-A/Fv2lucGIbhPi2caWYvF5Lg/1767738613850/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/VeITo-9igay-pD9M8YJ3BA/Fv2lucGIbhPi2caWYvF5Lg/1767743300189/live/may281/playlist.m3u8
 #--- 10CAM END ---
