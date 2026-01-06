@@ -319,13 +319,26 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498903" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Australia vs Czechia - 6 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K SMART TV; Build/RTK2.230523.027)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ee386d976531332fccdb278ac2c56dd3-1767697924154
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; CPH2381; Build/BP2A.250605.031.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=63357396a54b954741bdb750be0b4808-1767699123663
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 6/1/2026, 16:17:00
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767785522~acl=%2f*~data=hdntl~hmac=500b1f7e4f432c42eb25b9d12ef1459856cec814a05ab09f7293efba86e88fd9
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767785525~acl=%2f*~data=hdntl~hmac=813dd6db06689d967bec7f1d99b80655414b57f2e849c9857ec1b6c4c5e7958f
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
