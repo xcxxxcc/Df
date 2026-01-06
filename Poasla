@@ -291,11 +291,15 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498903" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Australia vs Czechia - 6 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2118; Build/SP1A.210812.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5a23adde278844d2ae9a80afa2e1bea4-1767689410726
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; NLS-MT90; Build/O11019)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ca44aaa6203d5584a5b20394ef0d955-1767690611149
 #EXTINF:1 tvg-id="1090498904" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426438011632_UnitedCup26_Italy_vs_France_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Italy vs France - 6 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-M215G; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5a23adde278844d2ae9a80afa2e1bea4-1767689410726
+https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A202F; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ca44aaa6203d5584a5b20394ef0d955-1767690611149
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -328,10 +332,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:1 tvg-id="ppv-15735" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="PPV-LIVE",Australia vs. England - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ashes/index.m3u8
 #EXTINF:1 tvg-id="ppv-15806" tvg-name="Pisa vs. Como" tvg-logo="https://api.ppv.to/assets/thumb/c12492d4438dd4cd4327a13c31f587b9-thumbnail.jpg" group-title="PPV-LIVE",Pisa vs. Como - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -376,10 +376,10 @@ https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:1 tvg-id="ppv-15848" tvg-name="New Jersey Devils vs. New York Islanders" tvg-logo="https://api.ppv.to/assets/thumb/aacedf45b8108689bc687648c3cb4ccf-thumbnail.jpg" group-title="PPV-LIVE",New Jersey Devils vs. New York Islanders - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:1 tvg-id="ppv-15846" tvg-name="Dallas Stars vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/896b986650c837df082135bd2f7ce7ef-thumbnail.jpg" group-title="PPV-LIVE",Dallas Stars vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newyorkislanders/index.m3u8
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:1 tvg-id="ppv-15850" tvg-name="Florida Panthers vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/eaae3b8f4a62cde7ae9416ca88a2cfd4-thumbnail.jpg" group-title="PPV-LIVE",Florida Panthers vs. Toronto Maple Leafs - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -388,10 +388,10 @@ https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/memphisgrizzlies/index.m3u8
-#EXTINF:1 tvg-id="ppv-15847" tvg-name="Los Angeles Lakers vs. New Orleans Pelicans" tvg-logo="https://api.ppv.to/assets/thumb/0e445d9235380f4b785e9a164a93f749-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Lakers vs. New Orleans Pelicans - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:1 tvg-id="ppv-15845" tvg-name="Miami Heat vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/df6617cf8caa5fc0e28070f3c3794716-thumbnail.jpg" group-title="PPV-LIVE",Miami Heat vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/neworleanspelicans/index.m3u8
+https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 #EXTINF:1 tvg-id="ppv-15852" tvg-name="Vegas Golden Knights vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/262f2ab855a24702ea4989a1995f2ff9-thumbnail.jpg" group-title="PPV-LIVE",Vegas Golden Knights vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -400,10 +400,10 @@ https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTINF:1 tvg-id="ppv-15853" tvg-name="Nashville Predators vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/6edd717365754f9a057c2c9c1b0d2aa0-thumbnail.jpg" group-title="PPV-LIVE",Nashville Predators vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_lev/index.m3u8
+https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -587,6 +587,26 @@ https://hotlivezz179602324.akainu.xyz/L7DZMJCSBHdFMHuYYrX1Mw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767730687/ee0dcb9a193ecf621555031cd9a14316/470495958/live/daoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767730695&sign=0570851ec62d656844be454d0777e67c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/cPh6UoaerEyUX5vmzm5M2w/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767730695/5451b78fe86d808a5e8fee0f23c33b53/491615904/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/aaSPo1WaV3wt6i5qCix_4Q/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767730695/e71bbc5cc3b7506ef7426f1ff98ba429/820767584/live/xienFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",15:00 WIB 06/01 Melbourne City vs Brisbane Roar (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -626,47 +646,27 @@ https://hotlivezz179026907.akainu.xyz/Gc1LCvaRKs6JoqEjDPcHeg/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 WIB 06/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/IgULAZq6u62k-4GrdF0CnQ/Fv2lucGIbhPi2caWYvF5Lg/1767713058503/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/G-EgPZHvRkV0ka4_NVGJsw/Fv2lucGIbhPi2caWYvF5Lg/1767732854649/live/may27/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 WIB 06/01 ATP250 Brisbane Open (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/VlVJ3dvpfrNASJ2Osa_0Fg/Fv2lucGIbhPi2caWYvF5Lg/1767713058504/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/QsYTldEU5CnkFRfr9QWN4g/Fv2lucGIbhPi2caWYvF5Lg/1767732854649/live/may271/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ax0dpm5TFT0FafyV6HSJhQ/Fv2lucGIbhPi2caWYvF5Lg/1767724213692/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/4jDQ0TIdqXd4S4OWkN2X_A/Fv2lucGIbhPi2caWYvF5Lg/1767732855837/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/yIpXNaycT0BlCAhPT2ppJg/Fv2lucGIbhPi2caWYvF5Lg/1767724213693/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dqsKbEa8ZQoWMk7XI8qCVA/Fv2lucGIbhPi2caWYvF5Lg/1767732855837/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/-y_6rn1oLwO292eQ9cYevw/Fv2lucGIbhPi2caWYvF5Lg/1767724213693/live/may252/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/d9reUk_YhVm8j_yd7n1Scw/Fv2lucGIbhPi2caWYvF5Lg/1767732855838/live/may252/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 06/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/wB_e2JAZoo9woXebPDmFtA/Fv2lucGIbhPi2caWYvF5Lg/1767726372928/live/may281/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767730695&sign=0570851ec62d656844be454d0777e67c
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cPh6UoaerEyUX5vmzm5M2w/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767730695/5451b78fe86d808a5e8fee0f23c33b53/491615904/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/aaSPo1WaV3wt6i5qCix_4Q/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767730695/e71bbc5cc3b7506ef7426f1ff98ba429/820767584/live/xienFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",15h00 WIB 06/01 Melbourne City vs Brisbane Roar (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -803,6 +803,26 @@ https://hotlivezz179602324.akainu.xyz/L7DZMJCSBHdFMHuYYrX1Mw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767730687/ee0dcb9a193ecf621555031cd9a14316/470495958/live/daoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767730695&sign=0570851ec62d656844be454d0777e67c
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/cPh6UoaerEyUX5vmzm5M2w/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767730695/5451b78fe86d808a5e8fee0f23c33b53/491615904/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/aaSPo1WaV3wt6i5qCix_4Q/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767730695/e71bbc5cc3b7506ef7426f1ff98ba429/820767584/live/xienFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/36806061ca70613f4c30f1211ee0b1ba.png",15:00 WIB 06/01 Melbourne City vs Brisbane Roar (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -842,45 +862,25 @@ https://hotlivezz179026907.akainu.xyz/Gc1LCvaRKs6JoqEjDPcHeg/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 WIB 06/01 ATP250 Brisbane Open (1) [Nhà Đài] Brisbane Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/IgULAZq6u62k-4GrdF0CnQ/Fv2lucGIbhPi2caWYvF5Lg/1767713058503/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/G-EgPZHvRkV0ka4_NVGJsw/Fv2lucGIbhPi2caWYvF5Lg/1767732854649/live/may27/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/pKqY2hC7-U3DhTrLH.png",08:00 WIB 06/01 ATP250 Brisbane Open (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/VlVJ3dvpfrNASJ2Osa_0Fg/Fv2lucGIbhPi2caWYvF5Lg/1767713058504/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/QsYTldEU5CnkFRfr9QWN4g/Fv2lucGIbhPi2caWYvF5Lg/1767732854649/live/may271/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân Pat Rafter
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ax0dpm5TFT0FafyV6HSJhQ/Fv2lucGIbhPi2caWYvF5Lg/1767724213692/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/4jDQ0TIdqXd4S4OWkN2X_A/Fv2lucGIbhPi2caWYvF5Lg/1767732855837/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/yIpXNaycT0BlCAhPT2ppJg/Fv2lucGIbhPi2caWYvF5Lg/1767724213693/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dqsKbEa8ZQoWMk7XI8qCVA/Fv2lucGIbhPi2caWYvF5Lg/1767732855837/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 06/01 WTA500 Brisbane Open (1) [Nhà đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/-y_6rn1oLwO292eQ9cYevw/Fv2lucGIbhPi2caWYvF5Lg/1767724213693/live/may252/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/d9reUk_YhVm8j_yd7n1Scw/Fv2lucGIbhPi2caWYvF5Lg/1767732855838/live/may252/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 06/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/wB_e2JAZoo9woXebPDmFtA/Fv2lucGIbhPi2caWYvF5Lg/1767726372928/live/may281/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1767730695&sign=0570851ec62d656844be454d0777e67c
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cPh6UoaerEyUX5vmzm5M2w/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767730695/5451b78fe86d808a5e8fee0f23c33b53/491615904/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/aaSPo1WaV3wt6i5qCix_4Q/Fv2lucGIbhPi2caWYvF5Lg/1767730695461/live/xienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ae574092a4b0b3cd9c1ef8b02ab078d8.png",15:30 WIB 06/01 Grigor Dimitrov vs Pablo Carreño Busta (1) [Thịt Xiên] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767730695/e71bbc5cc3b7506ef7426f1ff98ba429/820767584/live/xienFHD/playlist.m3u8
 #--- 10CAM END ---
