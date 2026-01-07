@@ -283,13 +283,17 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=53781c79161716b27ddfa70a8671cb9a:ec747fe222e238a6511202ce89a03df1
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767832201~acl=/*~id=fddc13e0e61d91a0435d9ea660d6eaa8-1767789000165~hmac=b351bb33655064f41d24a80574a67e48166e62eb232248956cb93a005250b523|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1812; Build/O11019)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ad95a62bfd7603ae0886516d471f6d59-1767808210661
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767832201~acl=/*~id=fddc13e0e61d91a0435d9ea660d6eaa8-1767789000165~hmac=b351bb33655064f41d24a80574a67e48166e62eb232248956cb93a005250b523|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2223; Build/TP1A.220905.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=efa5f08b080d34298b3d15e32e306298-1767809411165
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 7/1/2026, 23:15:05
+# Last Checked: 7/1/2026, 23:45:04
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -397,6 +401,10 @@ https://gg.poocloud.in/atlantahawks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/brooklynnets/index.m3u8
+#EXTINF:1 tvg-id="ppv-15887" tvg-name="LA Clippers vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/81c7fb464f6db6614ae45e849314c4f4-thumbnail.jpg" group-title="PPV-LIVE",LA Clippers vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTINF:1 tvg-id="ppv-15877" tvg-name="Calgary Flames vs. Montreal Canadiens" tvg-logo="https://api.ppv.to/assets/thumb/25f22e8bde7925a3a4077a688e4f4199-thumbnail.jpg" group-title="PPV-LIVE",Calgary Flames vs. Montreal Canadiens - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -413,10 +421,10 @@ https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:1 tvg-id="ppv-15890" tvg-name="Los Angeles Lakers vs. San Antonio Spurs" tvg-logo="https://api.ppv.to/assets/thumb/447c4bb643525202773a272bfddc3e0a-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Lakers vs. San Antonio Spurs - 09:30 PM ET / 07:30 PM MT / 02:30 UK
+#EXTINF:1 tvg-id="ppv-15879" tvg-name="St. Louis Blues vs. Chicago Blackhawks" tvg-logo="https://api.ppv.to/assets/thumb/9da6c9ace4e2aac5afe5794cfb3de821-thumbnail.jpg" group-title="PPV-LIVE",St. Louis Blues vs. Chicago Blackhawks - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sanantoniospurs/index.m3u8
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:1 tvg-id="ppv-15881" tvg-name="Ottawa Senators vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/9507edb45a9ac9487d313e61f8e49290-thumbnail.jpg" group-title="PPV-LIVE",Ottawa Senators vs. Utah Mammoth - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -441,10 +449,10 @@ https://gg.poocloud.in/sa_cre/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_mil/index.m3u8
-#EXTINF:1 tvg-id="ppv-15835" tvg-name="Miami Hurricanes vs. Ole Miss Rebels" tvg-logo="https://api.ppv.to/assets/thumb/d23cc99b1da1a2bbe982298d886b38fa-thumbnail.jpg" group-title="PPV-LIVE",Miami Hurricanes vs. Ole Miss Rebels - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:1 tvg-id="ppv-15805" tvg-name="Arsenal vs. Liverpool" tvg-logo="https://api.ppv.to/assets/thumb/69bd1af0e43583f8e954027919b6d860-thumbnail.jpg" group-title="PPV-LIVE",Arsenal vs. Liverpool - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/pl_ars/index.m3u8
 #EXTINF:1 tvg-id="ppv-15829" tvg-name="TNA: Impact" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -453,26 +461,26 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15787" tvg-name="Eintracht Frankfurt vs. Borussia Dortmund" tvg-logo="https://api.ppv.to/assets/thumb/985665e2b484202b781fa102ac24eb43-thumbnail.jpg" group-title="PPV-LIVE",Eintracht Frankfurt vs. Borussia Dortmund - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_sge/index.m3u8
 #EXTINF:1 tvg-id="ppv-15762" tvg-name="Getafe vs. Real Sociedad" tvg-logo="https://api.ppv.to/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Real Sociedad - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_get/index.m3u8
-#EXTINF:1 tvg-id="ppv-15836" tvg-name="Oregon Ducks vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" group-title="PPV-LIVE",Oregon Ducks vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:1 tvg-id="ppv-15772" tvg-name="Real Oviedo vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/4117c9f430b190ef3e464c67c964ee92-thumbnail.jpg" group-title="PPV-LIVE",Real Oviedo vs. Real Betis - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ovi/index.m3u8
+#EXTINF:1 tvg-id="ppv-15816" tvg-name="Como vs. Bologna" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_como/index.m3u8
 #EXTINF:1 tvg-id="ppv-15817" tvg-name="Udinese vs. Pisa" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="PPV-LIVE",Udinese vs. Pisa - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_udi/index.m3u8
-#EXTINF:1 tvg-id="ppv-15788" tvg-name="1. FC Heidenheim 1846 vs. FC Cologne" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. FC Cologne - 09:30 AM ET / 07:30 AM MT / 14:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_hdh/index.m3u8
 #EXTINF:1 tvg-id="ppv-15789" tvg-name="1. FC Union Berlin vs. Mainz" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Mainz - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -481,10 +489,10 @@ https://gg.poocloud.in/bl_fcu/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_scf/index.m3u8
-#EXTINF:1 tvg-id="ppv-15792" tvg-name="Werder Bremen vs. TSG Hoffenheim" tvg-logo="https://api.ppv.to/assets/thumb/e7b1c6b8cc0da4539ef4e58d7aff19c5-thumbnail.jpg" group-title="PPV-LIVE",Werder Bremen vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:1 tvg-id="ppv-15791" tvg-name="St. Pauli vs. RB Leipzig" tvg-logo="https://api.ppv.to/assets/thumb/bf9c9f8ffcec7218003fef3dd0de8ec8-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_svw/index.m3u8
+https://gg.poocloud.in/bl_stp/index.m3u8
 #EXTINF:1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -493,18 +501,22 @@ https://gg.poocloud.in/ll_vil/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_roma/index.m3u8
+#EXTINF:1 tvg-id="ppv-15782" tvg-name="Girona vs. Osasuna" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Osasuna - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTINF:1 tvg-id="ppv-15793" tvg-name="Bayer Leverkusen vs. VfB Stuttgart" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="PPV-LIVE",Bayer Leverkusen vs. VfB Stuttgart - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_b04/index.m3u8
-#EXTINF:1 tvg-id="ppv-15856" tvg-name="Supercross: Anaheim" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPV-LIVE",Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/smx/index.m3u8
 #EXTINF:1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_ata/index.m3u8
+#EXTINF:1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPV-LIVE",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_val/index.m3u8
 #EXTINF:1 tvg-id="ppv-15869" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -513,26 +525,26 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_lec/index.m3u8
+#EXTINF:1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPV-LIVE",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTINF:1 tvg-id="ppv-15821" tvg-name="Fiorentina vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. AC Milan - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
-#EXTINF:1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_bmg/index.m3u8
 #EXTINF:1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_lev/index.m3u8
+#EXTINF:1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTINF:1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -541,10 +553,10 @@ https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPV-LIVE",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTINF:1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPV-LIVE",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_int/index.m3u8
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -731,23 +743,23 @@ https://mrkw1025.edgemaxcdn.org/live/m102nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767849484&sign=2f5db98964951eddf971a0a7e511e78b
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767852006&sign=266dc285817b1e2f335c34f228f64225
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cExF1R7v_3Fl_CBhEIN3rQ/Fv2lucGIbhPi2caWYvF5Lg/1767849484578/live/socHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/tN3rsQBcbZN8KAxp_Bnp1A/Fv2lucGIbhPi2caWYvF5Lg/1767852006426/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767849484/428a140a83b22d93a25703033d8d323f/335109897/live/socHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852006/803aa8216cce32563e7c6a3cb36b13db/522356264/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ODP_wtlBnvVQfn-k7xGkig/Fv2lucGIbhPi2caWYvF5Lg/1767849484578/live/socSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/3IMjwwfWaoEdaSwebVQIEQ/Fv2lucGIbhPi2caWYvF5Lg/1767852006426/live/socSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767849484/d66485bfa5f67fc552cd7ca978e48588/871111743/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852006/b0895ee41ea62f3e69009aa632005c5b/307407635/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png",23:30 WIB 07/01 Eczacibasi W vs Milano W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -771,23 +783,23 @@ https://9ceg0825.edgemaxcdn.org/1767846608/eac906de967873e751b1a5ea5b7d42f3/1972
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767846609&sign=db2808fc407c310a4088b4cb9960916c
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767852010&sign=3ce7ec5bdb1d8d66b9cfe8f9a90e616e
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9_nfYq5RDKe6jsWjFsHMIQ/Fv2lucGIbhPi2caWYvF5Lg/1767846609750/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ETr6wz24ZQNFar-TV_dzaQ/Fv2lucGIbhPi2caWYvF5Lg/1767852010011/live/oldHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767846609/95a3f06a3f9946df746fd39de016930d/399300640/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852010/dfea63ed878c22c26866d7b0fee3b4f5/912560888/live/oldHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6YcCHCy8OeiZbOV9o3bHYA/Fv2lucGIbhPi2caWYvF5Lg/1767846609750/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/LfQuiEzGkx5mQVnc9cjhrA/Fv2lucGIbhPi2caWYvF5Lg/1767852010011/live/oldSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767846609/0ebe52fc6b72069d600eeb08c842c9f4/824989379/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852010/fbede5c0d1a2ec640a6eaf7857296768/886118239/live/oldFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/61ae87468adf7521d60dab9bedcb93b3.png",00:00 WIB 08/01 LKS Lodz W vs Conegliano W (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -828,26 +840,6 @@ https://hotlivezz179602324.akainu.xyz/zO7fUldJ_oH050SPt2qVew/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767849494/f319a98be44bf136facb27f8b5452c2e/198251485/live/cayFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1767820685&sign=0f5f999e2e267544c510df16147c2b46
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/vizmQ5EID3SGIKTDYV_MWg/Fv2lucGIbhPi2caWYvF5Lg/1767820685331/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767820685/10aa0cc85a235d22f344b25854d2d8cc/327158132/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/HlmmM9iFlFq8S0FceriFtg/Fv2lucGIbhPi2caWYvF5Lg/1767820685331/live/lungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767820685/5ab4c57eb3cb32c9e98f3309aedff5eb/629094966/live/lungFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/qatar.png",23:30 WIB 07/01 Qatar U23 vs United Arab Emirates U23 (1) [Người Dưng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -908,6 +900,26 @@ https://hotlivezz179602324.akainu.xyz/PCwC1MypTfxtmshXkLTyrw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767827893/3d698be446f0ad0b5c758d78dc1047cc/536766584/live/nuiFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767852017&sign=ffaf00a7fc32b0ec3f5368836c5ba481
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/MdJLBdQzNY1uAbjzsmiEqA/Fv2lucGIbhPi2caWYvF5Lg/1767852017750/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767852017/63406aefee4202184af716846f6784ad/772145083/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/qFsfy-P3HgkabPlag2HYhA/Fv2lucGIbhPi2caWYvF5Lg/1767852017751/live/bangSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767852017/19465aa2aada7e21282185f9628d4ac6/297418702/live/bangFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/19eac99666880f936bd720c441b9de94.png",00h30 WIB 08/01 Napoli vs Verona (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1071,23 +1083,23 @@ https://mrkw1025.edgemaxcdn.org/live/m102nd/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767849484&sign=2f5db98964951eddf971a0a7e511e78b
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767852006&sign=266dc285817b1e2f335c34f228f64225
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cExF1R7v_3Fl_CBhEIN3rQ/Fv2lucGIbhPi2caWYvF5Lg/1767849484578/live/socHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/tN3rsQBcbZN8KAxp_Bnp1A/Fv2lucGIbhPi2caWYvF5Lg/1767852006426/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767849484/428a140a83b22d93a25703033d8d323f/335109897/live/socHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852006/803aa8216cce32563e7c6a3cb36b13db/522356264/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ODP_wtlBnvVQfn-k7xGkig/Fv2lucGIbhPi2caWYvF5Lg/1767849484578/live/socSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/3IMjwwfWaoEdaSwebVQIEQ/Fv2lucGIbhPi2caWYvF5Lg/1767852006426/live/socSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 07/01 WTT  Champion DOHA 2026 (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767849484/d66485bfa5f67fc552cd7ca978e48588/871111743/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852006/b0895ee41ea62f3e69009aa632005c5b/307407635/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png",23:30 WIB 07/01 Eczacibasi W vs Milano W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1111,23 +1123,23 @@ https://9ceg0825.edgemaxcdn.org/1767846608/eac906de967873e751b1a5ea5b7d42f3/1972
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767846609&sign=db2808fc407c310a4088b4cb9960916c
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767852010&sign=3ce7ec5bdb1d8d66b9cfe8f9a90e616e
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9_nfYq5RDKe6jsWjFsHMIQ/Fv2lucGIbhPi2caWYvF5Lg/1767846609750/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ETr6wz24ZQNFar-TV_dzaQ/Fv2lucGIbhPi2caWYvF5Lg/1767852010011/live/oldHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767846609/95a3f06a3f9946df746fd39de016930d/399300640/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852010/dfea63ed878c22c26866d7b0fee3b4f5/912560888/live/oldHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6YcCHCy8OeiZbOV9o3bHYA/Fv2lucGIbhPi2caWYvF5Lg/1767846609750/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/LfQuiEzGkx5mQVnc9cjhrA/Fv2lucGIbhPi2caWYvF5Lg/1767852010011/live/oldSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/602dad86dfa1b2d2e750f8da8d3a95e7.png",23:30 WIB 07/01 Maritsa Plovdiv W vs Paris W (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767846609/0ebe52fc6b72069d600eeb08c842c9f4/824989379/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767852010/fbede5c0d1a2ec640a6eaf7857296768/886118239/live/oldFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/61ae87468adf7521d60dab9bedcb93b3.png",00:00 WIB 08/01 LKS Lodz W vs Conegliano W (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1168,26 +1180,6 @@ https://hotlivezz179602324.akainu.xyz/zO7fUldJ_oH050SPt2qVew/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767849494/f319a98be44bf136facb27f8b5452c2e/198251485/live/cayFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1767820685&sign=0f5f999e2e267544c510df16147c2b46
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/vizmQ5EID3SGIKTDYV_MWg/Fv2lucGIbhPi2caWYvF5Lg/1767820685331/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767820685/10aa0cc85a235d22f344b25854d2d8cc/327158132/live/lungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/HlmmM9iFlFq8S0FceriFtg/Fv2lucGIbhPi2caWYvF5Lg/1767820685331/live/lungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/h85WiIg5-xrtBiP1b.png",22:45 WIB 07/01 Al Bataeh vs Al Ahli (1) [Tai Lung] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767820685/5ab4c57eb3cb32c9e98f3309aedff5eb/629094966/live/lungFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/qatar.png",23:30 WIB 07/01 Qatar U23 vs United Arab Emirates U23 (1) [Người Dưng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1248,4 +1240,24 @@ https://hotlivezz179602324.akainu.xyz/PCwC1MypTfxtmshXkLTyrw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767827893/3d698be446f0ad0b5c758d78dc1047cc/536766584/live/nuiFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1767852017&sign=ffaf00a7fc32b0ec3f5368836c5ba481
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/MdJLBdQzNY1uAbjzsmiEqA/Fv2lucGIbhPi2caWYvF5Lg/1767852017750/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767852017/63406aefee4202184af716846f6784ad/772145083/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/qFsfy-P3HgkabPlag2HYhA/Fv2lucGIbhPi2caWYvF5Lg/1767852017751/live/bangSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/5827d240cdec74f65e6553b60bf5e1d1.png",01:30 WIB 08/01 Guaguas vs Perugia (1) [Người Băng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767852017/19465aa2aada7e21282185f9628d4ac6/297418702/live/bangFHD/playlist.m3u8
 #--- 10CAM END ---
