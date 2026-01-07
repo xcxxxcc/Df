@@ -381,12 +381,26 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499000" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Switzerland vs Argentina - Quarter-final - 7 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767810601~acl=/*~id=744d8aaaf2ef7010ab5ba49ee0be08f5-1767767400146~hmac=696d4ca8e9a1743b083052566c4145c4b1ccab2e2eeedb149ec6e9e599a64e76|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Pixel 6a; Build/TQ3A.230805.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=46dd1c63c4f5b540dd34343cc10c857e-1767784211536
+https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767810601~acl=/*~id=744d8aaaf2ef7010ab5ba49ee0be08f5-1767767400146~hmac=696d4ca8e9a1743b083052566c4145c4b1ccab2e2eeedb149ec6e9e599a64e76|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K AI Smart TV; Build/RTO7.250806.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2d7d2d4fc6828a4ab3a3434ef73cc4fb-1767785413673
 #--- SONY END ---
 
 #--- ZEE5 START ---
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080listd3db96878aaa473cbeba546c5b8abedc342ad56a24634605b83a39186c541f75.jpg" tvg-language="hindi" group-title="ZEE 5",HIN | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8?hdntl=exp=1767871805~acl=%2f*~data=hdntl~hmac=af0723c65456958dcb54783227ce0b6da325eada10e26d0f7213295bab3c08ac
+#EXTINF:1 tvg-id="0-1-6z5882427" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080listd3db96878aaa473cbeba546c5b8abedc342ad56a24634605b83a39186c541f75.jpg" tvg-language="english" group-title="ZEE 5",ENG | Uttar Pradesh Kabaddi League Season 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8?hdntl=exp=1767871808~acl=%2f*~data=hdntl~hmac=134bb1bc0c3d45d6b2c0be903bb1362cd52e07a1085f54b1bbd0faf152b6cc16
 #EXTINF:1 tvg-id="0-1-6z5873748" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873748/list/1920x1080list9b5e089c8f4a42b893f969155c95f1b10709c59840624196a4505279b526e6b0.jpg" tvg-language="bengali" group-title="ZEE 5",BEN | Northbengal United Fc Vs Jhr Royal City Fc Malda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.zee5.com/
@@ -695,6 +709,62 @@ https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png",16h30 WIB 07/01 Yadanabon FC vs Hantharwady United (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -867,6 +937,62 @@ https://hotlivezz179602324.akainu.xyz/v5ZeRidk9oMhLBDd49-zoQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767826457/01ac387c459c5fbde16be15937efe582/413898159/live/meoFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 WIB 07/01 Japan U23 vs Syria U23 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png!w60",18h30 WIB 07/01 Hàn Quốc U23 vs Iran U23 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m102qt/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png",16h30 WIB 07/01 Yadanabon FC vs Hantharwady United (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
