@@ -434,11 +434,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
-#EXTINF:1 tvg-id="1090498703" tvg-name="MasterChef India - Hindi" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | MasterChef India - Hindi
-https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8?hdnea=exp=1767918608~acl=/*~id=336b251a4dc37671de058a191ae56026-1767875400162~hmac=7542410dd3e3beae8c7cfe2ab22fbfbca9524114591ebfe6069672420d0d171e|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF; Build/UKN3.250415.069)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a842cb86bf65bce037b2b1694fbbab74-1767887413167
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767918608~acl=/*~id=336b251a4dc37671de058a191ae56026-1767875400162~hmac=7542410dd3e3beae8c7cfe2ab22fbfbca9524114591ebfe6069672420d0d171e|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSSS; Build/PS7697.4800N)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a842cb86bf65bce037b2b1694fbbab74-1767887413167
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767918608~acl=/*~id=336b251a4dc37671de058a191ae56026-1767875400162~hmac=7542410dd3e3beae8c7cfe2ab22fbfbca9524114591ebfe6069672420d0d171e|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-A136B; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=deddc1aeb9bdec99673f7c2a3e64269b-1767889811790
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -611,6 +613,10 @@ https://gg.poocloud.in/bl_stp/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_svw/index.m3u8
+#EXTINF:1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_vil/index.m3u8
 #EXTINF:1 tvg-id="ppv-15818" tvg-name="AS Roma vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -623,10 +629,10 @@ https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_b04/index.m3u8
-#EXTINF:1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTINF:1 tvg-id="ppv-15856" tvg-name="Supercross: Anaheim" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPV-LIVE",Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_ata/index.m3u8
+https://gg.poocloud.in/smx/index.m3u8
 #EXTINF:1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPV-LIVE",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -635,14 +641,14 @@ https://gg.poocloud.in/ll_val/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15870" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/3cb40ffda5283992d755754d94972c91-thumbnail.jpg" group-title="PPV-LIVE",Green Bay Packers vs. Chicago Bears - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPV-LIVE",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/raf/index.m3u8
 #EXTINF:1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -651,6 +657,10 @@ https://gg.poocloud.in/sa_lec/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ray/index.m3u8
+#EXTINF:1 tvg-id="ppv-15821" tvg-name="Fiorentina vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. AC Milan - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTINF:1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -659,14 +669,14 @@ https://gg.poocloud.in/bl_bmg/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_lev/index.m3u8
-#EXTINF:1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTINF:1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_ver/index.m3u8
+#EXTINF:1 tvg-id="ppv-15871" tvg-name="Buffalo Bills vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="PPV-LIVE",Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPV-LIVE",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -675,14 +685,14 @@ https://gg.poocloud.in/sa_int/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:1 tvg-id="ppv-15824" tvg-name="Genoa vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_gen/index.m3u8
+#EXTINF:1 tvg-id="ppv-15825" tvg-name="Juventus vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/08c60a46573b8501300337a9f87cf13a-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Cremonese - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_juv/index.m3u8
 #EXTINF:1 tvg-id="ppv-15786" tvg-name="Sevilla vs. Celta Vigo" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPV-LIVE",Sevilla vs. Celta Vigo - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -691,10 +701,6 @@ https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
-#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
@@ -746,54 +752,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7e9f03a408f176192cac0fbe6185f2d6.png",21h30 WIB 08/01 Al Shahaniya vs Al Duhail (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -842,18 +800,6 @@ https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",19h30 WIB 08/01 Haras El Hedoud vs Smouha SC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/45490fc4bc05f4f3e570796a942ab317.png",20h00 WIB 08/01 Sidama Bunna vs Arba Minch (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/52545530c9cf608ea4e94b14de5f637b.png",20h00 WIB 08/01 Welwalo Adigrat vs Adama City (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/MsWDuSQL-j79lU9aq.png",21h30 WIB 08/01 Mosul FC vs Arbil (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -902,50 +848,82 @@ https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/phanghd2Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/15cd425c11ed70d72aca446fb4c69dd2.png",23h00 WIB 08/01 Ponte Preta (Youth) vs Real Youth (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767907445&sign=41a5afa337e106c6d28a1115f60bd7a3
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/J0SOyiHChHliptsiYufOlQ/Fv2lucGIbhPi2caWYvF5Lg/1767907445996/live/thuHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767907445/0f4a7c147f3530d118e91c3c08be9040/371219014/live/thuHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/KNyen9CxeqoIU39FGC4KoQ/Fv2lucGIbhPi2caWYvF5Lg/1767907445996/live/thuSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767907445/8d49701faaaa4e6e146b0ac431d44344/399466981/live/thuFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767929405&sign=165ccba2542b902511f7aed451fe513c
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/foZ-SrjEcRr4nMPxKZC5Vg/Fv2lucGIbhPi2caWYvF5Lg/1767929405637/live/luaHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767929405/575053bee72ef48f249fb949078b6b72/733844437/live/luaHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/0EDj_Z_5RZxhTNf42aHw3A/Fv2lucGIbhPi2caWYvF5Lg/1767929405638/live/luaSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767929405/ed46045fd3adc31ae153a2961da3bca4/409984302/live/luaFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 08/01 WTT Champion Doha 2026 (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -970,26 +948,26 @@ https://9ceg0825.edgemaxcdn.org/1767927608/829de2fafe2667d312cceaa0780ae72d/7236
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Lt1lOFFydWuezAE8Qf6-eA/Fv2lucGIbhPi2caWYvF5Lg/1767927608155/live/may28/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767900977&sign=d9f3ccad15b74cea3e9f0e2ead059268
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD1
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767931569&sign=96b274414a5d29630a028427c25ab147
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/W6ZOhC4O_ENSqmKPAhB2Rg/Fv2lucGIbhPi2caWYvF5Lg/1767900977076/live/oldHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD2
+https://hotlivezz179266008.akainu.xyz/p5oS5DYLYB1sjjHO7qUjUA/Fv2lucGIbhPi2caWYvF5Lg/1767931569063/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767900977/0779a666fdfce83dd17441f19cb0cd47/301457411/live/oldHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] SD
+https://9ceg0825.edgemaxcdn.org/1767931569/ba8049f215e9925198fdfb609ae4fe70/430310286/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/tfTzWD7mJ8L4yNYsQ9fydQ/Fv2lucGIbhPi2caWYvF5Lg/1767900977076/live/oldSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] FullHD
+https://hotlivezz179602324.akainu.xyz/W9Rn0jo6o3DgEIRMJo4nKQ/Fv2lucGIbhPi2caWYvF5Lg/1767931569063/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767900977/e84492a5b2ccd0c6b85350b1dd188ad0/862224500/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767931569/eb3eb430a318612046b358cff303e913/886225063/live/luaFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7e9f03a408f176192cac0fbe6185f2d6.png",21:30 WIB 08/01 Al Shahaniya vs Al Duhail (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1058,6 +1036,50 @@ https://9ceg0825.edgemaxcdn.org/1767906018/b7c3a837bfef73c859e9bcd591faa682/5075
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/w37LAkbGqd1OFYx27gjHjA/Fv2lucGIbhPi2caWYvF5Lg/1767906018211/live/sd-6MvXc74fpBArn8nMhM/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767909975&sign=ba4c99ce61c5c719f9252e1310aef735
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/BpajBQ6nyTUd8SspNlLc_g/Fv2lucGIbhPi2caWYvF5Lg/1767909975225/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909975/0ea20284a0391c27e184de999efde6c5/320786801/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fDvCeE-n6nM-WKVjXIIaAQ/Fv2lucGIbhPi2caWYvF5Lg/1767909975225/live/thuSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909975/3c44c1d49ad68eac80e6511f613e863f/192753372/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wLKvF3nPs4ro7DUSd65Hqw/Fv2lucGIbhPi2caWYvF5Lg/1767909975224/live/sd-6MvYMCNLWG7ntM3kaP/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1767909976&sign=e962b2a3d8facadfc24d0a3611ce2dd7
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/pVte62RGWpqR92qFAUNcgQ/Fv2lucGIbhPi2caWYvF5Lg/1767909976416/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909976/7d622d9faae2a7b2dde5529dff336654/728582197/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/idMY2xsaYyBFCGn2IW4_bA/Fv2lucGIbhPi2caWYvF5Lg/1767909976416/live/trauSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909976/ba2466c8c36820cedb88f7f21ebbf081/117589327/live/trauFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cc40d06ff0a16a793d066dbfa2917bab.png!w60",21h00 WIB 08/01 Iraq U23 vs Trung Quốc U23 (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1106,54 +1128,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",20h00 WIB 08/01 Al-Jazira(UAE) vs Ajman (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/70256bdc9787193add90808adc3debc1.png",20h00 WIB 08/01 Dabba Al-Fujairah vs Khor Fakkan SSC (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7e9f03a408f176192cac0fbe6185f2d6.png",21h30 WIB 08/01 Al Shahaniya vs Al Duhail (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1202,18 +1176,6 @@ https://mrkw1025.edgemaxcdn.org/live/lansd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",19h30 WIB 08/01 Haras El Hedoud vs Smouha SC (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/45490fc4bc05f4f3e570796a942ab317.png",20h00 WIB 08/01 Sidama Bunna vs Arba Minch (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/52545530c9cf608ea4e94b14de5f637b.png",20h00 WIB 08/01 Welwalo Adigrat vs Adama City (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8 
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/MsWDuSQL-j79lU9aq.png",21h30 WIB 08/01 Mosul FC vs Arbil (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1262,50 +1224,82 @@ https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/phanghd2Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22h45 WIB 08/01 Al-Dhafra vs Al-Ain SFC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png",23h00 WIB 08/01 Al-Ahli(BHR) vs Al-Budaiya (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/momsd1QT/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a7971ca9040ab9bf42df4bf8594bf119.jpg",23h00 WIB 08/01 Al-Shabbab vs Al Hidd (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2QT/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/15cd425c11ed70d72aca446fb4c69dd2.png",23h00 WIB 08/01 Ponte Preta (Youth) vs Real Youth (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767907445&sign=41a5afa337e106c6d28a1115f60bd7a3
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/J0SOyiHChHliptsiYufOlQ/Fv2lucGIbhPi2caWYvF5Lg/1767907445996/live/thuHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767907445/0f4a7c147f3530d118e91c3c08be9040/371219014/live/thuHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/KNyen9CxeqoIU39FGC4KoQ/Fv2lucGIbhPi2caWYvF5Lg/1767907445996/live/thuSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767907445/8d49701faaaa4e6e146b0ac431d44344/399466981/live/thuFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767929405&sign=165ccba2542b902511f7aed451fe513c
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/foZ-SrjEcRr4nMPxKZC5Vg/Fv2lucGIbhPi2caWYvF5Lg/1767929405637/live/luaHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767929405/575053bee72ef48f249fb949078b6b72/733844437/live/luaHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/0EDj_Z_5RZxhTNf42aHw3A/Fv2lucGIbhPi2caWYvF5Lg/1767929405638/live/luaSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767929405/ed46045fd3adc31ae153a2961da3bca4/409984302/live/luaFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/lxQzLyfU-vs1fZ4Dc.png",14:30 WIB 08/01 WTT Champion Doha 2026 (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1330,26 +1324,26 @@ https://9ceg0825.edgemaxcdn.org/1767927608/829de2fafe2667d312cceaa0780ae72d/7236
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Lt1lOFFydWuezAE8Qf6-eA/Fv2lucGIbhPi2caWYvF5Lg/1767927608155/live/may28/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1767900977&sign=d9f3ccad15b74cea3e9f0e2ead059268
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD1
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767931569&sign=96b274414a5d29630a028427c25ab147
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/W6ZOhC4O_ENSqmKPAhB2Rg/Fv2lucGIbhPi2caWYvF5Lg/1767900977076/live/oldHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] HD2
+https://hotlivezz179266008.akainu.xyz/p5oS5DYLYB1sjjHO7qUjUA/Fv2lucGIbhPi2caWYvF5Lg/1767931569063/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767900977/0779a666fdfce83dd17441f19cb0cd47/301457411/live/oldHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] SD
+https://9ceg0825.edgemaxcdn.org/1767931569/ba8049f215e9925198fdfb609ae4fe70/430310286/live/luaHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/tfTzWD7mJ8L4yNYsQ9fydQ/Fv2lucGIbhPi2caWYvF5Lg/1767900977076/live/oldSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iraq.png",21:00 WIB 08/01 Iraq U23 vs China U23 (1) [Người Già] FullHD
+https://hotlivezz179602324.akainu.xyz/W9Rn0jo6o3DgEIRMJo4nKQ/Fv2lucGIbhPi2caWYvF5Lg/1767931569063/live/luaSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/n5LO72Yg-8UKNAPGH.png",23:00 WIB 08/01 Dubai vs Fenerbahçe Beko (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767900977/e84492a5b2ccd0c6b85350b1dd188ad0/862224500/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767931569/eb3eb430a318612046b358cff303e913/886225063/live/luaFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7e9f03a408f176192cac0fbe6185f2d6.png",21:30 WIB 08/01 Al Shahaniya vs Al Duhail (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1418,4 +1412,48 @@ https://9ceg0825.edgemaxcdn.org/1767906018/b7c3a837bfef73c859e9bcd591faa682/5075
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/w37LAkbGqd1OFYx27gjHjA/Fv2lucGIbhPi2caWYvF5Lg/1767906018211/live/sd-6MvXc74fpBArn8nMhM/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1767909975&sign=ba4c99ce61c5c719f9252e1310aef735
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/BpajBQ6nyTUd8SspNlLc_g/Fv2lucGIbhPi2caWYvF5Lg/1767909975225/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909975/0ea20284a0391c27e184de999efde6c5/320786801/live/thuHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fDvCeE-n6nM-WKVjXIIaAQ/Fv2lucGIbhPi2caWYvF5Lg/1767909975225/live/thuSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909975/3c44c1d49ad68eac80e6511f613e863f/192753372/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/8872919405e0076fb753ae6492a0a2db.png",22:45 WIB 08/01 Al Dhafra vs Al Ain (1) [Cá Sát Thủ] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wLKvF3nPs4ro7DUSd65Hqw/Fv2lucGIbhPi2caWYvF5Lg/1767909975224/live/sd-6MvYMCNLWG7ntM3kaP/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1767909976&sign=e962b2a3d8facadfc24d0a3611ce2dd7
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/pVte62RGWpqR92qFAUNcgQ/Fv2lucGIbhPi2caWYvF5Lg/1767909976416/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909976/7d622d9faae2a7b2dde5529dff336654/728582197/live/trauHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/idMY2xsaYyBFCGn2IW4_bA/Fv2lucGIbhPi2caWYvF5Lg/1767909976416/live/trauSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/69152c4a217c79511bd43b17762082ed.png",23:30 WIB 08/01 Qatar SC vs Al Sadd (1) [Trâu Gác Bếp] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767909976/ba2466c8c36820cedb88f7f21ebbf081/117589327/live/trauFHD/playlist.m3u8
 #--- 10CAM END ---
