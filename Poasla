@@ -350,9 +350,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499138" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767773302425351_UC26_QF_Australia_vs_Poland_7jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Australia vs Poland - Quarter-final - 9 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767983401~acl=/*~id=68f41971771c3b207d6d971438277279-1767940200132~hmac=e0cecd2e70ebab8e7eddbe2c21bcf94b8de757c7010194fc9cf29e9cea30668a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 2304FPN6DG; Build/PQ3A.190705.08272029)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=173c9e744540298a75b4595a8f932285-1767945013304
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767983401~acl=/*~id=68f41971771c3b207d6d971438277279-1767940200132~hmac=e0cecd2e70ebab8e7eddbe2c21bcf94b8de757c7010194fc9cf29e9cea30668a|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2044; Build/RP1A.200720.012)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f17cc9bbeb40c4d31727e0dead1e93a2-1767946212362
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -385,10 +389,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:1 tvg-id="ppv-15928" tvg-name="Santa Clara Broncos vs. Gonzaga Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/58ea55065c0de43224e74a01de354947-thumbnail.jpg" group-title="PPV-LIVE",Santa Clara Broncos vs. Gonzaga Bulldogs - 11:30 PM ET / 09:30 PM MT / 04:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:1 tvg-id="ppv-15930" tvg-name="Mali vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/c077bbf7a5b9e4b7b7a798befa6033bd-thumbnail.jpg" group-title="PPV-LIVE",Mali vs. Senegal - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -429,18 +429,22 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/brooklynnets/index.m3u8
+#EXTINF:1 tvg-id="ppv-15939" tvg-name="Oklahoma City Thunder vs. Memphis Grizzlies" tvg-logo="https://api.ppv.to/assets/thumb/8d9c8ebf44444f82960952fafd4ba7e3-thumbnail.jpg" group-title="PPV-LIVE",Oklahoma City Thunder vs. Memphis Grizzlies - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 #EXTINF:1 tvg-id="ppv-15931" tvg-name="Washington Capitals vs. Chicago Blackhawks" tvg-logo="https://api.ppv.to/assets/thumb/3c635e4ab20b2aa9d0ae4ecd82d35796-thumbnail.jpg" group-title="PPV-LIVE",Washington Capitals vs. Chicago Blackhawks - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
-#EXTINF:1 tvg-id="ppv-15934" tvg-name="Los Angeles Kings vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/2eda1f1dc7b000c2ea54aa49cde3e5d1-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Kings vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:1 tvg-id="ppv-15940" tvg-name="Atlanta Hawks vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/d38a63c5d622f23922852f765170d892-thumbnail.jpg" group-title="PPV-LIVE",Atlanta Hawks vs. Denver Nuggets - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/denvernuggets/index.m3u8
+#EXTINF:1 tvg-id="ppv-15941" tvg-name="New York Knicks vs. Phoenix Suns" tvg-logo="https://api.ppv.to/assets/thumb/726892c4709e8c4ae08bc28be11db27f-thumbnail.jpg" group-title="PPV-LIVE",New York Knicks vs. Phoenix Suns - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/phoenixsuns/index.m3u8
 #EXTINF:1 tvg-id="ppv-15936" tvg-name="St. Louis Blues vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/3ae8fdb0757c576c1efd2286b95b35e6-thumbnail.jpg" group-title="PPV-LIVE",St. Louis Blues vs. Utah Mammoth - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -449,13 +453,145 @@ https://gg.poocloud.in/utahmammoth/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-#EXTINF:1 tvg-id="ppv-15943" tvg-name="Houston Rockets vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/18555acc407cfe24c691b2ebdb0a6217-thumbnail.jpg" group-title="PPV-LIVE",Houston Rockets vs. Portland Trail Blazers - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTINF:1 tvg-id="ppv-15944" tvg-name="Milwaukee Bucks vs. Los Angeles Lakers" tvg-logo="https://api.ppv.to/assets/thumb/d5a9a71da489f8e20d975ae9ba955f1b-thumbnail.jpg" group-title="PPV-LIVE",Milwaukee Bucks vs. Los Angeles Lakers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/portlandtrailblazers/index.m3u8
+https://gg.poocloud.in/losangeleslakers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15772" tvg-name="Real Oviedo vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/4117c9f430b190ef3e464c67c964ee92-thumbnail.jpg" group-title="PPV-LIVE",Real Oviedo vs. Real Betis - 08:00 AM ET / 06:00 AM MT / 13:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ovi/index.m3u8
+#EXTINF:1 tvg-id="ppv-15816" tvg-name="Como vs. Bologna" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_como/index.m3u8
+#EXTINF:1 tvg-id="ppv-15788" tvg-name="1. FC Heidenheim 1846 vs. FC Cologne" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. FC Cologne - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_hdh/index.m3u8
+#EXTINF:1 tvg-id="ppv-15789" tvg-name="1. FC Union Berlin vs. Mainz" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Mainz - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_fcu/index.m3u8
+#EXTINF:1 tvg-id="ppv-15790" tvg-name="SC Freiburg vs. Hamburg SV" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Hamburg SV - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_scf/index.m3u8
+#EXTINF:1 tvg-id="ppv-15792" tvg-name="Werder Bremen vs. TSG Hoffenheim" tvg-logo="https://api.ppv.to/assets/thumb/e7b1c6b8cc0da4539ef4e58d7aff19c5-thumbnail.jpg" group-title="PPV-LIVE",Werder Bremen vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_svw/index.m3u8
+#EXTINF:1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_vil/index.m3u8
+#EXTINF:1 tvg-id="ppv-15818" tvg-name="AS Roma vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_roma/index.m3u8
+#EXTINF:1 tvg-id="ppv-15782" tvg-name="Girona vs. Osasuna" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Osasuna - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_gir/index.m3u8
+#EXTINF:1 tvg-id="ppv-15856" tvg-name="Supercross: Anaheim" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPV-LIVE",Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/smx/index.m3u8
+#EXTINF:1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_ata/index.m3u8
+#EXTINF:1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPV-LIVE",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_val/index.m3u8
+#EXTINF:1 tvg-id="ppv-15869" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPV-LIVE",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/raf/index.m3u8
+#EXTINF:1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_lec/index.m3u8
+#EXTINF:1 tvg-id="ppv-15821" tvg-name="Fiorentina vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. AC Milan - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_fio/index.m3u8
+#EXTINF:1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_bmg/index.m3u8
+#EXTINF:1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_lev/index.m3u8
+#EXTINF:1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_ver/index.m3u8
+#EXTINF:1 tvg-id="ppv-15871" tvg-name="Buffalo Bills vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="PPV-LIVE",Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
+#EXTINF:1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPV-LIVE",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_int/index.m3u8
+#EXTINF:1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPV-LIVE",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+#EXTINF:1 tvg-id="ppv-15824" tvg-name="Genoa vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_gen/index.m3u8
+#EXTINF:1 tvg-id="ppv-15825" tvg-name="Juventus vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/08c60a46573b8501300337a9f87cf13a-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Cremonese - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_juv/index.m3u8
+#EXTINF:1 tvg-id="ppv-15786" tvg-name="Sevilla vs. Celta Vigo" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPV-LIVE",Sevilla vs. Celta Vigo - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_sev/index.m3u8
+#EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ufc/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 WIB 09/01 Malaysia Open 2026 (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -484,26 +620,6 @@ https://hotlivezz179026907.akainu.xyz/IdlxTYy2b8KytH2U-ssJJA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/xa4d-T33auqP5B42NE9lxQ/Fv2lucGIbhPi2caWYvF5Lg/1767982326329/live/may251/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767979453&sign=48b3b6ed802fe025c973d6188a50a3be
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/0v3e3XIw6SUj6DsnOJsJMA/Fv2lucGIbhPi2caWYvF5Lg/1767979453826/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767979453/54ef883852968b78f3998956954f1b0a/812147772/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/vVR4sYmseY6c4Ef26ZcmVQ/Fv2lucGIbhPi2caWYvF5Lg/1767979453826/live/meoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767979453/19ca45553b476a03aec6fbd5ff420836/137044523/live/meoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/aa6fccc5f668ea00435fb89d3edcdbdf.png",13:30 WIB 09/01 New Zealand Breakers vs Sydney Kings (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -524,26 +640,6 @@ https://hotlivezz179602324.akainu.xyz/zP4UfHXQZMdgSqb4sxRV-g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767984491/a92a00c99912e01688012d85005679a8/424955324/live/may2FHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767984492&sign=652f2c61b86fe884681c9447f52de8cb
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/O2iVLDTNB4eumkcIzTvbBw/Fv2lucGIbhPi2caWYvF5Lg/1767984492490/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767984492/ea2c63fa336efe4c93b1b4d6c103602f/130135099/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dqT3hE4OEElKsb_n4niv4Q/Fv2lucGIbhPi2caWYvF5Lg/1767984492490/live/socSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767984492/5fcabce7535221ed510ffcdc9fb9e761/225056646/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/07acc0b56b6a296cd89a70e5952f025b.png",14:05 WIB 09/01 Andrey Rublev vs Nuno Borges (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -591,7 +687,7 @@ https://hotlivezz179026907.akainu.xyz/5Mbn9SDfVYbW7LbBaJU6og/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/unique-tournament/c918f39021da40d98f6f376c8bcc7af7.png",07:00 WIB 09/01 WTA250 Auckland Open (1) [Nhà Đài] Centre Court
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/4CcOZoij1xbqeGBcRedsOQ/Fv2lucGIbhPi2caWYvF5Lg/1767987012963/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/G-02MG03Ap-oBKzeAftKxQ/Fv2lucGIbhPi2caWYvF5Lg/1767988455030/live/may27/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 09/01 WTA500 Brisbane Open (1) [Nhà đài] Pat Rafter Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -635,47 +731,71 @@ https://hotlivezz179026907.akainu.xyz/ozcH8kQtouZwbirauKFyqg/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 09/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/q8uoXatXNd9AoHhTjxjL8A/Fv2lucGIbhPi2caWYvF5Lg/1767987017595/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/lUpaEqDCLrwceJnCQT3nJQ/Fv2lucGIbhPi2caWYvF5Lg/1767988459498/live/may281/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767965418&sign=f84d072167365a75ec93cf3f1e4ec3e2
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767966860&sign=42ef819735ecba728b8a97270a7042bb
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/esC4cCbNzvNw0JvUdR495g/Fv2lucGIbhPi2caWYvF5Lg/1767965418740/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/QDvzN0KRel8ZxolYlT03SQ/Fv2lucGIbhPi2caWYvF5Lg/1767966860631/live/meoHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767965418/95e28f733599843894dcaa699b76c644/430635470/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767966860/07aa4420968b90f1eba4408e829e54a7/587143615/live/meoHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxcVP0j--eII--1Ey-bukg/Fv2lucGIbhPi2caWYvF5Lg/1767965418740/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/llwArMakzF4Byq1IRlKBGw/Fv2lucGIbhPi2caWYvF5Lg/1767966860631/live/meoSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767965418/ec8176dbec27d00320cf4ebeef2a8762/673487336/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767966860/ba4db62ab9498b50b20eefdb20150298/913426830/live/meoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767987019&sign=6b3f22473ae0e1aeafa6a1caaa5d8901
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767988462&sign=b9cc220dd25ee57d8410e31b4eaf0f0d
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ewY_jumJeRcdjcXoTB9wfw/Fv2lucGIbhPi2caWYvF5Lg/1767987019852/live/socHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/5vEYB9RRCF-qmC2p1EmXBw/Fv2lucGIbhPi2caWYvF5Lg/1767988462015/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767987019/f45460186d0a98f51279e77314bb8252/611920343/live/socHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767988462/53ba9a9af630158c3adb7db467d4a9d8/205791948/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/SmsFRrY_UYdfLqsNrpc65g/Fv2lucGIbhPi2caWYvF5Lg/1767987019852/live/socSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9r7j34lsTYuXv9jtCRBytg/Fv2lucGIbhPi2caWYvF5Lg/1767988462015/live/socSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767987019/55bc8840955e622d1eb64579351d5bad/480117148/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767988462/23d456e20393931e9459671ca1a1e56b/289018414/live/socFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15h00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",08:00 WIB 09/01 Malaysia Open 2026 (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -704,26 +824,6 @@ https://hotlivezz179026907.akainu.xyz/IdlxTYy2b8KytH2U-ssJJA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/xa4d-T33auqP5B42NE9lxQ/Fv2lucGIbhPi2caWYvF5Lg/1767982326329/live/may251/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767979453&sign=48b3b6ed802fe025c973d6188a50a3be
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/0v3e3XIw6SUj6DsnOJsJMA/Fv2lucGIbhPi2caWYvF5Lg/1767979453826/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767979453/54ef883852968b78f3998956954f1b0a/812147772/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/vVR4sYmseY6c4Ef26ZcmVQ/Fv2lucGIbhPi2caWYvF5Lg/1767979453826/live/meoSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/ace5ba4786bfa2a8e57b8b8e2fdecbda.png",12:00 WIB 09/01 Elina Svitolina vs Sonay Kartal (1) [Mèo Ú] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767979453/19ca45553b476a03aec6fbd5ff420836/137044523/live/meoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/aa6fccc5f668ea00435fb89d3edcdbdf.png",13:30 WIB 09/01 New Zealand Breakers vs Sydney Kings (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -744,26 +844,6 @@ https://hotlivezz179602324.akainu.xyz/zP4UfHXQZMdgSqb4sxRV-g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1767984491/a92a00c99912e01688012d85005679a8/424955324/live/may2FHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767984492&sign=652f2c61b86fe884681c9447f52de8cb
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/O2iVLDTNB4eumkcIzTvbBw/Fv2lucGIbhPi2caWYvF5Lg/1767984492490/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767984492/ea2c63fa336efe4c93b1b4d6c103602f/130135099/live/socHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dqT3hE4OEElKsb_n4niv4Q/Fv2lucGIbhPi2caWYvF5Lg/1767984492490/live/socSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/3fc3e5540d1b9e875e6a72c6a42ea60b.png",13:30 WIB 09/01 Maya Joint vs Iga Swiatek (1) [Người Sóc] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767984492/5fcabce7535221ed510ffcdc9fb9e761/225056646/live/socFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/07acc0b56b6a296cd89a70e5952f025b.png",14:05 WIB 09/01 Andrey Rublev vs Nuno Borges (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -811,7 +891,7 @@ https://hotlivezz179026907.akainu.xyz/5Mbn9SDfVYbW7LbBaJU6og/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/unique-tournament/c918f39021da40d98f6f376c8bcc7af7.png",07:00 WIB 09/01 WTA250 Auckland Open (1) [Nhà Đài] Centre Court
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/4CcOZoij1xbqeGBcRedsOQ/Fv2lucGIbhPi2caWYvF5Lg/1767987012963/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/G-02MG03Ap-oBKzeAftKxQ/Fv2lucGIbhPi2caWYvF5Lg/1767988455030/live/may27/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/vww0Z1md-ruHRxZvU.png",08:00 WIB 09/01 WTA500 Brisbane Open (1) [Nhà đài] Pat Rafter Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -855,45 +935,45 @@ https://hotlivezz179026907.akainu.xyz/ozcH8kQtouZwbirauKFyqg/Fv2lucGIbhPi2caWYvF
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/d6ZikFhU-Ue96UVfA.png",12:30 WIB 09/01 ATP250 Hong Kong Open (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/q8uoXatXNd9AoHhTjxjL8A/Fv2lucGIbhPi2caWYvF5Lg/1767987017595/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/lUpaEqDCLrwceJnCQT3nJQ/Fv2lucGIbhPi2caWYvF5Lg/1767988459498/live/may281/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767965418&sign=f84d072167365a75ec93cf3f1e4ec3e2
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1767966860&sign=42ef819735ecba728b8a97270a7042bb
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/esC4cCbNzvNw0JvUdR495g/Fv2lucGIbhPi2caWYvF5Lg/1767965418740/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/QDvzN0KRel8ZxolYlT03SQ/Fv2lucGIbhPi2caWYvF5Lg/1767966860631/live/meoHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767965418/95e28f733599843894dcaa699b76c644/430635470/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767966860/07aa4420968b90f1eba4408e829e54a7/587143615/live/meoHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxcVP0j--eII--1Ey-bukg/Fv2lucGIbhPi2caWYvF5Lg/1767965418740/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/llwArMakzF4Byq1IRlKBGw/Fv2lucGIbhPi2caWYvF5Lg/1767966860631/live/meoSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",15:00 WIB 09/01 Sydney FC (w) vs Adelaide United (w) (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767965418/ec8176dbec27d00320cf4ebeef2a8762/673487336/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767966860/ba4db62ab9498b50b20eefdb20150298/913426830/live/meoFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767987019&sign=6b3f22473ae0e1aeafa6a1caaa5d8901
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1767988462&sign=b9cc220dd25ee57d8410e31b4eaf0f0d
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ewY_jumJeRcdjcXoTB9wfw/Fv2lucGIbhPi2caWYvF5Lg/1767987019852/live/socHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/5vEYB9RRCF-qmC2p1EmXBw/Fv2lucGIbhPi2caWYvF5Lg/1767988462015/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767987019/f45460186d0a98f51279e77314bb8252/611920343/live/socHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767988462/53ba9a9af630158c3adb7db467d4a9d8/205791948/live/socHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/SmsFRrY_UYdfLqsNrpc65g/Fv2lucGIbhPi2caWYvF5Lg/1767987019852/live/socSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9r7j34lsTYuXv9jtCRBytg/Fv2lucGIbhPi2caWYvF5Lg/1767988462015/live/socSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",15:00 WIB 09/01 Alex de Minaur vs Hubert Hurkacz (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767987019/55bc8840955e622d1eb64579351d5bad/480117148/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767988462/23d456e20393931e9459671ca1a1e56b/289018414/live/socFHD/playlist.m3u8
 #--- 10CAM END ---
