@@ -328,13 +328,26 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499151" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | USA vs Poland - Semi-final - 10 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX3063; Build/QP1A.190711.020)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d79e932b963d32e65f9d6aa631e0ceb-1768033927180
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; BRAVIA 4K VH21; Build/STT2.230505.001.S66)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c5a551dcc3838ea449623d7f594d1ecc-1768035011766
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 9/1/2026, 22:30:05
+#EXTINF:1 tvg-id="0-1-6z5873781" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/list/1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg" tvg-language="bengali" group-title="ZEE 5",BEN | Northbengal United Fc Vs Fc Medinipur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8?hdntl=exp=1768121105~acl=%2f*~data=hdntl~hmac=9581a5ca0737294fe8eb1e3559e47d14e4e393bb7c09c7cd330d3d972c3a6a35
+#EXTINF:1 tvg-id="0-1-6z5873781" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/list/1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg" tvg-language="english" group-title="ZEE 5",ENG | Northbengal United Fc Vs Fc Medinipur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8?hdntl=exp=1768121108~acl=%2f*~data=hdntl~hmac=8b406d113d12b9f328cf12d15861e71a7b26451e8d81ecde6423de6662c26a2a
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
@@ -589,6 +602,30 @@ https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #--- PPVLAND END ---
 
 #--- 10CAM START ---
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6acf2952f2bf4e7f67b4f94362d7a00d.png",15h00 WIB 10/01 Newcastle Jets (w) vs Central Coast Mariners (w) (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -617,54 +654,6 @@ https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",09:00 WIB 10/01 Malaysia Open 2026 (1) [Người Đất] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -865,6 +854,50 @@ https://hotlivezz179602324.akainu.xyz/RwlfgzOcLGHAI2xrNH5yKQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768053976/c21d042787f565363ebe60b5f7b5f82b/806403693/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1768054326&sign=32e038e0dd99b7b77a9403e2cbeac22c
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/LbAkwsJQ_6-f5MmCJ26Z6Q/Fv2lucGIbhPi2caWYvF5Lg/1768054326959/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768054326/2fc6fbf2c5f72eadaf2edc8c59e33285/763772932/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/asJ1GzDGyRzpCPqevL4M5w/Fv2lucGIbhPi2caWYvF5Lg/1768054326959/live/dungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768054326/88624f3af28fe7ed33f287bd429abc62/106219847/live/dungFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6acf2952f2bf4e7f67b4f94362d7a00d.png",15h00 WIB 10/01 Newcastle Jets (w) vs Central Coast Mariners (w) (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -893,54 +926,6 @@ https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomhd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/a11058c16a24e44c5725a0954a8d2f3c.png",13h00 WIB 10/01 Melbourne Victory vs Western Sydney (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/bomhd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/OAx5umgU-2uMnAFKH.png",09:00 WIB 10/01 Malaysia Open 2026 (1) [Người Đất] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1141,4 +1126,24 @@ https://hotlivezz179602324.akainu.xyz/RwlfgzOcLGHAI2xrNH5yKQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768053976/c21d042787f565363ebe60b5f7b5f82b/806403693/live/thuFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1768054326&sign=32e038e0dd99b7b77a9403e2cbeac22c
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/LbAkwsJQ_6-f5MmCJ26Z6Q/Fv2lucGIbhPi2caWYvF5Lg/1768054326959/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768054326/2fc6fbf2c5f72eadaf2edc8c59e33285/763772932/live/dungHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/asJ1GzDGyRzpCPqevL4M5w/Fv2lucGIbhPi2caWYvF5Lg/1768054326959/live/dungSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/21PYlyyS-YLT3ZeZm.png",15:35 WIB 10/01 FC Macarthur vs Sydney FC (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768054326/88624f3af28fe7ed33f287bd429abc62/106219847/live/dungFHD/playlist.m3u8
 #--- 10CAM END ---
