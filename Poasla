@@ -348,9 +348,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499151" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | USA vs Poland - Semi-final - 10 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SMART TV; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6d8f3e9ec5dbb450829b571a100f5ba9-1768038612086
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSSS; Build/PS7706.5106N)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e0e7f36dc65dcf192580a018b426e8cd-1768039811240
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -419,18 +423,14 @@ https://gg.poocloud.in/bl_fcu/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_scf/index.m3u8
-#EXTINF:1 tvg-id="ppv-15791" tvg-name="St. Pauli vs. RB Leipzig" tvg-logo="https://api.ppv.to/assets/thumb/bf9c9f8ffcec7218003fef3dd0de8ec8-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_stp/index.m3u8
-#EXTINF:1 tvg-id="ppv-15792" tvg-name="Werder Bremen vs. TSG Hoffenheim" tvg-logo="https://api.ppv.to/assets/thumb/e7b1c6b8cc0da4539ef4e58d7aff19c5-thumbnail.jpg" group-title="PPV-LIVE",Werder Bremen vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_svw/index.m3u8
 #EXTINF:1 tvg-id="ppv-15949" tvg-name="Burnley vs. Millwall" tvg-logo="https://api.ppv.to/assets/thumb/096712689dd65aca2653f788b75ec032-thumbnail.jpg" group-title="PPV-LIVE",Burnley vs. Millwall - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_bur/index.m3u8
+#EXTINF:1 tvg-id="ppv-15950" tvg-name="Fulham vs. Middlesbrough" tvg-logo="https://api.ppv.to/assets/thumb/31cf45b08e8dca7f5e802300b5e12ee7-thumbnail.jpg" group-title="PPV-LIVE",Fulham vs. Middlesbrough - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/fa_ful/index.m3u8
 #EXTINF:1 tvg-id="ppv-15951" tvg-name="Manchester City vs. Exeter City" tvg-logo="https://api.ppv.to/assets/thumb/663ec441c37a7f42ddee0af76d8531dc-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Exeter City - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -443,6 +443,10 @@ https://gg.poocloud.in/fa_new/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_shw/index.m3u8
+#EXTINF:1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_vil/index.m3u8
 #EXTINF:1 tvg-id="ppv-15962" tvg-name="Algeria vs. Nigeria" tvg-logo="https://api.ppv.to/assets/thumb/49d5433f25fec9de4473b95a0d9a994d-thumbnail.jpg" group-title="PPV-LIVE",Algeria vs. Nigeria - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -459,6 +463,10 @@ https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_b04/index.m3u8
+#EXTINF:1 tvg-id="ppv-15954" tvg-name="Tottenham Hotspur vs. Aston Villa" tvg-logo="https://api.ppv.to/assets/thumb/3dc06d4ef63d394a45c22926dfeafc26-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Aston Villa - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/fa_tot/index.m3u8
 #EXTINF:1 tvg-id="ppv-15963" tvg-name="Minnesota Timberwolves vs. Cleveland Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/d6fb5090c3f8fa5de233ea0fc4123e93-thumbnail.jpg" group-title="PPV-LIVE",Minnesota Timberwolves vs. Cleveland Cavaliers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -471,6 +479,10 @@ https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/smx/index.m3u8
+#EXTINF:1 tvg-id="ppv-15965" tvg-name="Egypt vs. Ivory Coast" tvg-logo="https://api.ppv.to/assets/thumb/f9729b0f0fb7d66ca3ca1419bc9e0314-thumbnail.jpg" group-title="PPV-LIVE",Egypt vs. Ivory Coast - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -487,6 +499,10 @@ https://gg.poocloud.in/fa_cha/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:1 tvg-id="ppv-15969" tvg-name="Columbus Blue Jackets vs. Colorado Avalanche" tvg-logo="https://api.ppv.to/assets/thumb/4e7b4043ed4c13678f6172cd43baa7e6-thumbnail.jpg" group-title="PPV-LIVE",Columbus Blue Jackets vs. Colorado Avalanche - 04:00 PM ET / 02:00 PM MT / 21:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
 #EXTINF:1 tvg-id="ppv-15970" tvg-name="Dallas Stars vs. San Jose Sharks" tvg-logo="https://api.ppv.to/assets/thumb/058f28b32f61c881a218037f9b6b2b0c-thumbnail.jpg" group-title="PPV-LIVE",Dallas Stars vs. San Jose Sharks - 04:00 PM ET / 02:00 PM MT / 21:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -499,6 +515,10 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/indianapacers/index.m3u8
+#EXTINF:1 tvg-id="ppv-15973" tvg-name="Anaheim Ducks vs. Buffalo Sabres" tvg-logo="https://api.ppv.to/assets/thumb/62e441865850ccfd70392e0009d2d1fc-thumbnail.jpg" group-title="PPV-LIVE",Anaheim Ducks vs. Buffalo Sabres - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/buffalosabres/index.m3u8
 #EXTINF:1 tvg-id="ppv-15975" tvg-name="Vancouver Canucks vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/734a0adc25c5cf4722d5245a2e212374-thumbnail.jpg" group-title="PPV-LIVE",Vancouver Canucks vs. Toronto Maple Leafs - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -511,6 +531,10 @@ https://gg.poocloud.in/montrealcanadiens/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ottawasenators/index.m3u8
+#EXTINF:1 tvg-id="ppv-15978" tvg-name="Tampa Bay Lightning vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/a9f76c813844291b34cb0d94381004f8-thumbnail.jpg" group-title="PPV-LIVE",Tampa Bay Lightning vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:1 tvg-id="ppv-15979" tvg-name="Seattle Kraken vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/3f066b457d247eb3bdd538c2ccbe257b-thumbnail.jpg" group-title="PPV-LIVE",Seattle Kraken vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -527,6 +551,14 @@ https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bostonceltics/index.m3u8
+#EXTINF:1 tvg-id="ppv-15972" tvg-name="Dallas Mavericks vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/9ffff548f9f3810376adf3b4f4755e3b-thumbnail.jpg" group-title="PPV-LIVE",Dallas Mavericks vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPV-LIVE",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/raf/index.m3u8
 #EXTINF:1 tvg-id="ppv-15980" tvg-name="Chicago Blackhawks vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/4979225f913f871e31c9f7e8754d2642-thumbnail.jpg" group-title="PPV-LIVE",Chicago Blackhawks vs. Nashville Predators - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -539,10 +571,10 @@ https://gg.poocloud.in/minnesotawild/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPV-LIVE",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:1 tvg-id="ppv-15974" tvg-name="Charlotte Hornets vs. Utah Jazz" tvg-logo="https://api.ppv.to/assets/thumb/07c532449fcca698fef82764bad86a2f-thumbnail.jpg" group-title="PPV-LIVE",Charlotte Hornets vs. Utah Jazz - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/raf/index.m3u8
+https://gg.poocloud.in/utahjazz/index.m3u8
 #EXTINF:1 tvg-id="ppv-15982" tvg-name="Los Angeles Kings vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/c2e89091fc91edb66f871f513bc728aa-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Kings vs. Edmonton Oilers - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -555,6 +587,10 @@ https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_lec/index.m3u8
+#EXTINF:1 tvg-id="ppv-15956" tvg-name="Derby County vs. Leeds United" tvg-logo="https://api.ppv.to/assets/thumb/bdf9f55f3d9f0eacd74322b800a8f3fb-thumbnail.jpg" group-title="PPV-LIVE",Derby County vs. Leeds United - 07:00 AM ET / 05:00 AM MT / 12:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/english-fa-cup_der/index.m3u8
 #EXTINF:1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPV-LIVE",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -567,10 +603,10 @@ https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_por/index.m3u8
-#EXTINF:1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:1 tvg-id="ppv-15958" tvg-name="West Ham United vs. Queens Park Rangers" tvg-logo="https://api.ppv.to/assets/thumb/b9e431731c24df30fdac732c31bae018-thumbnail.jpg" group-title="PPV-LIVE",West Ham United vs. Queens Park Rangers - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_bmg/index.m3u8
+https://gg.poocloud.in/fa_whu/index.m3u8
 #EXTINF:1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -583,10 +619,10 @@ https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_man/index.m3u8
-#EXTINF:1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTINF:1 tvg-id="ppv-15871" tvg-name="Buffalo Bills vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="PPV-LIVE",Buffalo Bills vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_ver/index.m3u8
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPV-LIVE",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -599,10 +635,10 @@ https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
-#EXTINF:1 tvg-id="ppv-15824" tvg-name="Genoa vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:1 tvg-id="ppv-15825" tvg-name="Juventus vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/08c60a46573b8501300337a9f87cf13a-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Cremonese - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_gen/index.m3u8
+https://gg.poocloud.in/sa_juv/index.m3u8
 #EXTINF:1 tvg-id="ppv-15960" tvg-name="Liverpool vs. Barnsley" tvg-logo="https://api.ppv.to/assets/thumb/c5de6cf471bf49560337f5b5692c5fa1-thumbnail.jpg" group-title="PPV-LIVE",Liverpool vs. Barnsley - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -611,10 +647,6 @@ https://gg.poocloud.in/fa_liv/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_sev/index.m3u8
-#EXTINF:1 tvg-id="ppv-15874" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPV-LIVE",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPV-LIVE",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -698,34 +730,34 @@ https://9ceg0825.edgemaxcdn.org/1768071965/aa2c37a1854644efc56809d6c5fb0f64/1043
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/J9_jd-_SxkMAg4P-fW2-3w/Fv2lucGIbhPi2caWYvF5Lg/1768071965771/live/may271/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1768081686&sign=73657ac2ff3864310a7b5c433dc7c053
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/qr24ThSlAu4jX5VQnescGw/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/heHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081686/f157ce0421e387db0dddee85ec2ce6c2/292098178/live/heHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SPVdSBDnN9KoWjzHhxDC6Q/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/heSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081686/06e77aee51ab7aea21ebd1ffd9284864/263946980/live/heFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Nhà Đài] Bàn 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Zr7sycLC3FGkbJLw2TG6Ow/Fv2lucGIbhPi2caWYvF5Lg/1768071966915/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/DeOUkEkLNQr7Ux7UQrEhpA/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Nhà Đài] Bàn 8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/vtk8E2i5QoK05qurxpxFQA/Fv2lucGIbhPi2caWYvF5Lg/1768071966915/live/may251/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768073414&sign=248090011b2549da99fa1abf7461762f
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9EcP2dC4kurCSUjrWiVMvg/Fv2lucGIbhPi2caWYvF5Lg/1768073414120/live/gayHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768073414/c1c1819463165930f5e6d33d9103478c/125133774/live/gayHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/EtZikuW7m0qcmkTsntYJ1Q/Fv2lucGIbhPi2caWYvF5Lg/1768073414121/live/gaySD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768073414/dcc45ea85f9c34906fac99b1c5aea87d/529927990/live/gayFHD/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/h-zb-T54yPQGvWbMKtQGsQ/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",14:30 WIB 10/01 Lorenzo Musetti vs Andrey Rublev (1) [Ba Khía] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -826,26 +858,6 @@ https://hotlivezz179602324.akainu.xyz/zCbahBwIsipdhUNlz0Soaw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768079178/8bc9b3991ea94fe2c904078b702157ab/202338553/live/daoFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768080616&sign=0877b9a36d3290e88aba24e6bf2c4fe1
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KZl3_bg5Sad3boxod870Rg/Fv2lucGIbhPi2caWYvF5Lg/1768080616119/live/conHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768080616/42cd7245094bf769d8175391a54633e3/779505998/live/conHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/EnPznptwLOtLnoP37iRtbA/Fv2lucGIbhPi2caWYvF5Lg/1768080616119/live/conSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768080616/3ebaa093c1c932579a68e4da1b9c8959/683123582/live/conFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6acf2952f2bf4e7f67b4f94362d7a00d.png",15:00 WIB 10/01 Newcastle Jets (w) vs Central Coast Mariners (w) (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -914,6 +926,26 @@ https://hotlivezz179602324.akainu.xyz/asJ1GzDGyRzpCPqevL4M5w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768054326/88624f3af28fe7ed33f287bd429abc62/106219847/live/dungFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768081697&sign=e5061d6c96ef3bb0a84dc9c6285db823
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/jFIUmzyRxhQ5_KP8lPNS3w/Fv2lucGIbhPi2caWYvF5Lg/1768081697593/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081697/65fcc4f838e53aa89f0af026ca1d7f3f/795193218/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Upq46m6l6wxhYNGT2jAkHg/Fv2lucGIbhPi2caWYvF5Lg/1768081697593/live/conSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081697/22a11bf23e64ee134936183ea51460c6/228307620/live/conFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/df5e92ce4493d63214e8036ad15c1915.png",14h00 WIB 10/01 Wofoo Tai Po vs Kowloon City (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -990,34 +1022,34 @@ https://9ceg0825.edgemaxcdn.org/1768071965/aa2c37a1854644efc56809d6c5fb0f64/1043
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/J9_jd-_SxkMAg4P-fW2-3w/Fv2lucGIbhPi2caWYvF5Lg/1768071965771/live/may271/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1768081686&sign=73657ac2ff3864310a7b5c433dc7c053
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/qr24ThSlAu4jX5VQnescGw/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/heHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081686/f157ce0421e387db0dddee85ec2ce6c2/292098178/live/heHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SPVdSBDnN9KoWjzHhxDC6Q/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/heSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081686/06e77aee51ab7aea21ebd1ffd9284864/263946980/live/heFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Nhà Đài] Bàn 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Zr7sycLC3FGkbJLw2TG6Ow/Fv2lucGIbhPi2caWYvF5Lg/1768071966915/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/DeOUkEkLNQr7Ux7UQrEhpA/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/may25/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/files/bia.png",10:00 WIB 10/01 Chinese Taipei Open (1) [Nhà Đài] Bàn 8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/vtk8E2i5QoK05qurxpxFQA/Fv2lucGIbhPi2caWYvF5Lg/1768071966915/live/may251/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768073414&sign=248090011b2549da99fa1abf7461762f
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9EcP2dC4kurCSUjrWiVMvg/Fv2lucGIbhPi2caWYvF5Lg/1768073414120/live/gayHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768073414/c1c1819463165930f5e6d33d9103478c/125133774/live/gayHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/EtZikuW7m0qcmkTsntYJ1Q/Fv2lucGIbhPi2caWYvF5Lg/1768073414121/live/gaySD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",14:30 WIB 10/01 Changwon LG Sakers vs Goyang Sono (1) [Người Gầy] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768073414/dcc45ea85f9c34906fac99b1c5aea87d/529927990/live/gayFHD/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/h-zb-T54yPQGvWbMKtQGsQ/Fv2lucGIbhPi2caWYvF5Lg/1768081686359/live/may251/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",14:30 WIB 10/01 Lorenzo Musetti vs Andrey Rublev (1) [Ba Khía] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1118,26 +1150,6 @@ https://hotlivezz179602324.akainu.xyz/zCbahBwIsipdhUNlz0Soaw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768079178/8bc9b3991ea94fe2c904078b702157ab/202338553/live/daoFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768080616&sign=0877b9a36d3290e88aba24e6bf2c4fe1
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KZl3_bg5Sad3boxod870Rg/Fv2lucGIbhPi2caWYvF5Lg/1768080616119/live/conHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768080616/42cd7245094bf769d8175391a54633e3/779505998/live/conHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/EnPznptwLOtLnoP37iRtbA/Fv2lucGIbhPi2caWYvF5Lg/1768080616119/live/conSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",16:40 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768080616/3ebaa093c1c932579a68e4da1b9c8959/683123582/live/conFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/6acf2952f2bf4e7f67b4f94362d7a00d.png",15:00 WIB 10/01 Newcastle Jets (w) vs Central Coast Mariners (w) (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1206,4 +1218,24 @@ https://hotlivezz179602324.akainu.xyz/asJ1GzDGyRzpCPqevL4M5w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768054326/88624f3af28fe7ed33f287bd429abc62/106219847/live/dungFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768081697&sign=e5061d6c96ef3bb0a84dc9c6285db823
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/jFIUmzyRxhQ5_KP8lPNS3w/Fv2lucGIbhPi2caWYvF5Lg/1768081697593/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081697/65fcc4f838e53aa89f0af026ca1d7f3f/795193218/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Upq46m6l6wxhYNGT2jAkHg/Fv2lucGIbhPi2caWYvF5Lg/1768081697593/live/conSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/36a5d96bdf5c18e29342e08603e052fc.png",17:00 WIB 10/01 Marcos Giron vs Alexander Bublik (1) [Người Cồn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768081697/22a11bf23e64ee134936183ea51460c6/228307620/live/conFHD/playlist.m3u8
 #--- 10CAM END ---
