@@ -567,13 +567,25 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1768144386~acl=%2f*~id=65e58944-919
 
 
 
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499229" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Switzerland vs Poland - Final - 11 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768156201~acl=/*~id=6cc678776a158f0fef0b55fce630334a-1768113000125~hmac=f7f4efb4a6527ff253827d6c4804f91966a6f9efe001543828376ed1d3502e60|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix AndroidTV; Build/RTK1.220710.045)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=658d849d4c5bfbf01ed0ede103141337-1768115411586
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768156201~acl=/*~id=6cc678776a158f0fef0b55fce630334a-1768113000125~hmac=f7f4efb4a6527ff253827d6c4804f91966a6f9efe001543828376ed1d3502e60|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; H20; Build/NHG47K)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=25ed7de8f1ce5364e28c245ae6fec9fc-1768116611725
 #--- SONY END ---
 
 #--- ZEE5 START ---
-# Last Checked: 10/1/2026, 22:45:04
+#EXTINF:1 tvg-id="0-1-6z5873763" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/list/1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg" tvg-language="bengali" group-title="ZEE 5",BEN | Sundarban Bengal Auto Fc Vs Jhr Royal City Fc Malda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8?hdntl=exp=1768203004~acl=%2f*~data=hdntl~hmac=c345f6855ccce5d39d4de129899ed9ede7d9dc73be343533aec8a0de6f6c4868
+#EXTINF:1 tvg-id="0-1-6z5873763" tvg-name="Zee Entertainment Enterprises Limited" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/list/1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg" tvg-language="english" group-title="ZEE 5",ENG | Sundarban Bengal Auto Fc Vs Jhr Royal City Fc Malda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.zee5.com/
+#EXTVLCOPT:http-origin=https://www.zee5.com
+https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8?hdntl=exp=1768203008~acl=%2f*~data=hdntl~hmac=f67340f9c443ec5cc23bacb1652381dcd3b796bb6670f745bbb4b87bef7972cd
 #--- ZEE5 END ---
 
 #--- 10CAM START ---
