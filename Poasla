@@ -427,11 +427,14 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3844; Build/AP3A.240617.008)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1ed5188bce0b42fd52752cf64d97de51-1768409400129
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac|User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Panasonic P85; Build/MRA58K)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b39f03e6f68f59b204aaa54d107fbe11-1768410600128
 #EXTINF:1 tvg-id="1090499541" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136708974648_bliga26_MD17_VfL_Wolfsburg_vs_St_Pauli_11jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; POCO F1; Build/BAIKAL13-20250907)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1ed5188bce0b42fd52752cf64d97de51-1768409400129
+https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac|User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S928B; Build/BP2A.250605.031.A3)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b39f03e6f68f59b204aaa54d107fbe11-1768410600128
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -655,6 +658,46 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125553_b41a352d.png",00h30 WIB 15/01 VfL Wolfsburg vs FC St. Pauli (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125553_b41a352d.png",00h30 WIB 15/01 VfL Wolfsburg vs FC St. Pauli (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133413_e6842fb5.png",00h30 WIB 15/01 Al-Ahli Jeddah vs Al Taawon (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133413_e6842fb5.png",00h30 WIB 15/01 Al-Ahli Jeddah vs Al Taawon (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_fedeacc3.png",00h30 WIB 15/01 Al Shabab vs Al Neom (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_fedeacc3.png",00h30 WIB 15/01 Al Shabab vs Al Neom (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125907_9936cf7a.png",00h30 WIB 15/01 Halide Edip Adıvar vs Fenerbahce (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125907_9936cf7a.png",00h30 WIB 15/01 Halide Edip Adıvar vs Fenerbahce (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133445_780fd370.png",00h45 WIB 15/01 Den Bosch vs PSV Eindhoven (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133445_780fd370.png",00h45 WIB 15/01 Den Bosch vs PSV Eindhoven (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x6.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130303_d0b10a92.png",02h30 WIB 15/01 1.FC Köln vs Bayern München (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -899,50 +942,66 @@ https://hotlivezz179602324.akainu.xyz/boKWIg2sBDD4yHgIiZQGsg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768447449/948529abf805fde94c44e8a48f458441/271446563/live/phepFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1768423334&sign=58f99e155ce4b9d40effc9b056325d82
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD1
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1768453571&sign=91714c586770532c73d86bbb77ae9a38
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/d3G5PsqchOjCsd6Cx2RKRw/Fv2lucGIbhPi2caWYvF5Lg/1768423334720/live/heHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD2
+https://hotlivezz179266008.akainu.xyz/UiMLuawtzvAolV5OiVHU_Q/Fv2lucGIbhPi2caWYvF5Lg/1768453571211/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768423334/0dac3c6be54ca15450eaa846f90361e6/543065406/live/heHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] SD
+https://9ceg0825.edgemaxcdn.org/1768453571/50487a6ce2f28a1fa6f0040ba9b9068c/925522133/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/bhvv_IckHgvp8htDMPvBDw/Fv2lucGIbhPi2caWYvF5Lg/1768423334721/live/heSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] FullHD
+https://hotlivezz179602324.akainu.xyz/5m7HN17dYslGWsMEKTS-zw/Fv2lucGIbhPi2caWYvF5Lg/1768453571212/live/bangSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768423334/23a8377fb80bdb0de56ab12dc08966dc/364986988/live/heFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1768453571/39f8134f917b07f5279c45b72603fcce/506901118/live/bangFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1768428737&sign=86eb8c3a9daf8589d12bca6a914e280c
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD1
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1768452494&sign=d3665cd4fb3cee3a0e9527afa3248821
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/UNMlTfgIwvbDVUBBZuLeXg/Fv2lucGIbhPi2caWYvF5Lg/1768428737076/live/dungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD2
+https://hotlivezz179266008.akainu.xyz/aliuaw9xBRQuWZ1srhL2Mg/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768428737/fcf8573984b6d6ef3e6cc98457a89042/925332194/live/dungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] SD
+https://9ceg0825.edgemaxcdn.org/1768452494/d38e3512b3b6c0de6643c17d2879e39e/674763381/live/kienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Xbp3_6sFGdtY7N0V2rtJZw/Fv2lucGIbhPi2caWYvF5Lg/1768428737077/live/dungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] FullHD
+https://hotlivezz179602324.akainu.xyz/WIO2ye7zQCixK_2er1tdcQ/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768428737/656f68c4a291c02ce06be5f756ffefa0/571365486/live/dungFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] Backup 1
+https://9ceg0825.edgemaxcdn.org/1768452494/faef436135db5a8257571551d33f94b8/850465511/live/kienFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/kpOY-76UQhSDMh5Bael2MA/Fv2lucGIbhPi2caWYvF5Lg/1768428737075/live/sd-6MvYr1ybczdG6nouPZ/playlist.m3u8
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1768453573&sign=8e08882e40ba340e684043c5bb395362
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/22wqA4HNoWjKLuZ5HEOvDw/Fv2lucGIbhPi2caWYvF5Lg/1768453573519/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768453573/1a26a046e74d908a7505654e2dcb40ac/327694408/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/qwJ0KanAQQAtg1oKiFPTxw/Fv2lucGIbhPi2caWYvF5Lg/1768453573520/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768453573/0fb8f853d9af79a5f53534c6f347caaa/403590895/live/phepFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/fcf62204578f5bbf95d254759781bef7.png",23:30 WIB 14/01 Olympiakos Piraeus vs PAOK Saloniki (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -987,46 +1046,6 @@ https://hotlivezz179602324.akainu.xyz/uZ3guTOsHzd31jkhHfXjSQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768430892/e24eab12e6f167d5bba5cbcfddeb25c6/672823956/live/soiFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1768452493&sign=c6f78ea08925f585f2049b7574b6dbc2
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ionKCqUvvpFlKWnbIYExWg/Fv2lucGIbhPi2caWYvF5Lg/1768452493543/live/bangHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452493/4b64268936182928cf555ffc5dacd034/274485908/live/bangHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/7peXAUtLNJMBay970mc_AQ/Fv2lucGIbhPi2caWYvF5Lg/1768452493543/live/bangSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452493/0e3a03058028b0dcee29529df292d6c0/125742390/live/bangFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1768452494&sign=d3665cd4fb3cee3a0e9527afa3248821
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/aliuaw9xBRQuWZ1srhL2Mg/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452494/d38e3512b3b6c0de6643c17d2879e39e/674763381/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/WIO2ye7zQCixK_2er1tdcQ/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452494/faef436135db5a8257571551d33f94b8/850465511/live/kienFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/1c3763b9f34a7c0960f5e49067527ea1.png",21h45 WIB 14/01 Al-Qadasiya vs Al-Fayha (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1243,6 +1262,46 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125553_b41a352d.png",00h30 WIB 15/01 VfL Wolfsburg vs FC St. Pauli (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125553_b41a352d.png",00h30 WIB 15/01 VfL Wolfsburg vs FC St. Pauli (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133413_e6842fb5.png",00h30 WIB 15/01 Al-Ahli Jeddah vs Al Taawon (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133413_e6842fb5.png",00h30 WIB 15/01 Al-Ahli Jeddah vs Al Taawon (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_fedeacc3.png",00h30 WIB 15/01 Al Shabab vs Al Neom (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_fedeacc3.png",00h30 WIB 15/01 Al Shabab vs Al Neom (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125907_9936cf7a.png",00h30 WIB 15/01 Halide Edip Adıvar vs Fenerbahce (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125907_9936cf7a.png",00h30 WIB 15/01 Halide Edip Adıvar vs Fenerbahce (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133445_780fd370.png",00h45 WIB 15/01 Den Bosch vs PSV Eindhoven (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133445_780fd370.png",00h45 WIB 15/01 Den Bosch vs PSV Eindhoven (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x6.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130303_d0b10a92.png",02h30 WIB 15/01 1.FC Köln vs Bayern München (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1487,50 +1546,66 @@ https://hotlivezz179602324.akainu.xyz/boKWIg2sBDD4yHgIiZQGsg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768447449/948529abf805fde94c44e8a48f458441/271446563/live/phepFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD Nhanh
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1768423334&sign=58f99e155ce4b9d40effc9b056325d82
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD1
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1768453571&sign=91714c586770532c73d86bbb77ae9a38
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/d3G5PsqchOjCsd6Cx2RKRw/Fv2lucGIbhPi2caWYvF5Lg/1768423334720/live/heHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] HD2
+https://hotlivezz179266008.akainu.xyz/UiMLuawtzvAolV5OiVHU_Q/Fv2lucGIbhPi2caWYvF5Lg/1768453571211/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768423334/0dac3c6be54ca15450eaa846f90361e6/543065406/live/heHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] SD
+https://9ceg0825.edgemaxcdn.org/1768453571/50487a6ce2f28a1fa6f0040ba9b9068c/925522133/live/bangHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/bhvv_IckHgvp8htDMPvBDw/Fv2lucGIbhPi2caWYvF5Lg/1768423334721/live/heSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/0bfea2ba6182289ed677f5b2450baf4b.png",22:00 WIB 14/01 Istanbulspor vs Trabzonspor (1) [Cá‎ Hề] FullHD
+https://hotlivezz179602324.akainu.xyz/5m7HN17dYslGWsMEKTS-zw/Fv2lucGIbhPi2caWYvF5Lg/1768453571212/live/bangSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768423334/23a8377fb80bdb0de56ab12dc08966dc/364986988/live/heFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1768453571/39f8134f917b07f5279c45b72603fcce/506901118/live/bangFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1768428737&sign=86eb8c3a9daf8589d12bca6a914e280c
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD1
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1768452494&sign=d3665cd4fb3cee3a0e9527afa3248821
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/UNMlTfgIwvbDVUBBZuLeXg/Fv2lucGIbhPi2caWYvF5Lg/1768428737076/live/dungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] HD2
+https://hotlivezz179266008.akainu.xyz/aliuaw9xBRQuWZ1srhL2Mg/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768428737/fcf8573984b6d6ef3e6cc98457a89042/925332194/live/dungHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] SD
+https://9ceg0825.edgemaxcdn.org/1768452494/d38e3512b3b6c0de6643c17d2879e39e/674763381/live/kienHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Xbp3_6sFGdtY7N0V2rtJZw/Fv2lucGIbhPi2caWYvF5Lg/1768428737077/live/dungSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] FullHD
+https://hotlivezz179602324.akainu.xyz/WIO2ye7zQCixK_2er1tdcQ/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768428737/656f68c4a291c02ce06be5f756ffefa0/571365486/live/dungFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",22:00 WIB 14/01 AEK Athens vs OFI Crete (1) [Người Dưng] Backup 1
+https://9ceg0825.edgemaxcdn.org/1768452494/faef436135db5a8257571551d33f94b8/850465511/live/kienFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/kpOY-76UQhSDMh5Bael2MA/Fv2lucGIbhPi2caWYvF5Lg/1768428737075/live/sd-6MvYr1ybczdG6nouPZ/playlist.m3u8
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1768453573&sign=8e08882e40ba340e684043c5bb395362
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/22wqA4HNoWjKLuZ5HEOvDw/Fv2lucGIbhPi2caWYvF5Lg/1768453573519/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768453573/1a26a046e74d908a7505654e2dcb40ac/327694408/live/phepHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/qwJ0KanAQQAtg1oKiFPTxw/Fv2lucGIbhPi2caWYvF5Lg/1768453573520/live/phepSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/0rxGJKxS-0E6BYcd0.png",01:30 WIB 15/01 Virtus.pro vs Vitality (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768453573/0fb8f853d9af79a5f53534c6f347caaa/403590895/live/phepFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/fcf62204578f5bbf95d254759781bef7.png",23:30 WIB 14/01 Olympiakos Piraeus vs PAOK Saloniki (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1575,44 +1650,4 @@ https://hotlivezz179602324.akainu.xyz/uZ3guTOsHzd31jkhHfXjSQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768430892/e24eab12e6f167d5bba5cbcfddeb25c6/672823956/live/soiFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1768452493&sign=c6f78ea08925f585f2049b7574b6dbc2
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ionKCqUvvpFlKWnbIYExWg/Fv2lucGIbhPi2caWYvF5Lg/1768452493543/live/bangHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452493/4b64268936182928cf555ffc5dacd034/274485908/live/bangHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/7peXAUtLNJMBay970mc_AQ/Fv2lucGIbhPi2caWYvF5Lg/1768452493543/live/bangSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0d7b1756307a9a4541006818002ff8f4.png",00:00 WIB 15/01 Rzeszow W vs Paris W (1) [Người Băng] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452493/0e3a03058028b0dcee29529df292d6c0/125742390/live/bangFHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1768452494&sign=d3665cd4fb3cee3a0e9527afa3248821
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/aliuaw9xBRQuWZ1srhL2Mg/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452494/d38e3512b3b6c0de6643c17d2879e39e/674763381/live/kienHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/WIO2ye7zQCixK_2er1tdcQ/Fv2lucGIbhPi2caWYvF5Lg/1768452494665/live/kienSD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",00:00 WIB 15/01 Scandicci W vs Le Cannet W (1) [Người Kiến] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768452494/faef436135db5a8257571551d33f94b8/850465511/live/kienFHD/playlist.m3u8
 #--- 10CAM END ---
