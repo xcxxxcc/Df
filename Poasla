@@ -504,8 +504,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
 #--- SONY START ---
-#No live matches.
+#EXTINF:1 tvg-id="1090499620" tvg-name="Super Smash 2025/26 Women's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767443224284690_SuperSmash2526_womens_Central-Hinds-vs-Auckland-Hearts_1jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Central Hinds vs Auckland Hearts - 16 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1768566601~acl=/*~id=71010089498105653567239737810608~hmac=4cbea737a46e120d0dcb6a53354cee32265f4cd7f7bfb28908acf43399cca601|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-X710; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=984087d704759c44437b94fe981b02fb-1768524600121
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -621,30 +625,6 @@ https://mrkw1025.edgemaxcdn.org/live/m304nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m305nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133534_095d7988.png",07h31 WIB 16/01 Junior vs Santa Fe (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -669,6 +649,14 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125536_698c7d26.png",07h45 WIB 16/01 Sao Paulo vs São Bernardo (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125536_698c7d26.png",07h45 WIB 16/01 Sao Paulo vs São Bernardo (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_83c08c1b.png",15h35 WIB 16/01 Melbourne City vs Auckland (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1293,26 +1281,6 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/d78317f2cd6dbd0b02cd7565e5c93a45.png",05:00 WIB 16/01 Giovanni Mpetshi Perricard vs Jakub Mensik (1) [Người Sóc] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1768562285&sign=bc0ea702af8cede87f61ad48b5cf7568
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/d78317f2cd6dbd0b02cd7565e5c93a45.png",05:00 WIB 16/01 Giovanni Mpetshi Perricard vs Jakub Mensik (1) [Người Sóc] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/C7Y_HqKRX5r911eNxjcqyg/Fv2lucGIbhPi2caWYvF5Lg/1768562285741/live/myHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/d78317f2cd6dbd0b02cd7565e5c93a45.png",05:00 WIB 16/01 Giovanni Mpetshi Perricard vs Jakub Mensik (1) [Người Sóc] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768562285/e2717dbf8315b17062a9bf598ab3eb8e/853762036/live/myHD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/d78317f2cd6dbd0b02cd7565e5c93a45.png",05:00 WIB 16/01 Giovanni Mpetshi Perricard vs Jakub Mensik (1) [Người Sóc] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/jWdfIW2wCsmWdfzCtrz1iw/Fv2lucGIbhPi2caWYvF5Lg/1768562285741/live/mySD/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/d78317f2cd6dbd0b02cd7565e5c93a45.png",05:00 WIB 16/01 Giovanni Mpetshi Perricard vs Jakub Mensik (1) [Người Sóc] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768562285/0dec872d345c70f354b8bcd9bdf21c55/864744443/live/myFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",07:00 WIB 16/01 Pistons vs Suns (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1336,23 +1304,23 @@ https://9ceg0825.edgemaxcdn.org/1768565166/ddee8462428774cf8dc92f67b2eb4e99/1239
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768565168&sign=749c9b05009b33460bacb2aafc8aeb1a
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768566247&sign=b88bb787776df4be06ce5b054fe3d8b1
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/uw5QDKs-njw-0FK7p6slhg/Fv2lucGIbhPi2caWYvF5Lg/1768565168040/live/thuongHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/hQpl-vjO-e1_3v-5PWqveg/Fv2lucGIbhPi2caWYvF5Lg/1768566247210/live/thuongHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565168/bf3939e888be31f5bfba414eea47d6fa/248617617/live/thuongHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566247/7e98965de3cbd46cf3339747902d9dd6/231905761/live/thuongHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dThW_5FT8wb0ZfaNpSK-0g/Fv2lucGIbhPi2caWYvF5Lg/1768565168041/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8QT66OsZXWK0vT5kaWwl2g/Fv2lucGIbhPi2caWYvF5Lg/1768566247210/live/thuongSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565168/dfa9047e15f93bc7545279b39eebdbe5/767194067/live/thuongFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566247/11df327a26eba8506873ca36ae8320f0/791735530/live/thuongFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",07:30 WIB 16/01 Rockets vs Thunder (1) [Cây + Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1373,6 +1341,66 @@ https://hotlivezz179602324.akainu.xyz/IYLQ64TtQpLzmli78zmiSw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1768565169/224ce00749c17d7e8aa82d5d4c9d1b6c/221481499/live/may3FHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768566606&sign=f94bf35ae0526145d3d51aec568bc922
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/KBXUIYx_AsjysbLXigVqJg/Fv2lucGIbhPi2caWYvF5Lg/1768566606758/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768566606/ed1851521150a61943dec1646fab6ff4/491737119/live/conHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/6YnCWfR2qQbFBzPdgo53Jw/Fv2lucGIbhPi2caWYvF5Lg/1768566606758/live/conSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768566606/47ae951c5ed3cf73239e0c6dab384ea2/586632018/live/conFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768567686&sign=f71d1b70b97545875bea7f91d0e81929
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/-YNxnx-LS6lcBiH4lt1XHQ/Fv2lucGIbhPi2caWYvF5Lg/1768567686788/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567686/a3b77024f5b2268dbc1d21d13145d57a/926310067/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/KnIlIxrJ8TpDY-2IZdVVdA/Fv2lucGIbhPi2caWYvF5Lg/1768567686789/live/gaySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567686/045712c2e992a8b1bfaea81720ed76ba/255015584/live/gayFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768567687&sign=1818422c13b15fb81e20f27cde9cb3fd
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/TpYG_TYSrbQSHUdEZUNrlQ/Fv2lucGIbhPi2caWYvF5Lg/1768567687966/live/oldHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567687/cf590a1e667c98098c5ad0adad31f09f/101931375/live/oldHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/-XP8wIgDt3TEQwIWcl-LkA/Fv2lucGIbhPi2caWYvF5Lg/1768567687967/live/oldSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567687/60d8da982ed7c429da8f902b5672bfbc/793724943/live/oldFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/football/team/7ede33b6676f902d1e6df0626c2d68d6.png",06h00 WIB 16/01 Joinville SC vs Criciuma (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1481,30 +1509,6 @@ https://mrkw1025.edgemaxcdn.org/live/m304nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m305nd/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131519_a0ea5f88.png",05h00 WIB 16/01 Portuguesa RJ vs Botafogo (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133534_095d7988.png",07h31 WIB 16/01 Junior vs Santa Fe (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1529,6 +1533,14 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125536_698c7d26.png",07h45 WIB 16/01 Sao Paulo vs São Bernardo (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125536_698c7d26.png",07h45 WIB 16/01 Sao Paulo vs São Bernardo (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
 #EXTINF:1 group-title="Random" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_83c08c1b.png",15h35 WIB 16/01 Melbourne City vs Auckland (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2176,23 +2188,23 @@ https://9ceg0825.edgemaxcdn.org/1768565166/ddee8462428774cf8dc92f67b2eb4e99/1239
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768565168&sign=749c9b05009b33460bacb2aafc8aeb1a
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768566247&sign=b88bb787776df4be06ce5b054fe3d8b1
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/uw5QDKs-njw-0FK7p6slhg/Fv2lucGIbhPi2caWYvF5Lg/1768565168040/live/thuongHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/hQpl-vjO-e1_3v-5PWqveg/Fv2lucGIbhPi2caWYvF5Lg/1768566247210/live/thuongHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565168/bf3939e888be31f5bfba414eea47d6fa/248617617/live/thuongHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566247/7e98965de3cbd46cf3339747902d9dd6/231905761/live/thuongHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dThW_5FT8wb0ZfaNpSK-0g/Fv2lucGIbhPi2caWYvF5Lg/1768565168041/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8QT66OsZXWK0vT5kaWwl2g/Fv2lucGIbhPi2caWYvF5Lg/1768566247210/live/thuongSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",07:30 WIB 16/01 Heat vs Celtics (1) [Người Thương] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565168/dfa9047e15f93bc7545279b39eebdbe5/767194067/live/thuongFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566247/11df327a26eba8506873ca36ae8320f0/791735530/live/thuongFHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",07:30 WIB 16/01 Rockets vs Thunder (1) [Cây + Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2216,21 +2228,61 @@ https://9ceg0825.edgemaxcdn.org/1768565169/224ce00749c17d7e8aa82d5d4c9d1b6c/2214
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768565525&sign=a044b0244fa5228918e35b5742520643
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1768566606&sign=f94bf35ae0526145d3d51aec568bc922
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/kaHuGBl0hgRZj2qJNMt2jg/Fv2lucGIbhPi2caWYvF5Lg/1768565525883/live/conHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/KBXUIYx_AsjysbLXigVqJg/Fv2lucGIbhPi2caWYvF5Lg/1768566606758/live/conHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565525/5a949e716e8969119713762630ac8928/668915647/live/conHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566606/ed1851521150a61943dec1646fab6ff4/491737119/live/conHD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/7K8hH8tivZzRfp9Z5hvP5Q/Fv2lucGIbhPi2caWYvF5Lg/1768565525883/live/conSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6YnCWfR2qQbFBzPdgo53Jw/Fv2lucGIbhPi2caWYvF5Lg/1768566606758/live/conSD/playlist.m3u8
 #EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/b820046bb144f5d09bef9c7520e15c5b.png",07:30 WIB 16/01 Kimberly Birrell vs Victoria Mboko (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768565525/202275b3fe184c87a8e77a7447f43cf2/716952224/live/conFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768566606/47ae951c5ed3cf73239e0c6dab384ea2/586632018/live/conFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768567686&sign=f71d1b70b97545875bea7f91d0e81929
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/-YNxnx-LS6lcBiH4lt1XHQ/Fv2lucGIbhPi2caWYvF5Lg/1768567686788/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567686/a3b77024f5b2268dbc1d21d13145d57a/926310067/live/gayHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/KnIlIxrJ8TpDY-2IZdVVdA/Fv2lucGIbhPi2caWYvF5Lg/1768567686789/live/gaySD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Spurs.png",08:00 WIB 16/01 Spurs vs Bucks (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567686/045712c2e992a8b1bfaea81720ed76ba/255015584/live/gayFHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1768567687&sign=1818422c13b15fb81e20f27cde9cb3fd
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/TpYG_TYSrbQSHUdEZUNrlQ/Fv2lucGIbhPi2caWYvF5Lg/1768567687966/live/oldHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567687/cf590a1e667c98098c5ad0adad31f09f/101931375/live/oldHD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/-XP8wIgDt3TEQwIWcl-LkA/Fv2lucGIbhPi2caWYvF5Lg/1768567687967/live/oldSD/playlist.m3u8
+#EXTINF:1 group-title="Random" tvg-logo="https://img.thesports.com/v2/team/7860bd1cc0b69275e51f2bf5f8a2177d.png",08:15 WIB 16/01 Jakub Mensik vs Fabian Marozsan (1) [Người Già] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768567687/60d8da982ed7c429da8f902b5672bfbc/793724943/live/oldFHD/playlist.m3u8
 #--- 10CAM END ---
