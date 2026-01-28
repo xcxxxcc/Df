@@ -565,6 +565,11 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009281|Referer=https://nxtlive.net/s
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014326/1769543684568996_AO2026_Landscape_Thumb_Musetti_vs_Djokovic_SP.jpg" tvg-language="English" group-title="SONY EVENT",ENG | Lorenzo Musetti vs Novak Djokovic - Quarter-final - 28 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769603402~acl=/*~id=44194931815433035357718404251066~hmac=be946100a18cc727d4b5fd71632ea286fa4f093336d8570374d5b232ffdb9e5d|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2333; Build/AP3A.240905.015.A2_CS)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c61cbb9cced622a44bbe3b89d527f36b-1769575800131
@@ -873,10 +878,6 @@ https://strm.poocloud.in/secure/PFaiHETpDLzMstpQGacIJZMVjOENESeA/0/1769587570/th
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/8986a59ba835b1362a51cbc3505c9780.png",10h05 WIB 28/01 USA Women vs Chile (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/218ce20c0587c1a8d1f921d966341065.png",10h30 WIB 28/01 Uttrakhand vs Nagaland (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -977,22 +978,17 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3257_165725171155.png",10h05 WIB 28/01 USA (W) vs Chile (W) (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVceoczBxaREk3HN/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3257_165725171155.png",10h05 WIB 28/01 USA (W) vs Chile (W) (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="",10h30 WIB 28/01 Uttrakhand vs Nagaland (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVczMcU81opCh6DA/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="",10h30 WIB 28/01 Uttrakhand vs Nagaland (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769535476.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769535476.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="",10h30 WIB 28/01 Uttrakhand vs Nagaland (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVczMcU81opCh6DA/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="",10h30 WIB 28/01 Uttrakhand vs Nagaland (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1041,34 +1037,26 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fd363c9466a7b4bb749a1106d6defe68/image/small?v=1768601124",08h15 WIB 28/01 Atletico Tucuman vs Central Cordoba SDE (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6793e54c8b63f5a8c0e31e0b74358dd4/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ae960d17922fa74706c86cd96133dd98/image/small?v=1768601124",06h15 WIB 28/01 Sportivo San Lorenzo vs Cerro Porteno (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9f63166f212bcb805696669f1484304a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/14920aeb209e8176f2986285a307550a/image/small?v=1768601124",08h00 WIB 28/01 Weymouth Wales vs St Andrew Lions (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a970b7f35a0f0ea612aff1d19c83b6cb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/02240a4c8d7306e8ef5c8ae13bda0508/image/small?v=1768601124",06h00 WIB 28/01 Bagatelle SS vs Paradise FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9b476e901c7628a297e1ddb79570345c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/70b0bd163432d2be716c17824ca40cc5/image/small?v=1768601124",06h00 WIB 28/01 Gimnasia y Esgrima de Mendoza vs San Lorenzo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8b4c9791dfc3571062cb65a525debc69/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/043d2e1fea7e7e15dd69d214d7e9466d/image/small?v=1768601124",10h05 WIB 28/01 USA Women vs Chile Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8b842a8c4d073f9bd68bec786d13c5b6/image/small?v=1768601124",06h00 WIB 28/01 Desportiva Ferroviaria ES vs Rio BrancovsES (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5da404242b368e32070900bbb144fd9a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",08h00 WIB 28/01 Anguilla U17(w) vs Costa Rica U17 Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6bb955356d30259914dcf17be0ae8731/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",06h00 WIB 28/01 CA Huracan vs Independiente Rivadavia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3914054706483a2b6829737ca5e5b3b2/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2c640c4ab42990b6743b53fcb98108a1/image/small?v=1768601124",08h00 WIB 28/01 Rio Negro RR vs Nautico (RR) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1089,22 +1077,6 @@ https://live.alilicloud.com/live/afa02440058bb2a6c026b7ef19e1fc50/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e956009773b5bf783acd327220ae0950/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fd363c9466a7b4bb749a1106d6defe68/image/small?v=1768601124",08h15 WIB 28/01 Atletico Tucuman vs Central Cordoba SDE (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6793e54c8b63f5a8c0e31e0b74358dd4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ae960d17922fa74706c86cd96133dd98/image/small?v=1768601124",06h15 WIB 28/01 Sportivo San Lorenzo vs Cerro Porteno (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9f63166f212bcb805696669f1484304a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/043d2e1fea7e7e15dd69d214d7e9466d/image/small?v=1768601124",10h05 WIB 28/01 USA Women vs Chile Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/930b470c993cbb6be7071c9547fe272c/image/small?v=1768601124",10h30 WIB 28/01  vs Nagaland (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/afa02440058bb2a6c026b7ef19e1fc50/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4def40f2604e67e990ef071bab2129a0/image/small?v=1768601124",08h15 WIB 28/01 Club Atlético Newell's Old Boys vs CA Independiente (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1113,150 +1085,14 @@ https://live.alilicloud.com/live/b7adf54f9df3c39c0f29acadaee5f3f0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6793e54c8b63f5a8c0e31e0b74358dd4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/14920aeb209e8176f2986285a307550a/image/small?v=1768601124",08h00 WIB 28/01 Weymouth Wales vs St Andrew Lions (Gà Vàng) source
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/043d2e1fea7e7e15dd69d214d7e9466d/image/small?v=1768601124",10h05 WIB 28/01 USA Women vs Chile Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a970b7f35a0f0ea612aff1d19c83b6cb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",08h00 WIB 28/01 Anguilla U17(w) vs Costa Rica U17 Women (Gà Vàng) source
+https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/930b470c993cbb6be7071c9547fe272c/image/small?v=1768601124",10h30 WIB 28/01  vs Nagaland (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6bb955356d30259914dcf17be0ae8731/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2c640c4ab42990b6743b53fcb98108a1/image/small?v=1768601124",08h00 WIB 28/01 Rio Negro RR vs Nautico (RR) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cd75aa2e6eebf6a45d0176f28a4c4689/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769578893-0-0-fcf33525e62c24606e779df758f64d0d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769578893-0-0-bcd91c1b9ce5669bbc66cb1ee0d4bcc7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769578893-0-0-d7c45b673ee6871de2bc1cea3f93ce71
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769578893-0-0-07bc20a3f100d6c8fcd37356e0b3486b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1769578893-0-0-a4a66a523ebfffd45c37b5eadf14e2b0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1769578893-0-0-f1055c77a6497ea9a770f8a7d0c84904
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1769578893-0-0-dd62ec454a1cc4695ef8c18d9a72d4af
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1769578893-0-0-63cfc24829966b6dbe8923909c13b4ec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769578893-0-0-3c9d29eaeeb0b0cc8f45b569a148b6e3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769578893-0-0-e61d32b2514bfb2170d95aeca2f8692b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769578893-0-0-66c49d40a7fcc5f9942b2246ee0463c3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769578893-0-0-880eeb2c6732c5f970d232d10439c23d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769578893-0-0-c36eeb1f8289550a31f4e8f672908d24
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769578893-0-0-7ce81e0d0eb7105a9769555725d0f7ae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769578893-0-0-48fed4d62d693ed8b3b83def8a729045
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769578893-0-0-793bb4127c016beb65b12d2ebbe03817
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1769578893-0-0-276db32b8f1fc0f158b6d007a982dd39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1769578893-0-0-15c5a334b008a0d59bcd2e3a894487f8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1769578893-0-0-cba5c7efabc607884ac5ff98746f3d63
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1769578893-0-0-40093ce6edb9569ce4616960a82fcc52
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1769578893-0-0-7524694ec2b9ca4acdb75396633e8a4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1769578893-0-0-258a6cbaee6a4038e49527870090f4ab
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1769578893-0-0-ac02853d5b45ebbf6014a134fad2219f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1769578893-0-0-70aa77005f10b0b80a5d87e89fb3fccb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1769578893-0-0-5d2bf07efe0d1e6cae7b1d267da84759
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1769578893-0-0-338a7e9231e59ba4253a8eb9a0b00d92
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1769578893-0-0-9442f77617d83be5226b1a1ce4ca2a4f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1769578893-0-0-47a5be6de281edcbc8f46a9df72024a1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1769578893-0-0-8a97044ddf3843cb5b6e94538c138460
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1769578893-0-0-4a54e8d81fcf08a296d9a5bb2175527b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1769578893-0-0-ebdf8cf7efb346b8546939a85565c8a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1769578893-0-0-4e2de75532ebe7d1953137c95a1ad1cd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1769578893-0-0-58e1efa3cb54ae9ae909b250ded8abbe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1769578893-0-0-c79c9b50a33b6b4dd454518787f5e35b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1769578893-0-0-c9a63f849024273c1d08a3a6637143a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1769578893-0-0-2510deb84327ecf686c144993c5ab7f7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1769578893-0-0-922af21cef4a1372aba7ff61d72666b2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1769578893-0-0-33a569aa6dbbc2bc35fb660ee70ffc6e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1769578893-0-0-c04aae6042cf59b1b7fd980572e82f67
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1769578893-0-0-3c514e849559440b97e620effb1f69d4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769579613-0-0-46e104fc8acc93b96891bdbed033bc34
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769579613-0-0-4f4cb7d7157b399b1dff9a50eaa46f2c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769579613-0-0-06fcae1780539e8e16af4af13e406d3a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769579613-0-0-d404479d0e471abac1e1ca29b6c82074
+https://live.alilicloud.com/live/afa02440058bb2a6c026b7ef19e1fc50/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769579613-0-0-53ffd18d9ae8bebf623df9c26cc1fd55
@@ -1269,18 +1105,6 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769579613-0-0-d478
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769579613-0-0-b8022a8ad1a1a4cbc7a47a59cbf63fa9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1769579613-0-0-96d0422f65732bf21385de8d6c97698d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1769579613-0-0-5a75abbf265329c67ee986da50a559ce
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1769579613-0-0-2c7a8ab3ef2358e0ba3d28d7c42e4665
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769579613-0-0-178bc3a82e2e36ba1242e2b86a7c9770
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1769579613-0-0-8d7fa6390697daff0c4035cd768328c7
@@ -1293,30 +1117,114 @@ https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769579613-0-0-c8d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769579613-0-0-312e8c8885ec7191e8fb11b79db709ca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1769579613-0-0-94c9ccf4a63b8864b72bd927730f1cff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769579973-0-0-ea3d8381ab8ec1ce29fcb0dbe4a600eb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1769579613-0-0-aeb7f00c2fa5b6c5dea128905b39b93a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769579973-0-0-c653e2f57124b96791adf9179df420ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769579613-0-0-57d3085f5c98980936456ee4bc5295a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769579973-0-0-df54f6197c5f135b20d77ea92564ce7a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769579613-0-0-4f91197861f7442b311349675465b388
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769579973-0-0-07ef6484a29b86773a318cb25537aec7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769579613-0-0-ea5f631c889d905a7de82e8b36ef4c04
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769579973-0-0-14a08d09354486e210cb1adf925c6224
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769579613-0-0-ae876e67b8f1c1a8767505764a9f9912
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769579973-0-0-835afd961cf5b282842ec595575362ce
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769579613-0-0-968dbd66f5e1b0bc87e0cb8a797a6784
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769579973-0-0-cdc3f88b956dd425cdafa55fb596945a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769579613-0-0-b8c9c50ac55478fc1b4f330b4c285738
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769579973-0-0-c4c1065eafccf6649ce37a105040d593
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769579973-0-0-a882d9844dcca378bc422445e2307072
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769579973-0-0-6ffed1ee12e100a6f1124bfd6d1fd05e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769579973-0-0-25b72345bdba2535609dcc576ae13a57
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769579973-0-0-579a57d79c9282fee1ba5d4141c70a69
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1769579973-0-0-46833e9250bcd02b9caeac89ef3f9544
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1769579973-0-0-cc771ca61b17013ad6c2cc9e8cc09f45
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1769579973-0-0-229c81366541144280a5bcf92167158a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1769579973-0-0-0ed555067788ee11133d8f79b8f97d1b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1769579973-0-0-50c757eb845e3c16ced3ac1f57b81e8d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1769579973-0-0-e4eefd61f0674c3e87d619a8a68380af
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1769579973-0-0-c73978f0d9c6a18bb3a85be3756ec491
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1769579973-0-0-7ffdfb377b55cf4253fa23a3746cd8b6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1769579973-0-0-c002c63f96724411bfd75283bd12edcb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1769579973-0-0-03f19770185063dd8fd2abef7aeeac64
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1769579973-0-0-b45c9b666a76eae84dde1b3043f741de
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1769579973-0-0-37806b5616b95b4417a0d21aa8247505
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1769579973-0-0-a9a3aa027ace8267a54e2f5cac65f60c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1769579973-0-0-b833ccb1aa99df5439caaa16f881ffec
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1769579973-0-0-86beedef55fbdad176167f4cd8191f3f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1769579973-0-0-94b9460a166d53f384da1966fdd8dbb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1769579973-0-0-c559810faddb8424ee86b88874fcc11f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1769579973-0-0-8f10a5566bdf9df0d9b8b823a30243b1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1769579973-0-0-ec65f5116a8116b558f2be35440fec1d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1769579973-0-0-e3c256640f1fd23547e71659494aad63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1769579973-0-0-125c988cde1f3d0835b8652645589a5a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1769579973-0-0-52a737d632ae610dc4471678bc36bcde
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1769579973-0-0-d91a1ec882b9f0e613ba2c0989b96383
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1769579973-0-0-62843dc6ef21921fd59e9c852584552e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg",10h00 28/01 Utah Jazz vs Los Angeles Clippers (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1353,13 +1261,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",10h00 28/01 Utah Jazz vs Los Angeles Clippers
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/8986a59ba835b1362a51cbc3505c9780.png",10h05 WIB 28/01 USA Women vs Chile (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/218ce20c0587c1a8d1f921d966341065.png",10h30 WIB 28/01 Uttrakhand vs Nagaland (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1460,11 +1361,12 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3257_165725171155.png",10h05 WIB 28/01 USA (W) vs Chile (W) (Lương Sơn) NHÀ ÐÀI m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769535476.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVceoczBxaREk3HN/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3257_165725171155.png",10h05 WIB 28/01 USA (W) vs Chile (W) (Lương Sơn) NHÀ ÐÀI flv
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769535476.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="",10h30 WIB 28/01 Uttrakhand vs Nagaland (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVczMcU81opCh6DA/playlist.m3u8
@@ -1530,30 +1432,14 @@ https://live.alilicloud.com/live/9f63166f212bcb805696669f1484304a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a970b7f35a0f0ea612aff1d19c83b6cb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/02240a4c8d7306e8ef5c8ae13bda0508/image/small?v=1768601124",06h00 WIB 28/01 Bagatelle SS vs Paradise FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9b476e901c7628a297e1ddb79570345c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/70b0bd163432d2be716c17824ca40cc5/image/small?v=1768601124",06h00 WIB 28/01 Gimnasia y Esgrima de Mendoza vs San Lorenzo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8b4c9791dfc3571062cb65a525debc69/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/043d2e1fea7e7e15dd69d214d7e9466d/image/small?v=1768601124",10h05 WIB 28/01 USA Women vs Chile Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8b842a8c4d073f9bd68bec786d13c5b6/image/small?v=1768601124",06h00 WIB 28/01 Desportiva Ferroviaria ES vs Rio BrancovsES (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5da404242b368e32070900bbb144fd9a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",08h00 WIB 28/01 Anguilla U17(w) vs Costa Rica U17 Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6bb955356d30259914dcf17be0ae8731/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",06h00 WIB 28/01 CA Huracan vs Independiente Rivadavia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3914054706483a2b6829737ca5e5b3b2/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2c640c4ab42990b6743b53fcb98108a1/image/small?v=1768601124",08h00 WIB 28/01 Rio Negro RR vs Nautico (RR) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1582,18 +1468,6 @@ https://live.alilicloud.com/live/b7adf54f9df3c39c0f29acadaee5f3f0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6793e54c8b63f5a8c0e31e0b74358dd4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/14920aeb209e8176f2986285a307550a/image/small?v=1768601124",08h00 WIB 28/01 Weymouth Wales vs St Andrew Lions (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a970b7f35a0f0ea612aff1d19c83b6cb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7b956398861016972f5f6c6e6de7e996/image/small?v=1768601124",08h00 WIB 28/01 Anguilla U17(w) vs Costa Rica U17 Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6bb955356d30259914dcf17be0ae8731/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2c640c4ab42990b6743b53fcb98108a1/image/small?v=1768601124",08h00 WIB 28/01 Rio Negro RR vs Nautico (RR) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cd75aa2e6eebf6a45d0176f28a4c4689/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/043d2e1fea7e7e15dd69d214d7e9466d/image/small?v=1768601124",10h05 WIB 28/01 USA Women vs Chile Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1602,198 +1476,138 @@ https://live.alilicloud.com/live/76794843b227c5682ffb4bf4518acfd0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/afa02440058bb2a6c026b7ef19e1fc50/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769578533-0-0-88d8f77ae7df4d45bd5378e61673dbec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769578533-0-0-5b8bd91d8f01fb0e40612274673b83e0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769578533-0-0-c33aa8f1b799e096e7f27ded3c2eddd9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769578533-0-0-819f40d4337892501262b499f509c32b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769578533-0-0-e9a909036ac6e40a44e6c54709e42285
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769578533-0-0-911a5685a94ddf1e90fd0bcc54c94a0c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769578533-0-0-cc5d2fb7cb21a05cf2346c118e4aa5f2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769578533-0-0-2562e529e2e06bcda92abb16dcd31259
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1769578533-0-0-61b5675bc95fa71ec28385725f9acf13
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1769578533-0-0-9bf3e18e3343ebe95667476a422501d5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769578533-0-0-8dcd8a3e56483cce16fc5972de92beeb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769578533-0-0-f8aad5ceb6c72d1fad81f3b41fb72e6e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769578533-0-0-91690ec8cca7419c8ec9ae55e38827f5
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769579613-0-0-53ffd18d9ae8bebf623df9c26cc1fd55
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1769578533-0-0-b6cd270e9ae15337d1d61211aeafe6dc
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1769579613-0-0-fbc9a92e78303011508c6a507400c603
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769578533-0-0-31cd54bb9b085a78b8efe66b3e6e9f74
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769579613-0-0-d47883b5021a04f0daf4150434d8d7e0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769578533-0-0-e709093424f870d9db0e17a32cb8eadd
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769579613-0-0-b8022a8ad1a1a4cbc7a47a59cbf63fa9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1769578533-0-0-224f6d2bc1513ec65504c1b52033acd2
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1769579613-0-0-8d7fa6390697daff0c4035cd768328c7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1769578533-0-0-0d581984659be20751a6b90f7210c793
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1769579613-0-0-48c15b3007cbeac86a7019842830f5fc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769578533-0-0-d1f8cc38bc461666f26f3362deaeb826
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769579613-0-0-c8d24756f7c2941e7e66a8ae073f569b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769578533-0-0-9bd284b061bec4a80c976d12a99476fe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1769578533-0-0-bce624a46a12018ae4e281e06715ac08
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1769578533-0-0-bc7343020274f95e4dafa80777e0cb37
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1769578533-0-0-6b23466b8f8c39e308165071b339052e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769578533-0-0-4a277f693b341c220a76ef9b8f7c7dbb
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769579613-0-0-312e8c8885ec7191e8fb11b79db709ca
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769578893-0-0-fcf33525e62c24606e779df758f64d0d
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769579973-0-0-ea3d8381ab8ec1ce29fcb0dbe4a600eb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769578893-0-0-bcd91c1b9ce5669bbc66cb1ee0d4bcc7
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769579973-0-0-c653e2f57124b96791adf9179df420ff
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769578893-0-0-d7c45b673ee6871de2bc1cea3f93ce71
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769579973-0-0-df54f6197c5f135b20d77ea92564ce7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769578893-0-0-07bc20a3f100d6c8fcd37356e0b3486b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1769578893-0-0-a4a66a523ebfffd45c37b5eadf14e2b0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1769578893-0-0-f1055c77a6497ea9a770f8a7d0c84904
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1769578893-0-0-dd62ec454a1cc4695ef8c18d9a72d4af
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/3441c41a99101e90d63cd465912c4ac7.png",10h05 WIB 28/01 USA Women vs Chile Women [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1769578893-0-0-63cfc24829966b6dbe8923909c13b4ec
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769579973-0-0-07ef6484a29b86773a318cb25537aec7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769578893-0-0-3c9d29eaeeb0b0cc8f45b569a148b6e3
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769579973-0-0-14a08d09354486e210cb1adf925c6224
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769578893-0-0-e61d32b2514bfb2170d95aeca2f8692b
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769579973-0-0-835afd961cf5b282842ec595575362ce
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769578893-0-0-66c49d40a7fcc5f9942b2246ee0463c3
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769579973-0-0-cdc3f88b956dd425cdafa55fb596945a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/ffb1552057da5c8ac58db2c672944674.png",10h00 WIB 28/01 Utah Jazz vs Los Angeles Clippers [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769578893-0-0-880eeb2c6732c5f970d232d10439c23d
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769579973-0-0-c4c1065eafccf6649ce37a105040d593
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769578893-0-0-c36eeb1f8289550a31f4e8f672908d24
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769579973-0-0-a882d9844dcca378bc422445e2307072
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769578893-0-0-7ce81e0d0eb7105a9769555725d0f7ae
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769579973-0-0-6ffed1ee12e100a6f1124bfd6d1fd05e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769578893-0-0-48fed4d62d693ed8b3b83def8a729045
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769579973-0-0-25b72345bdba2535609dcc576ae13a57
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769578893-0-0-793bb4127c016beb65b12d2ebbe03817
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769579973-0-0-579a57d79c9282fee1ba5d4141c70a69
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1769578893-0-0-276db32b8f1fc0f158b6d007a982dd39
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1769579973-0-0-46833e9250bcd02b9caeac89ef3f9544
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1769578893-0-0-15c5a334b008a0d59bcd2e3a894487f8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1769579973-0-0-cc771ca61b17013ad6c2cc9e8cc09f45
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1769578893-0-0-cba5c7efabc607884ac5ff98746f3d63
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1769579973-0-0-229c81366541144280a5bcf92167158a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - FC St. Pauli vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1769578893-0-0-40093ce6edb9569ce4616960a82fcc52
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1769578893-0-0-7524694ec2b9ca4acdb75396633e8a4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1769578893-0-0-258a6cbaee6a4038e49527870090f4ab
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1769578893-0-0-ac02853d5b45ebbf6014a134fad2219f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1769578893-0-0-70aa77005f10b0b80a5d87e89fb3fccb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1769578893-0-0-5d2bf07efe0d1e6cae7b1d267da84759
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1769578893-0-0-338a7e9231e59ba4253a8eb9a0b00d92
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1769578893-0-0-9442f77617d83be5226b1a1ce4ca2a4f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1769578893-0-0-47a5be6de281edcbc8f46a9df72024a1
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1769579973-0-0-0ed555067788ee11133d8f79b8f97d1b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1769578893-0-0-8a97044ddf3843cb5b6e94538c138460
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1769579973-0-0-50c757eb845e3c16ced3ac1f57b81e8d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1769578893-0-0-4a54e8d81fcf08a296d9a5bb2175527b
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1769579973-0-0-e4eefd61f0674c3e87d619a8a68380af
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1769578893-0-0-ebdf8cf7efb346b8546939a85565c8a8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1769579973-0-0-c73978f0d9c6a18bb3a85be3756ec491
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1769578893-0-0-4e2de75532ebe7d1953137c95a1ad1cd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1769578893-0-0-58e1efa3cb54ae9ae909b250ded8abbe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1769578893-0-0-c79c9b50a33b6b4dd454518787f5e35b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1769578893-0-0-c9a63f849024273c1d08a3a6637143a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1769578893-0-0-2510deb84327ecf686c144993c5ab7f7
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1769579973-0-0-7ffdfb377b55cf4253fa23a3746cd8b6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1769578893-0-0-922af21cef4a1372aba7ff61d72666b2
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1769579973-0-0-c002c63f96724411bfd75283bd12edcb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1769578893-0-0-33a569aa6dbbc2bc35fb660ee70ffc6e
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1769579973-0-0-03f19770185063dd8fd2abef7aeeac64
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1769578893-0-0-c04aae6042cf59b1b7fd980572e82f67
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1769579973-0-0-b45c9b666a76eae84dde1b3043f741de
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: GER D1 - SV Werder Bremen vs TSG 1899 Hoffenheim [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1769578893-0-0-3c514e849559440b97e620effb1f69d4
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1769579973-0-0-37806b5616b95b4417a0d21aa8247505
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1769579973-0-0-a9a3aa027ace8267a54e2f5cac65f60c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1769579973-0-0-b833ccb1aa99df5439caaa16f881ffec
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1769579973-0-0-86beedef55fbdad176167f4cd8191f3f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Ittihad Kalba FC vs Al Ain FC [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1769579973-0-0-94b9460a166d53f384da1966fdd8dbb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1769579973-0-0-c559810faddb8424ee86b88874fcc11f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1769579973-0-0-8f10a5566bdf9df0d9b8b823a30243b1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1769579973-0-0-ec65f5116a8116b558f2be35440fec1d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: UAE LP - Al-Wahda FC vs Dabba Al-Fujairah [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1769579973-0-0-e3c256640f1fd23547e71659494aad63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1769579973-0-0-125c988cde1f3d0835b8652645589a5a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1769579973-0-0-52a737d632ae610dc4471678bc36bcde
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1769579973-0-0-d91a1ec882b9f0e613ba2c0989b96383
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260125/30c189017999aa8c7ab8dac09544cd26.png",Tường thuật: ITA Cup - Fiorentina vs Como [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1769579973-0-0-62843dc6ef21921fd59e9c852584552e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg",10h00 28/01 Utah Jazz vs Los Angeles Clippers (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1806,6 +1620,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/549979652_795487313343754_6729015928251962031_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4AeIEf26VAcQ7kNvwEkGWOd&_nc_oc=AdkjZzEPqCRy8LnEIsj-s9p20wDNs5S_J5zXEcPRReee2WcZWzE9C6bO63UBz9Z3RxYjBmL2wifqVrzQnZREqp7O&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=ryQCVToZm-FcsMKHSo_uYg&oh=00_AfpLzAmrVoZiqu_FdjO1R2HEy-1XBOB-NiWwMGM91OjXeA&oe=697E6B84",11h40 28/01 ASIAN 10-BALL WOMEN CHAMPIONSHIP (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/549979652_795487313343754_6729015928251962031_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4AeIEf26VAcQ7kNvwEkGWOd&_nc_oc=AdkjZzEPqCRy8LnEIsj-s9p20wDNs5S_J5zXEcPRReee2WcZWzE9C6bO63UBz9Z3RxYjBmL2wifqVrzQnZREqp7O&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=ryQCVToZm-FcsMKHSo_uYg&oh=00_AfpLzAmrVoZiqu_FdjO1R2HEy-1XBOB-NiWwMGM91OjXeA&oe=697E6B84",11h40 28/01 ASIAN 10-BALL WOMEN CHAMPIONSHIP (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/549979652_795487313343754_6729015928251962031_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4AeIEf26VAcQ7kNvwEkGWOd&_nc_oc=AdkjZzEPqCRy8LnEIsj-s9p20wDNs5S_J5zXEcPRReee2WcZWzE9C6bO63UBz9Z3RxYjBmL2wifqVrzQnZREqp7O&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=ryQCVToZm-FcsMKHSo_uYg&oh=00_AfpLzAmrVoZiqu_FdjO1R2HEy-1XBOB-NiWwMGM91OjXeA&oe=697E6B84",11h40 28/01 ASIAN 10-BALL WOMEN CHAMPIONSHIP (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",10h05 28/01 ASIAN 10-BALL MEN CHAMPIONSHIP - STAGE 2 (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1818,9 +1644,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",10h00 28/01 Utah Jazz vs Los Angeles Clippers
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87379114.m3u8
 #--- RANDOM 1 END ---
 
 #--- RANDOM 2 START ---
@@ -1848,30 +1671,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/20251112_234103_94bcc55d.png",16h00 WIB 28/01 Portland Trail Blazers vs Sagaing United (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2208,18 +2007,6 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/T2V7OqENIlVMRcj46gndCQ/Fv2lucGIbhPi2caWYvF5Lg/1769618525981/live/may25/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/4NB9FB61XtXozo971cnerg/Fv2lucGIbhPi2caWYvF5Lg/1769618525982/live/may251/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] ANZ Arena
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ignIBCzmaq0-eEQEG3DRRg/Fv2lucGIbhPi2caWYvF5Lg/1769618525982/live/may24/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2296,6 +2083,18 @@ https://hotlivezz179026907.akainu.xyz/ST76Bbu5yrQoj6jzi8kfqg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/_JpXTVvMWzyUStFt9et6Sg/Fv2lucGIbhPi2caWYvF5Lg/1769619247983/live/may271/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/gP6QoIIjHVJhTuRKq7p6cg/Fv2lucGIbhPi2caWYvF5Lg/1769619606152/live/may25/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/BFwO-NYkvs9FSed_2ziDlg/Fv2lucGIbhPi2caWYvF5Lg/1769619606178/live/may251/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] ANZ Arena
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/c-9eonImgrXr4cwdtOaiXg/Fv2lucGIbhPi2caWYvF5Lg/1769619606179/live/may24/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_ac124799.png",08h15 WIB 28/01 Newells Old Boys vs Independiente (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2320,30 +2119,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133017_e67768f5.png",10h00 WIB 28/01 USA W vs Chile W (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/20251112_234103_94bcc55d.png",16h00 WIB 28/01 Portland Trail Blazers vs Sagaing United (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2683,91 +2458,91 @@ https://stream.chuoichien.tv/chuoitay.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cayHD.flv?expire=1769592967&sign=ed904e3cf033e93eee8fa302dc9b323b
+https://hotlivezz179536519.akainu.xyz/live/cayHD.flv?expire=1769594045&sign=38449baf8558a267ba90adf4ccb17659
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769592967/ec7ed9248426ec22cbddfc8174ac1b9d/715431493/live/cayHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769594045/35478a24e14d93f4007bac4d2c141960/247219072/live/cayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/vK9gzKcob--iz3Zbkc3rtg/Fv2lucGIbhPi2caWYvF5Lg/1769592967028/live/cayHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/rQaeAf6SI5aicwlrFoAjtQ/Fv2lucGIbhPi2caWYvF5Lg/1769594045586/live/cayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/igXFKB6LvUKwk3YNghRS5g/Fv2lucGIbhPi2caWYvF5Lg/1769592967029/live/caySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rFMyY8hBd4aRIzlGCSwqlg/Fv2lucGIbhPi2caWYvF5Lg/1769594045586/live/caySD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",10:00 WIB 28/01 Jazz vs Clippers (1) [Người Cây] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769592967/a82e0ad79f4e81d788fc79c017833562/131740399/live/cayFHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769594045/f2cd1357a39d3ac4f6243ff219837a12/951978336/live/cayFHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769618168&sign=5e33f3e502e572e8790ac3858d5c3d93
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD1
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769619246&sign=3c1c43c4af07d136fbfe8e47ea968721
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769618168/07a23747ae9b83df327e95277b6e5d23/817827860/live/myHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD2
+https://9ceg0825.edgemaxcdn.org/1769619246/801a0de64055b500401aea6741b9a6b3/919950927/live/myHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/aphhLTaNFrG-SkdqB8UmAQ/Fv2lucGIbhPi2caWYvF5Lg/1769618168304/live/myHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] SD
+https://hotlivezz179266008.akainu.xyz/Xw61ViKrjGFD33TDb9IF7A/Fv2lucGIbhPi2caWYvF5Lg/1769619246791/live/myHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/aAGeW508i57MV7uid7AhlQ/Fv2lucGIbhPi2caWYvF5Lg/1769618168305/live/mySD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] FullHD
+https://hotlivezz179602324.akainu.xyz/khP32d1_JAxG6Fy97KtVPQ/Fv2lucGIbhPi2caWYvF5Lg/1769619246791/live/mySD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769618168/b82b525a25223070891ac7ce5302b05c/489680969/live/myFHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769619246/4c557213afbe3c068d97a5d18e31677a/659640187/live/myFHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769618168&sign=1e1f4f247bf839accb5ddb5046a918f9
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD1
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769619246&sign=86b422abcedaf12db3be488fbc308ff8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769618168/d13605131d93691baad26c7ccd11a460/214594752/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD2
+https://9ceg0825.edgemaxcdn.org/1769619246/3698c8040f9ba541871ebb55530ea1d8/363493648/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/pBKBXAPK7rf7s9sKRJLvLg/Fv2lucGIbhPi2caWYvF5Lg/1769618168306/live/xienHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] SD
+https://hotlivezz179266008.akainu.xyz/Sch7PPxwYIhAoXVRtg6ePQ/Fv2lucGIbhPi2caWYvF5Lg/1769619246791/live/xienHD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Q64Gl00bnnOwQFUwTZzBFQ/Fv2lucGIbhPi2caWYvF5Lg/1769618168307/live/xienSD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:35 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] FullHD
+https://hotlivezz179602324.akainu.xyz/g3lNFu215vrgjd5_458cpQ/Fv2lucGIbhPi2caWYvF5Lg/1769619246791/live/xienSD/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/v2/team/f4ca478e4a2bdf725584d92eccc72cb8.png",11:30 WIB 28/01 Lorenzo Musetti vs Novak Djokovic (1) [Thịt Xiên] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769618168/4c678dfef3c45e0f50a8ffe3172a6a25/521532452/live/xienFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769619246/302fae7c54e67a77259e4e2c3a0e1e4b/660610209/live/xienFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 WIB 28/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/y71qPhzXJz9lZE3_ScNDLw/Fv2lucGIbhPi2caWYvF5Lg/1769618169442/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/aAWlAkrI-AeSR_ZY0Idrzw/Fv2lucGIbhPi2caWYvF5Lg/1769619247981/live/may26/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 WIB 28/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/eG7ef5ODGStCAJWHl2RKmQ/Fv2lucGIbhPi2caWYvF5Lg/1769618169442/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/5cRGjB_6Mluye47fqsqaHw/Fv2lucGIbhPi2caWYvF5Lg/1769619247982/live/may261/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 WIB 28/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/EYFcAjPu5AiVxt9akonxBA/Fv2lucGIbhPi2caWYvF5Lg/1769618169442/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/ST76Bbu5yrQoj6jzi8kfqg/Fv2lucGIbhPi2caWYvF5Lg/1769619247983/live/may27/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 WIB 28/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/NqcRN1RJRSvTPjz-1TFk-A/Fv2lucGIbhPi2caWYvF5Lg/1769618169442/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/_JpXTVvMWzyUStFt9et6Sg/Fv2lucGIbhPi2caWYvF5Lg/1769619247983/live/may271/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/T2V7OqENIlVMRcj46gndCQ/Fv2lucGIbhPi2caWYvF5Lg/1769618525981/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gP6QoIIjHVJhTuRKq7p6cg/Fv2lucGIbhPi2caWYvF5Lg/1769619606152/live/may25/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/4NB9FB61XtXozo971cnerg/Fv2lucGIbhPi2caWYvF5Lg/1769618525982/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/BFwO-NYkvs9FSed_2ziDlg/Fv2lucGIbhPi2caWYvF5Lg/1769619606178/live/may251/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 WIB 28/01 Australian Open (1) [Nhà Đài] ANZ Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ignIBCzmaq0-eEQEG3DRRg/Fv2lucGIbhPi2caWYvF5Lg/1769618525982/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/c-9eonImgrXr4cwdtOaiXg/Fv2lucGIbhPi2caWYvF5Lg/1769619606179/live/may24/playlist.m3u8
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
