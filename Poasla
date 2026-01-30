@@ -1185,6 +1185,11 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009281|Referer=https://nxtlive.net/s
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="English" group-title="SONY EVENT",ENG | Stream 1 - 30 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M426B; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e7a8b91a5af5e170d8e38f3ab031ada0-1769785800106
@@ -1383,14 +1388,6 @@ https://strm.poocloud.in/secure/sjbSaSDofPeSbqbNdnopipcPIKYlODxb/1769881500/1769
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/3a7818eef1409f72ed0f908a61ff0e64.png",20h10 WIB 30/01 Al Orooba(UAE) vs Gulf United FC (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/028f1d77d3c48074d7e762f7b18d1545/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/85e4815a287ffb7dae9cb3235c13de47.png",20h15 WIB 30/01 Al Arabi(UAE) vs Masfout (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/15e69b9fba33a87703a9e2c5094d3896/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/2987af13b27debd8ed266db3858f91a7.jfif",20h45 WIB 30/01 Rukinzo FC vs Kayanza Utd (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1425,42 +1422,42 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2982_1gtzct7tvqj.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1123_1h5bjev11v1r.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1123_1h5bjev11v1r.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2982_1gtzct7tvqj.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -1473,10 +1470,6 @@ https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769779969.png",21h00 WIB 30/01 JENNIE vs OK9 TV (Lương Sơn) MEGA LIVE flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/6454bc9ce26f9c95954743ba910f052c.png",20h00 WIB 30/01 Al-Ahly vs Sama Al Sarhan (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204qt/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/af47207f36a49c89502312138e54f6a7.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1625,30 +1618,30 @@ https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD 1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD 1
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD 2
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD 2
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f9ae536056a8486facfd45b12cc5ba7/image/small?v=1768601124",19h15 WIB 30/01 Al Ansar SC vs CS Sagesse (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2001,270 +1994,258 @@ https://live.alilicloud.com/live/c995e9c1a71a854953f63920c4706e76/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/04eef09a85ef983f626d5779a7d5ebed/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=04e3fdeb2bd22e83e76f40f206bdd3c1&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=c6d7890e368211c61e6bf2627fcf1b3e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=04e3fdeb2bd22e83e76f40f206bdd3c1&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c6d7890e368211c61e6bf2627fcf1b3e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1769788413-0-0-fe4f188817032ec3cc7adf80f0516c9a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1769788413-0-0-78bf0cc3bc68ec063e53e81ff3536a14
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769788413-0-0-45ac158b905b98031b743d7e08c910e4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769788413-0-0-bdc136ba6c9a40f0104cbde9226f2808
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1769788413-0-0-9ebe38f18509afafee3162495c3b4641
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1769788413-0-0-707daa2655ec74f287c6a6985f8eb7a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1769788413-0-0-c7cb32f774da0213d2441108c036369c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1769788413-0-0-757571e672ee6e1e647127e7f9dd4841
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a5417d5e86e37fce94a334a65b711302&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=d703f7c2150b682ac1bce8b9eb717a5e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a5417d5e86e37fce94a334a65b711302&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d703f7c2150b682ac1bce8b9eb717a5e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769788413-0-0-82a96ae3e5ed7264ef4ef364d914e46d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769788413-0-0-664038acea1ffc4976d1c817ddb9573b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769788413-0-0-88d809dcafe5541b52be02a537bb9ff2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769788413-0-0-433a58f10e75fc6bff6046fe66750af0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769788413-0-0-70218be28df19cde5687de90eec73243
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769788413-0-0-6166de1a8fc61d15a52ef9a098826046
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769788413-0-0-73f22102915fecb369854540a09dbc8e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769788413-0-0-434c253d32110e350dbcce21f44d7ec0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=ec8c90750ebd47db2af29e8ac3b8b33b&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=821c949595553a5ca7bb2b43477ff95d&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=4edb477cf2e754a5bbcb38b8c102e15c&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a02ae72e860b5af2ddabb51b9bd94cd8&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=ec8c90750ebd47db2af29e8ac3b8b33b&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=821c949595553a5ca7bb2b43477ff95d&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=4edb477cf2e754a5bbcb38b8c102e15c&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a02ae72e860b5af2ddabb51b9bd94cd8&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1769789493-0-0-f924cfa45a8b8f9fa2d2c1a66d5bfab1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1769789493-0-0-6174e9eb804dc4b5b2d73a97c6ef58a2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1769789493-0-0-3912670ec145d45ab983dc9214dcb13e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1769789493-0-0-14a9eb7d9431fb878132db5077a87de9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769789493-0-0-2857c2564ea0d19be420b8f541d2f2e0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769789493-0-0-cca0bd09503298d7431d968cfc5a1bbd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769789493-0-0-18f827d770332535eed4d7ae2526f3e9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769789493-0-0-bb48b9c5893aaccb65a6e1afa991dd8d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=04fc4e5ac6d34fff3bb93073b420388f&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=4d1ba7023d6192014a39e5173aa7ed10&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=04fc4e5ac6d34fff3bb93073b420388f&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=4d1ba7023d6192014a39e5173aa7ed10&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769789493-0-0-577c9d78ff17634138f07c5d8cfc33e7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769789493-0-0-028337f038daac94ca602e79b60f14ab
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769789493-0-0-376413b6224b8b0a01d904033979ed92
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769789493-0-0-9b31aebacbcfbb163e6eec5aa7c35d8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=808be056df26fa6cda39239468531414&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c89ef374acc765b1ed43a73ccfd6f1f4&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=808be056df26fa6cda39239468531414&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c89ef374acc765b1ed43a73ccfd6f1f4&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1769789493-0-0-db2fcc985be643cac0798a71aa6df02c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1769789493-0-0-0e02d370efae6580839efa07c7dfcda2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769789493-0-0-e411f65204698cc195039498f95f9795
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769789493-0-0-4b02c0ce876d5910b6ae0255df822710
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1769788773-0-0-e441783248d52aaa5cf146883e08d9b8
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1769789853-0-0-d7c3d841ac92adc7a07ae77af0106593
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1769788773-0-0-7d22640e185e8f37de5a1c532612c3e7
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1769789853-0-0-d0d9cf5932b7660ac2e55b0fad8b0eed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1769788773-0-0-af4c2a870374373182a3a15df97c14a5
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1769789853-0-0-658c9e1a0331c07c58a2b10ec9bf237d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1769788773-0-0-3859b626f93dc340155c58d0ede3bdd3
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1769789853-0-0-3070aa63b5060abcad910f16653a81f3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769788773-0-0-3ce24b15b0b796315cc8a630544a45f8
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769789853-0-0-12d3447f7fd2433750125411b6576722
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769788773-0-0-51c6458fb32e840b5f1af7a8590419aa
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769789853-0-0-2815045cc042cb657420981ebf93bfab
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769788773-0-0-6f06a15c9cd076d6383461b83f91b08d
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769789853-0-0-9f898d03c044d1579c388830773327f0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769788773-0-0-0c646152ebee6185a142f031116d9f16
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1769788773-0-0-b702ef1779dd9864f080b98b822c5f2b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1769788773-0-0-f879bcb0bb54ac73c259f91d7c54df6e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769788773-0-0-aa7cabc2b080f8339eb87bf0ea26c280
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769788773-0-0-b419895d04a4ec0a6cfa5f5126324ea9
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769789853-0-0-333c28edd585358c847b6b9c58c037f6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1769788773-0-0-3d463583e0af9b5321ca772b7369581e
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1769789853-0-0-5cddf0da9f9f9989d2da5497684353a8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1769788773-0-0-b87cfb6d7e074301620dc5ed78865f4a
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1769789853-0-0-823be98f56ad724fbe7bc759586475f0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769788773-0-0-5abda95b8657e4139976d45c24660ced
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769789853-0-0-8fae9a92299ba447a422106709df33f2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769788773-0-0-498296f9ebf567e08805687ad59471af
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769789853-0-0-b153f1012af21882b8096ed2da8d0da5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=5fd4ac2c8d0b82d57b9405c1d50f3852&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=5a9c5c72d04db48496b2567cdb383900&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=cc3dc97a37c0eda45998d6ec8d6b6be6&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=52dab424be3957fecc8e5664336a4e76&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=5fd4ac2c8d0b82d57b9405c1d50f3852&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=5a9c5c72d04db48496b2567cdb383900&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=cc3dc97a37c0eda45998d6ec8d6b6be6&txTime=697d1bb5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) flv
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=52dab424be3957fecc8e5664336a4e76&txTime=697d1fed
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769789133-0-0-ec8f235d74e03a2b27eb078a86d25cdf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1769789853-0-0-c3db08c663eaf8e669fcae02fd5a8ce8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769789133-0-0-8057b9663b8c6141fbc8038f604b8366
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1769789853-0-0-79ced72b07126b8bfba1a535f8c8f926
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769789133-0-0-1e6fa6ae897852d41eee4cbe51953d88
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769789853-0-0-3d4b40a4c58107467c4316bce5d15193
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769789133-0-0-3654eea15187919594f42234a33ed2a0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=35286840fb8b6ebb63bb93ce1bb21554&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5172a195b2c9651928db19bc0581bc84&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=35286840fb8b6ebb63bb93ce1bb21554&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5172a195b2c9651928db19bc0581bc84&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1769789133-0-0-b4d910d43b2acc65b504eb862325eba1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1769789133-0-0-ef8a05b5db67b0061a6ea8d988516c97
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769789133-0-0-807efcac34c6327748590fb4a7378989
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769789133-0-0-bfdbda0cfe7f1b3509e6f48a13f08d7b
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769789853-0-0-764c79dc10bf3fcc3052bb0b4f07c5b5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=e222a68175eadf7cfa050b6691cf9621&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a372c867a9e857b68d61a5865a101e1c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=f4ffe28266775b36ddc1bca9e8bb9809&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=fa7236ed5dbf8b0e1bb3b405f9f9f545&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=e222a68175eadf7cfa050b6691cf9621&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a372c867a9e857b68d61a5865a101e1c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f4ffe28266775b36ddc1bca9e8bb9809&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=fa7236ed5dbf8b0e1bb3b405f9f9f545&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769790213-0-0-6022d4d1a5ceabdc5957cf32be405e88
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769790213-0-0-d6f7c232ada7e9c4219e90500d4a554c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769790213-0-0-4500830bf9937071ef05a9d9dfbef7c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769790213-0-0-471cc7de88659c885fddd424b833d5c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1769790213-0-0-10e697e16909feac8cf1c8670a3c7f50
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1769790213-0-0-5becc6888465b2c59b05412080859d0c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769790213-0-0-8741f02126922e204a082125df476d34
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769790213-0-0-acc4fba6e5e4019918795f3721d68a63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=b092814fcba24ac2c11e476d8b227149&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e626b66da98e2fddf6bb1ce05e2189dd&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b092814fcba24ac2c11e476d8b227149&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e626b66da98e2fddf6bb1ce05e2189dd&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769789133-0-0-5cc4b80c8815ebc0b24eae5ff49b9afb
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769790213-0-0-029470aaef3def4e5c40302a6ad4f7f5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769789133-0-0-a89987b3a695de6573c157dd0fea8964
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769790213-0-0-d3064951416404144218b3d184ae9cdc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769789133-0-0-658ed557e018cae541c66d46de1bb6e0
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769790213-0-0-95e671ddb928fa2011afb327ea6ba690
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769789133-0-0-b3470b6b1bb29574700886459f2a5da2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=dc16e773839937e31ddd88b436456a92&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=6384372e689bfacc76fc70cbb4aa1b6e&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=dc16e773839937e31ddd88b436456a92&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6384372e689bfacc76fc70cbb4aa1b6e&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1769789133-0-0-c69d6aceffe579613cd1fa0a22e46ed6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1769789133-0-0-da31b775e7147ffa7785a7f691abc566
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769789133-0-0-c43c5887954894afc12cf18f8555c24e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769789133-0-0-70ad172df99800ce1fc92b29feabf618
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769790213-0-0-30542e29f4bf4ed37704d6ed7fcaa71e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769789133-0-0-69d21fd5fc468296efab5ca992c18f6c
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769790213-0-0-cae289f7ec8730c6213785a25675b599
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769789133-0-0-f09b5406142f39c6f22646b39049d6e1
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769790213-0-0-7c31135a57be982cce91ebff58daef92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769789133-0-0-ed44fd745c37f34c67b85bfc75a9eac5
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769790213-0-0-5c23af2c65ce5e775637e95f782cbe56
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769789133-0-0-235c1753227dd87fe9bb88640202b754
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) flv
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769790213-0-0-686ff901a4ff789072bf9083c0d7e1a0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769789133-0-0-07be45e2bc8328fc167c33a61dd279bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1769790213-0-0-5c44a50522cc02bce646ce680aea59e0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769789133-0-0-0c71c29f4c252135fbaa7ae09a26f7e9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1769790213-0-0-475cc56ce59d23511af273d8b8c405dd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769789133-0-0-b113ad67a593c684e0ab36ba643848c3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769790213-0-0-a92ebb9e1b721dff372b739f7280c30b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769789133-0-0-1d864ef76301a2ec0ceccecfed8588ee
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769790213-0-0-09ce569b7f17cc5d14e9bb5c3ba6a6c3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=5bbc4066ae604acaa166f2466332fd71&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=1bee2474513f4b2f96d13a49360b233c&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5bbc4066ae604acaa166f2466332fd71&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1bee2474513f4b2f96d13a49360b233c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769789133-0-0-5f3cf96a907ab6bd74c1050222fb2c9a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769790213-0-0-771f7f6e2805e63b332474aec6f24988
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769789133-0-0-c0e6d53caf7c0aa6876df680fc1fcf6e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769790213-0-0-cf01c30cee57a598eeb6f2be7a5fec40
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769789133-0-0-bb8c4ce749fec2c3190f2edc99453922
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769790213-0-0-981379dd18d15697e03e9061e5994bee
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769789133-0-0-99db8cfa97dcad96d800198980933bf1
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769790213-0-0-b31b6cc8afdd9d7b9ea0b1fc65e65e15
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2936.png",20h50 30/01 Al Taawon vs Al Okhdood (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2313,14 +2294,6 @@ https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",22h00 30/01 CFR vs Metaloglobus Bucharest
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/3a7818eef1409f72ed0f908a61ff0e64.png",20h10 WIB 30/01 Al Orooba(UAE) vs Gulf United FC (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/028f1d77d3c48074d7e762f7b18d1545/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/85e4815a287ffb7dae9cb3235c13de47.png",20h15 WIB 30/01 Al Arabi(UAE) vs Masfout (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/15e69b9fba33a87703a9e2c5094d3896/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/2987af13b27debd8ed266db3858f91a7.jfif",20h45 WIB 30/01 Rukinzo FC vs Kayanza Utd (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -2355,42 +2328,42 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2982_1gtzct7tvqj.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1123_1h5bjev11v1r.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1123_1h5bjev11v1r.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28481_1hz8rps9d91d.png",22h00 WIB 30/01 Pharco vs ZED FC (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6158_1j57st9chjs.png",20h50 WIB 30/01 Al-Taawoun vs Al-Okhdood (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2982_1gtzct7tvqj.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -2403,10 +2376,6 @@ https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769779969.png",21h00 WIB 30/01 JENNIE vs OK9 TV (Lương Sơn) MEGA LIVE flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/6454bc9ce26f9c95954743ba910f052c.png",20h00 WIB 30/01 Al-Ahly vs Sama Al Sarhan (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204qt/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/af47207f36a49c89502312138e54f6a7.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2555,30 +2524,30 @@ https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD 1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD 1
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD 2
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD 2
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) SD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/01b36d0eae3771391455661b45834805.jpg",20h00 WIB 30/01 FK Gilan Gabala vs Mil-Mugan FK (Ra Khơi) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/e5516d35314acec9169f33834a199842.png",00h30 WIB 31/01 Neom SC vs Damac (Ra Khơi) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f9ae536056a8486facfd45b12cc5ba7/image/small?v=1768601124",19h15 WIB 30/01 Al Ansar SC vs CS Sagesse (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2931,270 +2900,258 @@ https://live.alilicloud.com/live/c995e9c1a71a854953f63920c4706e76/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/04eef09a85ef983f626d5779a7d5ebed/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=04e3fdeb2bd22e83e76f40f206bdd3c1&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=c6d7890e368211c61e6bf2627fcf1b3e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=04e3fdeb2bd22e83e76f40f206bdd3c1&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c6d7890e368211c61e6bf2627fcf1b3e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1769788413-0-0-fe4f188817032ec3cc7adf80f0516c9a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1769788413-0-0-78bf0cc3bc68ec063e53e81ff3536a14
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769788413-0-0-45ac158b905b98031b743d7e08c910e4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769788413-0-0-bdc136ba6c9a40f0104cbde9226f2808
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1769788413-0-0-9ebe38f18509afafee3162495c3b4641
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1769788413-0-0-707daa2655ec74f287c6a6985f8eb7a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1769788413-0-0-c7cb32f774da0213d2441108c036369c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1769788413-0-0-757571e672ee6e1e647127e7f9dd4841
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a5417d5e86e37fce94a334a65b711302&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=d703f7c2150b682ac1bce8b9eb717a5e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a5417d5e86e37fce94a334a65b711302&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d703f7c2150b682ac1bce8b9eb717a5e&txTime=697d1a4d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769788413-0-0-82a96ae3e5ed7264ef4ef364d914e46d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769788413-0-0-664038acea1ffc4976d1c817ddb9573b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769788413-0-0-88d809dcafe5541b52be02a537bb9ff2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769788413-0-0-433a58f10e75fc6bff6046fe66750af0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769788413-0-0-70218be28df19cde5687de90eec73243
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769788413-0-0-6166de1a8fc61d15a52ef9a098826046
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769788413-0-0-73f22102915fecb369854540a09dbc8e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769788413-0-0-434c253d32110e350dbcce21f44d7ec0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=ec8c90750ebd47db2af29e8ac3b8b33b&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=821c949595553a5ca7bb2b43477ff95d&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=4edb477cf2e754a5bbcb38b8c102e15c&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a02ae72e860b5af2ddabb51b9bd94cd8&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=ec8c90750ebd47db2af29e8ac3b8b33b&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=821c949595553a5ca7bb2b43477ff95d&txTime=697d1e85
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=4edb477cf2e754a5bbcb38b8c102e15c&txTime=697d1a4d
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a02ae72e860b5af2ddabb51b9bd94cd8&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1769789493-0-0-f924cfa45a8b8f9fa2d2c1a66d5bfab1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1769789493-0-0-6174e9eb804dc4b5b2d73a97c6ef58a2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1769789493-0-0-3912670ec145d45ab983dc9214dcb13e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1769789493-0-0-14a9eb7d9431fb878132db5077a87de9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769789493-0-0-2857c2564ea0d19be420b8f541d2f2e0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769789493-0-0-cca0bd09503298d7431d968cfc5a1bbd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769789493-0-0-18f827d770332535eed4d7ae2526f3e9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769789493-0-0-bb48b9c5893aaccb65a6e1afa991dd8d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=04fc4e5ac6d34fff3bb93073b420388f&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=4d1ba7023d6192014a39e5173aa7ed10&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=04fc4e5ac6d34fff3bb93073b420388f&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=4d1ba7023d6192014a39e5173aa7ed10&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769789493-0-0-577c9d78ff17634138f07c5d8cfc33e7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769789493-0-0-028337f038daac94ca602e79b60f14ab
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769789493-0-0-376413b6224b8b0a01d904033979ed92
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769789493-0-0-9b31aebacbcfbb163e6eec5aa7c35d8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=808be056df26fa6cda39239468531414&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c89ef374acc765b1ed43a73ccfd6f1f4&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=808be056df26fa6cda39239468531414&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c89ef374acc765b1ed43a73ccfd6f1f4&txTime=697d1e85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1769789493-0-0-db2fcc985be643cac0798a71aa6df02c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1769789493-0-0-0e02d370efae6580839efa07c7dfcda2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1769789493-0-0-e411f65204698cc195039498f95f9795
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1769789493-0-0-4b02c0ce876d5910b6ae0255df822710
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1769788773-0-0-e441783248d52aaa5cf146883e08d9b8
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1769789853-0-0-d7c3d841ac92adc7a07ae77af0106593
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1769788773-0-0-7d22640e185e8f37de5a1c532612c3e7
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1769789853-0-0-d0d9cf5932b7660ac2e55b0fad8b0eed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1769788773-0-0-af4c2a870374373182a3a15df97c14a5
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1769789853-0-0-658c9e1a0331c07c58a2b10ec9bf237d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1769788773-0-0-3859b626f93dc340155c58d0ede3bdd3
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1769789853-0-0-3070aa63b5060abcad910f16653a81f3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769788773-0-0-3ce24b15b0b796315cc8a630544a45f8
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769789853-0-0-12d3447f7fd2433750125411b6576722
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769788773-0-0-51c6458fb32e840b5f1af7a8590419aa
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769789853-0-0-2815045cc042cb657420981ebf93bfab
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769788773-0-0-6f06a15c9cd076d6383461b83f91b08d
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769789853-0-0-9f898d03c044d1579c388830773327f0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769788773-0-0-0c646152ebee6185a142f031116d9f16
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1769788773-0-0-b702ef1779dd9864f080b98b822c5f2b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1769788773-0-0-f879bcb0bb54ac73c259f91d7c54df6e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769788773-0-0-aa7cabc2b080f8339eb87bf0ea26c280
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769788773-0-0-b419895d04a4ec0a6cfa5f5126324ea9
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769789853-0-0-333c28edd585358c847b6b9c58c037f6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1769788773-0-0-3d463583e0af9b5321ca772b7369581e
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1769789853-0-0-5cddf0da9f9f9989d2da5497684353a8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1769788773-0-0-b87cfb6d7e074301620dc5ed78865f4a
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1769789853-0-0-823be98f56ad724fbe7bc759586475f0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769788773-0-0-5abda95b8657e4139976d45c24660ced
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1769789853-0-0-8fae9a92299ba447a422106709df33f2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV LIO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769788773-0-0-498296f9ebf567e08805687ad59471af
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1769789853-0-0-b153f1012af21882b8096ed2da8d0da5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=5fd4ac2c8d0b82d57b9405c1d50f3852&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=5a9c5c72d04db48496b2567cdb383900&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=cc3dc97a37c0eda45998d6ec8d6b6be6&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=52dab424be3957fecc8e5664336a4e76&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=5fd4ac2c8d0b82d57b9405c1d50f3852&txTime=697d1bb5
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=5a9c5c72d04db48496b2567cdb383900&txTime=697d1fed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=cc3dc97a37c0eda45998d6ec8d6b6be6&txTime=697d1bb5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) flv
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=52dab424be3957fecc8e5664336a4e76&txTime=697d1fed
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769789133-0-0-ec8f235d74e03a2b27eb078a86d25cdf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1769789853-0-0-c3db08c663eaf8e669fcae02fd5a8ce8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769789133-0-0-8057b9663b8c6141fbc8038f604b8366
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1769789853-0-0-79ced72b07126b8bfba1a535f8c8f926
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769789133-0-0-1e6fa6ae897852d41eee4cbe51953d88
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1769789853-0-0-3d4b40a4c58107467c4316bce5d15193
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [THE KOP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769789133-0-0-3654eea15187919594f42234a33ed2a0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=35286840fb8b6ebb63bb93ce1bb21554&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5172a195b2c9651928db19bc0581bc84&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=35286840fb8b6ebb63bb93ce1bb21554&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5172a195b2c9651928db19bc0581bc84&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1769789133-0-0-b4d910d43b2acc65b504eb862325eba1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1769789133-0-0-ef8a05b5db67b0061a6ea8d988516c97
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769789133-0-0-807efcac34c6327748590fb4a7378989
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769789133-0-0-bfdbda0cfe7f1b3509e6f48a13f08d7b
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1769789853-0-0-764c79dc10bf3fcc3052bb0b4f07c5b5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=e222a68175eadf7cfa050b6691cf9621&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a372c867a9e857b68d61a5865a101e1c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=f4ffe28266775b36ddc1bca9e8bb9809&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=fa7236ed5dbf8b0e1bb3b405f9f9f545&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=e222a68175eadf7cfa050b6691cf9621&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a372c867a9e857b68d61a5865a101e1c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f4ffe28266775b36ddc1bca9e8bb9809&txTime=697d1d1d
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=fa7236ed5dbf8b0e1bb3b405f9f9f545&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769790213-0-0-6022d4d1a5ceabdc5957cf32be405e88
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769790213-0-0-d6f7c232ada7e9c4219e90500d4a554c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769790213-0-0-4500830bf9937071ef05a9d9dfbef7c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769790213-0-0-471cc7de88659c885fddd424b833d5c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1769790213-0-0-10e697e16909feac8cf1c8670a3c7f50
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1769790213-0-0-5becc6888465b2c59b05412080859d0c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1769790213-0-0-8741f02126922e204a082125df476d34
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/d816364d9734ed36b504f79bb30daa42.png",21h45 WIB 30/01 Al Shamal vs Al-Sailiya [BLV  TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1769790213-0-0-acc4fba6e5e4019918795f3721d68a63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=b092814fcba24ac2c11e476d8b227149&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e626b66da98e2fddf6bb1ce05e2189dd&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b092814fcba24ac2c11e476d8b227149&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/28809afbebf771d9625912c4e4c38ebc.png",20h50 WIB 30/01 Al Taawoun vs Al Okhdood [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e626b66da98e2fddf6bb1ce05e2189dd&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769789133-0-0-5cc4b80c8815ebc0b24eae5ff49b9afb
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769790213-0-0-029470aaef3def4e5c40302a6ad4f7f5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769789133-0-0-a89987b3a695de6573c157dd0fea8964
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769790213-0-0-d3064951416404144218b3d184ae9cdc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769789133-0-0-658ed557e018cae541c66d46de1bb6e0
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769790213-0-0-95e671ddb928fa2011afb327ea6ba690
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769789133-0-0-b3470b6b1bb29574700886459f2a5da2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=dc16e773839937e31ddd88b436456a92&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=6384372e689bfacc76fc70cbb4aa1b6e&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=dc16e773839937e31ddd88b436456a92&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6384372e689bfacc76fc70cbb4aa1b6e&txTime=697d1d1d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1769789133-0-0-c69d6aceffe579613cd1fa0a22e46ed6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1769789133-0-0-da31b775e7147ffa7785a7f691abc566
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769789133-0-0-c43c5887954894afc12cf18f8555c24e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769789133-0-0-70ad172df99800ce1fc92b29feabf618
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769790213-0-0-30542e29f4bf4ed37704d6ed7fcaa71e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769789133-0-0-69d21fd5fc468296efab5ca992c18f6c
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769790213-0-0-cae289f7ec8730c6213785a25675b599
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769789133-0-0-f09b5406142f39c6f22646b39049d6e1
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769790213-0-0-7c31135a57be982cce91ebff58daef92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769789133-0-0-ed44fd745c37f34c67b85bfc75a9eac5
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769790213-0-0-5c23af2c65ce5e775637e95f782cbe56
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",22h00 WIB 30/01 CFR Cluj vs Metaloglobus [QUANG VINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769789133-0-0-235c1753227dd87fe9bb88640202b754
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) flv
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769790213-0-0-686ff901a4ff789072bf9083c0d7e1a0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769789133-0-0-07be45e2bc8328fc167c33a61dd279bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1769790213-0-0-5c44a50522cc02bce646ce680aea59e0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769789133-0-0-0c71c29f4c252135fbaa7ae09a26f7e9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1769790213-0-0-475cc56ce59d23511af273d8b8c405dd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769789133-0-0-b113ad67a593c684e0ab36ba643848c3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/010d0acd8c351243b552649768f8fb64.png",20h00 WIB 30/01 PDRM FC vs Kuala Lumpur City FC [NGƯỜI THÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1769790213-0-0-a92ebb9e1b721dff372b739f7280c30b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769789133-0-0-1d864ef76301a2ec0ceccecfed8588ee
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1769790213-0-0-09ce569b7f17cc5d14e9bb5c3ba6a6c3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=5bbc4066ae604acaa166f2466332fd71&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=1bee2474513f4b2f96d13a49360b233c&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5bbc4066ae604acaa166f2466332fd71&txTime=697d2155
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260128/464c2cc6b89f7c706f644047efc12756.png",22h00 WIB 30/01 Pharco vs ZED FC [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1bee2474513f4b2f96d13a49360b233c&txTime=697d2155
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769789133-0-0-5f3cf96a907ab6bd74c1050222fb2c9a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769790213-0-0-771f7f6e2805e63b332474aec6f24988
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769789133-0-0-c0e6d53caf7c0aa6876df680fc1fcf6e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769790213-0-0-cf01c30cee57a598eeb6f2be7a5fec40
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769789133-0-0-bb8c4ce749fec2c3190f2edc99453922
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769790213-0-0-981379dd18d15697e03e9061e5994bee
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769789133-0-0-99db8cfa97dcad96d800198980933bf1
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769790213-0-0-b31b6cc8afdd9d7b9ea0b1fc65e65e15
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2936.png",20h50 30/01 Al Taawon vs Al Okhdood (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3246,14 +3203,6 @@ https://live5.msrktz.app/live/79665343.m3u8
 #--- RANDOM 1 END ---
 
 #--- RANDOM 2 START ---
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133853_04cd7cec.png",20h00 WIB 30/01 Pdrm vs Kuala Lumpur FA (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133853_04cd7cec.png",20h00 WIB 30/01 Pdrm vs Kuala Lumpur FA (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130130_62910752.png",22h00 WIB 30/01 Pharco vs Masr (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3449,171 +3398,123 @@ https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769828047&sign=ad547a87d244ef60a228e4ef21f7c359
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769829128&sign=c80f169d73422acbb389d0cb625800e2
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828047/0ab2b619d7cb7fecb63a614b648ca639/129599247/live/trauHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829128/be120eafd84f126afccb7f26ee9ec5a8/443745925/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/2KQq_N2OidBV8pmT5yY-Cg/Fv2lucGIbhPi2caWYvF5Lg/1769828047059/live/trauHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/W6LFXtxM6QMhHLEzRAAvCw/Fv2lucGIbhPi2caWYvF5Lg/1769829128292/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxrKpouBvy9er6dP4HjH-g/Fv2lucGIbhPi2caWYvF5Lg/1769828047060/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/bXThd1UQSaX1e6KuO7ilqw/Fv2lucGIbhPi2caWYvF5Lg/1769829128293/live/trauSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828047/b26db531589c4cd09486250f78f1bb21/490817715/live/trauFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829128/3bb778e9e47e4972191682d90e960927/619111787/live/trauFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769802848&sign=a9d3a8e40fb2649b0e14479d1dfc2868
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769803929&sign=fdefbe46aa75599cbb5aafa0501a8a47
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802848/3c14af8c00be467d54ee9752fc78a86a/941677835/live/coHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803929/10b15ab07c816f6ae1e8be16dfb0984c/555797059/live/coHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cyD8tZHalvZEGf_nW4uljw/Fv2lucGIbhPi2caWYvF5Lg/1769802848750/live/coHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/CH-DoLxfrAXkhsoB-vp4BQ/Fv2lucGIbhPi2caWYvF5Lg/1769803929530/live/coHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ONZwxHqk3htut6G0ipWMhw/Fv2lucGIbhPi2caWYvF5Lg/1769802848751/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8MG-usxzv0HrjtAkt6DtKw/Fv2lucGIbhPi2caWYvF5Lg/1769803929530/live/coSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802848/1fdecad81a52e526ea5b765c49159215/355253833/live/coFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803929/90cddc7491a6661a514ea62c6ae82fe8/883972196/live/coFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rzrL8lGN_jtxYnB4L44_wg/Fv2lucGIbhPi2caWYvF5Lg/1769802848749/live/sd-6MvXc74fyv3MTS6t7m/playlist.m3u8
+https://apisportzz179528093.nsnd.live/5cDMgfcdMKP8TsBSbASYAg/Fv2lucGIbhPi2caWYvF5Lg/1769803929527/live/sd-6MvXc74fyv3MTS6t7m/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769802850&sign=c43424e432e92a0a519d1f0a3470a416
+https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769803930&sign=d1755d8c6de9e87c71d9677d2149eb59
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802850/b26f5537a59fd7b25e81873b7b1dc0b0/372086298/live/longHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803930/feb7b3ed342470c7fe34b6c5797e47c1/712998312/live/longHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yHWUC572SmREb6Ec2oBGaw/Fv2lucGIbhPi2caWYvF5Lg/1769802850156/live/longHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/YBNu3CarK-jQzy57bnjtmQ/Fv2lucGIbhPi2caWYvF5Lg/1769803930822/live/longHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dnCNpVTLsNUgjiapkkEKOw/Fv2lucGIbhPi2caWYvF5Lg/1769802850156/live/longSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/N955AdRNK7PB9NARYdOK5Q/Fv2lucGIbhPi2caWYvF5Lg/1769803930822/live/longSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802850/c5e22cf7dcbe28c3963eac06af36fc43/325844275/live/longFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803930/7b5db4fa79c3797467108836ec9a9af9/952463772/live/longFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/IfHt83mRnSmhFPN90xTBhQ/Fv2lucGIbhPi2caWYvF5Lg/1769802850155/live/sd-6MvYqjjc1US4hmwUqq/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769828411&sign=b3b1b7d5793fc39da781a770df9dad75
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828411/d5c48d17611f2f5f45f9a2a68530815b/792137873/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/L3EpVfim5J9sq8MB1oc9kA/Fv2lucGIbhPi2caWYvF5Lg/1769828411115/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/TUlB5eEiyWi7NQG34ldd9g/Fv2lucGIbhPi2caWYvF5Lg/1769828411116/live/meoSD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828411/e550c4c9d81e8ba2ad23fa5fe1f5de18/464961734/live/meoFHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LSovUFGAXpJBBvEcKETudg/Fv2lucGIbhPi2caWYvF5Lg/1769803930821/live/sd-6MvYqjjc1US4hmwUqq/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1769828412&sign=f4e63f525d97c3c9dd2600d3db12153b
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1769829491&sign=0e563c21b5e7cfa555de78f5bdeb06cf
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828412/b4c7097d3d00eea03b8da59f4d5e8259/690900532/live/gayHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829491/ed08ff67cd77837d3fe568f51431ef9b/850867278/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/I7OUauF5XENVVab4ly4xHg/Fv2lucGIbhPi2caWYvF5Lg/1769828412508/live/gayHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/jodXKXdSJcv5ywDDIWh-8w/Fv2lucGIbhPi2caWYvF5Lg/1769829491991/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/IJLhsguSfuYpO0G4sXeLsA/Fv2lucGIbhPi2caWYvF5Lg/1769828412508/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7y5kMqD_XyHaIDmmfkdUbw/Fv2lucGIbhPi2caWYvF5Lg/1769829491991/live/gaySD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828412/f9ea66e196fc4e0f93a1c97e2027fd1f/828037721/live/gayFHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769828769&sign=c1987694b8b12169862538fd9f65d695
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828769/93815d35f71b607cd1e1bb3677ba5eb3/586923334/live/phepHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/JSWdC2N9Ra9SaOJjNT5Ulg/Fv2lucGIbhPi2caWYvF5Lg/1769828769883/live/phepHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/F3fs9pslLCpvv4YTDRh3DA/Fv2lucGIbhPi2caWYvF5Lg/1769828769885/live/phepSD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828769/6193ef048f79ee22211a6437fcf9c684/614836777/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829491/fe5514771c773ac11ce896de29d8e9ea/133035896/live/gayFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769828771&sign=3e62ddeead8dc0b2bf4e22756ed0a55c
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769829846&sign=659dac5e008b03457e4316c920d75ea3
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828771/6e52eb23ba2548f6a29e5f34e8e95bcb/138124927/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829846/3eeb20e7141a3587cd775ba2416df458/850744302/live/phepHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/IAaOsCTUM_WyaO6dBmYrjA/Fv2lucGIbhPi2caWYvF5Lg/1769828771103/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/NQ7i-N-BoOswd7_NM1gqQg/Fv2lucGIbhPi2caWYvF5Lg/1769829846379/live/phepHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/H11Hegi_UXlmVq63PL_UwA/Fv2lucGIbhPi2caWYvF5Lg/1769828771103/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/RHdntBR50PWIKfSnBONaKQ/Fv2lucGIbhPi2caWYvF5Lg/1769829846379/live/phepSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828771/0971e1a38bebdc3e907d522ae157291b/340870085/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829846/49bed118c6c2e52d77ba82320e7da36a/642434259/live/phepFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QqQXeTQqrkO8yNgt8ZhvoQ/Fv2lucGIbhPi2caWYvF5Lg/1769828772531/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/GJiQLtcjCZummpKHA8jTBA/Fv2lucGIbhPi2caWYvF5Lg/1769829847728/live/may21/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/DzYiCD9KM9dHHcrwCcmMSw/Fv2lucGIbhPi2caWYvF5Lg/1769828772532/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/S2IqH7D6F7dktlX9eFBUiQ/Fv2lucGIbhPi2caWYvF5Lg/1769829847728/live/may211/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/J4IiEjdELlvwTBucnXzrSg/Fv2lucGIbhPi2caWYvF5Lg/1769828772533/live/may212/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133853_04cd7cec.png",20h00 WIB 30/01 Pdrm vs Kuala Lumpur FA (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133853_04cd7cec.png",20h00 WIB 30/01 Pdrm vs Kuala Lumpur FA (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
+https://hotlivezz179026907.akainu.xyz/-5ceyiKJy6vmuNYJJyhDBQ/Fv2lucGIbhPi2caWYvF5Lg/1769829847729/live/may212/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130130_62910752.png",22h00 WIB 30/01 Pharco vs Masr (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3809,163 +3710,123 @@ https://stream.chuoichien.tv/duyhung.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769828047&sign=ad547a87d244ef60a228e4ef21f7c359
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769829128&sign=c80f169d73422acbb389d0cb625800e2
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828047/0ab2b619d7cb7fecb63a614b648ca639/129599247/live/trauHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829128/be120eafd84f126afccb7f26ee9ec5a8/443745925/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/2KQq_N2OidBV8pmT5yY-Cg/Fv2lucGIbhPi2caWYvF5Lg/1769828047059/live/trauHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/W6LFXtxM6QMhHLEzRAAvCw/Fv2lucGIbhPi2caWYvF5Lg/1769829128292/live/trauHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QxrKpouBvy9er6dP4HjH-g/Fv2lucGIbhPi2caWYvF5Lg/1769828047060/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/bXThd1UQSaX1e6KuO7ilqw/Fv2lucGIbhPi2caWYvF5Lg/1769829128293/live/trauSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-kng1enmtoqhd.png",20:00 WIB 30/01 Astralis vs NRG (1) [Trâu Gác Bếp] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828047/b26db531589c4cd09486250f78f1bb21/490817715/live/trauFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829128/3bb778e9e47e4972191682d90e960927/619111787/live/trauFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769802848&sign=a9d3a8e40fb2649b0e14479d1dfc2868
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769803929&sign=fdefbe46aa75599cbb5aafa0501a8a47
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802848/3c14af8c00be467d54ee9752fc78a86a/941677835/live/coHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803929/10b15ab07c816f6ae1e8be16dfb0984c/555797059/live/coHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cyD8tZHalvZEGf_nW4uljw/Fv2lucGIbhPi2caWYvF5Lg/1769802848750/live/coHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/CH-DoLxfrAXkhsoB-vp4BQ/Fv2lucGIbhPi2caWYvF5Lg/1769803929530/live/coHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ONZwxHqk3htut6G0ipWMhw/Fv2lucGIbhPi2caWYvF5Lg/1769802848751/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8MG-usxzv0HrjtAkt6DtKw/Fv2lucGIbhPi2caWYvF5Lg/1769803929530/live/coSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802848/1fdecad81a52e526ea5b765c49159215/355253833/live/coFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803929/90cddc7491a6661a514ea62c6ae82fe8/883972196/live/coFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/f589974d755f4b5b6cf68c80f3a8caa5.png",20:50 WIB 30/01 Al Taawon vs Al Akhdoud (1) [Cá Cờ] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/rzrL8lGN_jtxYnB4L44_wg/Fv2lucGIbhPi2caWYvF5Lg/1769802848749/live/sd-6MvXc74fyv3MTS6t7m/playlist.m3u8
+https://apisportzz179528093.nsnd.live/5cDMgfcdMKP8TsBSbASYAg/Fv2lucGIbhPi2caWYvF5Lg/1769803929527/live/sd-6MvXc74fyv3MTS6t7m/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769802850&sign=c43424e432e92a0a519d1f0a3470a416
+https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769803930&sign=d1755d8c6de9e87c71d9677d2149eb59
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802850/b26f5537a59fd7b25e81873b7b1dc0b0/372086298/live/longHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803930/feb7b3ed342470c7fe34b6c5797e47c1/712998312/live/longHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yHWUC572SmREb6Ec2oBGaw/Fv2lucGIbhPi2caWYvF5Lg/1769802850156/live/longHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/YBNu3CarK-jQzy57bnjtmQ/Fv2lucGIbhPi2caWYvF5Lg/1769803930822/live/longHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/dnCNpVTLsNUgjiapkkEKOw/Fv2lucGIbhPi2caWYvF5Lg/1769802850156/live/longSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/N955AdRNK7PB9NARYdOK5Q/Fv2lucGIbhPi2caWYvF5Lg/1769803930822/live/longSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769802850/c5e22cf7dcbe28c3963eac06af36fc43/325844275/live/longFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769803930/7b5db4fa79c3797467108836ec9a9af9/952463772/live/longFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img.thesports.com/football/team/8c5e094af23b17be61c491337a7a0922.png",21:45 WIB 30/01 Al Shamal vs Al-Sailiya (1) [Người Lông] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/IfHt83mRnSmhFPN90xTBhQ/Fv2lucGIbhPi2caWYvF5Lg/1769802850155/live/sd-6MvYqjjc1US4hmwUqq/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769828411&sign=b3b1b7d5793fc39da781a770df9dad75
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828411/d5c48d17611f2f5f45f9a2a68530815b/792137873/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/L3EpVfim5J9sq8MB1oc9kA/Fv2lucGIbhPi2caWYvF5Lg/1769828411115/live/meoHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/TUlB5eEiyWi7NQG34ldd9g/Fv2lucGIbhPi2caWYvF5Lg/1769828411116/live/meoSD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://g7w1r.4shares.live/teams/f1%20copy.png",20:00 WIB 30/01 F1 Rewind : 2016 Spanish GP (1) [Mèo Ú] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828411/e550c4c9d81e8ba2ad23fa5fe1f5de18/464961734/live/meoFHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LSovUFGAXpJBBvEcKETudg/Fv2lucGIbhPi2caWYvF5Lg/1769803930821/live/sd-6MvYqjjc1US4hmwUqq/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1769828412&sign=f4e63f525d97c3c9dd2600d3db12153b
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1769829491&sign=0e563c21b5e7cfa555de78f5bdeb06cf
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828412/b4c7097d3d00eea03b8da59f4d5e8259/690900532/live/gayHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829491/ed08ff67cd77837d3fe568f51431ef9b/850867278/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/I7OUauF5XENVVab4ly4xHg/Fv2lucGIbhPi2caWYvF5Lg/1769828412508/live/gayHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/jodXKXdSJcv5ywDDIWh-8w/Fv2lucGIbhPi2caWYvF5Lg/1769829491991/live/gayHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/IJLhsguSfuYpO0G4sXeLsA/Fv2lucGIbhPi2caWYvF5Lg/1769828412508/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7y5kMqD_XyHaIDmmfkdUbw/Fv2lucGIbhPi2caWYvF5Lg/1769829491991/live/gaySD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-hnadojggez1b.png",22:30 WIB 30/01 Pain vs Aurora (1) [Người Gầy] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828412/f9ea66e196fc4e0f93a1c97e2027fd1f/828037721/live/gayFHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769828769&sign=c1987694b8b12169862538fd9f65d695
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828769/93815d35f71b607cd1e1bb3677ba5eb3/586923334/live/phepHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/JSWdC2N9Ra9SaOJjNT5Ulg/Fv2lucGIbhPi2caWYvF5Lg/1769828769883/live/phepHD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/F3fs9pslLCpvv4YTDRh3DA/Fv2lucGIbhPi2caWYvF5Lg/1769828769885/live/phepSD/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-dq0kk7zad2w4.png",20:00 WIB 30/01 Gamer Legion vs Heroic (1) [Người Phép] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828769/6193ef048f79ee22211a6437fcf9c684/614836777/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829491/fe5514771c773ac11ce896de29d8e9ea/133035896/live/gayFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769828771&sign=3e62ddeead8dc0b2bf4e22756ed0a55c
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769829846&sign=659dac5e008b03457e4316c920d75ea3
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828771/6e52eb23ba2548f6a29e5f34e8e95bcb/138124927/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829846/3eeb20e7141a3587cd775ba2416df458/850744302/live/phepHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/IAaOsCTUM_WyaO6dBmYrjA/Fv2lucGIbhPi2caWYvF5Lg/1769828771103/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/NQ7i-N-BoOswd7_NM1gqQg/Fv2lucGIbhPi2caWYvF5Lg/1769829846379/live/phepHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/H11Hegi_UXlmVq63PL_UwA/Fv2lucGIbhPi2caWYvF5Lg/1769828771103/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/RHdntBR50PWIKfSnBONaKQ/Fv2lucGIbhPi2caWYvF5Lg/1769829846379/live/phepSD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-6qnuqznohvw8.png",22:30 WIB 30/01 BC.Game vs Ninja In Pyjamas (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769828771/0971e1a38bebdc3e907d522ae157291b/340870085/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769829846/49bed118c6c2e52d77ba82320e7da36a/642434259/live/phepFHD/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QqQXeTQqrkO8yNgt8ZhvoQ/Fv2lucGIbhPi2caWYvF5Lg/1769828772531/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/GJiQLtcjCZummpKHA8jTBA/Fv2lucGIbhPi2caWYvF5Lg/1769829847728/live/may21/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/DzYiCD9KM9dHHcrwCcmMSw/Fv2lucGIbhPi2caWYvF5Lg/1769828772532/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/S2IqH7D6F7dktlX9eFBUiQ/Fv2lucGIbhPi2caWYvF5Lg/1769829847728/live/may211/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",13:00 WIB 30/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/J4IiEjdELlvwTBucnXzrSg/Fv2lucGIbhPi2caWYvF5Lg/1769828772533/live/may212/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/-5ceyiKJy6vmuNYJJyhDBQ/Fv2lucGIbhPi2caWYvF5Lg/1769829847729/live/may212/playlist.m3u8
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
