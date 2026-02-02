@@ -1732,6 +1732,11 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY EVENT",HIN | Wheel Of Fortune
 https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1770078603~acl=/*~id=43293094779862900882195251207084~hmac=6395c9656d8ceda562debac60e496675fea07ce850d6e29c62e5b74fef7fcef9|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; GM1900; Build/PQ3A.190705.05211459)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d1d8cb77877634bcfa878c16547c5466-1770045000117
@@ -1856,6 +1861,10 @@ https://live.alilicloud.com/live/ef818f9408cba9b6611b86f94a29b2ef/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/75bc7e809b872f9fd42a93f3959a767f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/aa2d8e24a68822387257f31d692c4297.png",22h15 WIB 02/02 Al-Riyadh vs Al Nassr FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/ae71d18a647f7a80c639a3d5b648b70b.png",19h30 WIB 02/02 Kheybar Khorramabad vs Foolad Khozestan (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2012,12 +2021,36 @@ https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP flv
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -2030,24 +2063,18 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770041546.png",21h00 WIB 02/02 XEM LIVE NHẬN QUÀ CỰC ĐÃ vs CÙNG IDOL JENNIE (Lương Sơn) MEGA LIVE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
@@ -2066,62 +2093,6 @@ https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd81
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6162_1hbw6rzshr1.png",21h20 WIB 02/02 AL-Rbeea Jeddah vs Al-Jabalain (Lương Sơn) BLV TRƯƠNG THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/fa361fdfc028e30bd480baf010432b80.png",20h00 WIB 02/02 Association Sportif Inter Star vs Ngozi City FC (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/1ab0b70082620c06dd8f501df8a5a77a.png",20h00 WIB 02/02 Bournemouth AFC U21 vs Cardiff City U21 (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/25a7ebe2fc19902b896b3a184ef420c9.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2174,6 +2145,18 @@ https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/4e9422ab24a8dff2521be20e1c129f20.png",23h00 WIB 02/02 Al-Muharraq vs Isa Town (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/356273eea313b4c02512fb84534e03fc.png",23h00 WIB 02/02 Chemal FC vs Nouakchott Academie (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/f3123401a5cd110b4904193590685f14.png",23h15 WIB 02/02 Ports Authority FC vs BAI Bureh Warriors (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/aa2d8e24a68822387257f31d692c4297.png",22h15 WIB 02/02 Al-Riyadh vs Al Nassr FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2230,10 +2213,6 @@ https://live.alilicloud.com/live/216afa78172b320d9ad5c0dd0f419204/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 WIB 02/02 Nepal U19 Women vs Bhutan Women U19 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 WIB 02/02 Dream Team vs United Bharat FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2266,6 +2245,10 @@ https://live.alilicloud.com/live/f8e2b0ab49ea08d4aea84fb287f7b8be/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6a4277ee93cc8ec783d3ce2bc8516185/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2294,6 +2277,10 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/d73a146d0c354588b7cfd6263f64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/d73a146d0c354588b7cfd6263f64bb7d_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2352,232 +2339,232 @@ https://live8.fastestcdn-global.com/live8/cd12c96f314f484e8343624be58a65c7_720/i
 https://live8.fastestcdn-global.com/live8/cd12c96f314f484e8343624be58a65c7_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770047614-0-0-3670997069e3a394ad49f75c32d973ca
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770048694-0-0-987c56db99ab0d6896e1afaefa2b8153
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770047614-0-0-fe462be409243340be4b32f776732312
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770048694-0-0-c5596859748ccbf6f554fb5be47f8f26
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770047614-0-0-fab5df9d2e548c8912ceeadaef9c878e
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770048694-0-0-f71f2c995b90a82c8be950e74d5863cd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770047614-0-0-22584c3ef6c9f0f59c17fb00f090a7c8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770048694-0-0-5073ce2d40803486ad7538349f7accd8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1770047614-0-0-7956aeb876d9c04c5ad7d1e9453ab5fe
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1770048694-0-0-6809591abb39ec8b731db44462924421
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1770047614-0-0-02a3ffd54ccdc6fcc9bb21ca3141eebc
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1770048694-0-0-dda68b9d0f017fa53838e1aa4a2ab898
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1770047614-0-0-378aa10eac1f656b242dba4b16fecf42
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1770048694-0-0-e8cfac5d6c67bc59e2e4041658800ac1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1770047614-0-0-13a9c9fbe65b4773039a102bcf29a574
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1770048694-0-0-373e243d5d5334298a0c356fed13c8b7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770047614-0-0-b836353e492c0971447acbac7226d799
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770048694-0-0-6e72e76d5ff98b2ef36761132eb21349
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770047614-0-0-107e09aed9ffdffcb450bbb7a92fdbb3
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770048694-0-0-b7652389b64ee97b63cd78a1e43ae06b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770047614-0-0-11120677ccaf67639d9aac7075ff03e1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770048694-0-0-b69b74c3f08d8bddd4951d65b075b299
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770047614-0-0-b39bd0d670e2210b6ae04fdeba89ed20
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770048694-0-0-c79ba5cad6e6192fe290c7e50cdb7e64
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1770047614-0-0-dc47eb4ecc5582d4395564d3d4413243
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1770048694-0-0-f94c5a75e54a49d15b1b51b33277ebed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1770047614-0-0-cd8da23ad5d54d850e498f319b667005
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1770048694-0-0-a8baaee31110ab2da11c82c01dd92dd4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1770047614-0-0-ef10aa546d22aa155424b861ad224b32
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1770048694-0-0-8d7e91162ab93269f06b1a50e63dd2ce
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1770047614-0-0-04f8173c79d4b8b3d3306eaf0b13865a
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1770048694-0-0-b10556b86b35de1b097d2fff916549fc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770047614-0-0-29277c4c7c66713115fac3d6e9a9130a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770048694-0-0-4bfbb22866da1f4c799ff0d88e79eff7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770047614-0-0-ed1adadb6c76433bd634d3803fd9eb86
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770048694-0-0-179a07f2207a1d2b43dfe26a670a9730
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770047614-0-0-73049c4053ad7f867f9d36c2e332aec5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770048694-0-0-02d5572a961ff5b5b08b8671feb5bc94
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770047614-0-0-36927e666e81a08913387e43ef70fc7b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770048694-0-0-b3a2d0c930ac390e6a5049f1f6b48d92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1770047974-0-0-dd345750170db339b053fef5add2dd1f
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1770049054-0-0-778e70762c25dd9ebe7f97c34e39f585
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1770047974-0-0-0f23d2fb27ba2be49cba45ecec02482d
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1770049054-0-0-50dbcd7c3767bfae98a5b0d98750bd82
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1770047974-0-0-2280e369408558b735c0e52d284f1eef
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1770049054-0-0-f17558bb3aa2c0d11a296ced14ef25ba
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1770047974-0-0-49d07343c071cbdcb02bda799ad4e53b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=75b0d752e7157b56c7c362eaf257c67f&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=4ec34b7676833ebe09218d286ed629c7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=75b0d752e7157b56c7c362eaf257c67f&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=4ec34b7676833ebe09218d286ed629c7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770047974-0-0-56d9bf4944892c4b24ab2755b3ade5dd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1770047974-0-0-a198004f1cf2140060087783c1e42456
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770047974-0-0-f77a300c0e00d6489e0f4357cf32adc2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770047974-0-0-bf47e466dde903bf626cbaab2829453e
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1770049054-0-0-058b801539c87262fc461d77cfe79fe5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1770047974-0-0-33aed2361510ec2d8fb7602e5b1fad12
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1770049054-0-0-3f9615aa2123b27be3b9e1ccb1b86e0b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1770047974-0-0-d63383ae4cbacba137289eced18b8e00
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1770049054-0-0-c385a10046f122e9831559dc38d5c46a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1770047974-0-0-98e32681627951b2c6e3075df35149ff
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1770049054-0-0-491a0ce5148b53bc45eba45b6d83315c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1770047974-0-0-c10b8e014405083069421bccdf419607
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1770049054-0-0-04a7abcaac9ae2c13ac46346c42b169d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=74355591fa1d0df66e5e4cc399727ac7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770049054-0-0-fb2b4a415a738c2a3667296f24cdb033
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a188f01d42cfd1547f6476b84afa02c3&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1770049054-0-0-d1a1e269bfb8d09fb6fdeff34d5bf0a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=74355591fa1d0df66e5e4cc399727ac7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770049054-0-0-0c9aee73259e29192dbc7b59a252ddaa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a188f01d42cfd1547f6476b84afa02c3&txTime=69811036
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770049054-0-0-2df5b206821e41b3c234c6cca5388a82
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=4e0a9d51d14ad4056bc57dccb6eeaa7e&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=1640c6b5d676058d6f026ce806ad4262&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=89c2a60b534e307801c5d3d0df846402&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=4069a49f7c9db9ddf2483c06d6913445&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=4e0a9d51d14ad4056bc57dccb6eeaa7e&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1640c6b5d676058d6f026ce806ad4262&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=89c2a60b534e307801c5d3d0df846402&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=4069a49f7c9db9ddf2483c06d6913445&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=7fb3261f17a89e4fda9455f4e2469f7a&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=ea85195403e9d236a0ea51a8259abf38&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=7fb3261f17a89e4fda9455f4e2469f7a&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=ea85195403e9d236a0ea51a8259abf38&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f11317ebc75860ec53324c7f18e338e8&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=23333c44b0e7c025a368f8af72005160&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f11317ebc75860ec53324c7f18e338e8&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=23333c44b0e7c025a368f8af72005160&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770047974-0-0-c4af316a2b0970fe989e26c4bfe107ef
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770049054-0-0-df73926133b45cd8b4f45289e73edfaf
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770047974-0-0-6478f36878ee2dc8c02c5a25586cf7dc
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770049054-0-0-27ce5ecfca816a83e2c477eb189fddd3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770047974-0-0-9b33b9da8096ccfd506dd198d458dc6d
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770049054-0-0-b63c18704d8b412d83ec8a77a9c7f140
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770047974-0-0-5c5d2e2958f2978c6123eb80f754980d
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770049054-0-0-e9da231090d8a9eeb75674b3e9840631
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1770047974-0-0-294462d409f1484e9ccd96df54acb368
+https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1770049054-0-0-e20a6e43e9b19b6df652055c2f062d7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1770047974-0-0-3026c7678ce89b5165c7a54fc493380e
+https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1770049054-0-0-526280da4a706712bd1c303e0f3fc848
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1770047974-0-0-1d8f41ce46e686078541a8d975e298f9
+https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1770049054-0-0-308adee70f0d5b2a4969ed11c72d9092
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1770047974-0-0-1c225b2ac0cdd21c4f05d2fef272e33b
+https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1770049054-0-0-b5ac3e5bebaa1e63e6a5ad73934bea71
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770048334-0-0-794e129aedeb033b9cad7a563044e05f
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770049414-0-0-37cd013dd3bc9a83ddc51de7625e4e46
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770048334-0-0-47ddd66b53cb442b99b40063f53f3eec
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770049414-0-0-242cbf1f5ff251435f95572ba767761c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770048334-0-0-78998b1e1bf07a464d7e87d7b146c6de
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770049414-0-0-f62893aea66bb522222e64c5bff707d1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770048334-0-0-d4b5b9bd4798f7b3b51dbe00cbf931e0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1770048334-0-0-d7efd1524a992222c8178177756336a1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1770048334-0-0-e6bfc1988188bab55a4d260d2fa8bec2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770048334-0-0-5ff8933e572724bc3303634fb81ed762
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770048334-0-0-59552664081cc41f2e2b99dfa0de3569
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770048334-0-0-02e16de00b139f032543bded1d238831
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770048334-0-0-66865aa31a8523268e5608e0b0a2b498
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770048334-0-0-cf814e97f854b6d021e6b43a9c2c1c05
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770048334-0-0-48061e1c67eaab3b6b895979c4681d14
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770049414-0-0-fd2f8e65a342f2887b625bf14bd582f4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1770048334-0-0-327859f9e11ff5c4aa153afda2964090
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1770049414-0-0-66dbbd1cb959c51f1afda1d47aee7b97
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1770048334-0-0-04ec6b01131392d81d1baa09dc831b1b
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1770049414-0-0-468b62c11d4b70937ea6b48732bd603c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770048334-0-0-bd9e814f616af82b3220832bd38fe6e7
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770049414-0-0-579b94e9f161783da80e552fc8fc53ea
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770048334-0-0-218c1c45b587de5f0112384defbbdf42
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770049414-0-0-913e931bf8a2746f2d68788bcbc660a1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1770048334-0-0-4ec9ae37de8ea25e62b4dd430a7477de
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1770049414-0-0-60cf3a8a1adf93c179053c297d2d8a40
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1770048334-0-0-7ad44105e226ac16006cc55077671fcd
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1770049414-0-0-c40995507a931c2f70aadf56e991c79f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1770048334-0-0-9d5207f144631c542a7a84b3ee9db55e
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1770049414-0-0-29e80cae0873d863066e2a7089348a92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1770048334-0-0-1f6b35fceb3661987ec76bc6c29bd88a
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1770049414-0-0-3a4c519505f5e449fc52ea3e62e8c978
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770049414-0-0-4b5bb622c241dc232a6fe01c2ab01c62
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770049414-0-0-382bdb6b5e26693252143654d3864279
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770049414-0-0-99576cf051288ab2598a19f425bff412
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770049414-0-0-8db59948eff0aa62174df4e81697922c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1770049414-0-0-69a32034d89d604652e5bebaa882b6a8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1770049414-0-0-b48f3c0e8f29e1bb38c6feb7000e201a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770049414-0-0-d94b611d7846b44044d6d063ea6457f0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770049414-0-0-77dc397f9262f7ef4a4d749c85eed8b9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-252852_lsd.flv?auth_key=1770048334-0-0-6205bc9a0982cc5d9b69ed87bf1dbeba
+https://pull06.scstream.net/live/stream-252852_lsd.flv?auth_key=1770049414-0-0-7d64dd4bc3b3c74cc2c084ce7af52cf8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-252852_lhd.flv?auth_key=1770048334-0-0-70bd7f3feb32c423645a225e2d479f52
+https://pull06.scstream.net/live/stream-252852_lhd.flv?auth_key=1770049414-0-0-61766b69518d670492f2e14b49a4030b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-252852_lsd.m3u8?auth_key=1770048334-0-0-89820a6f5d52cc300bf783d2387ad2d2
+https://pull.niues.live/live/stream-252852_lsd.m3u8?auth_key=1770049414-0-0-2ea3ce859c5a14a2b8a58351845cde4f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-252852_lhd.m3u8?auth_key=1770048334-0-0-6d0ffc23ec1400e2f586276df54ce2f8
+https://pull.niues.live/live/stream-252852_lhd.m3u8?auth_key=1770049414-0-0-bfddd9d157ac33d47a59931ab06893df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2877.png",21h35 02/02 Baniyas SC vs Al-Jazira (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2614,6 +2601,9 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80",22h15 02/02 Al-Riyadh vs Al-Nassr
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/25a7ebe2fc19902b896b3a184ef420c9.png!w80",21h35 02/02 Bani Yas vs Al Jazira
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
@@ -2625,6 +2615,10 @@ https://live.alilicloud.com/live/ef818f9408cba9b6611b86f94a29b2ef/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/75bc7e809b872f9fd42a93f3959a767f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn.rapid-api.icu/football/team/aa2d8e24a68822387257f31d692c4297.png",22h15 WIB 02/02 Al-Riyadh vs Al Nassr FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/ae71d18a647f7a80c639a3d5b648b70b.png",19h30 WIB 02/02 Kheybar Khorramabad vs Foolad Khozestan (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2781,12 +2775,36 @@ https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP flv
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3127_1gpwsd3bgjw.png",22h15 WIB 02/02 Al-Riyadh vs Al-Nassr (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -2799,24 +2817,18 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2901_1gqe5zh6q30.png",21h35 WIB 02/02 Banni Yas vs Al-Jazira(UAE) (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/28309_1gq1ejp8d8f.png",22h00 WIB 02/02 Remo Stars vs Plateau United (Lương Sơn) BLV VĂN VỸ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770041546.png",21h00 WIB 02/02 XEM LIVE NHẬN QUÀ CỰC ĐÃ vs CÙNG IDOL JENNIE (Lương Sơn) MEGA LIVE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
@@ -2835,62 +2847,6 @@ https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd81
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6162_1hbw6rzshr1.png",21h20 WIB 02/02 AL-Rbeea Jeddah vs Al-Jabalain (Lương Sơn) BLV TRƯƠNG THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/fa361fdfc028e30bd480baf010432b80.png",20h00 WIB 02/02 Association Sportif Inter Star vs Ngozi City FC (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png",19h50 WIB 02/02 Al-Raed SFC vs Al Bukayriyah (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/1ab0b70082620c06dd8f501df8a5a77a.png",20h00 WIB 02/02 Bournemouth AFC U21 vs Cardiff City U21 (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/saysd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/2f2becfdada1182b73ba25466e1fb289.png",20h00 WIB 02/02 Shabab Al Ordon vs Al Faisaly (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/25a7ebe2fc19902b896b3a184ef420c9.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2943,6 +2899,18 @@ https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/4e9422ab24a8dff2521be20e1c129f20.png",23h00 WIB 02/02 Al-Muharraq vs Isa Town (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/356273eea313b4c02512fb84534e03fc.png",23h00 WIB 02/02 Chemal FC vs Nouakchott Academie (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/f3123401a5cd110b4904193590685f14.png",23h15 WIB 02/02 Ports Authority FC vs BAI Bureh Warriors (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m502nd/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/aa2d8e24a68822387257f31d692c4297.png",22h15 WIB 02/02 Al-Riyadh vs Al Nassr FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2999,10 +2967,6 @@ https://live.alilicloud.com/live/216afa78172b320d9ad5c0dd0f419204/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 WIB 02/02 Nepal U19 Women vs Bhutan Women U19 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 WIB 02/02 Dream Team vs United Bharat FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3035,6 +2999,10 @@ https://live.alilicloud.com/live/f8e2b0ab49ea08d4aea84fb287f7b8be/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6a4277ee93cc8ec783d3ce2bc8516185/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3063,6 +3031,10 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/d73a146d0c354588b7cfd6263f64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/d73a146d0c354588b7cfd6263f64bb7d_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/48204002de4c6c9ae2fc9e019a3591a5/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9e75f1dd6a917ae7fa62cc1b2439c2b/image/small?v=1768601124",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -3121,232 +3093,232 @@ https://live8.fastestcdn-global.com/live8/cd12c96f314f484e8343624be58a65c7_720/i
 https://live8.fastestcdn-global.com/live8/cd12c96f314f484e8343624be58a65c7_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770047614-0-0-3670997069e3a394ad49f75c32d973ca
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770048694-0-0-987c56db99ab0d6896e1afaefa2b8153
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770047614-0-0-fe462be409243340be4b32f776732312
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770048694-0-0-c5596859748ccbf6f554fb5be47f8f26
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770047614-0-0-fab5df9d2e548c8912ceeadaef9c878e
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770048694-0-0-f71f2c995b90a82c8be950e74d5863cd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770047614-0-0-22584c3ef6c9f0f59c17fb00f090a7c8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770048694-0-0-5073ce2d40803486ad7538349f7accd8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1770047614-0-0-7956aeb876d9c04c5ad7d1e9453ab5fe
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1770048694-0-0-6809591abb39ec8b731db44462924421
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1770047614-0-0-02a3ffd54ccdc6fcc9bb21ca3141eebc
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1770048694-0-0-dda68b9d0f017fa53838e1aa4a2ab898
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1770047614-0-0-378aa10eac1f656b242dba4b16fecf42
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1770048694-0-0-e8cfac5d6c67bc59e2e4041658800ac1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1770047614-0-0-13a9c9fbe65b4773039a102bcf29a574
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1770048694-0-0-373e243d5d5334298a0c356fed13c8b7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770047614-0-0-b836353e492c0971447acbac7226d799
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770048694-0-0-6e72e76d5ff98b2ef36761132eb21349
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770047614-0-0-107e09aed9ffdffcb450bbb7a92fdbb3
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770048694-0-0-b7652389b64ee97b63cd78a1e43ae06b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770047614-0-0-11120677ccaf67639d9aac7075ff03e1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770048694-0-0-b69b74c3f08d8bddd4951d65b075b299
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770047614-0-0-b39bd0d670e2210b6ae04fdeba89ed20
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770048694-0-0-c79ba5cad6e6192fe290c7e50cdb7e64
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1770047614-0-0-dc47eb4ecc5582d4395564d3d4413243
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1770048694-0-0-f94c5a75e54a49d15b1b51b33277ebed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1770047614-0-0-cd8da23ad5d54d850e498f319b667005
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1770048694-0-0-a8baaee31110ab2da11c82c01dd92dd4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1770047614-0-0-ef10aa546d22aa155424b861ad224b32
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1770048694-0-0-8d7e91162ab93269f06b1a50e63dd2ce
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1770047614-0-0-04f8173c79d4b8b3d3306eaf0b13865a
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1770048694-0-0-b10556b86b35de1b097d2fff916549fc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770047614-0-0-29277c4c7c66713115fac3d6e9a9130a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770048694-0-0-4bfbb22866da1f4c799ff0d88e79eff7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770047614-0-0-ed1adadb6c76433bd634d3803fd9eb86
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770048694-0-0-179a07f2207a1d2b43dfe26a670a9730
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770047614-0-0-73049c4053ad7f867f9d36c2e332aec5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770048694-0-0-02d5572a961ff5b5b08b8671feb5bc94
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770047614-0-0-36927e666e81a08913387e43ef70fc7b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770048694-0-0-b3a2d0c930ac390e6a5049f1f6b48d92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1770047974-0-0-dd345750170db339b053fef5add2dd1f
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1770049054-0-0-778e70762c25dd9ebe7f97c34e39f585
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1770047974-0-0-0f23d2fb27ba2be49cba45ecec02482d
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1770049054-0-0-50dbcd7c3767bfae98a5b0d98750bd82
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1770047974-0-0-2280e369408558b735c0e52d284f1eef
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1770049054-0-0-f17558bb3aa2c0d11a296ced14ef25ba
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV  TYPN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1770047974-0-0-49d07343c071cbdcb02bda799ad4e53b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=75b0d752e7157b56c7c362eaf257c67f&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=4ec34b7676833ebe09218d286ed629c7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=75b0d752e7157b56c7c362eaf257c67f&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=4ec34b7676833ebe09218d286ed629c7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770047974-0-0-56d9bf4944892c4b24ab2755b3ade5dd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1770047974-0-0-a198004f1cf2140060087783c1e42456
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770047974-0-0-f77a300c0e00d6489e0f4357cf32adc2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770047974-0-0-bf47e466dde903bf626cbaab2829453e
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1770049054-0-0-058b801539c87262fc461d77cfe79fe5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1770047974-0-0-33aed2361510ec2d8fb7602e5b1fad12
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1770049054-0-0-3f9615aa2123b27be3b9e1ccb1b86e0b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1770047974-0-0-d63383ae4cbacba137289eced18b8e00
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1770049054-0-0-c385a10046f122e9831559dc38d5c46a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1770047974-0-0-98e32681627951b2c6e3075df35149ff
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1770049054-0-0-491a0ce5148b53bc45eba45b6d83315c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1770047974-0-0-c10b8e014405083069421bccdf419607
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1770049054-0-0-04a7abcaac9ae2c13ac46346c42b169d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=74355591fa1d0df66e5e4cc399727ac7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1770049054-0-0-fb2b4a415a738c2a3667296f24cdb033
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a188f01d42cfd1547f6476b84afa02c3&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1770049054-0-0-d1a1e269bfb8d09fb6fdeff34d5bf0a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=74355591fa1d0df66e5e4cc399727ac7&txTime=69811036
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1770049054-0-0-0c9aee73259e29192dbc7b59a252ddaa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a188f01d42cfd1547f6476b84afa02c3&txTime=69811036
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1770049054-0-0-2df5b206821e41b3c234c6cca5388a82
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=4e0a9d51d14ad4056bc57dccb6eeaa7e&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=1640c6b5d676058d6f026ce806ad4262&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=89c2a60b534e307801c5d3d0df846402&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=4069a49f7c9db9ddf2483c06d6913445&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=4e0a9d51d14ad4056bc57dccb6eeaa7e&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1640c6b5d676058d6f026ce806ad4262&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=89c2a60b534e307801c5d3d0df846402&txTime=69811036
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=4069a49f7c9db9ddf2483c06d6913445&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=7fb3261f17a89e4fda9455f4e2469f7a&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=ea85195403e9d236a0ea51a8259abf38&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=7fb3261f17a89e4fda9455f4e2469f7a&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=ea85195403e9d236a0ea51a8259abf38&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f11317ebc75860ec53324c7f18e338e8&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=23333c44b0e7c025a368f8af72005160&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f11317ebc75860ec53324c7f18e338e8&txTime=6981146e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=23333c44b0e7c025a368f8af72005160&txTime=6981146e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770047974-0-0-c4af316a2b0970fe989e26c4bfe107ef
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770049054-0-0-df73926133b45cd8b4f45289e73edfaf
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770047974-0-0-6478f36878ee2dc8c02c5a25586cf7dc
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770049054-0-0-27ce5ecfca816a83e2c477eb189fddd3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770047974-0-0-9b33b9da8096ccfd506dd198d458dc6d
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770049054-0-0-b63c18704d8b412d83ec8a77a9c7f140
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/2d8e393235c39fdf08ac8bfd4bb5824d.png",22h50 WIB 02/02 Jeddah Sports Club vs Al-Jabalain [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770047974-0-0-5c5d2e2958f2978c6123eb80f754980d
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770049054-0-0-e9da231090d8a9eeb75674b3e9840631
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1770047974-0-0-294462d409f1484e9ccd96df54acb368
+https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1770049054-0-0-e20a6e43e9b19b6df652055c2f062d7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1770047974-0-0-3026c7678ce89b5165c7a54fc493380e
+https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1770049054-0-0-526280da4a706712bd1c303e0f3fc848
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1770047974-0-0-1d8f41ce46e686078541a8d975e298f9
+https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1770049054-0-0-308adee70f0d5b2a4969ed11c72d9092
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1770047974-0-0-1c225b2ac0cdd21c4f05d2fef272e33b
+https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1770049054-0-0-b5ac3e5bebaa1e63e6a5ad73934bea71
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770048334-0-0-794e129aedeb033b9cad7a563044e05f
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770049414-0-0-37cd013dd3bc9a83ddc51de7625e4e46
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770048334-0-0-47ddd66b53cb442b99b40063f53f3eec
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770049414-0-0-242cbf1f5ff251435f95572ba767761c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770048334-0-0-78998b1e1bf07a464d7e87d7b146c6de
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770049414-0-0-f62893aea66bb522222e64c5bff707d1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770048334-0-0-d4b5b9bd4798f7b3b51dbe00cbf931e0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1770048334-0-0-d7efd1524a992222c8178177756336a1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1770048334-0-0-e6bfc1988188bab55a4d260d2fa8bec2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770048334-0-0-5ff8933e572724bc3303634fb81ed762
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770048334-0-0-59552664081cc41f2e2b99dfa0de3569
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770048334-0-0-02e16de00b139f032543bded1d238831
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770048334-0-0-66865aa31a8523268e5608e0b0a2b498
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770048334-0-0-cf814e97f854b6d021e6b43a9c2c1c05
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770048334-0-0-48061e1c67eaab3b6b895979c4681d14
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770049414-0-0-fd2f8e65a342f2887b625bf14bd582f4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1770048334-0-0-327859f9e11ff5c4aa153afda2964090
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1770049414-0-0-66dbbd1cb959c51f1afda1d47aee7b97
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1770048334-0-0-04ec6b01131392d81d1baa09dc831b1b
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1770049414-0-0-468b62c11d4b70937ea6b48732bd603c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770048334-0-0-bd9e814f616af82b3220832bd38fe6e7
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770049414-0-0-579b94e9f161783da80e552fc8fc53ea
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/c757d82a3c3a7f8a795f23414c9ce31f.png",21h35 WIB 02/02 Baniyas Club vs Al-Jazira(UAE) [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770048334-0-0-218c1c45b587de5f0112384defbbdf42
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770049414-0-0-913e931bf8a2746f2d68788bcbc660a1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1770048334-0-0-4ec9ae37de8ea25e62b4dd430a7477de
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1770049414-0-0-60cf3a8a1adf93c179053c297d2d8a40
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1770048334-0-0-7ad44105e226ac16006cc55077671fcd
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1770049414-0-0-c40995507a931c2f70aadf56e991c79f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1770048334-0-0-9d5207f144631c542a7a84b3ee9db55e
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1770049414-0-0-29e80cae0873d863066e2a7089348a92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1770048334-0-0-1f6b35fceb3661987ec76bc6c29bd88a
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1770049414-0-0-3a4c519505f5e449fc52ea3e62e8c978
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770049414-0-0-4b5bb622c241dc232a6fe01c2ab01c62
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770049414-0-0-382bdb6b5e26693252143654d3864279
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770049414-0-0-99576cf051288ab2598a19f425bff412
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770049414-0-0-8db59948eff0aa62174df4e81697922c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1770049414-0-0-69a32034d89d604652e5bebaa882b6a8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1770049414-0-0-b48f3c0e8f29e1bb38c6feb7000e201a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1770049414-0-0-d94b611d7846b44044d6d063ea6457f0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1770049414-0-0-77dc397f9262f7ef4a4d749c85eed8b9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-252852_lsd.flv?auth_key=1770048334-0-0-6205bc9a0982cc5d9b69ed87bf1dbeba
+https://pull06.scstream.net/live/stream-252852_lsd.flv?auth_key=1770049414-0-0-7d64dd4bc3b3c74cc2c084ce7af52cf8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-252852_lhd.flv?auth_key=1770048334-0-0-70bd7f3feb32c423645a225e2d479f52
+https://pull06.scstream.net/live/stream-252852_lhd.flv?auth_key=1770049414-0-0-61766b69518d670492f2e14b49a4030b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-252852_lsd.m3u8?auth_key=1770048334-0-0-89820a6f5d52cc300bf783d2387ad2d2
+https://pull.niues.live/live/stream-252852_lsd.m3u8?auth_key=1770049414-0-0-2ea3ce859c5a14a2b8a58351845cde4f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260131/4e9e201dcefce64771e68423e8063a05.png",22h15 WIB 02/02 Al Riyadh vs Al Nassr FC [Casting 06] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-252852_lhd.m3u8?auth_key=1770048334-0-0-6d0ffc23ec1400e2f586276df54ce2f8
+https://pull.niues.live/live/stream-252852_lhd.m3u8?auth_key=1770049414-0-0-bfddd9d157ac33d47a59931ab06893df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2877.png",21h35 02/02 Baniyas SC vs Al-Jazira (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3383,6 +3355,9 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80",22h15 02/02 Al-Riyadh vs Al-Nassr
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/25a7ebe2fc19902b896b3a184ef420c9.png!w80",21h35 02/02 Bani Yas vs Al Jazira
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
