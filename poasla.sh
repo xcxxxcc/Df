@@ -8,6 +8,26 @@ set -o pipefail
 
 REPO_DIR="$HOME/Df"
 FILE="$REPO_DIR/Poasla"
+LOG_DIR="$REPO_DIR/log"
+LOCK_FILE="$REPO_DIR/.poasla.lock"
+
+mkdir -p "$LOG_DIR"
+
+############################
+# ====== LOCK / SAFETY ====#
+############################
+
+# Cek kalau script lain lagi jalan
+if [ -f "$LOCK_FILE" ] && kill -0 "$(cat $LOCK_FILE)" 2>/dev/null; then
+  echo "❌ Script Poasla sudah jalan, exit."
+  exit 1
+fi
+
+# Buat lock
+echo $$ > "$LOCK_FILE"
+
+# Hapus lock saat exit
+trap "rm -f $LOCK_FILE" EXIT
 
 ############################
 # ====== GIT SAFETY ====== #
@@ -28,7 +48,7 @@ if [ "$(git branch --show-current)" != "main" ]; then
 fi
 
 # Sinkron aman
-git pull --rebase --autostash origin main
+git pull --rebase --autostash origin main || { echo "❌ Gagal sinkronisasi!"; exit 1; }
 
 ############################
 # ====== PERSIAPAN ====== #
@@ -51,7 +71,7 @@ curl -fsSL "$SONY_URL" | awk '
 /^#EXTM3U/ || /^#DATE:/ || /D O C T O R - S T R A N G E/ { next }
 /^#EXTINF/ {
   sub(/^#EXTINF:[0-9-]+/, "#EXTINF:1")
-  gsub(/group-title="[^"]*"/, "group-title=\"SONY\"")
+  gsub(/group-title="[^"]*"/, "group-title=\"SONY EVENT\"")
   print
   next
 }
@@ -157,14 +177,15 @@ if [ -s "$PPV_TMP" ]; then
 fi
 
 ############################
-# ========= 10CAM =========#
+# ========= RANDOM 1 =========#
 ############################
+# Source: Bongda 1 & 2 (SEMUA)
 
 BONGDA1_URL="https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u"
 BONGDA2_URL="https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u"
-CAM_TMP="10cam.tmp"
+R1_TMP="random1.tmp"
 
-sed -i '/#--- 10CAM START ---/,/#--- 10CAM END ---/d' "$FILE"
+sed -i '/#--- RANDOM 1 START ---/,/#--- RANDOM 1 END ---/d' "$FILE"
 
 {
   curl -fsSL "$BONGDA1_URL" || true
@@ -174,11 +195,45 @@ sed -i '/#--- 10CAM START ---/,/#--- 10CAM END ---/d' "$FILE"
 { gsub(/\xEF\xBB\xBF/, ""); gsub(/\r/, "") }
 /^#EXTM3U/ { next }
 /^#EXTINF/ {
-  keep = ($0 ~ /group-title="10[Cc]am"/ || $0 ~ /QUAY TAY/ || $0 ~ /Chuối Chiên/)
+  sub(/^#EXTINF:[0-9-]+/, "#EXTINF:1")
+  gsub(/group-title="[^"]*"/, "group-title=\"RANDOM 1\"")
+  gsub(/ngày/, "WIB")
+  print
+  next
+}
+/^#EXTVLCOPT/ || /^https?:\/\// { print }
+' > "$R1_TMP" || true
+
+if [ -s "$R1_TMP" ]; then
+{
+  echo ""
+  echo "#--- RANDOM 1 START ---"
+  cat "$R1_TMP"
+  echo "#--- RANDOM 1 END ---"
+} >> "$FILE"
+fi
+
+############################
+# ========= RANDOM 2 ======#
+############################
+# Source: Bongda 1 & 2 (Filter: Chuối Chiên & 10 Cam)
+
+R2_TMP="random2.tmp"
+sed -i '/#--- RANDOM 2 START ---/,/#--- RANDOM 2 END ---/d' "$FILE"
+
+{
+  curl -fsSL "$BONGDA1_URL" || true
+  echo ""
+  curl -fsSL "$BONGDA2_URL" || true
+} | awk '
+{ gsub(/\xEF\xBB\xBF/, ""); gsub(/\r/, "") }
+/^#EXTM3U/ { next }
+/^#EXTINF/ {
+  # Filter regex untuk mencakup Chuối Chiên (Chu) dan 10 Cam
+  keep = ($0 ~ /10[ ]?Cam/ || $0 ~ /Chu/ || $0 ~ /Chiên/)
   if (keep) {
     sub(/^#EXTINF:[0-9-]+/, "#EXTINF:1")
-    gsub(/group-title="[^"]*"/, "group-title=\"Random\"")
-    gsub(/ngày/, "WIB")
+    gsub(/group-title="[^"]*"/, "group-title=\"RANDOM 2\"")
     print
   }
   next
@@ -187,14 +242,51 @@ keep && (/^#EXTVLCOPT/ || /^https?:\/\//) {
   print
   if (/^https?:\/\//) keep=0
 }
-' > "$CAM_TMP" || true
+' > "$R2_TMP" || true
 
-if [ -s "$CAM_TMP" ]; then
+if [ -s "$R2_TMP" ]; then
 {
   echo ""
-  echo "#--- 10CAM START ---"
-  cat "$CAM_TMP"
-  echo "#--- 10CAM END ---"
+  echo "#--- RANDOM 2 START ---"
+  cat "$R2_TMP"
+  echo "#--- RANDOM 2 END ---"
+} >> "$FILE"
+fi
+
+############################
+# ========= RANDOM 3 ======#
+############################
+# Source: Doms9 events
+
+RANDOM3_URL="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+R3_TMP="random3.tmp"
+
+sed -i '/#--- RANDOM 3 START ---/,/#--- RANDOM 3 END ---/d' "$FILE"
+
+curl -fsSL "$RANDOM3_URL" | awk '
+{ gsub(/\xEF\xBB\xBF/, ""); gsub(/\r/, "") }
+/^#EXTM3U/ { next }
+/^#EXTINF/ {
+  keep = ($0 ~ /(FAWA|ROXIE|STRMCNTR|STRMHUB|CDNTV)/)
+  if (keep) {
+    sub(/^#EXTINF:[0-9-]+/, "#EXTINF:1")
+    gsub(/group-title="[^"]*"/, "group-title=\"RANDOM 3\"")
+    print
+  }
+  next
+}
+keep && (/^#EXTVLCOPT/ || /^https?:\/\//) {
+  print
+  if (/^https?:\/\//) keep=0
+}
+' > "$R3_TMP" || true
+
+if [ -s "$R3_TMP" ]; then
+{
+  echo ""
+  echo "#--- RANDOM 3 START ---"
+  cat "$R3_TMP"
+  echo "#--- RANDOM 3 END ---"
 } >> "$FILE"
 fi
 
@@ -202,11 +294,12 @@ fi
 # ========= COMMIT ======= #
 ############################
 
-if ! git diff --quiet; then
+# Cek perubahan di file Poasla DAN script poasla.sh sendiri
+if [[ -n $(git status -s) ]]; then
   git config user.name "poasla-bot"
   git config user.email "poasla-bot@users.noreply.github.com"
-  git add "$FILE"
-  git commit -m "Auto-sync Poasla (SONY, ZEE5, PPVLAND, 10CAM)"
+  git add .
+  git commit -m "Auto-sync Poasla (SONY, ZEE5, PPV, R1, R2, R3) - $(date +'%Y-%m-%d %H:%M')"
   git push origin main
 else
   echo "Tidak ada perubahan"
