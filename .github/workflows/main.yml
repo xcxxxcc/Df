@@ -3,7 +3,7 @@ name: Multi-Source M3U Synchronizer
 on:
   schedule:
     # Jalan setiap 30 menit otomatis
-    - cron: '*/30 * * * *' 
+  #  - cron: '*/30 * * * *' 
   workflow_dispatch: # Tombol manual buat tes
 
 jobs:
