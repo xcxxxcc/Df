@@ -61,20 +61,36 @@ grep -q '^#EXTM3U' "$FILE" || sed -i '1i #EXTM3U' "$FILE"
 # ========= SONY ========= #
 ############################
 
+############################
+# ========= SONY ========= #
+############################
+
 SONY_URL="https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"
 SONY_TMP="sony.tmp"
 
 sed -i '/#--- SONY START ---/,/#--- SONY END ---/d' "$FILE"
 
 curl -fsSL "$SONY_URL" | awk '
-{ gsub(/\xEF\xBB\xBF/, ""); gsub(/\r/, "") }
+{ 
+  gsub(/\xEF\xBB\xBF/, ""); 
+  gsub(/\r/, "");
+  
+  # WAJIB MTM: Mengganti domain agar ON di Indonesia
+  if ($0 ~ /sonydaimenew\.akamaized\.net/) {
+    gsub(/sonydaimenew\.akamaized\.net/, "sonymtmnew.akamaized.net")
+  }
+}
+
 /^#EXTM3U/ || /^#DATE:/ || /D O C T O R - S T R A N G E/ { next }
+
 /^#EXTINF/ {
   sub(/^#EXTINF:[0-9-]+/, "#EXTINF:1")
-  gsub(/group-title="[^"]*"/, "group-title=\"SONY EVENT\"")
+  # Mengikuti format grup Anda "SONY"
+  gsub(/group-title="[^"]*"/, "group-title=\"SONY\"")
   print
   next
 }
+
 NF { print }
 ' > "$SONY_TMP" || true
 
