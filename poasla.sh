@@ -9,12 +9,7 @@ set -o pipefail
 REPO_DIR="$HOME/Df"
 FILE="$REPO_DIR/Poasla"
 LOG_DIR="$REPO_DIR/log"
-<<<<<<< Updated upstream
 LOCK_FILE="$REPO_DIR/.poasla.lock"
-=======
-DEVICE="$(getprop ro.product.manufacturer | tr '[:upper:]' '[:lower:]')_$(getprop ro.product.model | tr ' ' '_')"
-LOCK_FILE="$HOME/.poasla_${DEVICE}.lock"
->>>>>>> Stashed changes
 
 mkdir -p "$LOG_DIR"
 
