@@ -61,9 +61,6 @@ grep -q '^#EXTM3U' "$FILE" || sed -i '1i #EXTM3U' "$FILE"
 # ========= SONY ========= #
 ############################
 
-############################
-# ========= SONY ========= #
-############################
 
 SONY_URL="https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"
 SONY_TMP="sony.tmp"
