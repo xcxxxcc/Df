@@ -616,9 +616,15 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015023/1770789822227536_STI_S5_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1770856202~acl=/*~id=56041131707709835140818505785818~hmac=1fd05bffa3b5cd4e8ad242d839f81d59e2c1917a7bf65a42afc7365f4e79723d|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/D9 PRO 5G)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=06e6ea2ff4a0e90a434814246209a1f4-1770829800331
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1770856202~acl=/*~id=56041131707709835140818505785818~hmac=1fd05bffa3b5cd4e8ad242d839f81d59e2c1917a7bf65a42afc7365f4e79723d|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-S918U; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=66b8630207d259e5aa37d02157899ab7-1770831000468
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -632,12 +638,8 @@ https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/figure-skating/figure-skat
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/gold-zone-day-5-1770814800
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7f45948b66de9286d8bc54b74f0c52b4-thumbnail.jpg" group-title="PPV-LIVE",Slovakia vs. Finland (Men's Group B)
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/hockey/slovakia-vs-finland-mens-group-b-1770824400
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="PPV-LIVE",Free Dance: Warm-Up
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/figure-skating/free-dance-warm-up-1770825600
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8a75c4bbdc9a5a23a741f2ef6ac62cf-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Doubles Luge
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/luge/mens--womens-doubles-luge-1770825600
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/db6b2483cc6d0d12dd52f7937ddefa36-thumbnail.jpg" group-title="PPV-LIVE",Women's Moguls: Final
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/freestyle-skiing/womens-moguls-final-1770829200
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="PPV-LIVE",Men's 1000m
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-11/speed-skating/mens-1000m-1770831000
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="PPV-LIVE",Men's 1000m
@@ -782,8 +784,6 @@ https://ppv2.168.us.kg/stream?uri=laliga/2026-02-15/mll-bet
 https://ppv2.168.us.kg/stream?uri=seriea/2026-02-16/cag-lec
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Barcelona
 https://ppv2.168.us.kg/stream?uri=laliga/2026-02-16/gir-bar
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9fdf566398a408b3c5e0b357852f13e5-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 1
-https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-1/fp1
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7e60a3fda1e80b223c9bb0a488c36fb6-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 2
 https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-1/fp2
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
@@ -809,94 +809,78 @@ https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Albanian Cup] KS Elbasani vs Partizani Tirana lúc 00:24 WIB 12/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/1cdcfd26096a7d47a955bb13ee11a7ee/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/85651224a0647da5e481ba6d339e63b4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:24 WIB 12/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:36 WIB 12/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698ca1bb26632_17480.flv?expire=1771428923&sign=f5c56bfa4f5705b848975869f7553fe1
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:24 WIB 12/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Cup] Ludogorets Razgrad vs Levski Sofia lúc 00:36 WIB 12/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698ca1bb26632_17480/index.m3u8?expire=1771428923&sign=f5c56bfa4f5705b848975869f7553fe1
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Sepahan vs Al-Ahli Doha lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Sepahan vs Al-Ahli Doha lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/29f2485e6e86e92aa9e89e2be13a8bf8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/8f877a4dcac181e344a65788f31e6481/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:24 WIB 12/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:36 WIB 12/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698ca1b726632_18754.flv?expire=1771428919&sign=9af96f415d9e8870310f84e1b2dcc668
-#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:24 WIB 12/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Bahrain Premier League] Al-Shabbab vs Al Khaldiya lúc 00:36 WIB 12/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698ca1b726632_18754/index.m3u8?expire=1771428919&sign=9af96f415d9e8870310f84e1b2dcc668
-#EXTINF:1 group-title="RANDOM 1",[Finland Liiga Cup] IFK Mariehamn vs TPS Turku lúc 00:24 WIB 12/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Finland Liiga Cup] IFK Mariehamn vs TPS Turku lúc 00:36 WIB 12/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698c99b8fe254_88186.flv?expire=1771426872&sign=2a92640682aa01d80c86e073bd5f5fb9
-#EXTINF:1 group-title="RANDOM 1",[Finland Liiga Cup] IFK Mariehamn vs TPS Turku lúc 00:24 WIB 12/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Finland Liiga Cup] IFK Mariehamn vs TPS Turku lúc 00:36 WIB 12/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698c99b8fe254_88186/index.m3u8?expire=1771426872&sign=2a92640682aa01d80c86e073bd5f5fb9
-#EXTINF:1 group-title="RANDOM 1",[Sierra Leone Premier League] Abacha City vs Bhantal lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Sierra Leone Premier League] Abacha City vs Bhantal lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a599b416db9c4cb80a9b79bacc555ca0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Hungary  Cup] Ferencvarosi TC vs Csakvari TK lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Hungary  Cup] Ferencvarosi TC vs Csakvari TK lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/ebba48ebbca6f241ac397f6759f413c4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[German Frauen Bundesliga] Carl Zeiss Jena (w) vs Bayern Munchen (w) lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[German Frauen Bundesliga] Carl Zeiss Jena (w) vs Bayern Munchen (w) lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/2a4e6fa0de0ab9fe60558074ec02b0b0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Novara vs Albinoleffe lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Novara vs Albinoleffe lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5843155214685b6599226a3ba0a58c04/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] ASD Alcione vs A.C. Ospitaletto lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] ASD Alcione vs A.C. Ospitaletto lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f763910550378c7af57e47b02e4dc93e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] AC Dolomiti Bellunesi vs Us Pergolettese lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] AC Dolomiti Bellunesi vs Us Pergolettese lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/24786783c0979a8f82cdb75dca0e4971/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Renate AC vs Triestina lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Renate AC vs Triestina lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/63cf32d95dbac9603f0e5f8081f3937a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bosnia and Herzegovina Cup] NK Celik Zenica vs Sarajevo lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bosnia and Herzegovina Cup] NK Celik Zenica vs Sarajevo lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/24de9eb9ea1eaca0e18a7f492331e049/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CONCACAF U17 Championship] Aruba U17 vs Cayman Islands U17 lúc 00:24 WIB 12/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CONCACAF U17 Championship] Aruba U17 vs Cayman Islands U17 lúc 00:36 WIB 12/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/663f96cf3168ab6a9915c7e94efb13a5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1687_1heh221z7ra.png",23h00 WIB 11/02 Sepahan vs Al-Ahli Doha (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -939,6 +923,18 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 11/02 Ludogorets Razgrad vs Levski Sofia (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/623_1gpyst1kqn1j.png",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.thesports.com/football/team/941d154df4d52cab518d2deae12dc83b.png",06h20 WIB 03/02 La Equidad vs Deportes Tolima (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -963,6 +959,54 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/af6b93743fc541a1baeb47f216f8f374/image/small?v=1768601124",19h00 WIB 11/02 CSM Slatina vs Metaloglobus (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/72e6e239522403a91310fa00577716dd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/999ffb706bef5386c0317e67337a66e3/image/small?v=1768601124",20h45 WIB 11/02 Arkadag FK vs Al Nassr FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6e57bef7e487ef8af9995785efe23970/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/d083824708984564813fbca526aaeb32_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/d083824708984564813fbca526aaeb32_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/d083824708984564813fbca526aaeb32_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fd8c511b7acf81719fbb0ef7f8edd606/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/3fdd60dea7464bc186523451d411ef09_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/3fdd60dea7464bc186523451d411ef09_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/3fdd60dea7464bc186523451d411ef09_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9acd1ad9a99767913e09c6cc9009ebf1/image/small?v=1768601124",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ebba48ebbca6f241ac397f6759f413c4/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/417b0c9b38709feae0e94cba07b694e6/image/small?v=1768601124",22h00 WIB 11/02 Levadiakos vs OFI Crete (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3a5ba3849ee4c549b026d3687b9863fc/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/21d75a8b88baf5be770f2afd2080fe3c/image/small?v=1768601124",22h00 WIB 11/02 Rio Ave U23 vs Estrela FC U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a9f8420c39dddd78244437f0f3063b9c/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fbccb75f0d409cd443fa2e053f1fdc5f/image/small?v=1768601124",23h15 WIB 11/02 Abacha City vs Bhantal (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -979,6 +1023,18 @@ https://live.alilicloud.com/live/e27a2eb5daa1aba97c974811c3659c1c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8f877a4dcac181e344a65788f31e6481/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/50230edc46920e07009e6dfac68b1bbf/image/small?v=1768601124",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/f6690a6e6a37481f9af49a0a3b90b45b_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/50230edc46920e07009e6dfac68b1bbf/image/small?v=1768601124",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/f6690a6e6a37481f9af49a0a3b90b45b_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/50230edc46920e07009e6dfac68b1bbf/image/small?v=1768601124",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/f6690a6e6a37481f9af49a0a3b90b45b_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5216cab06308be58e94fd71d9fabe5f7/image/small?v=1768601124",19h00 WIB 11/02 FK Buducnost Dobanovci vs Crvena Zvezda (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1031,10 +1087,6 @@ https://live.alilicloud.com/live/1c8ca9042419a097f624936d8a7b79c0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d33e8cc57e02f0245945ef6fc8012de6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/cb680bc53e39073d9ac24aa43de43e9f/image/small?v=1768601124",18h30 WIB 11/02 Indonesia U17 vs China U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2836f3ebe9abe8fd95d44dd8c1e14721/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/015d1b94905d76366f437d02bcf085f2/image/small?v=1768601124",23h00 WIB 11/02 Sepahan vs AlvsAhli Doha (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1063,54 +1115,6 @@ https://live.alilicloud.com/live/24786783c0979a8f82cdb75dca0e4971/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2a4e6fa0de0ab9fe60558074ec02b0b0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/af6b93743fc541a1baeb47f216f8f374/image/small?v=1768601124",19h00 WIB 11/02 CSM Slatina vs Metaloglobus (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/72e6e239522403a91310fa00577716dd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/999ffb706bef5386c0317e67337a66e3/image/small?v=1768601124",20h45 WIB 11/02 Arkadag FK vs Al Nassr FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6e57bef7e487ef8af9995785efe23970/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/d083824708984564813fbca526aaeb32_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/d083824708984564813fbca526aaeb32_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/40519465a28b9a31006ae87b87c39580/image/small",23h30 WIB 11/02 Budowlani Lodz Women vs Wroclaw Women (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/d083824708984564813fbca526aaeb32_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fd8c511b7acf81719fbb0ef7f8edd606/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/3fdd60dea7464bc186523451d411ef09_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/3fdd60dea7464bc186523451d411ef09_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/839942ea23645ca05d9aa5e643924028/image/small?v=1768601124",19h15 WIB 11/02 Cong An Ha Noi FC vs Tampines Rovers FC (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/3fdd60dea7464bc186523451d411ef09_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9acd1ad9a99767913e09c6cc9009ebf1/image/small?v=1768601124",23h30 WIB 11/02 Ferencvarosi TC vs Csakvari TK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ebba48ebbca6f241ac397f6759f413c4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/417b0c9b38709feae0e94cba07b694e6/image/small?v=1768601124",22h00 WIB 11/02 Levadiakos vs OFI Crete (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3a5ba3849ee4c549b026d3687b9863fc/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/21d75a8b88baf5be770f2afd2080fe3c/image/small?v=1768601124",22h00 WIB 11/02 Rio Ave U23 vs Estrela FC U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a9f8420c39dddd78244437f0f3063b9c/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132919_c0ff5563.png",23h00 WIB 11/02 Sepahan FC vs Al Ahli Doha (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1479,66 +1483,6 @@ https://live.alilicloud.com/live/24786783c0979a8f82cdb75dca0e4971/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2a4e6fa0de0ab9fe60558074ec02b0b0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1770833495-0-0-c89937ef1e522b280942425d3f81a048
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1770833495-0-0-91091d7b6a43f85305d40f986f3f6e35
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1770833495-0-0-98629a69a3973726608162db2f03fbd5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1770833495-0-0-2fc79ceef08ebb2055457cefb4b58317
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=c6a6bc1b9f85ead9d3e97f074b919fce&txTime=698d0e0f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=0b7c0ee474a30c992fc7eb9bbc0fe7da&txTime=698d0e0f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=c6a6bc1b9f85ead9d3e97f074b919fce&txTime=698d0e0f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=0b7c0ee474a30c992fc7eb9bbc0fe7da&txTime=698d0e0f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1770833855-0-0-add603ee5720880bc7a5b566814b4946
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1770833855-0-0-5ad71ca5d144207d501a16b074a4eed6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1770833855-0-0-88a2e1a32373466ac1a04e1b6dcbba9b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1770833855-0-0-641e005e9e9183b59d5579903e746b5b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1770833855-0-0-2a12dd92f33226415fd954e28ed9850e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1770833855-0-0-1b49104f389c3f1efdca5617544bf6e2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1770833855-0-0-787931c90eed6ca0ad920d7c792d1577
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1770833855-0-0-ae1b54ca15ffe0ef4e0b64bb5f8e0742
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770833855-0-0-be97ba13bfd48bc8a65fca8ef1a796ac
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770833855-0-0-946e1e44191d48dca35a627658a3c2f6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770833855-0-0-22479845a5ad2f26a34f606ebe0358e8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770833855-0-0-d7fc0446f6dc960c312769f27c7ad599
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260207/8fdd37a66f8abce56cd40decca15954d.png",23h00 WIB 11/02 Sepahan vs Al-Ahli Doha [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770834215-0-0-f510cd7687f2f1e9e220d719293adc43
@@ -1767,6 +1711,90 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770834215-0-0-4053
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770834215-0-0-a63fbb23d819cb5a2c72666f829f5ac5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1770834575-0-0-5573f3bd7836d270e8ab28075bd99c76
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1770834575-0-0-2980bf20e0f580feeb5b23521b56ebc9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1770834575-0-0-bcc2d051c1980aca74b2473741f27efe
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1770834575-0-0-104a34fe484f0ca3930444fe0cf33e6b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1770834935-0-0-3cef476f449069b488b2733320f06c27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1770834935-0-0-e32cb9b1b457274ff26300008f126faf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1770834935-0-0-045c5a2bb2ae2f1d8f9d877402d7072f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1770834935-0-0-0ad7a219aa7cadea08e022a4c21667c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=b098f2837de2300ab6141941988ab875&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=8009739fd734f97524036daabb98b661&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=b098f2837de2300ab6141941988ab875&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=8009739fd734f97524036daabb98b661&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770834935-0-0-caa813d84312310083ab19f2fd5ec08d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770834935-0-0-b7154a6a3d81425c58a0e7ee8edde21c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770834935-0-0-7fe53d99e2a8e34d4f156d12fa4cf67d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/24c0d4b9f39b391282a654d2b249f5c8.png",00h45 WIB 12/02 Oud Heverlee Leuven Women vs Arsenal Women [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770834935-0-0-6f3555e906693fa2f5f3ff8cdabd5e13
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1770834935-0-0-8fb23dcc9024256e843a9de55cee7ba2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1770834935-0-0-fec2d51336572be1f95eefcaf10c1626
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1770834935-0-0-7423a9aa72d43c911398ed216e712681
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1770834935-0-0-030500930c57f5fb7c7ea55a103e4509
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1770834935-0-0-9f98c2a89ade43c28554d9e0fb143e4d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1770834935-0-0-0da3a9371ee3e9a5aaa6aa954d796fad
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1770834935-0-0-6511a2cadd5c5d414cb8d019f0421b89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/fb44fffb1e66e403b4eed52ed869004b.png",00h45 WIB 12/02 Go Ahead Eagles vs SC Heerenveen [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1770834935-0-0-761271437298dace9114f4db908f1311
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=fb55d022798e123d05e740d39042f455&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=c70a2fbdee2cd353fd06086b2e9092fc&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=fb55d022798e123d05e740d39042f455&txTime=698d1247
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260209/46e27b68f7645455c98ea644dd21a273.png",01h00 WIB 12/02 SudTirol vs Monza [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c70a2fbdee2cd353fd06086b2e9092fc&txTime=698d1247
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2744.png",23h00 11/02 Sepahan FC vs Al Ahli Doha (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
