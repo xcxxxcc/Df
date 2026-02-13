@@ -1623,112 +1623,332 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
-#EXTINF:1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015047/1770813954717228_WOF_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Wheel Of Fortune
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1771029003~acl=/*~id=19664644667067533255340747571899~hmac=9a93dbdba11b3f76b55796507f8f65a9984ebe863f684b334b880c2a6d262c75|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; DRA-LX9; Build/HUAWEIDRA-LX9)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c4360c45382060129a43cb50e22f98ab-1771000200449
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015023/1770789822227536_STI_S5_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1771029003~acl=/*~id=19664644667067533255340747571899~hmac=9a93dbdba11b3f76b55796507f8f65a9984ebe863f684b334b880c2a6d262c75|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g85 5G; Build/U3UO34.49-40-1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c4360c45382060129a43cb50e22f98ab-1771000200449
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1771029003~acl=/*~id=19664644667067533255340747571899~hmac=9a93dbdba11b3f76b55796507f8f65a9984ebe863f684b334b880c2a6d262c75|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Redmi Note 10 Lite; Build/AP4A.241205.013)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4ae8f833a4e0a2563b92665b108dee9b-1771001400340
 #EXTINF:1 tvg-id="1090503624" tvg-name="ABB FIA Formula E World Championship" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770322663392886_ABBFIAFormulaE_WC26_Round4_JeddahEPrix_final_Race_6feb_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Round 4 - Jeddah E-Prix - Final Race - 13 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1771029003~acl=/*~id=19664644667067533255340747571899~hmac=9a93dbdba11b3f76b55796507f8f65a9984ebe863f684b334b880c2a6d262c75|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-21AE; Build/RTM8.240401.231)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c4360c45382060129a43cb50e22f98ab-1771000200449
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1771029003~acl=/*~id=19664644667067533255340747571899~hmac=9a93dbdba11b3f76b55796507f8f65a9984ebe863f684b334b880c2a6d262c75|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; hi352l_zsn2; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4ae8f833a4e0a2563b92665b108dee9b-1771001400340
 #--- SONY END ---
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 7
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/gold-zone-day-7-1770987600
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9dc69180992e4bd6a0abf21007a94349-thumbnail.jpg" group-title="PPV-LIVE",Men's 10,000m
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/speed-skating/mens-10000m-1770994800
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="PPV-LIVE",Czechia vs. Sweden (W Quarterfinal)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/hockey/czechia-vs-sweden-w-quarterfinal-1770997200
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bff0b8492d436427ac4f113bce21b4a6-thumbnail.jpg" group-title="PPV-LIVE",France vs. Czechia (Men's Group A)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/hockey/france-vs-czechia-mens-group-a-1770997200
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e8faad329f10ff1da577bda772bceda6-thumbnail.jpg" group-title="PPV-LIVE",Men's Free: Warm-Up
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/figure-skating/mens-free-warm-up-1770997500
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/de7ae31f16fff7e8c9ac0121e6af63e7-thumbnail.jpg" group-title="PPV-LIVE",Women's Skeleton: Run 2
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/skeleton/womens-skeleton-run-2-1771001100
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3c4369d360ceeb471bb6b0f2ed852b72-thumbnail.jpg" group-title="PPV-LIVE",Men's LH: Training
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/ski-jumping/mens-lh-training-1771003800
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a7dce1f439807973f6a10a2f26d52495-thumbnail.jpg" group-title="PPV-LIVE",Women's Snowboard Cross: Finals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/snowboarding/womens-snowboard-cross-finals-1771005600
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9f70dc55031965dbb41c327de9214d6b-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. Sweden (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/curling/canada-vs-sweden-m-round-robin-1771005900
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c4dcd813006ae5088b7e0c2b925b9598-thumbnail.jpg" group-title="PPV-LIVE",Czechia vs. Norway (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/curling/czechia-vs-norway-m-round-robin-1771005900
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3572fb8fd2bf851b7b8f2aa60b2d4ffa-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. Italy (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/curling/germany-vs-italy-m-round-robin-1771005900
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3e3c0a51e8ba702d93436413ce7abf3d-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. China (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/curling/switzerland-vs-china-m-round-robin-1771005900
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8009434bb5b5d4531c63de6adebd3e40-thumbnail.jpg" group-title="PPV-LIVE",Men's Skeleton: Run 3
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/skeleton/mens-skeleton-run-3-1771007400
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6cef841a3cf878ec92607686a3adc307-thumbnail.jpg" group-title="PPV-LIVE",Men's Snowboard Halfpipe: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/snowboarding/mens-snowboard-halfpipe-final-1771007400
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3c9980a74c65f5b5f01ec8e6dd745843-thumbnail.jpg" group-title="PPV-LIVE",Men's Snowboard Halfpipe: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/snowboarding/mens-snowboard-halfpipe-final-1771007400
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e8faad329f10ff1da577bda772bceda6-thumbnail.jpg" group-title="PPV-LIVE",Men's Free
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/figure-skating/mens-free-curated-feed-1771012800
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8009434bb5b5d4531c63de6adebd3e40-thumbnail.jpg" group-title="PPV-LIVE",Men's Skeleton: Final Run
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/skeleton/mens-skeleton-final-run-1771013100
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. Switzerland (Men's Group A)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/hockey/canada-vs-switzerland-mens-group-a-1771013400
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Italy (W Quarterfinal)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-13/hockey/usa-vs-italy-w-quarterfinal-1771013400
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/92f45cbf803c42c64aba7e051dd154ef-thumbnail.jpg" group-title="PPV-LIVE",Houston Cougars vs. Wake Forest Demon Deacons
+https://ppv2.168.us.kg/stream?uri=college-baseball/4641/4641-4641-4641
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/93168c3f00fc4c7198aed434c492848d-thumbnail.jpg" group-title="PPV-LIVE",Michigan State Spartans vs. Louisville Cardinals
+https://ppv2.168.us.kg/stream?uri=college-baseball/2339/2339-2339-2339
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/abc30b31649ab39cee0db26002f367a7-thumbnail.jpg" group-title="PPV-LIVE",NC State Wolfpack vs. Washington Huskies
+https://ppv2.168.us.kg/stream?uri=college-baseball/1257/1257-1257-1257
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b80bcde4e12e0d8b8dae46baf96fef7d-thumbnail.jpg" group-title="PPV-LIVE",Milwaukee Panthers vs. LSU Tigers
+https://ppv2.168.us.kg/stream?uri=college-baseball/1413/1413-1413-1413
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8bd6924c52589e1fd154689f8d146676-thumbnail.jpg" group-title="PPV-LIVE",Wright State Raiders vs. Georgia Bulldogs
+https://ppv2.168.us.kg/stream?uri=college-baseball/4384/4384-4384-4384
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/92f98f14aac2f8e407ce6041725330c6-thumbnail.jpg" group-title="PPV-LIVE",Bowling Green Falcons vs. Georgia Tech Yellow Jackets
+https://ppv2.168.us.kg/stream?uri=college-baseball/9724/9724-9724-9724
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/46c0c87727965cea86f06bc92acb4d7b-thumbnail.jpg" group-title="PPV-LIVE",Fairfield Stags vs. Coastal Carolina Chanticleers
+https://ppv2.168.us.kg/stream?uri=college-baseball/2942/2942-2942-2942
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c74bf9a70876b6b7d3498bc528556cd3-thumbnail.jpg" group-title="PPV-LIVE",Vanderbilt Commodores vs. TCU Horned Frogs
+https://ppv2.168.us.kg/stream?uri=college-baseball/7494/7494-7494-7494
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/83836952406f9e8519927b656ffb79b7-thumbnail.jpg" group-title="PPV-LIVE",Indiana Hoosiers vs. North Carolina Tar Heels
+https://ppv2.168.us.kg/stream?uri=college-baseball/3679/3679-3679-3679
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/652e6367ae9b198bddd25bc78e1ba307-thumbnail.jpg" group-title="PPV-LIVE",Michigan Wolverines vs. Oregon State Beavers
+https://ppv2.168.us.kg/stream?uri=college-baseball/4796/4796-4796-4796
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3250e45e3b7bca173a362d37cd44e50a-thumbnail.jpg" group-title="PPV-LIVE",Army Black Knights vs. Clemson Tigers
+https://ppv2.168.us.kg/stream?uri=college-baseball/6723/6723-6723-6723
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/fd1ca8db34ef98c8347407f6b118e21e-thumbnail.jpg" group-title="PPV-LIVE",Nicholls Colonels vs. Tennessee Volunteers
+https://ppv2.168.us.kg/stream?uri=college-baseball/7277/7277-7277-7277
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4db1be706251e3ddfc0b53ca23b0502a-thumbnail.jpg" group-title="PPV-LIVE",Hofstra Pride vs. Mississippi State Bulldogs
+https://ppv2.168.us.kg/stream?uri=college-baseball/3177/3177-3177-3177
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/172d4baaa71335e529b93dd9c4be7002-thumbnail.jpg" group-title="PPV-LIVE",UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles
+https://ppv2.168.us.kg/stream?uri=college-baseball/6991/6991-6991-6991
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/495a35fa7ae463e8ace72897633c9088-thumbnail.jpg" group-title="PPV-LIVE",James Madison Dukes vs. Florida State Seminoles
+https://ppv2.168.us.kg/stream?uri=college-baseball/8803/8803-8803-8803
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d7d15b53ea3dbefb781b611574152506-thumbnail.jpg" group-title="PPV-LIVE",Youngstown State Penguins vs. Auburn Tigers
+https://ppv2.168.us.kg/stream?uri=college-baseball/6922/6922-6922-6922
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/dc722b8ec1f41b52d10f6f04f178ed6c-thumbnail.jpg" group-title="PPV-LIVE",UAB Blazers vs. Florida Gators
+https://ppv2.168.us.kg/stream?uri=college-baseball/4115/4115-4115-4115
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/83943155ebac5480fcd19f6a5037d158-thumbnail.jpg" group-title="PPV-LIVE",Lehigh Mountain Hawks vs. Miami Hurricanes
+https://ppv2.168.us.kg/stream?uri=college-baseball/8768/8768-8768-8768
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/daf053624c08e2e0995f4d26f55a1b3f-thumbnail.jpg" group-title="PPV-LIVE",Tennessee Tech Golden Eagles vs. Texas A&M Aggies
+https://ppv2.168.us.kg/stream?uri=college-baseball/3195/3195-3195-3195
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b9f46325101da5873d4244f50579c8f1-thumbnail.jpg" group-title="PPV-LIVE",UC Davis Aggies vs. Texas Longhorns
+https://ppv2.168.us.kg/stream?uri=college-baseball/5434/5434-5434-5434
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/894d1ca688b6af3621251c065e0551c1-thumbnail.jpg" group-title="PPV-LIVE",UC San Diego Tritons vs. UCLA Bruins
+https://ppv2.168.us.kg/stream?uri=college-baseball/7902/7902-7902-7902
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8df7dd2609135641992b06521d88b0e-thumbnail.jpg" group-title="PPV-LIVE",Oklahoma State Cowboys vs. Arkansas Razorbacks
+https://ppv2.168.us.kg/stream?uri=college-baseball/6836/6836-6836-6836
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d82394ac4c7f0df3968806b776a92c8c-thumbnail.jpg" group-title="PPV-LIVE",Arizona Wildcats vs. Stanford Cardinal
+https://ppv2.168.us.kg/stream?uri=college-baseball/8953/8953-8953-8953
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="PPV-LIVE",2026 All-Star Celebrity Game
+https://ppv2.168.us.kg/stream?uri=2026-all-star-celebrity-game
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4fafe3e90e2ee4108dafb05712edcc22-thumbnail.jpg" group-title="PPV-LIVE",2026 Rising Stars
+https://ppv2.168.us.kg/stream?uri=2026-rising-stars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/179b49286aa14af091e98cce7af75619-thumbnail.jpg" group-title="PPV-LIVE",2026 HBCU Classic
+https://ppv2.168.us.kg/stream?uri=2026-hbcu-classic
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="PPV-LIVE",OKTAGON 84 (English)
+https://ppv2.168.us.kg/stream?uri=oktagon-84-english
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="PPV-LIVE",OKTAGON 84 (German)
+https://ppv2.168.us.kg/stream?uri=oktagon-84-german
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="PPV-LIVE",OKTAGON 84 (Czech)
+https://ppv2.168.us.kg/stream?uri=oktagon-84-czech
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 3 - Board 1
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-3---board-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 3 - Board 2
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-3---board-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 3 - Board 3
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-3---board-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 3 - Board 4
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-3---board-4
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 4 - Board 1
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-4---board-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 4 - Board 2
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-4---board-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 4 - Board 3
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-4---board-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",2026 Players Championship 4 - Board 4
+https://ppv2.168.us.kg/stream?uri=2026-players-championship-4---board-4
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e28ecfc3604776cad005170411505633-thumbnail.jpg" group-title="PPV-LIVE",Stade Rennais vs. Paris Saint-Germain
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-13/ren-psg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/33368cf038418a49e28a217365e70117-thumbnail.jpg" group-title="PPV-LIVE",Borussia Dortmund vs. Mainz
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-13/dor-m05
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b39ef03e58ac9bacb7c345a8de058261-thumbnail.jpg" group-title="PPV-LIVE",Pisa vs. AC Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-13/pis-mil
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d3df58fb99ee8f8f75e60c36a386cfea-thumbnail.jpg" group-title="PPV-LIVE",Hull City vs. Chelsea
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-13/hul-che
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/876b1d72dbf12eebba0a60f6a7d058a5-thumbnail.jpg" group-title="PPV-LIVE",Elche vs. Osasuna
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-13/elc-osa
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b09ee800d1b96f62a9ac41d7248a9c85-thumbnail.jpg" group-title="PPV-LIVE",AS Monaco vs. Nantes
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-13/mon-nan
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a62315553eede23a9a2b505eabf57d29-thumbnail.jpg" group-title="PPV-LIVE",Burton Albion vs. West Ham United
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/brt-whu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1cf6aa508cc325664209e92aded300e9-thumbnail.jpg" group-title="PPV-LIVE",Espanyol vs. Celta Vigo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-14/esp-cel
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2dd253bcd686ac6641b73f7d9e4519ab-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-14/como-fio
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c4ff2f9c154b0a09e5a503527b2d416-thumbnail.jpg" group-title="PPV-LIVE",Bayer Leverkusen vs. St. Pauli
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/b04-stp
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c83f83c485f78c39df1e8bf4df7475d7-thumbnail.jpg" group-title="PPV-LIVE",Eintracht Frankfurt vs. Borussia Mönchengladbach
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/sge-bmg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8979b850ea21947c09e1957ff77bc674-thumbnail.jpg" group-title="PPV-LIVE",Hamburg SV vs. 1. FC Union Berlin
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/hsv-fcu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/054549410c7ee2169b9b27ca5566db48-thumbnail.jpg" group-title="PPV-LIVE",TSG Hoffenheim vs. SC Freiburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/tsg-scf
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c109f6d613e08fb063239fc0b3087a5c-thumbnail.jpg" group-title="PPV-LIVE",Werder Bremen vs. Bayern Munich
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/svw-mun
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2d650151fd2a15783dc0904a78da6532-thumbnail.jpg" group-title="PPV-LIVE",Burnley vs. Mansfield Town
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/bur-mnf
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7e8419a0ac134601bf03e02d489ff507-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Salford City
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/mnc-sal
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b208daa836e302c71628aeed80d5ac4-thumbnail.jpg" group-title="PPV-LIVE",Southampton vs. Leicester City
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/sou-lei
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/aaf250e4ffca4369286d3b20387997c7-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Villarreal
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-14/get-vil
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bea9bd852dac732ea57d1ea15e9f6b43-thumbnail.jpg" group-title="PPV-LIVE",Marseille vs. Strasbourg
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-14/olm-str
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9a6faadcec0d08ec551d6a52a421f502-thumbnail.jpg" group-title="PPV-LIVE",Lazio vs. Atalanta
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-14/laz-ata
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c6e6b84dd5fc2df44fe31a52fbbfd3d-thumbnail.jpg" group-title="PPV-LIVE",Sevilla vs. Alavés
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-14/sev-ala
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce42405ef471520dedd5cc4df25164fc-thumbnail.jpg" group-title="PPV-LIVE",VfB Stuttgart vs. FC Cologne
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-14/vfb-koe
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/eb1f4ce718e2c50e1c283ee19e2fdc45-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Newcastle United
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/avl-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2dafafe9607c03a1d71746309409ce22-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Brest
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-14/lill-bre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e8dc5a792c4d9143a31e740ec5126b89-thumbnail.jpg" group-title="PPV-LIVE",Inter Milan vs. Juventus
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-14/int-juv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a4af316e27b456dc68bfb0f24e8448d2-thumbnail.jpg" group-title="PPV-LIVE",Real Madrid vs. Real Sociedad
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-14/rma-rso
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d67a8ec69165f03eb74d53b1e72f5abe-thumbnail.jpg" group-title="PPV-LIVE",Liverpool vs. Brighton & Hove Albion
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-14/liv-bha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9c5639aea222aa0d6fa3c954153cb935-thumbnail.jpg" group-title="PPV-LIVE",Paris FC vs. Lens
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-14/par-rcl
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f2ffec89e07c9ce9fadf34bc5e05f088-thumbnail.jpg" group-title="PPV-LIVE",Udinese vs. Sassuolo
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-15/udi-sas
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4c55f036a58d846b57923b3d1cbdf708-thumbnail.jpg" group-title="PPV-LIVE",Birmingham City vs. Leeds United
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-15/bir-lee
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/fdd586fed675b520cef2b6478d273636-thumbnail.jpg" group-title="PPV-LIVE",Real Oviedo vs. Athletic Club
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-15/ovi-ath
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/174a3380e195a371da56aa31070f3213-thumbnail.jpg" group-title="PPV-LIVE",Grimsby Town vs. Wolverhampton Wanderers
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-15/gri-wol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/147fa5a65f654e4eeb8c2b6d5337ff7c-thumbnail.jpg" group-title="PPV-LIVE",Cremonese vs. Genoa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-15/cre-gen
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da416c5ab0f23cd4306ac98f50398ec1-thumbnail.jpg" group-title="PPV-LIVE",Parma vs. Hellas Verona
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-15/par-ver
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ca905e4545e3ac12345aed638ea86a41-thumbnail.jpg" group-title="PPV-LIVE",Le Havre AC vs. Toulouse
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-15/hac-tou
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a4db067a8c247ac542df5eef475bfead-thumbnail.jpg" group-title="PPV-LIVE",Oxford United vs. Sunderland
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-15/oxf-sun
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d1ccf681a99d9ab7d492f6a1b2d3c6a7-thumbnail.jpg" group-title="PPV-LIVE",Stoke City vs. Fulham
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-15/stk-ful
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0dbfe61cf2a377045db6944861de3744-thumbnail.jpg" group-title="PPV-LIVE",FC Augsburg vs. 1. FC Heidenheim 1846
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-15/fca-hdh
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/989ade813a9e2128219cb9f70ba24ef8-thumbnail.jpg" group-title="PPV-LIVE",Rayo Vallecano vs. Atlético Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-15/ray-atm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/49addc76c965115977b9a11aeb1b294a-thumbnail.jpg" group-title="PPV-LIVE",Lorient vs. Angers
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-15/lor-ang
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5177cd1fbd5c0c089082a2e509a20d9d-thumbnail.jpg" group-title="PPV-LIVE",Metz vs. AJ Auxerre
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-15/metz-aux
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ea1cff81d6245d0baecf484aa2ba7c57-thumbnail.jpg" group-title="PPV-LIVE",RB Leipzig vs. VfL Wolfsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-15/rbl-wob
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e0719e95f08b7c127d13a17bc6002072-thumbnail.jpg" group-title="PPV-LIVE",Arsenal vs. Wigan Athletic
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-15/ars-wga
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/dd01dddb7f4c7b581b0bc0b874111bec-thumbnail.jpg" group-title="PPV-LIVE",Torino vs. Bologna
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-15/tor-bol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3c55b2e09456c22c2a52e71b781ac113-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Valencia
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-15/lev-val
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c3fc2d6bef7189f5663e4e028629e81a-thumbnail.jpg" group-title="PPV-LIVE",Napoli vs. AS Roma
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-15/nap-roma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2f47ed367b5183ea015382d45fb32500-thumbnail.jpg" group-title="PPV-LIVE",Lyon vs. Nice
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-15/lyon-nice
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5ea7c3887c2a8aba4d4f61b4e3df6f4d-thumbnail.jpg" group-title="PPV-LIVE",Mallorca vs. Real Betis
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-15/mll-bet
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0399f8fce002a90910ea0684e5320eea-thumbnail.jpg" group-title="PPV-LIVE",Macclesfield FC vs. Brentford
+https://ppv2.168.us.kg/stream?uri=english-fa-cup/2026-02-16/mfc-bre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/73499831dc8eaf0f01edf611cea6257c-thumbnail.jpg" group-title="PPV-LIVE",Cagliari vs. Lecce
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-16/cag-lec
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Barcelona
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-16/gir-bar
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-1/fp3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-13
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-14
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/dd80adfb4a8e28ce65716c218fb8e515/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:36 WIB 13/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:48 WIB 13/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698f3d9226632_67376.flv?expire=1771599890&sign=5530e126aef7d36a5f78db08d1419dde
-#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:36 WIB 13/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Professional League] Al Hilal vs Al-Ettifaq FC lúc 23:48 WIB 13/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698f3d9226632_67376/index.m3u8?expire=1771599890&sign=5530e126aef7d36a5f78db08d1419dde
-#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al Wehda vs Al-Jazeera lúc 23:36 WIB 13/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al Wehda vs Al-Jazeera lúc 23:48 WIB 13/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698f2fd826632_4908.flv?expire=1771596376&sign=b0a7f9307a27388ec384ddfa7882ab46
-#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al Wehda vs Al-Jazeera lúc 23:36 WIB 13/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al Wehda vs Al-Jazeera lúc 23:48 WIB 13/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698f2fd826632_4908/index.m3u8?expire=1771596376&sign=b0a7f9307a27388ec384ddfa7882ab46
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Raed SFC vs Al-Arabi(KSA) lúc 23:36 WIB 13/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Raed SFC vs Al-Arabi(KSA) lúc 23:48 WIB 13/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698f3eaa26632_68958.flv?expire=1771600170&sign=ec04c3d3c1d7d55e58b1db919ea966a9
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Raed SFC vs Al-Arabi(KSA) lúc 23:36 WIB 13/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Raed SFC vs Al-Arabi(KSA) lúc 23:48 WIB 13/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698f3eaa26632_68958/index.m3u8?expire=1771600170&sign=ec04c3d3c1d7d55e58b1db919ea966a9
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian First League] Spartak Varna vs Lokomotiv Sofia lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian First League] Spartak Varna vs Lokomotiv Sofia lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d45886641df4f04594240e81a5c879ed/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Brikama United vs Steve Biko FC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Brikama United vs Steve Biko FC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/88d17d306fc3be0cff124b28454071b4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Adnoc Pro-League] Al-Jazira(UAE) vs Ittihad Kalba FC lúc 23:36 WIB 13/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Adnoc Pro-League] Al-Jazira(UAE) vs Ittihad Kalba FC lúc 23:48 WIB 13/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/698f418726632_124958.flv?expire=1771600903&sign=608b5d13e4d4add9239ff9e495e27cae
-#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Adnoc Pro-League] Al-Jazira(UAE) vs Ittihad Kalba FC lúc 23:36 WIB 13/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Adnoc Pro-League] Al-Jazira(UAE) vs Ittihad Kalba FC lúc 23:48 WIB 13/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/698f418726632_124958/index.m3u8?expire=1771600903&sign=608b5d13e4d4add9239ff9e495e27cae
-#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Team Rhino FC vs Banjul Hawks FC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Team Rhino FC vs Banjul Hawks FC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4b40c8044e7758b79fd97a2d96b116a9/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Liberian second Division] Gardnersville FC vs Freeport lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Liberian second Division] Gardnersville FC vs Freeport lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5a544b3885e4cf3b48788ad29ddae3f8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Harts vs Medina United FC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] Harts vs Medina United FC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/44d4cd842006c2a5b834d5f1ad3fe806/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] BST Galaxy vs Fortune FC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Gambia League First Division] BST Galaxy vs Fortune FC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/347344eeeb7b43db8b1d977749c5e0b5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Qatar Crown Prince Cup] Al Shahaniya vs Al-Arabi SC lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Qatar Crown Prince Cup] Al Shahaniya vs Al-Arabi SC lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/7166626449b624a881c7b39c8d9464b5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Sierra Leone Premier League] Ports Authority FC vs Star Sport Academy lúc 23:36 WIB 13/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Sierra Leone Premier League] Ports Authority FC vs Star Sport Academy lúc 23:48 WIB 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/539464c6c6d7d3f5926748c320748003/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/992_1h5e4fpvkc23.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9187_1gtzct7tb9v.png",23h15 WIB 13/02 Al Shahaniya vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/992_1h5e4fpvkc23.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9187_1gtzct7tb9v.png",23h15 WIB 13/02 Al Shahaniya vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1715_1hd5axqvt71a.png",23h00 WIB 13/02 Al-Jazira(UAE) vs Ittihad Kalba (Lương Sơn) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1715_1hd5axqvt71a.png",23h00 WIB 13/02 Al-Jazira(UAE) vs Ittihad Kalba (Lương Sơn) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
@@ -1741,34 +1961,108 @@ https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV NHỊ KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2615_1h6z24pqvx1g.png",22h30 WIB 13/02 Al Wehdat SC vs Al-Jazeera (Lương Sơn) BLV CHUNN m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2615_1h6z24pqvx1g.png",22h30 WIB 13/02 Al Wehdat SC vs Al-Jazeera (Lương Sơn) BLV CHUNN flv
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1600_1jqk6yrp871d.png",22h25 WIB 13/02 Al Hilal vs Al-Ettifaq (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1715_1hd5axqvt71a.png",23h00 WIB 13/02 Al-Jazira(UAE) vs Ittihad Kalba (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1715_1hd5axqvt71a.png",23h00 WIB 13/02 Al-Jazira(UAE) vs Ittihad Kalba (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/992_1h5e4fpvkc23.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/992_1h5e4fpvkc23.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV QUAN VŨ m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2615_1h6z24pqvx1g.png",22h30 WIB 13/02 Al Wehdat SC vs Al-Jazeera (Lương Sơn) BLV CHUNN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6159_1j8kbk07731w.png",22h35 WIB 13/02 Al Raed vs Al-Arabi(KSA) (Lương Sơn) BLV QUAN VŨ flv
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/2615_1h6z24pqvx1g.png",22h30 WIB 13/02 Al Wehdat SC vs Al-Jazeera (Lương Sơn) BLV CHUNN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9187_1gtzct7tb9v.png",23h15 WIB 13/02 Al Shahaniya vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG QUÁ m3u
+https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/84f5bdbbf80f737fb89416282d722c38/image/small?v=1768601124",21h30 WIB 13/02 Saint Louis Suns United vs ANSE Reunion (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9187_1gtzct7tb9v.png",23h15 WIB 13/02 Al Shahaniya vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6fd02c5072c3899bf9315429d2fdda8e/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6441fe3f90a5e766d7d0d77c256bb8c4/image/small?v=1768601124",21h30 WIB 13/02 Duhok SC vs Mosul FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8398a725fcdc1cbbe745148e441d2ecd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/660ad9f2c52430b11092d6f36c87d056/image/small?v=1768601124",21h00 WIB 13/02 FK Liepaja vs Orebro (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a506cc7c17eb09bf93c8c26f60f6c544/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0d0031b586206b2588208e3f18cf7f14/image/small?v=1768601124",21h30 WIB 13/02 Al Karkh vs Al Talaba (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4761fd9449fe99397627fa49135e739f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e841783fdfada333c0dd0384e32f4e85/image/small?v=1768601124",22h00 WIB 13/02 Portimonense U23 vs Uniao Leiria U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3d127f6e12eda1a683d95bfc907c1ec9/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3af7e8b45ff467faf57b0f9c195f7ed6/image/small?v=1768601124",20h30 WIB 13/02 Al Bataeh vs AlvsDhafra (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1b3df00b3a1f566aa76ae76d0a1de8e0/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3edcd3943a4c571d11a2251014b6c32d/image/small?v=1768601124",21h00 WIB 13/02 Boluspor vs Atakas Hatayspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b9a76e8a8409a59e22e833ddeddfbac3/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c612fe4204e60f5974e1966ec30a1706/image/small?v=1768601124",21h00 WIB 13/02 Al Safa SC vs Al Ansar SC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dc491b49e438bef27cc58f20ac404cf8/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/12e1c5dbe81840568955ea5269ac8d56/image/small?v=1768601124",21h00 WIB 13/02 FC Shakhtar Donetsk vs FC Metalurgi Rustavi (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9000ced3570dae733527605e8c77c0bf/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/64a364c6715a92e18d770c9d19d45737/image/small?v=1768601124",21h00 WIB 13/02 Estoril U23 vs Maritimo U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/df7b6ebfb60fcd673db6268c6d3a4aa3/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e76f7703b10c376b761f632b3c83140/image/small?v=1768601124",23h15 WIB 13/02 Al Shahaniya vs AlvsArabi SC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7166626449b624a881c7b39c8d9464b5/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7988c53005ae36f7f4ebfdcd0f46568b/image/small?v=1768601124",23h15 WIB 13/02 Ports Authority FC vs Star Sport Academy (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/539464c6c6d7d3f5926748c320748003/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8ffde99129d2d778ba1479f723a1705c/image/small?v=1768601124",21h30 WIB 13/02 Karlovac vs Bijelo Brdo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0a4d64073cb7a39f01d8900ec351b6e8/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dc4c8e09943e89995d3e285eff307278/image/small?v=1768601124",20h55 WIB 13/02 Al Shabab FC vs AlvsAhli SFC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/24db6d510f89431486d00fc675e15a52/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9f0dd711c8fb621c7adf6089bb28aca9/image/small?v=1768601124",18h00 WIB 13/02 Vizela U23 vs Farense U23 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1817,10 +2111,22 @@ https://live.alilicloud.com/live/0a905b05a0657c2bb936160cc348e526/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2cf538a424214200d377570705082c5b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",17h45 WIB 13/02 Perth Glory vs Newcastle Jets (Khán Đài A) source
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124",00h00 WIB 14/02 Galatasaray vs Eyupspor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/eef97f24128c0d980f3964d2191e23df/playlist.m3u8
+https://live.alilicloud.com/live/6d24f7a73d8c9cf086610d34149e39e1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124",00h00 WIB 14/02 Galatasaray vs Eyupspor (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/1bb07c41034f41378d664d02a3e85363_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124",00h00 WIB 14/02 Galatasaray vs Eyupspor (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/1bb07c41034f41378d664d02a3e85363_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small?v=1768601124",00h00 WIB 14/02 Galatasaray vs Eyupspor (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/1bb07c41034f41378d664d02a3e85363_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/00a3dd324ca3becd6380a01f428dede1/image/small?v=1768601124",18h30 WIB 13/02 Iğdır FK vs Umraniyespor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1897,62 +2203,6 @@ https://live.alilicloud.com/live/44d4cd842006c2a5b834d5f1ad3fe806/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/64e92976d3739ed8ad037726c41c8dc1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/84f5bdbbf80f737fb89416282d722c38/image/small?v=1768601124",21h30 WIB 13/02 Saint Louis Suns United vs ANSE Reunion (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6fd02c5072c3899bf9315429d2fdda8e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6441fe3f90a5e766d7d0d77c256bb8c4/image/small?v=1768601124",21h30 WIB 13/02 Duhok SC vs Mosul FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8398a725fcdc1cbbe745148e441d2ecd/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/660ad9f2c52430b11092d6f36c87d056/image/small?v=1768601124",21h00 WIB 13/02 FK Liepaja vs Orebro (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a506cc7c17eb09bf93c8c26f60f6c544/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0d0031b586206b2588208e3f18cf7f14/image/small?v=1768601124",21h30 WIB 13/02 Al Karkh vs Al Talaba (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4761fd9449fe99397627fa49135e739f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e841783fdfada333c0dd0384e32f4e85/image/small?v=1768601124",22h00 WIB 13/02 Portimonense U23 vs Uniao Leiria U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3d127f6e12eda1a683d95bfc907c1ec9/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3af7e8b45ff467faf57b0f9c195f7ed6/image/small?v=1768601124",20h30 WIB 13/02 Al Bataeh vs AlvsDhafra (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1b3df00b3a1f566aa76ae76d0a1de8e0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3edcd3943a4c571d11a2251014b6c32d/image/small?v=1768601124",21h00 WIB 13/02 Boluspor vs Atakas Hatayspor (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b9a76e8a8409a59e22e833ddeddfbac3/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c612fe4204e60f5974e1966ec30a1706/image/small?v=1768601124",21h00 WIB 13/02 Al Safa SC vs Al Ansar SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dc491b49e438bef27cc58f20ac404cf8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/12e1c5dbe81840568955ea5269ac8d56/image/small?v=1768601124",21h00 WIB 13/02 FC Shakhtar Donetsk vs FC Metalurgi Rustavi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9000ced3570dae733527605e8c77c0bf/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/64a364c6715a92e18d770c9d19d45737/image/small?v=1768601124",21h00 WIB 13/02 Estoril U23 vs Maritimo U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/df7b6ebfb60fcd673db6268c6d3a4aa3/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e76f7703b10c376b761f632b3c83140/image/small?v=1768601124",23h15 WIB 13/02 Al Shahaniya vs AlvsArabi SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7166626449b624a881c7b39c8d9464b5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7988c53005ae36f7f4ebfdcd0f46568b/image/small?v=1768601124",23h15 WIB 13/02 Ports Authority FC vs Star Sport Academy (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/539464c6c6d7d3f5926748c320748003/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8ffde99129d2d778ba1479f723a1705c/image/small?v=1768601124",21h30 WIB 13/02 Karlovac vs Bijelo Brdo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0a4d64073cb7a39f01d8900ec351b6e8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dc4c8e09943e89995d3e285eff307278/image/small?v=1768601124",20h55 WIB 13/02 Al Shabab FC vs AlvsAhli SFC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/24db6d510f89431486d00fc675e15a52/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",22h25 WIB 13/02 Al-Hilal Saudi FC vs Al-Ettifaq (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2241,6 +2491,14 @@ https://stream.chuoichien.tv/chuoidoo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoidoo.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e76f7703b10c376b761f632b3c83140/image/small?v=1768601124",23h15 WIB 13/02 Al Shahaniya vs AlvsArabi SC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7166626449b624a881c7b39c8d9464b5/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7988c53005ae36f7f4ebfdcd0f46568b/image/small?v=1768601124",23h15 WIB 13/02 Ports Authority FC vs Star Sport Academy (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/539464c6c6d7d3f5926748c320748003/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e5f7c8c18780510ae67dd5732dac04ca/image/small?v=1768601124",22h35 WIB 13/02 AlvsRaed SFC vs AlvsArabi SC(KSA) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2381,158 +2639,6 @@ https://live.alilicloud.com/live/44d4cd842006c2a5b834d5f1ad3fe806/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/64e92976d3739ed8ad037726c41c8dc1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e76f7703b10c376b761f632b3c83140/image/small?v=1768601124",23h15 WIB 13/02 Al Shahaniya vs AlvsArabi SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7166626449b624a881c7b39c8d9464b5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7988c53005ae36f7f4ebfdcd0f46568b/image/small?v=1768601124",23h15 WIB 13/02 Ports Authority FC vs Star Sport Academy (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/539464c6c6d7d3f5926748c320748003/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=06b92229ffa182b223f8cacfd8074dcc&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=82ff69fc552aa51cab4c65782f772c25&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=06b92229ffa182b223f8cacfd8074dcc&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=82ff69fc552aa51cab4c65782f772c25&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771003415-0-0-7b539ec7bf6f63ecfde1ce39646fa668
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771003415-0-0-f8aee5f9dd70b10f5e850f36bf1b7faf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771003415-0-0-150ef551840dd2ec8054f71a1c389689
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771003415-0-0-1fec61f56afccfda3321caf2243f2032
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1771003415-0-0-ce81ddfa3b1f36d253411a0f7937a037
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1771003415-0-0-050e3326176537a83ecb521a3b4e3a07
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1771003415-0-0-b4ad82fe6bc048cbaa6a71f20af1e05d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1771003415-0-0-6527f0de02fe634c5e500af0434516ad
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=8016f225eb74a761021d0cdd760a4cbd&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=0d9a06a1bbdba52062c4a153aec3c61f&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=8016f225eb74a761021d0cdd760a4cbd&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0d9a06a1bbdba52062c4a153aec3c61f&txTime=698fa467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771003415-0-0-f4ae35be981356b40599e8a84f5811b6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771003415-0-0-74d371d757c3020d97e3122df7b2f4da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771003415-0-0-bc955cb7d2329565f8504aac55f44219
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771003415-0-0-9fbcad25c50efd93062108de1d376e99
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771003415-0-0-55e66ac7cfe6872fba8be30d71351fca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771003415-0-0-479174d7fa3c3e8c162f12ecb1304616
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771003415-0-0-527dfcfc86cb9eea5e8d6abecb3b7f73
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771003415-0-0-87e847fe311af842fc4818795dbf86f3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771003415-0-0-6132e7818c8cb19e9e58cd8c6e60276d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1771003415-0-0-f08645f5a1f466d0880996ccd688cc8d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771003415-0-0-279ee79e2deb93360eec756947e93b02
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771003415-0-0-98667f945b9a9d5b7963fdba07db99ca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771003775-0-0-e3ab37d280d14ddc207fb480f87b1bc2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771003775-0-0-4ead6eebaabaafa4d7df9bd38f08bd80
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771003775-0-0-500126cbb50ecf6412597b8785cb437a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771003775-0-0-729535805aa7076a43dac5fcb7f150de
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771003775-0-0-a9dc4f1d5bb03deef67383302d75d5e2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771003775-0-0-96934875893a0607e4b8a6a889ec3ff5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771003775-0-0-52ec1848f750ea8a8a83d6e8b6d885f9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771003775-0-0-8139da664bd5df6dd2a91d4b6a2e596a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1771003775-0-0-f7a4d10c8569d6fdd09831bf9d3986c3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1771003775-0-0-f70faf277a86ce0f698b982649941e04
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771003775-0-0-d95492fcd38466f768679a814b7144a1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771003775-0-0-0340c265f3f21badb8a4c8723c2f3f6d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771003775-0-0-cc9cefcaa24e761b875002aff5b2b4ef
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771003775-0-0-3752de896dbaceb6715d0e5dc014300b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771003775-0-0-cfdb177b14cc42ce5f017dc4ee3b0b06
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771003775-0-0-91feb4a528d4f322b59d394cbf036b08
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771003775-0-0-a5efa7bf03131fb56a4b57dfe09a0e03
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771003775-0-0-92a844571f49d5df81bff13398422868
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771003775-0-0-61d940f4d925635d166fb6724b2c8c1a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771003775-0-0-91a03b0c5390726db3a8621bb06f2986
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771004135-0-0-fca81111975d5a3e5cd5aadf195b1d54
@@ -2641,18 +2747,6 @@ https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771004135-0-0-59e0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771004135-0-0-d36529a19333ceef091782448a92ddc4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/3053f343ce92ac360935fe3f797d1e87.png",22h00 WIB 13/02 Fenerbahce W vs Melikgazi Kayseri W [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771004135-0-0-49ae7d60cc2782c87349a7db64ab24bc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/3053f343ce92ac360935fe3f797d1e87.png",22h00 WIB 13/02 Fenerbahce W vs Melikgazi Kayseri W [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771004135-0-0-0913966ebedeb16e9cc80be03a258524
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/3053f343ce92ac360935fe3f797d1e87.png",22h00 WIB 13/02 Fenerbahce W vs Melikgazi Kayseri W [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771004135-0-0-efda5748664308c646e6dbaa80deb81a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/3053f343ce92ac360935fe3f797d1e87.png",22h00 WIB 13/02 Fenerbahce W vs Melikgazi Kayseri W [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771004135-0-0-2cc25657f408b8d14ab59c31b5c18e2d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=f0af60b732044fbc8234b7ce199be539&txTime=698fa737
@@ -2677,6 +2771,162 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771004135-0-0-7e73
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771004135-0-0-0ca4091451c04c23b98f57f39c3128d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771004495-0-0-01c8d54c778a4bc99b75f2b009aa86f0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771004495-0-0-54ec0ef217ddd2a4a53203ce3a4a3d0c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771004495-0-0-1a5ac450a359c74a4fe79f4e7975762e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771004495-0-0-73b727e1cad61ffa290d7bef22014a10
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1fb27e6455f43660c0e990f287f13794&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=54e4ff864c7a0a3ebe8a94c9520b0f06&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1fb27e6455f43660c0e990f287f13794&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=54e4ff864c7a0a3ebe8a94c9520b0f06&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1771004495-0-0-c32e8e8e8822df7e1c1ea46a6ad4806c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1771004495-0-0-d1813ceb84020104251e8d638b6988e9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1771004495-0-0-bb6c3d52c887e5789bd0eb924a336899
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/d44af781c3cc2e81a909231d46fdabbd.png",22h25 WIB 13/02 Al Hilal vs Al Ettifaq FC [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1771004495-0-0-3d2f66459494a10ea122ffb5cb08802b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771004495-0-0-44f51ba6fdb257770f2d5f390d17180b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771004495-0-0-a27ff29af1641d6e3b86721e83902b16
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771004495-0-0-dfec326fa45d8251b7fbf1d72fdd111e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771004495-0-0-02b741b1de367e16a3295d3a86c549d3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=cee920ffb53d215285da012c10aca7fb&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=b67874a4cf2fd83ffc7ba73fd8bc3d55&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=cee920ffb53d215285da012c10aca7fb&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b67874a4cf2fd83ffc7ba73fd8bc3d55&txTime=698fa89f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771004495-0-0-9bfcd5688c15646647db42cde99c0fb2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1771004495-0-0-1ad30bd01ab0485857ee08d4c62609cb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771004495-0-0-0d8cd40c9cd7f771aec126dcad869d27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",QAT PC: Al Shahaniya vs Al-Arabi SC [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771004495-0-0-c698a928e0fff4760490456a31b50093
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771004495-0-0-821ced1fbf06c2d53a1c1060981767a9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771004495-0-0-f317ebf99dc65dffbcc30b6be55c9e41
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771004495-0-0-ca7c2ef1bc440e721cbbef52b4f4f4d9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771004495-0-0-38aff48035753a64dfc30a6eeb372304
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771004495-0-0-7c857a6f37fdda72413fe81c8f8e0067
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771004495-0-0-4ee0d9faf3a5336e51ef25df430e4d48
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771004495-0-0-cc98239d7485478d13f301f0632f79f9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e2352d016bb53405dc77c5e90f997a63.png",22h35 WIB 13/02 Al-Raed SFC vs Al-Arabi SC(KSA) [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771004495-0-0-a104ebdc7b9322f6b28d43d677afe548
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1771004855-0-0-b328fb28e980fc8673a5af1c8be8c34d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1771004855-0-0-5aa1431616631df83aec3562a6a40cd7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1771004855-0-0-7c78fb831d98bb92431ae228bdbe6ace
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV TÔM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1771004855-0-0-f161e4651f6bdc946dda9cfaf8e1a4ae
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771004855-0-0-c2d27e4eece3bd6561450e40fd6c0420
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771004855-0-0-961d8bcf892a979aca261e6048401ade
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771004855-0-0-4e3879391d4bb93da22d0b5674ca79bb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/48ee42e6b1919db7ab44e8c8a9325d1a.png",22h45 WIB 13/02 Spartak Varna vs Lokomotiv Sofia [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771004855-0-0-eb6a318dbaa2903fa21bdf7a8a2196ec
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771004855-0-0-ef2de6a3ba15926faac1fbf8ef6d4a2f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771004855-0-0-0497d6fc63db180c6df9a32fbb46157d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771004855-0-0-1b1667dfd7d0e6a48a4662955b63b791
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",UAE LP: Al-Jazira(UAE) vs Ittihad Kalba FC [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771004855-0-0-45b1b7b960efc5a8f95409ad5ae9c466
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771004855-0-0-74ea8f5334809e7ac484d4bbbc40da8b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771004855-0-0-269cf27098eb492e61dd3cdb070dd4ec
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771004855-0-0-ce0334747df034a7a8c641324e26535e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771004855-0-0-950576b881d4c9ab2ea21c74af283400
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771004855-0-0-4557c8bbb082b4824f2b57c2c8fd81f3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771004855-0-0-2d355c7ddc6b21df5f5f8b49725d1f17
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771004855-0-0-5fc231818fab344372b0b057b1b4bca4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",TUR D1: Galatasaray vs Eyupspor [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771004855-0-0-4e1858096ed129defd537aeccf530e53
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2932.png",22h25 13/02 Al-Hilal Saudi FC vs Al-Ettifaq (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
