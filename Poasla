@@ -1258,6 +1258,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015172/1771027595471474_indian_idol_S16_subhash_ghai_spl_13feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Indian Idol
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1771201802~acl=/*~id=32066472778075024906243156613173~hmac=74363bacea38c548f8e6a576ce8a2595025e282ff2f0d8d931f62ad4d177dd10|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G988W; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4cb864d0f352989b04951808afdb7c1b-1771168200358
@@ -1286,10 +1292,6 @@ https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/curling/great-britain-vs-s
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/curling/japan-vs-south-korea-w-round-robin-1771160700
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5c52dd204475da45ed76f266a1770f49-thumbnail.jpg" group-title="PPV-LIVE",USA vs. China (W Round-Robin)
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/curling/usa-vs-china-w-round-robin-1771160700
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b325b1c9e91ed6460005d7034377b7a-thumbnail.jpg" group-title="PPV-LIVE",Women's Snowboard Slopestyle: Qualifying
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/snowboarding/womens-snowboard-slopestyle-qualifying-1771161300
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/82b0be66be635453cb2cb7ba0610791e-thumbnail.jpg" group-title="PPV-LIVE",Women's 10km Pursuit
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/biathlon/womens-10km-pursuit-1771163100
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f1cca2cff9fc906bc5ff40a1d948eacc-thumbnail.jpg" group-title="PPV-LIVE",Men's Team Pursuit Qual.
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-15/speed-skating/mens-team-pursuit-qual-1771167600
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="PPV-LIVE",Figure Skating: Training
@@ -1352,6 +1354,8 @@ https://ppv2.168.us.kg/stream?uri=college-baseball/8812/8812-8812-8812
 https://ppv2.168.us.kg/stream?uri=college-baseball/9482/9482-9482-9482
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/96b04dcfd85a9c462138393f7e791049-thumbnail.jpg" group-title="PPV-LIVE",Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)
 https://ppv2.168.us.kg/stream?uri=cbb/1660/1660-ill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg" group-title="PPV-LIVE",Zuffa Boxing 03
+https://ppv2.168.us.kg/stream?uri=zuffa-boxing-03
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 1
 https://ppv2.168.us.kg/stream?uri=players-championship-board-1
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 2
@@ -1423,309 +1427,325 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Abha vs Al Wehda Mecca lúc 22:08 WIB 15/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/8c0b26303f102e036171f3273497e71b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[ZD1] Makeni All Stars vs Lumwana Radiants lúc 22:08 WIB 15/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/43e004bba73994a30b9850e45b0eb485/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Division 1 Group A] Hatta vs Al-Jazira Al-Hamra lúc 22:08 WIB 15/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/0114b1ee5bfa847588db088e42514fe6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[United Arab Emirates Division 1 Group A] Emirates Club vs City Club lúc 22:08 WIB 15/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/a50c6ecd1d3eec19e264c1ceed8b918b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Poland Liga 1] Pogon Grodzisk Mazowiecki vs Wisla Krakow lúc 22:08 WIB 15/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/85140120cda161bec1907bb89ac42085/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/518e73179dcbf9af424eca22f4f6bbd2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c3d926633_42127.flv?expire=1771765337&sign=d23459b7132db9aa7742230da503a061
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Grimsby Town vs Wolverhampton Wanderers lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c3d926633_42127/index.m3u8?expire=1771765337&sign=d23459b7132db9aa7742230da503a061
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] US Sambenedettese vs Sassari Torres lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] US Sambenedettese vs Sassari Torres lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/760b9bc3cd07fe6f068c7f90d9ee125e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Ravenna vs JuventusU23 lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Ravenna vs JuventusU23 lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/3bee425c74103ae8c1d766e59f3fae40/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Livorno vs US Pianese lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Livorno vs US Pianese lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/12bf24b507ec887ee32282143325151f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Guidonia vs Forli lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] Guidonia vs Forli lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/625306fd92284910982780f38ab23f59/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] A.S.D. Bra vs Ascoli lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie C] A.S.D. Bra vs Ascoli lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/3a6f716cacc2253473563a40de477f94/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Austrian Bundesliga] Grazer AK vs Red Bull Salzburg lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Austrian Bundesliga] Grazer AK vs Red Bull Salzburg lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/22932e199101ac4a88eef7cfdba828a5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Austrian Bundesliga] FC Blau Weiss Linz vs Wolfsberger AC lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Austrian Bundesliga] FC Blau Weiss Linz vs Wolfsberger AC lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/2ad1aec227e9ef44487b96e2bb4c4140/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Heerenveen vs PEC Zwolle lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Heerenveen vs PEC Zwolle lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c096fe25e_88642.flv?expire=1771764502&sign=f0ab94eb2ce62d438712664b7ad444fa
-#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Heerenveen vs PEC Zwolle lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Heerenveen vs PEC Zwolle lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c096fe25e_88642/index.m3u8?expire=1771764502&sign=f0ab94eb2ce62d438712664b7ad444fa
-#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Telstar vs FC Twente Enschede lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Telstar vs FC Twente Enschede lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c9d6fe25f_72787.flv?expire=1771766870&sign=d8497e3ce59c0c44935373573fc86e17
-#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Telstar vs FC Twente Enschede lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Netherlands Eredivisie] SC Telstar vs FC Twente Enschede lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c9d6fe25f_72787/index.m3u8?expire=1771766870&sign=d8497e3ce59c0c44935373573fc86e17
-#EXTINF:1 group-title="RANDOM 1",[PKO Bank Polski EKSTRAKLASA] Pogon Szczecin vs Arka Gdynia lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[PKO Bank Polski EKSTRAKLASA] Pogon Szczecin vs Arka Gdynia lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/eb8a5c670c6b3ecc0e49e6b9dac9a5ce/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/1014e6c205625b5a973299e15e524428/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c70826633_44731.flv?expire=1771766152&sign=2dfa2e724d41d7e725dabe9e1dc680d7
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Stoke City vs Fulham lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c70826633_44731/index.m3u8?expire=1771766152&sign=2dfa2e724d41d7e725dabe9e1dc680d7
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/ab3cacfad5af8ff2a3c681eaeac717b1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991bf5efe25e_103.flv?expire=1771764190&sign=c38492f28454f41ea75dde5a5694aa96
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] Oxford United vs Sunderland lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991bf5efe25e_103/index.m3u8?expire=1771764190&sign=c38492f28454f41ea75dde5a5694aa96
-#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/8d9d39fe7e8a63be0d4cd6051a91a160/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c801fe25f_18754.flv?expire=1771766401&sign=09137aee06e7446c99bfc448639979e0
-#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[French Ligue 1] Havre Athletic Club vs Toulouse FC lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c801fe25f_18754/index.m3u8?expire=1771766401&sign=09137aee06e7446c99bfc448639979e0
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/2c3b78aab549ffa4b530364f7cdce090/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991cb6626633_88186.flv?expire=1771767270&sign=88f828a91440c892e6c16331426d5b4d
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Parma vs Hellas Verona lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991cb6626633_88186/index.m3u8?expire=1771767270&sign=88f828a91440c892e6c16331426d5b4d
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/eab2858375ad3f36080d1ef58d7c5d36/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c3bcfe25f_95554.flv?expire=1771765308&sign=b7930541c0f3ba5cbd750c103680644e
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie A] Cremonese vs Genoa lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c3bcfe25f_95554/index.m3u8?expire=1771765308&sign=b7930541c0f3ba5cbd750c103680644e
-#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] SP Libertas vs Faetano lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] SP Libertas vs Faetano lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a8c78b9fb152fe49e0cc8d7a7dc1b391/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[English FA Women's Super League 2] Newcastle (w) vs Portsmouth (w) lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[English FA Women's Super League 2] Newcastle (w) vs Portsmouth (w) lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/2f17b825de4d5b7ec5fcaab49ffebc9c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[English FA Women's Super League 2] Bristol City(w) vs Southampton (w) lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[English FA Women's Super League 2] Bristol City(w) vs Southampton (w) lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f8ff4d1187029a5caaed0bb1179c32be/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/b5f172aa986d53b01008da20e71ee64b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991cb2bfe25f_17480.flv?expire=1771767211&sign=33d66ac2c86abbb760a7bd69102f93bc
-#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Turkish Super League] Goztepe vs Kayserispor lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991cb2bfe25f_17480/index.m3u8?expire=1771767211&sign=33d66ac2c86abbb760a7bd69102f93bc
-#EXTINF:1 group-title="RANDOM 1",[Croatian Football League] HNK Gorica vs HNK Vukovar 1991 lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Croatian Football League] HNK Gorica vs HNK Vukovar 1991 lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a451071c517ac41f7bdc5c4c6de4a2ce/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Scottish Premiership] Kilmarnock vs Celtic FC lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Scottish Premiership] Kilmarnock vs Celtic FC lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5e951d50e03e8aef51f9fca918d884cf/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] Folgore/Falciano vs Tre Fiori lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] Folgore/Falciano vs Tre Fiori lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/0a4763a9135471da74554ba3337a8973/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] Tre Penne vs SP Cosmos lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] Tre Penne vs SP Cosmos lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/db36bc5bc2f7e5f7a3ef46ac1c43a320/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] SS Virtus vs Fiorentino lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[San Marino Campionato di Calcio] SS Virtus vs Fiorentino lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a6a510d03b3fbe45fe0c9b50488b804f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Slovenia 1.Liga] ND Primorje vs Maribor lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Slovenia 1.Liga] ND Primorje vs Maribor lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d7b447d8dd705526dcd82350cde4c6d8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Campionato Primavera 1] Verona U20 vs Fiorentina U20 lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Campionato Primavera 1] Verona U20 vs Fiorentina U20 lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/bb6c1b8ce2f33cc3af400684990cc237/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Women's Serie A] Juventus (w) vs Lazio (w) lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Women's Serie A] Juventus (w) vs Lazio (w) lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/990edf0ac4a2120bd6c6fc3366781645/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Bari vs SudTirol lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Bari vs SudTirol lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9eecc195ba3cba23d990b091b9945331/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Monza vs Juve Stabia lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Monza vs Juve Stabia lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5096da6e42f76c2c9977d69224284b09/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Spezia vs Frosinone lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Italian Serie B] Spezia vs Frosinone lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d1059473b972e509831baa43650c9e4c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Bengaluru vs Hyderabad FC lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Bengaluru vs Hyderabad FC lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/529e543b3d38bd36ed2ca32f635018a6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[ATP Rotterdam] Alex De Minaur vs Felix Auger-Aliassime lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[ATP Rotterdam] Alex De Minaur vs Felix Auger-Aliassime lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991d71efe25f_110198.flv?expire=1771770270&sign=805d873e89f300bb41904b8b1c3c56c6
-#EXTINF:1 group-title="RANDOM 1",[ATP Rotterdam] Alex De Minaur vs Felix Auger-Aliassime lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[ATP Rotterdam] Alex De Minaur vs Felix Auger-Aliassime lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991d71efe25f_110198/index.m3u8?expire=1771770270&sign=805d873e89f300bb41904b8b1c3c56c6
-#EXTINF:1 group-title="RANDOM 1",[Scottish Premiership] Motherwell vs Aberdeen lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Scottish Premiership] Motherwell vs Aberdeen lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a88c468dcabbb160d013a8889afd03ab/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f702f8e8657e658c2c77e2613afa08ef/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:08 WIB 15/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:24 WIB 15/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6991c9aafe25f_85514.flv?expire=1771766826&sign=a38698de502bee7d8bca059111ea3d0b
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:08 WIB 15/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] FC Augsburg vs 1. FC Heidenheim 1846 lúc 22:24 WIB 15/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6991c9aafe25f_85514/index.m3u8?expire=1771766826&sign=a38698de502bee7d8bca059111ea3d0b
-#EXTINF:1 group-title="RANDOM 1",[Czech First League] Slovan Liberec vs Banik Ostrava lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Czech First League] Slovan Liberec vs Banik Ostrava lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a9eae80782a0a3b703cd66f27f908b24/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Czech First League] Mlada Boleslav vs Teplice lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Czech First League] Mlada Boleslav vs Teplice lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a85b98b13340bbb9b04d15115ab5700e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League] Royal Antwerp vs KVC Westerlo lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League] Royal Antwerp vs KVC Westerlo lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9a23e997da118fd4d4f8be13e549b7fe/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Belgian Second Division] Gent B vs Olympic Charleroi lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Belgian Second Division] Gent B vs Olympic Charleroi lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/cde8d3b207a34afa0c99f74549d92437/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] UNA Strassen vs Victoria Rosport lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] UNA Strassen vs Victoria Rosport lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/8355f271f81500750ebd65cd79567c94/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese Liga 3] Atletico Clube Purtugal vs Lusitano Evora lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese Liga 3] Atletico Clube Purtugal vs Lusitano Evora lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/820f04f858010e8a792550504076ad2a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese Liga 3] Amora FC vs SC Covilha lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese Liga 3] Amora FC vs SC Covilha lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4fa0e46684e5434923342c8ce7ee955b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Chilean Primera Division] Universidad de Concepcion vs D. Concepcion lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Chilean Primera Division] Universidad de Concepcion vs D. Concepcion lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/bb0eacf442c62f4acafefb4bee4bc59b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga I] Farul Constanta vs FC Rapid 1923 lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga I] Farul Constanta vs FC Rapid 1923 lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/984120135817b3356efd7a2c82e9b6a6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] Atert Bissen vs F91 Dudelange lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] Atert Bissen vs F91 Dudelange lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5700ea3f1fc96e21d29865cdc7bcc722/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] Mamer vs Jeunesse Esch lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] Mamer vs Jeunesse Esch lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4121e55a4c2e80cec96ae88e0cc5c1b1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] UN Kaerjeng 97 vs US Mondorf-les-Bains lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Luxembourg National Division] UN Kaerjeng 97 vs US Mondorf-les-Bains lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/ed2e924eb8d8154946ec46c6202788d2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[OTP Bank Liga] Kazincbarcika vs Nyiregyhaza lúc 22:08 WIB 15/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Belgian Second Division] Francs Borains vs  SK Beveren lúc 22:24 WIB 15/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/0059042d3d65279197416cb6a700e313/playlist.m3u8
+https://live.alilicloud.com/live/50aa1b9d7af83c7abbd049805036180f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Spanish Primera División de la Liga de Fútbol Femenino] RCD Espanyol (w) vs CDEF Logrono (w) lúc 22:24 WIB 15/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/38b15c5acea68ba1c315d20260a74d29/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Spanish La Liga] Rayo Vallecano vs Atletico Madrid lúc 22:24 WIB 15/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/8ff53405955ae6417107cdc05792f172/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Spanish La Liga] Rayo Vallecano vs Atletico Madrid lúc 22:24 WIB 15/02/2026 [FLV]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893950149.global.cdnfastest.com/live/6991d7f326633_124958.flv?expire=1771770483&sign=b486c80924e22f670a0ab4daa65e3dff
+#EXTINF:1 group-title="RANDOM 1",[Spanish La Liga] Rayo Vallecano vs Atletico Madrid lúc 22:24 WIB 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6991d7f326633_124958/index.m3u8?expire=1771770483&sign=b486c80924e22f670a0ab4daa65e3dff
+#EXTINF:1 group-title="RANDOM 1",[Spanish Segunda Division] SD Huesca vs AD Ceuta lúc 22:24 WIB 15/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/1bfe58ecebb622df1b81cd08afb2da74/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Spanish Segunda Division] Eibar vs Racing Santander lúc 22:24 WIB 15/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/12104e7533ea60f6d8863a440933270d/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/975_164871162622.png",21h30 WIB 15/02 Augsburg vs Heidenheimer (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/975_164871162622.png",21h30 WIB 15/02 Augsburg vs Heidenheimer (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/301_1hkgsvdrhc1c.png",21h00 WIB 15/02 Le Havre vs Toulouse (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/301_1hkgsvdrhc1c.png",21h00 WIB 15/02 Le Havre vs Toulouse (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1034_1gz3jece6x2d.png",21h00 WIB 15/02 Oxford United vs Sunderland A.F.C (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1034_1gz3jece6x2d.png",21h00 WIB 15/02 Oxford United vs Sunderland A.F.C (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/50_1j2fnq1y362w.png",21h00 WIB 15/02 Stoke City vs Fulham (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/50_1j2fnq1y362w.png",21h00 WIB 15/02 Stoke City vs Fulham (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/301_1hkgsvdrhc1c.png",21h00 WIB 15/02 Le Havre vs Toulouse (Lương Sơn) BLV QUAN VŨ m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1211_1hk6e9yjze12.png",21h00 WIB 15/02 Cremonese vs Genoa (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/301_1hkgsvdrhc1c.png",21h00 WIB 15/02 Le Havre vs Toulouse (Lương Sơn) BLV QUAN VŨ flv
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1211_1hk6e9yjze12.png",21h00 WIB 15/02 Cremonese vs Genoa (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png",21h00 WIB 15/02 Parma vs Verona (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -1738,24 +1758,18 @@ https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/176_1j5f7yeztc1g.png",21h00 WIB 15/02 Parma vs Verona (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1211_1hk6e9yjze12.png",21h00 WIB 15/02 Cremonese vs Genoa (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/858_164871283245.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1211_1hk6e9yjze12.png",21h00 WIB 15/02 Cremonese vs Genoa (Lương Sơn) BLV LÝ ỨNG flv
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/858_164871283245.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1034_1gz3jece6x2d.png",21h00 WIB 15/02 Oxford United vs Sunderland A.F.C (Lương Sơn) BLV NGŨ CA m3u
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/858_164871283245.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1034_1gz3jece6x2d.png",21h00 WIB 15/02 Oxford United vs Sunderland A.F.C (Lương Sơn) BLV NGŨ CA flv
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/858_164871283245.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1026_1grmn0cd5x1.png",20h30 WIB 15/02 Grimsby Town vs Wolves (Lương Sơn) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1026_1grmn0cd5x1.png",20h30 WIB 15/02 Grimsby Town vs Wolves (Lương Sơn) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/17e923e772435ac7468af3e20146f83e/image/small?v=1768601124",21h00 WIB 15/02 Stoke City vs Fulham (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1804,22 +1818,14 @@ https://live.alilicloud.com/live/9eecc195ba3cba23d990b091b9945331/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7f1c4251c9500a4648d326a5a43180c8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",20h30 WIB 15/02 Galatasaray vs Fenerbahce (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/0082d41b53b544689d50fed304698204_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",20h30 WIB 15/02 Galatasaray vs Fenerbahce (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/0082d41b53b544689d50fed304698204_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",20h30 WIB 15/02 Galatasaray vs Fenerbahce (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/0082d41b53b544689d50fed304698204_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6daa6f0eb447a0ff37425c70126cbad0/image/small?v=1768601124",20h00 WIB 15/02 Real Oviedo vs Athletic Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3fa6786a6b7061548eb4e61fdef6c965/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/075231998962d64e7ce6d6b5c1beb838/image/small?v=1768601124",20h20 WIB 15/02 Hatta vs AlvsJazira AlvsHamra (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0114b1ee5bfa847588db088e42514fe6/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6bdb0cb62969bd8b3f8711b30d15cf52/image/small?v=1768601124",18h00 WIB 15/02 FC Politehnica Chisinau vs Zimbru Chisinau B (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2296,10 +2302,10 @@ https://live.alilicloud.com/live/990edf0ac4a2120bd6c6fc3366781645/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4f52e4af8a381a61b10eb021ae11083f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ca66597a76a89811682e1b620f8afaf7/image/small?v=1768601124",18h15 WIB 15/02 Feyenoord vs Go Ahead Eagles (Gà Vàng) source
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/771bc97806bcba0677da5fc1fcba32b9/image/small?v=1768601124",22h15 WIB 15/02 Eibar vs Racing Santander (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5da608a15a1bd1d1eba21811cda5df17/playlist.m3u8
+https://live.alilicloud.com/live/12104e7533ea60f6d8863a440933270d/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124",18h30 WIB 15/02 Udinese vs Sassuolo (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2504,474 +2510,486 @@ https://live.alilicloud.com/live/0114b1ee5bfa847588db088e42514fe6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a6a510d03b3fbe45fe0c9b50488b804f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771170815-0-0-af50fe0b288fa5a806042465d3b3cf26
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771170815-0-0-d419e6534ba619e887f0fd144a629f31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771170815-0-0-f9fc1fd888e34d266275c4634a800df9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771170815-0-0-37a996b8378cbe17d88b50fa3276cc3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771170815-0-0-656d228cc31d3f83c79c3febdf643f65
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771170815-0-0-88d5fbf65fb5a5f74fe07164f2f1b0c3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771170815-0-0-358cfc8fff43baeab80b2e018014a675
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771170815-0-0-3bc01d798680c09fa71dc1945e89dcae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771170815-0-0-10d987827b872895d674ac6ecad5e6cc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771170815-0-0-95b7c8fdcb48777dedaac8d0dc14ae01
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771170815-0-0-0485778864e12fc1aa2f1ce58cc8360c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771170815-0-0-742843a97ecae3854e73068d986504c2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771170815-0-0-db0d5b172184722894fd44068268795d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771170815-0-0-2b3acf418a56f12934f42c54bd154f66
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771170815-0-0-80bd46e5de3db1ce2b1e7fd76908281b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771170815-0-0-82e5bd2fe65d7841a4f7efce4a03a79d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1771170815-0-0-98ac9913cedbbfc794c71935025328ba
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1771171895-0-0-98c9bdd040b0cf8289303543b809640a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1771170815-0-0-5530cbc5f77e23295dfbed5ce40bd450
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1771171895-0-0-8b72eb70305f6e7094c13662b7939d18
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1771170815-0-0-0bbe5f4e0c6c974bfee4d01a0375323f
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1771171895-0-0-f309633a295890b3a67d069f314ac9a8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1771170815-0-0-d04b4bca352b8fe6e18a1805f80ba0d8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1771171895-0-0-59c3458da3b118ca15636cc3dc817104
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771170815-0-0-a5a663e7e97c1ddf0724b3da9bb3a6fd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771171895-0-0-9e41786e477dda0138634cb16f75686d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771170815-0-0-fcef770f643f87cfde1060e9470ab3b1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771171895-0-0-6fc84f955602d443bac09e314213d656
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771170815-0-0-50a2846cc88dcbecdb311c3417e8603e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771171895-0-0-1e8b7cb42c0c94b32e8debf8e3f1c2ca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771170815-0-0-cc83765c72dcb2ab8357ba7410c9a9b9
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771171895-0-0-ff20b97ee7f7162758af519813814423
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771171895-0-0-347798e6b5a87d3d80e9e964a7f14187
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771171895-0-0-3e287eda509fff6e9492937fec9626f0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771171895-0-0-e10e0d68b72394356d45f3c6965f4c53
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771171895-0-0-a9827651b87b394390f398e4164ee131
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771171895-0-0-0b0d67d2c01a19fc84398488f310b1e8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771171895-0-0-194a69abd93226b41720b9b81a334a7c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771171895-0-0-7c7a3fe6556dd500d3aefc696ea11e8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771171895-0-0-87aad83766d0d0f3c429204231f9dacb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771170815-0-0-cb5f6e704906833da1df79a66feeb83b
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771171895-0-0-1b81c91cc85b8fdfb9477023d64de466
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771170815-0-0-23cfb525b42655b46816f7af43a7ad68
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771171895-0-0-a8dae2931ed1c9095d6760de8dd164fc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771170815-0-0-ca30805ed84d8b4141fee41bdc7d0b46
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771171895-0-0-5ebfe73fc343a4f02e8d22c0df37776e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771170815-0-0-dcf56bbca07d54cec4ce9b8080475b5b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771171895-0-0-c26295d5cfd6091cecd09ab2737d55f2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=87eec22fd08e89d256152ecde52e6a6f&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771171895-0-0-692ea6e2a5a7c5c56f47b5e1e43c7a6f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=b19fc3f534cae1e8f1d8b6e115f12493&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771171895-0-0-779c9ed28f8d109a82f44587b2496d61
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=87eec22fd08e89d256152ecde52e6a6f&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771171895-0-0-6f762ca182d06b5f0837272f71190f1c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=b19fc3f534cae1e8f1d8b6e115f12493&txTime=6992324f
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771171895-0-0-df0d12091218c6f8aa2f3341576f0585
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771171895-0-0-2b80e1d4023dac1bc44298dc64a92cc3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771171895-0-0-86bdecd8db6e90c11dc9257018f95862
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771171895-0-0-95ec938855e996c6d9a0b5d3958e373b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771171895-0-0-6a32d30f3b5e6c51c20c33d31f02a362
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1771170815-0-0-48f4f0718d801ef1201f2e7e370cb82c
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1771171895-0-0-7a60f7c89fa4f886ff9c758f88a56b37
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1771170815-0-0-9ab483b7d1c4eb43ddfb7ffc6bbf0738
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1771171895-0-0-a169500739f4021161774413af3db429
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771170815-0-0-d1e23a43a54b26a459890b0ce9fcabd5
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771171895-0-0-cc9e676205e6dd193bab212ec68e7b23
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771170815-0-0-aa5d15b7ee49f921967b1c8339d3062d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) flv
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771171895-0-0-82e479383cceda250adf34d2ebf6c31d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771170815-0-0-0bacbb5e1aeca83277aa0dc13924e580
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=2d50cb1e520ed2b159cfb220fe5f34de&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771170815-0-0-0be178b42b7ac813a5875e72cc546571
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) m3u8
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=9ffd4e8da6e5ebdbcdfda5bf8ed4c2d4&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771170815-0-0-e347b6175b551d7168c9bca5428bbecf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=2d50cb1e520ed2b159cfb220fe5f34de&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV ADAM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771170815-0-0-b69c79f93f398d1f2f4dc78d167dc0fa
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=d9976093ec7454fc0b58e678feec4c99&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=47276e89c5867b66d911531694fd9f28&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=d9976093ec7454fc0b58e678feec4c99&txTime=6992324f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=47276e89c5867b66d911531694fd9f28&txTime=6992324f
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=9ffd4e8da6e5ebdbcdfda5bf8ed4c2d4&txTime=69923687
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=35601357845a1fa76c8dfa2b658b9c96&txTime=6992324f
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=874823b236eaedcbc904a300fcd5a85d&txTime=69923687
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=4814b632048178f0172f2031f4cce2e1&txTime=6992324f
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=951cc151c2890994ffc749f7f9625eec&txTime=69923687
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=35601357845a1fa76c8dfa2b658b9c96&txTime=6992324f
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=874823b236eaedcbc904a300fcd5a85d&txTime=69923687
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4814b632048178f0172f2031f4cce2e1&txTime=6992324f
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=951cc151c2890994ffc749f7f9625eec&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771171895-0-0-e2af1b0ef50663128352baffc9656354
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771171895-0-0-ec2387d12052f5477f7784b39247ba43
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771171895-0-0-a4a30731d8fc83a8e27b2204ff5f348f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771171895-0-0-6a8dd175a82e793bf7d6329c9b711c96
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=67d2cab24df609b5a189cb3576bb3ce0&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=33a3b493afc5b09ea5c8680b164241c1&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=67d2cab24df609b5a189cb3576bb3ce0&txTime=69923687
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=33a3b493afc5b09ea5c8680b164241c1&txTime=69923687
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/b1a84315e3d641b999f374d5edaf1b89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771170815-0-0-e0cfbe5b6f7e6ed5ce1f65bbd379811d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771171895-0-0-d8888af112885c04a37ce3555e9fb8b1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/b1a84315e3d641b999f374d5edaf1b89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771170815-0-0-852555f7183280787f3d8a9f8d190e7c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771171895-0-0-b03b211eb84259ab2a475ac6fe902f97
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/b1a84315e3d641b999f374d5edaf1b89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771170815-0-0-992597bc5496530d792d529fc29d8e4a
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771171895-0-0-973d14679ce53fdb980f572e0dd7d9a6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260210/b1a84315e3d641b999f374d5edaf1b89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771170815-0-0-ed07565048510e08be75e05b94e1ae2a
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771171895-0-0-1bc9e24cd3239ad0c110455cbd41ea2d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1771171175-0-0-aa43bf872c32795e1ef99748999d1690
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1771172255-0-0-074cb7ae1f4dd8fc803326cd82ab9e11
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1771171175-0-0-50b7fb3dc10fb1d04e8e55f3a7daf769
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1771172255-0-0-9e16eff37d39a34ef34ca7361ebcd7d8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1771171175-0-0-7114de1a19009d4e7f0c259e7e96a20b
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1771172255-0-0-5217350481db48b76c942c75ab8fea70
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1771171175-0-0-27815d25525935d56cc10bf967181490
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1771172255-0-0-a6bc12528ef9ae0e620e987bb28f7ec0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=845ca86b3bdac85882ea60169d73ec39&txTime=699233b7
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=4e1ba539f273e3d61e341af9b7c24cb6&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=c29cbaf5a699c9bd1ef652ad14099186&txTime=699233b7
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=d3dd84838d2ce3ea691a147039ddbb38&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=845ca86b3bdac85882ea60169d73ec39&txTime=699233b7
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=4e1ba539f273e3d61e341af9b7c24cb6&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=c29cbaf5a699c9bd1ef652ad14099186&txTime=699233b7
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d3dd84838d2ce3ea691a147039ddbb38&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771171191-0-0-f99df67b44d973c7ed7ce29c0e0d7ba6
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771172255-0-0-08ba4b62ed368084ae79bdbd3f1b9c78
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771171191-0-0-51703c601b5d557ef88e586f6cfb49f9
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771172255-0-0-9dd80dc79463b549a6ba74ed187d561d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771171191-0-0-e796beb544b9139965fcda7cdf470b84
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771172255-0-0-46374e8ea0ebecbcf5813a24517edeed
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771171191-0-0-2cb6e2e4e814d1ace8d9a8c2c405e8f7
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771172255-0-0-a4a453382fa505f2127613fd3c15cc4b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SÙNG A MÚP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771171175-0-0-c6a657a018f0f867ba1caaddf02396c1
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771172255-0-0-db784cf744800fa347a989c987d259c8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SÙNG A MÚP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771171175-0-0-4461b37558165fd1c7d138b1bdcaf039
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771172255-0-0-1f123a0a4805d64168e399eaeff4e1f6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SÙNG A MÚP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771171175-0-0-b3cd5abef0742405247e77a0e96c2914
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771172255-0-0-d5b9deb1982eb3a2d5368853ee62eecd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SÙNG A MÚP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771171175-0-0-00a6fccba451ca715511d06466c86df5
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771172255-0-0-e2fd830b72337aa78cad872146a6fcef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=a9d03fe44aa7d1d19df89e67abd09452&txTime=699233b7
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=640715785e14a79b96a791d181dcf0cd&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=43b4a402083778c6bb55c0006ee3d537&txTime=699233b7
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=ef8b5fab3189404e734c264476370980&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=a9d03fe44aa7d1d19df89e67abd09452&txTime=699233b7
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=640715785e14a79b96a791d181dcf0cd&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=43b4a402083778c6bb55c0006ee3d537&txTime=699233b7
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ef8b5fab3189404e734c264476370980&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771171175-0-0-d62514b8d982bfd59e7fbdbbe8886d6e
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771172255-0-0-109976d0f246e7de70de3d631522db94
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771171175-0-0-51780ec9977d4af8dfe2ed256033d748
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771172255-0-0-67083fa3a6227b0bec27ca21abb3955e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771171175-0-0-a7182efde01298f2911878328f538736
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771172255-0-0-995a1c8732a177b9ea85b9d278b46530
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771171175-0-0-58bea180982008746456ec03cd2a2818
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=4c760ad7424be533f6adb9869c0557ca&txTime=699233b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=4ddf3f0f2035e262789fa8467b1aaf60&txTime=699233b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=4c760ad7424be533f6adb9869c0557ca&txTime=699233b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=4ddf3f0f2035e262789fa8467b1aaf60&txTime=699233b7
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771172255-0-0-9a3ac836fe99ddf46f448c6045d96d93
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771171175-0-0-b93a71b97df5b8b791abafa93b8f408b
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771172255-0-0-04f2edc9fb33a21c335bc8704b9f7790
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771171175-0-0-5164e42b87beead193829bd89e505073
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771172255-0-0-3a0752551d7a82b7dee6b533da4e3632
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771171175-0-0-6afee78038ef6ef9f9381a269e946116
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771172255-0-0-f12230c27bcdf4c446c82d6b5545493c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771171175-0-0-e941e4e63fada135448fad0da5f89c4c
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771172255-0-0-b18f578b023f90f489ba778aa1f5713f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=909b0e8629b93c43cf87e2e0acc7a179&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=faa67e9aa3020e1ce8149486079babae&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=909b0e8629b93c43cf87e2e0acc7a179&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=faa67e9aa3020e1ce8149486079babae&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=469ca7ef50048a3c16071bad2b45e49c&txTime=699233b7
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ac0e11be4f04d68123eec83a3e491553&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=a33658de0e500bd1482018c981cf7b5a&txTime=699233b7
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=e2d6cdb0752f5eb1a703ee527eb04b77&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=469ca7ef50048a3c16071bad2b45e49c&txTime=699233b7
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ac0e11be4f04d68123eec83a3e491553&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a33658de0e500bd1482018c981cf7b5a&txTime=699233b7
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e2d6cdb0752f5eb1a703ee527eb04b77&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [Lửng Mật] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771171175-0-0-9b0a9c9388a34fdb35f7c95478c2f56b
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771172255-0-0-092ccd359c986d13baa5ed192f000824
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [Lửng Mật] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771171175-0-0-900e178576148126aaade3b39087ebaa
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771172255-0-0-e536c97c7629e4331f4c1426f68e1bbd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [Lửng Mật] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771171175-0-0-2cf7d5e4229049ab7abab35fed7a7693
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771172255-0-0-bc5d4649db33bb98ceaaf1404a6bb5f9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f4e6b609915bb8608903a6533ce5c148.png",21h00 WIB 15/02 Havre Athletic Club vs Toulouse FC [Lửng Mật] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771171175-0-0-d3c9e2844de380168e8afe81663e1698
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771172255-0-0-41e4ae620ae470dc2281e14359bcfad4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1771171175-0-0-95e796c41e9c394f63e92632e8793d58
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1771172255-0-0-7de8bbc5a338711c51e428a09a340fe6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1771171175-0-0-47665c87f1e9f0411a6dfbadd2614b14
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1771172255-0-0-606eef29290985c066e80309eb611df3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771171175-0-0-eec54261a22313559cbc3e6d6b84dbed
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771172255-0-0-da5fbf4d6de9bfe59484c065579c7f40
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771171175-0-0-921836f1c86586922a76900629284efd
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771172255-0-0-ede2403ca13cd36dff9cd93abd9063a4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/ca8161c3ea2bde42392517c0dc86cf71.png",22h45 WIB 15/02 Sparta Rotterdam vs NEC Nijmegen [BÚA TẠ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=2b6aedab4e1eae748bebb17ba017c821&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/ca8161c3ea2bde42392517c0dc86cf71.png",22h45 WIB 15/02 Sparta Rotterdam vs NEC Nijmegen [BÚA TẠ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=1e3e43671213455c6f0747cffca103e0&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/ca8161c3ea2bde42392517c0dc86cf71.png",22h45 WIB 15/02 Sparta Rotterdam vs NEC Nijmegen [BÚA TẠ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=2b6aedab4e1eae748bebb17ba017c821&txTime=699237ef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/ca8161c3ea2bde42392517c0dc86cf71.png",22h45 WIB 15/02 Sparta Rotterdam vs NEC Nijmegen [BÚA TẠ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=1e3e43671213455c6f0747cffca103e0&txTime=699237ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771171535-0-0-7235a17a7f6722b8a085be6e964c08e8
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771172615-0-0-3737c23d8cff5fe0cdf60f1f9a442ef4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771171535-0-0-9590353be19a7fec8e851d170491de6f
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771172615-0-0-08be85ea6d852c21f0030b40e1e1bf8d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771171535-0-0-fd289fb86825f3db2bf97916af982702
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771172615-0-0-ff5f7a10c16ef8d874359ccaa8ae53df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",22h15 WIB 15/02 Rayo Vallecano vs Atletico Madrid [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771171535-0-0-7d1391aa4f39d91de27760a1a351044e
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771172615-0-0-deafb3b1ffda1d80405d0305660fee8c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1771171535-0-0-ad9eb4884b3e91d4c6e4f9d35e799fdd
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1771172615-0-0-bf84626c1687238746eacbdfaba4bf72
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1771171535-0-0-e3e6ce6be7d2d3c86f821e3a3cbf6f3f
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1771172615-0-0-541858459ebc40db7119ce0df32b9cff
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1771171535-0-0-57760062f7ee0de80e071a181d2e110d
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1771172615-0-0-56cc1141b79de28e36872e05756b4418
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/99a6195c6b0780fca3f7ee6d0bfc73bc.png",21h30 WIB 15/02 FC Augsburg vs 1. FC Heidenheim 1846 [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1771171535-0-0-7f99d7cade2f35cc6895e4d70c25c6d0
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1771172615-0-0-c8ee0ed099ff5ba312994a0eebda2fb3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [RED BULL] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1771171535-0-0-471d7937fba4c58d9eaf0af7c389c8a1
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1771172615-0-0-e6ad0ec750b4827407682c3740d0e987
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [RED BULL] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1771171535-0-0-6e6e4e7cf6bcd02ca1c38ea8e05b9dbd
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1771172615-0-0-e91f253cc52969be0d597b775e6496dc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [RED BULL] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771171535-0-0-c7a70afc4442f58d1994c2d64f1dbfe7
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771172615-0-0-577bdcb1f8b13f741b44ade8d2dbee39
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [RED BULL] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1771171535-0-0-43bbfb231e160604b958bb000b299be9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771171535-0-0-4d2d3e6cd511744f87e34c0962843c00
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1771171535-0-0-743d39c60376ef556868e81b072ffd1b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771171535-0-0-6891cda0b45598c82ec7c7fb3d429d4f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771171535-0-0-a118de7c375eb26754087eaa4d493cdb
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1771172615-0-0-87745687c599c1969fdff0352b9a0e08
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771171535-0-0-ac6ff2919c96e83e04aeeaba1d9dfca4
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771172615-0-0-70aaa3009182a8395ea6ee72c8d77657
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771171535-0-0-39cd9deb25b7ba9257b9eecddc1452aa
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771172615-0-0-5465cc3335a97c944265246766ededf2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771171535-0-0-b3a245a14b048f1dabde98eb05e7bfce
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771172615-0-0-abe5beea22d5e05c2f0dc263fcd7521b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771171535-0-0-e79433447567f62ff7a47323feb68b2f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771171535-0-0-4e49553fc2f6ed4a3be4b04e3aeb15f5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771171535-0-0-725dabac494f1dd7d68a3855b4d80ce1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771171535-0-0-14cd6336acbdc70e05c42c2f8ff8b1c9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771171535-0-0-d72a84dca6027c8b93452a473b234b02
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771172615-0-0-a6b9f7cdef90e6e31ad5caba034c78e8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771171535-0-0-cfe51b5ac8d2f232e9accf492e2857bb
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771172615-0-0-2109c8098f1b2405d691ef4d50c0501d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1771171535-0-0-afc684ec1ad923022957ee8c2233d7ff
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1771172615-0-0-ed4ff9110a501c0a3c1f994a6dc550a1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771171535-0-0-f4baa25a8f29de9fa18f6a435c6d1395
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771172615-0-0-85f3320e989c9f581861cde3e6b211bc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/7ccb417ee2fcb15f1a57ece2b9294cdc.png",21h00 WIB 15/02 Stoke City vs Fulham [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771171535-0-0-f2bac539061c3e277dc330fdc05fec7a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) flv
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771172615-0-0-5d4981f75ffbb73d0969b32bf6387b9d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771171535-0-0-caf7c6d128f5b32304fa729d71003441
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771172629-0-0-d0dfa65db2f0d19212b2e8e6a712d00e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771171535-0-0-ea8fd350936e800e5089996f684f2dae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1771172629-0-0-c5641272f0d7a9be26c80f74cffbf42d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771171535-0-0-173f661039b0092a4bb27acc335b95fc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771172629-0-0-b2b32902ca51bf7737e834adb5107139
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771171535-0-0-bf2ab882f7ae4b1a761e091942d3109b
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771172629-0-0-8a3f04f02dc902c48c8d067954482d9f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771172615-0-0-f25c22db24700bda0994b3ebdfade845
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771172615-0-0-fab9953d7ac2b7206320c442237c4dae
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771172615-0-0-18f9c9fe63e9a876005f61bd90f6ff1d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/f5af6ed3ac9dbc0cdc8df895387f3b16.png",20h30 WIB 15/02 Grimsby Town vs Wolverhampton Wanderers [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771172615-0-0-dd2c8ec9bfc63ecf3c9bf48b1fb804d0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=820d8ae4a7bc4131bfb5f3c0b203ec6a&txTime=6992351f
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=55f4f58e99b993a84d5c5f003bb45f8b&txTime=69923957
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=2cf0e4a39d8b04cdb46f140b59b95a64&txTime=6992351f
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=f259e87120ee8e7e8c9ee1fd25ab6bbb&txTime=69923957
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=820d8ae4a7bc4131bfb5f3c0b203ec6a&txTime=6992351f
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=55f4f58e99b993a84d5c5f003bb45f8b&txTime=69923957
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2cf0e4a39d8b04cdb46f140b59b95a64&txTime=6992351f
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f259e87120ee8e7e8c9ee1fd25ab6bbb&txTime=69923957
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771171535-0-0-26168151414094fa6f6c0086b346753e
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771172615-0-0-c57a9f2912b25e2cc7fd94a8d889649c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771171535-0-0-d308464f55910664a560545ad2823ff2
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771172615-0-0-1ae02a697e054b0a86b640aa5e8200bc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771171535-0-0-5753dbf51dea065585ff518dc8ffdb7d
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771172615-0-0-fa8197a983398634252eab7d682070ad
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d70e4a61a9be000f239bb53a2d0afc64.png",21h00 WIB 15/02 Parma vs Hellas Verona [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771171535-0-0-0e22d09e0a4a58afaca5130cd13aeb25
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771172615-0-0-67ac49868cf79ea3007bba55a032562c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771172615-0-0-47bb5d1b7ade74dccc81a4eeb74fcd37
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771172615-0-0-e53c5fd03de33c0b0473e505a0be3af1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771172615-0-0-94e63307cf61ab9fc45d0644e8b15db5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [SON HÍP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771172615-0-0-3829a6aec9e33d42ef7cb292ed22289f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1771171535-0-0-f198a9a6b9e5cd057ac11a98d217eb39
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1771172615-0-0-447fac15eeace5d85a4876caf3693ca6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1771171535-0-0-dba0a0ff2072925262393dcbffcdac53
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1771172615-0-0-5c0bc445425a830ee7b4199f468efcf9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771171535-0-0-9b19efcead4b9c6b50484935af8aff32
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1771172615-0-0-5400c79fdab558c757180f10af5b6c26
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/62c83b4931882db97c1dec032a6041fc.png",21h00 WIB 15/02 Cremonese vs Genoa [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771171535-0-0-42014863e48f0b70cf84c0f32c6a88a4
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1771172615-0-0-b227c82ee16b629cbc3a5ad30ad0d642
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771171535-0-0-daab7027542efdffa462555c77b52b0b
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771172615-0-0-9d9f93a54f638b23ca1d4b286c9ec38f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771171535-0-0-2210b3df9204a755d195333800011deb
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771172615-0-0-e0ca0d534a2dae554ca06950888af9cb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771171535-0-0-c62dc8b877835c9f9a6f9e56ff9c4c1a
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771172615-0-0-b2501a4129857ae13870a01e6882f79d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/63b4838dc53077bfc7514a4a100f6517.png",21h00 WIB 15/02 Oxford United vs Sunderland [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771171535-0-0-16d3550c7362413befdd7ab79844d6ed
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1771171535-0-0-9dcc187196804f87693445552e364d55
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1771171535-0-0-0578fe1439ea6f9bb46170a0c9841813
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1771171535-0-0-553fb16eed244eef63d8b5366de62101
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1771171535-0-0-5461222990b8b2f6351dbdb65c743115
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771171535-0-0-5dd276441ba407beee7d7367aad042b6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771171535-0-0-6c5cee011a014f93d16fc43608671a8f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771171535-0-0-448a551bfee4658a47e2c12f10d96fcf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771171535-0-0-9cd8a84bfff0d500e8ab3086c6bd6758
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771172615-0-0-06bd52865409beb7de67b4a6be193c3f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771171535-0-0-2886045c548b1ba52bb528e0c1bfbb17
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771172615-0-0-1a3fb8cc0acaf87b63b506184e450915
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771171535-0-0-a5c00ddcc4287713750a6fae3dadb491
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771172615-0-0-28a12b4ee511ac107cc832f8892e93d6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771171535-0-0-cc916a75ddb2a6aec816d85d3fe89203
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771172615-0-0-c6a0d0200e005d14ffaff2733853332b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771171535-0-0-28382f4bd94fbd94146785b0fd25ec20
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771172615-0-0-3f24017e0de0cc5f0edecc81aba3d81e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1771172615-0-0-6730613d95a23eb3a972dc573a3373ab
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1771172615-0-0-783b2b28f0d630613a35675cd7ba29a5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1771172615-0-0-6dba5f398b85a243f9af3a7f13ab2021
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1771172615-0-0-25bf8602237a2e28a4ce11dfdc6cb427
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771172615-0-0-37e4675657b9caf213a3f43ebff713a7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771172615-0-0-13e26e7e58a76d045477310b0d9bce48
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771172615-0-0-c50b5d9f734a49a3d3d3314ab888a411
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/d680b5f84a2a7b8dce8b0df859c242c8.gif",22h30 WIB 15/02 Nacional da Madeira vs FC Porto [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771172615-0-0-da70e4bee08c39b786a4167f7158ee4b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1047px-Oxford_United_FC_logo.svg.png",21h00 15/02 Oxford United vs Sunderland (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2999,12 +3017,9 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/61f530e22493ace89b5a47e2c6c045c5.png!w80",21h00 15/02 CLB Oxford United vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png!w80",21h00 15/02 CLB Stoke City vs Câu lạc bộ bóng đá Fulham
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png!w80",21h00 15/02 CLB Stoke City vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/2f59acf91bdbb73db9a775b81666cea9.png!w80",20h30 15/02 Grimsby Town vs Wolverhampton Wanderers
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/43612277.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80",21h00 15/02 U.S. Cremonese vs CLB Genoa
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97885009.m3u8
@@ -3017,6 +3032,9 @@ https://live5.msrktz.app/live/75915087.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80",21h30 15/02 FC Augsburg vs Heidenheimer
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",22h15 15/02 Rayo Vallecano vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:1 group-title="RANDOM 1",[FA Cup] 20h30 15/02 Grimsby vs Wolves [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
