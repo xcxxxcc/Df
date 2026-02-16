@@ -583,9 +583,15 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Infinix X6815C; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=809fe2fe0120c8788e93de8505fe93c5-1771283400360
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; CPH1725; Build/N6F26Q)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd6c661e8366bbd7bbc4f3fdf7deb1f7-1771284600535
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -593,8 +599,84 @@ https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. Switzerland (Women's Semifinal)
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-16/hockey/canada-vs-switzerland-womens-semifinal-1771272600
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="PPV-LIVE",Best of Curling (Feb. 16)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/best-of-curling-feb-16
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5674c2b1bb257bd98941c28c049f0160-thumbnail.jpg" group-title="PPV-LIVE",Men's Super Team Large Hill
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/ski-jumping/mens-super-team-large-hill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6eb6e4a939e2402cd5ac91d160a9b462-thumbnail.jpg" group-title="PPV-LIVE",Czechia vs. Germany (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/czechia-vs-germany-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Sweden (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/switzerland-vs-sweden-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5c52dd204475da45ed76f266a1770f49-thumbnail.jpg" group-title="PPV-LIVE",USA vs. China (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/usa-vs-china-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/75fd3274e65009704929fec3a7a62667-thumbnail.jpg" group-title="PPV-LIVE",Men's Large Hill: Ski Jump
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/nordic-combined/mens-large-hill-ski-jump
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ccec27e6fc07c9866c1283d3cf1dc5f7-thumbnail.jpg" group-title="PPV-LIVE",Women's Aerials: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/womens-aerials-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/42b81ad38998b602557933cdb171e48b-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. France (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/germany-vs-france-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1a316bb3d4bf4f9d4bb8ae0d2cb1c951-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Italy (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/switzerland-vs-italy-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a971a0ff6402a9a51638cd1b5f1e5ffb-thumbnail.jpg" group-title="PPV-LIVE",On USA: Women's Snowboard Slopestyle Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/snowboarding/on-usa-womens-snowboard-slopestyle-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a971a0ff6402a9a51638cd1b5f1e5ffb-thumbnail.jpg" group-title="PPV-LIVE",Women's Snowboard Slopestyle: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/snowboarding/womens-snowboard-slopestyle-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="PPV-LIVE",Men's Aerials: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/mens-aerials-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/870a0730618991566284cc2773820739-thumbnail.jpg" group-title="PPV-LIVE",Men's Large Hill: 10km Race
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/nordic-combined/mens-large-hill-10km-race
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 11
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/gold-zone-day-11
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c5c7675a77c104fd3219179c6959ca95-thumbnail.jpg" group-title="PPV-LIVE",Denmark vs. USA (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/denmark-vs-usa-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8180ded875d40e61302f2ca5594a1a1-thumbnail.jpg" group-title="PPV-LIVE",Italy vs. Japan (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/italy-vs-japan-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bccca3de3676b86000f567a85d677c45-thumbnail.jpg" group-title="PPV-LIVE",South Korea vs. Switzerland (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/south-korea-vs-switzerland-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Canada (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/sweden-vs-canada-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6ddb2e8552db2eb31fd67970bf3fc159-thumbnail.jpg" group-title="PPV-LIVE",Men's 4x7.5km Relay
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/biathlon/mens-4x75km-relay
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e7350409d57f3fad48a002df2fa7c83-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Team Pursuit Finals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/speed-skating/mens--womens-team-pursuit-finals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e7350409d57f3fad48a002df2fa7c83-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Team Pursuit Semifinals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/speed-skating/mens--womens-team-pursuit-semifinals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d141ec228d7ede0220951e4051517345-thumbnail.jpg" group-title="PPV-LIVE",Men's Team Large Hill: Ski Jump
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/nordic-combined/mens-team-large-hill-ski-jump
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",Women's Short: Warm-Up
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/womens-short-warm-up
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce30f48e8f6b44d570fb120731571cdf-thumbnail.jpg" group-title="PPV-LIVE",Czechia vs. Denmark (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/czechia-vs-denmark-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="PPV-LIVE",M&W Aerials: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/mw-aerials-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",On USA: Women's Short (Part 1)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/on-usa-womens-short-part-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",Women's Short (Venue Feed)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/womens-short-venue-feed
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="PPV-LIVE",Two-Man Bobsled: Run 3
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-run-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f5b3c7a39939ff3a37550e2739de2a3-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. Great Britain (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/canada-vs-great-britain-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2f56cb28941109acfdc46849071842b6-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. Switzerland (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/germany-vs-switzerland-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3d9b155e24771bb3332e6cccb710f6d-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Norway (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/sweden-vs-norway-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b57c77232d9dff561dcec979740f4b8e-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Italy (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/usa-vs-italy-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ecf1ed8c3eee9ae9b39babb29dbaf9e1-thumbnail.jpg" group-title="PPV-LIVE",Men's Freeski Big Air: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/mens-freeski-big-air-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ecf1ed8c3eee9ae9b39babb29dbaf9e1-thumbnail.jpg" group-title="PPV-LIVE",NBC: Men's Freeski Big Air Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/nbc-mens-freeski-big-air-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",NBC: Women's Short (Part 2)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/nbc-womens-short-part-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="PPV-LIVE",Two-Man Bobsled: Runs 3-4
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-runs-3-4
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="PPV-LIVE",Two-Man Bobsled: Final Run
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-final-run
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad3f80c2fa91181ece51302aad68fa14-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Latvia (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/sweden-vs-latvia-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="PPV-LIVE",Best of Curling (Feb. 17)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/best-of-curling-feb-17
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5492ecfb31f85810c3ea70478413ef69-thumbnail.jpg" group-title="PPV-LIVE",Kent State Golden Flashes vs. LSU Tigers (Baseball)
 https://ppv2.168.us.kg/stream?uri=college-baseball/4304/4304-4304-4304
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/08f6b472be73d70e7913d467709b99bf-thumbnail.jpg" group-title="PPV-LIVE",New Mexico State Aggies vs. Oklahoma Sooners (Baseball)
@@ -802,27 +884,27 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Deportivo Riestra vs Club Atlético Newell's Old Boys lúc 06:24 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Deportivo Riestra vs Club Atlético Newell's Old Boys lúc 06:36 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/567e1db666790ba6a57c974ad7e693f1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Uruguay Primera Division] Albion FC vs Cerro Montevideo lúc 06:24 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Uruguay Primera Division] Albion FC vs Cerro Montevideo lúc 06:36 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/7a24ba88d2bd9a2ab76ec07256b2490b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Brazilian Campeonato Gaucho] São Luiz vs Caxias RS lúc 06:24 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Brazilian Campeonato Gaucho] São Luiz vs Caxias RS lúc 06:36 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/7f08a5c9c9c771d54767d164844fe5a1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Mexico Liga MX Femenil] Leon (w) vs Puebla (w) lúc 06:24 WIB 17/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Mexico Liga MX Femenil] Leon (w) vs Puebla (w) lúc 06:36 WIB 17/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6993957c26633_74012.flv?expire=1771884540&sign=9adf54afa188cca9cbfe197046e38808
-#EXTINF:1 group-title="RANDOM 1",[Mexico Liga MX Femenil] Leon (w) vs Puebla (w) lúc 06:24 WIB 17/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Mexico Liga MX Femenil] Leon (w) vs Puebla (w) lúc 06:36 WIB 17/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6993957c26633_74012/index.m3u8?expire=1771884540&sign=9adf54afa188cca9cbfe197046e38808
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL U20 Women's Sudamericano] Argentina Women U20 vs Venezuela Women U20 lúc 06:24 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CONMEBOL U20 Women's Sudamericano] Argentina Women U20 vs Venezuela Women U20 lúc 06:36 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/3384c719bba8e7e5848d060431ed76c8/playlist.m3u8
@@ -838,6 +920,78 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/31615_165768962963.png",06h00 WIB 17/02 Leon (W) vs Puebla (W) (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1e976e425218d64350d14eb49d73a038/image/small?v=1768601124",04h00 WIB 17/02 Argentina Women U20 vs Venezuela Women U20 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3384c719bba8e7e5848d060431ed76c8/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3be1d138a5e7b51c2a352be3f27876e4/image/small?v=1768601124",01h00 WIB 17/02 FC Dinamo 1948 vs FC Unirea 2004 Slobozia (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1a9d47e18a812262550d99a70c17f1da/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a6b84ddd2cf20164e162ee3c77bf53ef/image/small?v=1768601124",01h00 WIB 17/02 Penafiel vs Lusitania FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e569915ef5856c87c4ef33c36a4d15b1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fd0f6918810c90aea02fea43a770b152/image/small?v=1768601124",03h00 WIB 17/02 Instituto AC Cordoba II vs Rosario Central Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1d57aae47c155e51e493dbbb917a1c58/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/542e8735c87f38ec7c5d77fe59082cfd/image/small?v=1768601124",03h15 WIB 17/02 Rio Ave vs Moreirense (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ef01482531fdccffecda4d8e62f28fe5/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/97896ac74f6422fed92400a95fee0a2e/image/small?v=1768601124",03h00 WIB 17/02 Coventry City vs Middlesbrough (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fd319caaecf420a91fe0687109579094/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124",02h00 WIB 17/02 Jong Ajax Youth vs SC Cambuur Leeuwarden (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5a5af3096e474ed59870aa07a1f8367c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/591c479e27ec9b1bcdb0b0597a70f7b8/image/small?v=1768601124",03h00 WIB 17/02 Atletico Atlanta vs Quilmes (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/884a514bebd4d314576169145266831d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/046102af35f531fcae88e2aeb46c15df/image/small?v=1768601124",03h00 WIB 17/02 Tigres Zipaquira vs Independiente Yumbo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5377851f66fa6a6e0e1131cbda046cd2/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/542446a68878265fe4b32725312be3be/image/small?v=1768601124",01h00 WIB 17/02 Enppi vs Bank El Ahly (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6408dff5ac3e1ffca8f984bd09f56317/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7ed8f83c527c5e9f878cc536944ed083/image/small?v=1768601124",01h00 WIB 17/02 LKS Nieciecza vs Gornik Zabrze (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/85dec9c355b6bf09686bf5c0b9b16d7d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/18b00be64e6d4866e423ffd67afb1a1f/image/small?v=1768601124",01h00 WIB 17/02 GKS Tychy vs Odra Opole (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9679581f88876fe2450197f40b10398a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/92a78d426217956967d70c00ae5dafde/image/small?v=1768601124",03h00 WIB 17/02 Gimnasia Jujuy vs Ferrocarril Midland (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cbb03ac2f5b7928c4f44cda66d85b15d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a4b52c6eadeddc46dbd2b58bd62ee21f/image/small?v=1768601124",03h00 WIB 17/02 Tigre Reserves vs Banfield Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/21c6c80f7ca85adb9fbc42f4679e4b7a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/200460f8c80f6d2482e27c0f91c015d3/image/small?v=1768601124",03h00 WIB 17/02 Argentinos Jrs Reserves vs Union Santa Fe Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ce7e0b4d12499626564741dc2a7e5c73/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/25d5dfb73e1347414b0e467de73bdbf9/image/small?v=1768601124",01h00 WIB 17/02 Sonderjyske vs Silkeborg (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d672c8a3761c9f34e903724359040929/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8512b7f7d68bed2e2b77b7c4f3eeb42a/image/small?v=1768601124",03h00 WIB 17/02 CA Aldosivi Reserves vs Gimnasia LP Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c34f30d0f41da0089aa2375d7e98285c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a734f0f9fceab379144c496a8d4451b/image/small?v=1768601124",02h00 WIB 17/02 FC Utrecht Youth vs Willem II (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c62100461b16296a0d6bc45a201f9ea0/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1875300a2f74af00ee3139db47e15769/image/small?v=1768601124",05h00 WIB 17/02 São Luiz vs SER Caxias (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -922,78 +1076,6 @@ https://live.alilicloud.com/live/485539db1bfdb194fb601ab43e43a7c0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/bce0e637487f554e26a88637feefd828/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1e976e425218d64350d14eb49d73a038/image/small?v=1768601124",04h00 WIB 17/02 Argentina Women U20 vs Venezuela Women U20 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3384c719bba8e7e5848d060431ed76c8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3be1d138a5e7b51c2a352be3f27876e4/image/small?v=1768601124",01h00 WIB 17/02 FC Dinamo 1948 vs FC Unirea 2004 Slobozia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1a9d47e18a812262550d99a70c17f1da/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a6b84ddd2cf20164e162ee3c77bf53ef/image/small?v=1768601124",01h00 WIB 17/02 Penafiel vs Lusitania FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e569915ef5856c87c4ef33c36a4d15b1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fd0f6918810c90aea02fea43a770b152/image/small?v=1768601124",03h00 WIB 17/02 Instituto AC Cordoba II vs Rosario Central Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1d57aae47c155e51e493dbbb917a1c58/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/542e8735c87f38ec7c5d77fe59082cfd/image/small?v=1768601124",03h15 WIB 17/02 Rio Ave vs Moreirense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ef01482531fdccffecda4d8e62f28fe5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/97896ac74f6422fed92400a95fee0a2e/image/small?v=1768601124",03h00 WIB 17/02 Coventry City vs Middlesbrough (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fd319caaecf420a91fe0687109579094/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124",02h00 WIB 17/02 Jong Ajax Youth vs SC Cambuur Leeuwarden (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a5af3096e474ed59870aa07a1f8367c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/591c479e27ec9b1bcdb0b0597a70f7b8/image/small?v=1768601124",03h00 WIB 17/02 Atletico Atlanta vs Quilmes (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/884a514bebd4d314576169145266831d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/046102af35f531fcae88e2aeb46c15df/image/small?v=1768601124",03h00 WIB 17/02 Tigres Zipaquira vs Independiente Yumbo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5377851f66fa6a6e0e1131cbda046cd2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/542446a68878265fe4b32725312be3be/image/small?v=1768601124",01h00 WIB 17/02 Enppi vs Bank El Ahly (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6408dff5ac3e1ffca8f984bd09f56317/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7ed8f83c527c5e9f878cc536944ed083/image/small?v=1768601124",01h00 WIB 17/02 LKS Nieciecza vs Gornik Zabrze (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/85dec9c355b6bf09686bf5c0b9b16d7d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/18b00be64e6d4866e423ffd67afb1a1f/image/small?v=1768601124",01h00 WIB 17/02 GKS Tychy vs Odra Opole (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9679581f88876fe2450197f40b10398a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/92a78d426217956967d70c00ae5dafde/image/small?v=1768601124",03h00 WIB 17/02 Gimnasia Jujuy vs Ferrocarril Midland (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/cbb03ac2f5b7928c4f44cda66d85b15d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a4b52c6eadeddc46dbd2b58bd62ee21f/image/small?v=1768601124",03h00 WIB 17/02 Tigre Reserves vs Banfield Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/21c6c80f7ca85adb9fbc42f4679e4b7a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/200460f8c80f6d2482e27c0f91c015d3/image/small?v=1768601124",03h00 WIB 17/02 Argentinos Jrs Reserves vs Union Santa Fe Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ce7e0b4d12499626564741dc2a7e5c73/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/25d5dfb73e1347414b0e467de73bdbf9/image/small?v=1768601124",01h00 WIB 17/02 Sonderjyske vs Silkeborg (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d672c8a3761c9f34e903724359040929/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8512b7f7d68bed2e2b77b7c4f3eeb42a/image/small?v=1768601124",03h00 WIB 17/02 CA Aldosivi Reserves vs Gimnasia LP Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c34f30d0f41da0089aa2375d7e98285c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a734f0f9fceab379144c496a8d4451b/image/small?v=1768601124",02h00 WIB 17/02 FC Utrecht Youth vs Willem II (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c62100461b16296a0d6bc45a201f9ea0/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/20250915_231520_98dcaa4f.png",06h00 WIB 17/02 León W vs Puebla W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1370,50 +1452,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1875300a2f74af00ee3139db47e15769/image/small?v=1768601124",05h00 WIB 17/02 São Luiz vs SER Caxias (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7f08a5c9c9c771d54767d164844fe5a1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1169d4648128ddc8ddd23450ae62bb17/image/small?v=1768601124",02h30 WIB 17/02 Cittadella vs Renate AC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/65edca379748f1eef4f1bcf74ad6716d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5e174ab6a6c91ed27c1db3ce9e47b9a1/image/small?v=1768601124",02h30 WIB 17/02 A.C. Ospitaletto vs Inter Milan U23 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/27cbccd77c5708434468b5e8c3f39224/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/92d913dd3ccb8046cebbc18788de4052/image/small?v=1768601124",02h30 WIB 17/02 Vis Pesaro vs Nuovo Campobasso (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cb9f0b027bd195da6591e9282f5015be/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/965912e40ae47b9b37f24cf8f3dee18d/image/small?v=1768601124",05h00 WIB 17/02 Albion FC vs Cerro Montevideo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7a24ba88d2bd9a2ab76ec07256b2490b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/caa1a03a742e4cb804e8789f54ea6d1c/image/small?v=1768601124",02h45 WIB 17/02 Bastia vs Troyes (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7931a3f2a2d5a571bd2f82b3014e5e9b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/40bd31f42bdace0ff0be35a84c1ff8c5/image/small?v=1768601124",02h30 WIB 17/02 Real Sociedad B vs Malaga (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e26a56558f40a233f29bdb62779fe3b3/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d082a41c86bf3515ce3127664b8b5551/image/small?v=1768601124",02h30 WIB 17/02 Us Pergolettese vs Union Brescia  (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0fdcfa277423af3d96a217a6a9912150/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6231a9f56ba71a5003434f08cbfbe741/image/small?v=1768601124",04h00 WIB 17/02 Fluminense RJ vs Bangu (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b5addc156a24cdaf6c002104e827c366/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1a4092ad73b2d3189717f3e99d6fe63e/image/small?v=1768601124",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/567e1db666790ba6a57c974ad7e693f1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e9fde6e53111bb760b761f1f533b54c1/image/small?v=1768601124",04h00 WIB 17/02 Paraguay Women U20 vs Brasil Women U20 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4c5ca47cdad9580ded2d1e860be41f19/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1e976e425218d64350d14eb49d73a038/image/small?v=1768601124",04h00 WIB 17/02 Argentina Women U20 vs Venezuela Women U20 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1438,10 +1476,6 @@ https://live.alilicloud.com/live/884a514bebd4d314576169145266831d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5377851f66fa6a6e0e1131cbda046cd2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a648dbfe6d33e017699dce73c38c8cc3/image/small?v=1768601124",02h30 WIB 17/02 Macclesfield Town vs Brentford (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e16e5f143b397772a3b28c24fe4cedf2/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/92a78d426217956967d70c00ae5dafde/image/small?v=1768601124",03h00 WIB 17/02 Gimnasia Jujuy vs Ferrocarril Midland (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1458,42 +1492,30 @@ https://live.alilicloud.com/live/ce7e0b4d12499626564741dc2a7e5c73/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c34f30d0f41da0089aa2375d7e98285c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=f458589795884fdee140e9e0a6d15d0b&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=5aaf98c191a1b587217d7ed5b25c36a4&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=f458589795884fdee140e9e0a6d15d0b&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=5aaf98c191a1b587217d7ed5b25c36a4&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=e080d3bd23332dfebb7a5745ae8628cc&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=429eff8f8f42f432c426067234699fca&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=e080d3bd23332dfebb7a5745ae8628cc&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=429eff8f8f42f432c426067234699fca&txTime=6993f887
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771287095-0-0-6bcf535856fa844d2edef72b4db229ce
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771287095-0-0-63edb400ef8e25a2fdb5c891be539115
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771287095-0-0-8da43d19a9259307d25622df78014c95
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771287095-0-0-ac458791be0239cd15180e7dc452dcce
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1875300a2f74af00ee3139db47e15769/image/small?v=1768601124",05h00 WIB 17/02 São Luiz vs SER Caxias (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7f08a5c9c9c771d54767d164844fe5a1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/965912e40ae47b9b37f24cf8f3dee18d/image/small?v=1768601124",05h00 WIB 17/02 Albion FC vs Cerro Montevideo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7a24ba88d2bd9a2ab76ec07256b2490b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/caa1a03a742e4cb804e8789f54ea6d1c/image/small?v=1768601124",02h45 WIB 17/02 Bastia vs Troyes (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7931a3f2a2d5a571bd2f82b3014e5e9b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6231a9f56ba71a5003434f08cbfbe741/image/small?v=1768601124",04h00 WIB 17/02 Fluminense RJ vs Bangu (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b5addc156a24cdaf6c002104e827c366/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1a4092ad73b2d3189717f3e99d6fe63e/image/small?v=1768601124",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/567e1db666790ba6a57c974ad7e693f1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e9fde6e53111bb760b761f1f533b54c1/image/small?v=1768601124",04h00 WIB 17/02 Paraguay Women U20 vs Brasil Women U20 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4c5ca47cdad9580ded2d1e860be41f19/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771287815-0-0-7336bc3ec21be6d667bd00885193fa02
@@ -1542,6 +1564,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771287815-0-0-42b3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771287815-0-0-ec0a0c435d4a74d4276d731a9a53b6f7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=03baee54a18b8cd14a9f4e165f92a4b2&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=36e836e14c011e67c6e78a9670c4ba48&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=03baee54a18b8cd14a9f4e165f92a4b2&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cda98ae6ddb93529fee8df24c5c6bf16.png",05h00 WIB 17/02 Deportivo Riestra vs Club Atlético Newell's Old Boys [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=36e836e14c011e67c6e78a9670c4ba48&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=2f52c529a29087cf6eb3cb5ef726f623&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=f0f8dc0c43f1c71d103eabf93f3ff30f&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=2f52c529a29087cf6eb3cb5ef726f623&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=f0f8dc0c43f1c71d103eabf93f3ff30f&txTime=6993fcbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771288175-0-0-3a823a6a863a6027ea18b860fd75dbaf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771288175-0-0-17fb251a6aa649218ef85a5394cbf5d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771288175-0-0-87348809e02ded71726db2ed23abdd89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/495fd960d3ccb01a397469abc71eec28.png",06h00 WIB 17/02 Leon Women vs Puebla Women [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771288175-0-0-94b618cae110d4153e239f8d62445186
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=323f3b7cd30fbec03e3f5f4537874088&txTime=6993fe27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=6421f9b1d435ccd52b6672a6c901039e&txTime=6993fe27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=323f3b7cd30fbec03e3f5f4537874088&txTime=6993fe27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=6421f9b1d435ccd52b6672a6c901039e&txTime=6993fe27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1771288535-0-0-4e822e195c1659744391f97d47134a12
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1771288535-0-0-c70da85570b0fafb99a9f5015ae576de
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771288535-0-0-2257164d16986b4a8c58a572cfaf7c78
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/76183d7b5d4132488b9244eb12e03621.png",07h00 WIB 17/02 Toluca Women vs Pachuca Women [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771288535-0-0-9a03c59c4808e4f415ccdb4a9268b209
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80",05h00 17/02 Dep. Riestra vs Newells Old Boys
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/71426314.m3u8
@@ -2891,7 +2973,7 @@ https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770365494-0-0-7109
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
-#EXTINF:1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Dep Riestra vs Newells Old Boys (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Argentina Liga Profesional] Dep Riestra vs Newells Old Boys (FAWA)
+#EXTINF:1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Argentina Liga Profesional] Dep Riestra vs Newells Old Boys (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Argentina Liga Profesional] Dep Riestra vs Newells Old Boys (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -2926,67 +3008,62 @@ https://pullsgp.yyzb456.top/live/stream-500894_lhd.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/FNNNQQQQ.m3u8
-#EXTINF:1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[France Ligue 2] Bastia vs Troyes (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/96.png" group-title="RANDOM 3",[France Ligue 2] Bastia vs Troyes (FAWA)
+#EXTINF:1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[France Ligue 2] Bastia vs Troyes (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/96.png" group-title="RANDOM 3",[France Ligue 2] Bastia vs Troyes (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FNNNQQQ.m3u8
-#EXTINF:1 tvg-chno="23" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Hockey] Switzerland at Canada (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" group-title="RANDOM 3",[Hockey] Switzerland at Canada (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=y8WfTAPj7utSGJ92wuw-U3nT4gAYOnybFwMK2rNGN6w&e=1771284617
-#EXTINF:1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Israel Ligat ha'Al] Beitar Jerusalem vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Israel Ligat ha'Al] Beitar Jerusalem vs Maccabi Tel Aviv (FAWA)
+#EXTINF:1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Israel Ligat ha'Al] Beitar Jerusalem vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Israel Ligat ha'Al] Beitar Jerusalem vs Maccabi Tel Aviv (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/YFFF.m3u8
-#EXTINF:1 tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Cagliari vs Lecce (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="RANDOM 3",[Italy Serie A] Cagliari vs Lecce (FAWA)
+#EXTINF:1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Cagliari vs Lecce (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="RANDOM 3",[Italy Serie A] Cagliari vs Lecce (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/YFFFQQQ.m3u8
-#EXTINF:1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Cagliari vs Lecce HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="RANDOM 3",[Italy Serie A] Cagliari vs Lecce HD (FAWA)
+#EXTINF:1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[Italy Serie A] Cagliari vs Lecce HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="RANDOM 3",[Italy Serie A] Cagliari vs Lecce HD (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pullsgp.yyzb456.top/live/stream-453781_lhd.m3u8
-#EXTINF:1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Rio Ave vs Moreirense (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="RANDOM 3",[Portugal Primeira Liga] Rio Ave vs Moreirense (FAWA)
+#EXTINF:1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Rio Ave vs Moreirense (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="RANDOM 3",[Portugal Primeira Liga] Rio Ave vs Moreirense (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.197/hls/YFFFQQQQ.m3u8
-#EXTINF:1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Newell's Old Boys vs Deportivo Riestra (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Primera División] Newell's Old Boys vs Deportivo Riestra (CDNTV)
+#EXTINF:1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Newell's Old Boys vs Deportivo Riestra (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Primera División] Newell's Old Boys vs Deportivo Riestra (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge.cdn-live.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=4ca679f54e337a1d0675c6a3c186c63721255a64a328bb2bab714e811c37c064.1771280703.d7a5c5ef9d81904f58f9c2e2f15388a8.bb9d2bb0cccdfde4b08668dba34ea26e.9e753a8cfa362514adeac8387393abf0&signature=4a15da8c0e717cbed695b0a48c669d0081a26bea596db08f1411de31f1570337
-#EXTINF:1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona 1 (FAWA)
+#EXTINF:1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/RMMM.m3u8
-#EXTINF:1 tvg-chno="65" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona 2 (FAWA)
+#EXTINF:1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://livecdn-bp-nobar.maypn.stream/stream/25/chunks.m3u8?x-sign=5637700e5d1a7b8e1120a82612157bd4&x-time=1771271100&is_vip=true&token=nobar-5f74333c-47f8-4f41-bae1-f6fd90a981ac
-#EXTINF:1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona HD (FAWA)
+#EXTINF:1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Girona vs FC Barcelona HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Girona vs FC Barcelona HD (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8
-#EXTINF:1 tvg-chno="67" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
+#EXTINF:1 tvg-chno="57" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/YYYY.m3u8
-#EXTINF:1 tvg-chno="68" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)
+#EXTINF:1 tvg-chno="58" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/PPPP.m3u8
-#EXTINF:1 tvg-chno="70" tvg-id="Live.Event.us" tvg-name="[Uruguay Liga AUF] Albion vs CA Cerro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Uruguay Liga AUF] Albion vs CA Cerro (FAWA)
+#EXTINF:1 tvg-chno="59" tvg-id="Live.Event.us" tvg-name="[Uruguay Liga AUF] Albion vs CA Cerro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Uruguay Liga AUF] Albion vs CA Cerro (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
