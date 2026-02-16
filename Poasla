@@ -1604,6 +1604,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090504098" tvg-name="ACC Women’s Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015163/1771016926763312_AsiaCup_RisingStar_Womens2026_Bangladesh_A_vs_Thailand_13feb_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Bangladesh A Women vs Thailand Women - 16 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04-criclive/master.m3u8?hdnea=exp=1771245002~acl=/*~id=66570439227270726985395898798187~hmac=3cc5179350080873c87ecfe4454235e89d26a7eff949343496e70f0a90970528|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; haierATVnippori; Build/RTO5.250812.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=81d6232503c4d5b32ce37d6722e8e016-1771225800353
@@ -1813,20 +1819,20 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[KBL] LG Sakers vs Goyang Sono lúc 14:08 WIB 16/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Indo D4] PSP Padang vs PSPP Padang Panjang lúc 14:24 WIB 16/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/6992958726633_110198.flv?expire=1771819015&sign=40e49da269163a12ddac2770c1f6a723
-#EXTINF:1 group-title="RANDOM 1",[KBL] LG Sakers vs Goyang Sono lúc 14:08 WIB 16/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/6992958726633_110198/index.m3u8?expire=1771819015&sign=40e49da269163a12ddac2770c1f6a723
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771185507.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771185507.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/434c4b79ef90012f18f810b9c5048d02/image/small",14h00 WIB 16/02 GS Caltex Women vs Hyundai E&C Hillstate Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/740e4171c1211cde2976847ed76eab47/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/434c4b79ef90012f18f810b9c5048d02/image/small",14h00 WIB 16/02 GS Caltex Women vs Hyundai E&C Hillstate Women (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1855,6 +1861,10 @@ https://live.alilicloud.com/live/101640070be30870a13650f8b42cb5c7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4c43bb5da52bb0480024dd8c31ceff38/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/549a3c79dfc837fb785adaa02188476d/image/small?v=1768601124",13h45 WIB 16/02 PSP Padang vs PSPP Padang Panjang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 WIB 16/02 Persita vs PSBS Biak Numfor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2143,166 +2153,102 @@ https://stream.chuoichien.tv/chuoitong/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitong.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/434c4b79ef90012f18f810b9c5048d02/image/small",14h00 WIB 16/02 GS Caltex Women vs Hyundai E&C Hillstate Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/740e4171c1211cde2976847ed76eab47/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/92c56375d41646b4cde0c652918c82f0/image/small",12h00 WIB 16/02 Suwon KEPCO Vixtorm vs KB Stars (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4c43bb5da52bb0480024dd8c31ceff38/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/549a3c79dfc837fb785adaa02188476d/image/small?v=1768601124",13h45 WIB 16/02 PSP Padang vs PSPP Padang Panjang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/81b2952eb5ae368f12e977c90c90e3e3/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771229495-0-0-c3ef9c6d67e274669c6e54dec3c0522e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771229495-0-0-dd7c4fb91a7da889a7a6f01f98f182a0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771229495-0-0-d1e119c9da6934eef0ba61aa9f929097
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771229495-0-0-ebb6b5d09af12eb54c0b87fa44828a60
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771228415-0-0-ccf37f15fca271cd5da88909cc203f6a
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771229495-0-0-7a72991272089cf7e62a4be06299a69e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771228415-0-0-20cbd7238debb9a5c157cc90a3f14c1b
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771229495-0-0-19e030e22c2f4b14fcd866bf9c4ea47c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771228415-0-0-a959f6896fba837a17b97d04f3a64c3b
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771229495-0-0-ad7c92ba54301436d13859c83ad9562e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771228415-0-0-73785f50c1f3ea325275349552a3feac
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ENG FAC - Arsenal vs Wigan Athletic [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1771228415-0-0-e470eeb805135bfded104e1de32391d9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ENG FAC - Arsenal vs Wigan Athletic [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1771228415-0-0-1d0521107f0d0643f023ec4b9dee8f40
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ENG FAC - Arsenal vs Wigan Athletic [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1771228415-0-0-baf31d1bab11e16f1c2915d0f55e4871
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ENG FAC - Arsenal vs Wigan Athletic [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1771228415-0-0-8bc9516d2f91c0f8a7b478e8dc655654
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: GER D1 - RB Leipzig vs VfL Wolfsburg [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1771228415-0-0-683b60b2ad26137ea2b678c6ada55518
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: GER D1 - RB Leipzig vs VfL Wolfsburg [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1771228415-0-0-91b305dd1f27431a40d046694ae869e1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: GER D1 - RB Leipzig vs VfL Wolfsburg [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1771228415-0-0-962d762e0fcc96db8a45114f44996e68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: GER D1 - RB Leipzig vs VfL Wolfsburg [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1771228415-0-0-f832305d9150aa7ac960be3782e5b7fb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Torino vs Bologna [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1771228415-0-0-6d1d3f86a983364f5f145f75e9cf1f70
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Torino vs Bologna [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1771228415-0-0-ed3774998a417560b9c7cbd324a055aa
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Torino vs Bologna [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1771228415-0-0-08b82244fd08764e081c094c61201580
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Torino vs Bologna [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1771228415-0-0-315c89b3793f885b4447a14a147e5fb2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - Levante vs Valencia CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1771228775-0-0-6a351330be3ea2d6518bee22b577aeef
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - Levante vs Valencia CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1771228775-0-0-cc12585c0668eaac400afe8c7449ef3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - Levante vs Valencia CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1771228775-0-0-a2c1d92381d95485702c8c7882d582d7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - Levante vs Valencia CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1771228775-0-0-d77da634e75c77baca39690619b9fadd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - RCD Mallorca vs Real Betis [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1771228775-0-0-805bb2f40004ecab38ba24a9e4cc78c5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - RCD Mallorca vs Real Betis [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1771228775-0-0-9d09af69887e45c962e56036fe775fd0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - RCD Mallorca vs Real Betis [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1771228775-0-0-a4a1d5022f6fce48abeec62f1b403dad
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: SPA D1 - RCD Mallorca vs Real Betis [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1771228775-0-0-f2eb6a1bd045adff18a5f61a8cf5221b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Napoli vs AS Roma [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1771228775-0-0-aa4023c9f77c8f46b2b1f73b011fa04d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Napoli vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1771228775-0-0-5d3673e8dae4e059ad4ee9acde8064ae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Napoli vs AS Roma [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1771228775-0-0-ab89c4b8f0c4a2f7c84623471184e785
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",Tường thuật: ITA D1 - Napoli vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1771228775-0-0-06787b18f3558015a9e88f79b515824e
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771229495-0-0-1d593507a2b9b27cfcdc4099f5b91e3c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771229135-0-0-93bb4f58d7b1072892f418b429f16695
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771230215-0-0-8fa2ddd770fc6502a9f7b327c09edd68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771229135-0-0-d0af67f05bd8fee59a339104cf8a3b25
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771230215-0-0-5bdaff1e648339061e0a39edcb66903f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771229135-0-0-84e6458f21d46f09f044f48a64b00ec5
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771230215-0-0-9c34d71a2546fc114741483c22ed314d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771229135-0-0-dda274f0d24a06a699161f513ac2a630
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771230215-0-0-045032d46cbbde684a0065684fe4c0f7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771229135-0-0-6987ce736955b937aac8f2fd5f21d900
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771230215-0-0-d8506e4323f68d7b8b2da01d91ed5277
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771229135-0-0-45d4e7c9f11f0f7d5bd6947562cb53b2
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771230215-0-0-4bb7f6cf17bab9e963c61b0dd7ccea06
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771229135-0-0-09edd2991450dcac138dca2caa9f006e
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771230215-0-0-9da8c59d684fb289303e2d337a354f03
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771229135-0-0-f0f43c59356353ba77838a408fd719ea
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771229135-0-0-cbf2e896a06ea3ea77f88e4bf764dbca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771229135-0-0-b8dcecca9af93525447a2b60b020c9e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771229135-0-0-765202191cc1ddb3995714a29f926949
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771229135-0-0-a4a2a11d319c3fca99e393d0227a5ba2
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771230215-0-0-e85e2a5b8bdd904697213ea425b270c8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771229135-0-0-bc1787ecd4f3ed9454edd7e856d5091f
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771230215-0-0-2dbb8a02de4f6140d206682266571ad3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771229135-0-0-5d4833cd12cc97106fcb6383551f4ee7
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771230215-0-0-16d3fbd60e3695127fb6f39542c08a5c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771229135-0-0-a464408feb3b30c75c09217b12744f3d
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771230215-0-0-65f8170f60e6a439bd862b3ea380aa68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/6180a334f0f63c0b9e31341471112f03.png",14h00 WIB 16/02 S-Birds W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771229135-0-0-34dc405589bc1361cd0cd1fdeb2d34ab
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cff3a03a8dfd569c7635da53a985603a.png",12h00 WIB 16/02 LG Sakers vs Goyang Sono [BLV HENRY] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771230215-0-0-d3ad9097bb21a4c5b81bf66950d870f8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771229152-0-0-5f8bbc3f1f0dd846e3a992f2605034e8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cff3a03a8dfd569c7635da53a985603a.png",12h00 WIB 16/02 LG Sakers vs Goyang Sono [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771230215-0-0-8d5eba4208aeb6bda663898e47c02c8c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771229152-0-0-2e69e2873731eabd59715f106d53a61e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cff3a03a8dfd569c7635da53a985603a.png",12h00 WIB 16/02 LG Sakers vs Goyang Sono [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771230215-0-0-74036c00ee59b8dc46b73414439297a4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771229152-0-0-279492b10aee609dbc225dfb2ba22ce2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/cff3a03a8dfd569c7635da53a985603a.png",12h00 WIB 16/02 LG Sakers vs Goyang Sono [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771230215-0-0-4e56d35574db5ec846bafcb407c14261
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/dd159efdbe5e260788671c4ff08123c8.png",14h30 WIB 16/02 Wonju DB vs Mobis Phoebus [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771229152-0-0-2608e0fa3fdfdecc71020287a6a98711
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771230215-0-0-f82d14ba7119758c76c0677a03aacaa8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771229135-0-0-47a3e34e94e20c7bf9a2207f747acc9f
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771230215-0-0-08a0714a73220da41be506b9367246e2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771229135-0-0-c15d9daa95dbc098c65fb0510f299d0c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771230215-0-0-c385fca393a1de1e66ad1a655ce90271
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771229135-0-0-15d1664a4f13da0be5f6af42b70984c2
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771230215-0-0-b747d150f1567f7149b30214b07560bf
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260212/9b182880b3b6ff4bd6b0574ab8b13a56.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771229135-0-0-c3d5dcb59050dca54c830cc74eff1ec9
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771230215-0-0-a7946b5b749a454b20b86fe180ced7e7
 #EXTINF:1 group-title="RANDOM 1",[Volleyball League Women] 14h00 16/02 GS Caltex W vs Hyundai E&C Hillstate W [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
