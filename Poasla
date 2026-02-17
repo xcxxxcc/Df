@@ -892,87 +892,385 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771353001~acl=/*~id=42420711471440377710140685341343~hmac=c2ef5a3bce81f9c14343025f48d9b0e3e1866bf48412f85c95c436d3ecfe50e8|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; KM6; Build/QTT2.200903.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=88dfab93222e78f53e6686f5a3135833-1771329000411
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771353001~acl=/*~id=42420711471440377710140685341343~hmac=c2ef5a3bce81f9c14343025f48d9b0e3e1866bf48412f85c95c436d3ecfe50e8|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M546B; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=75f0d00504a183722d28d3c2573426e5-1771330200385
 #--- SONY END ---
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/42b81ad38998b602557933cdb171e48b-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. France (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/germany-vs-france-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1a316bb3d4bf4f9d4bb8ae0d2cb1c951-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Italy (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/switzerland-vs-italy-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a971a0ff6402a9a51638cd1b5f1e5ffb-thumbnail.jpg" group-title="PPV-LIVE",Women's Snowboard Slopestyle: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/snowboarding/womens-snowboard-slopestyle-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="PPV-LIVE",Men's Aerials: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/mens-aerials-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/870a0730618991566284cc2773820739-thumbnail.jpg" group-title="PPV-LIVE",Men's Large Hill: 10km Race
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/nordic-combined/mens-large-hill-10km-race
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 11
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/gold-zone-day-11
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c5c7675a77c104fd3219179c6959ca95-thumbnail.jpg" group-title="PPV-LIVE",Denmark vs. USA (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/denmark-vs-usa-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8180ded875d40e61302f2ca5594a1a1-thumbnail.jpg" group-title="PPV-LIVE",Italy vs. Japan (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/italy-vs-japan-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bccca3de3676b86000f567a85d677c45-thumbnail.jpg" group-title="PPV-LIVE",South Korea vs. Switzerland (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/south-korea-vs-switzerland-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Canada (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/sweden-vs-canada-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6ddb2e8552db2eb31fd67970bf3fc159-thumbnail.jpg" group-title="PPV-LIVE",Men's 4x7.5km Relay
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/biathlon/mens-4x75km-relay
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e7350409d57f3fad48a002df2fa7c83-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Team Pursuit Finals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/speed-skating/mens--womens-team-pursuit-finals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",Women's Short: Warm-Up
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/womens-short-warm-up
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce30f48e8f6b44d570fb120731571cdf-thumbnail.jpg" group-title="PPV-LIVE",Czechia vs. Denmark (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/czechia-vs-denmark-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",On USA: Women's Short (Part 1)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/on-usa-womens-short-part-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="PPV-LIVE",Two-Man Bobsled: Run 3
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-run-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f5b3c7a39939ff3a37550e2739de2a3-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. Great Britain (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/canada-vs-great-britain-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2f56cb28941109acfdc46849071842b6-thumbnail.jpg" group-title="PPV-LIVE",Germany vs. Switzerland (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/germany-vs-switzerland-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3d9b155e24771bb3332e6cccb710f6d-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Norway (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/sweden-vs-norway-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b57c77232d9dff561dcec979740f4b8e-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Italy (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/curling/usa-vs-italy-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ecf1ed8c3eee9ae9b39babb29dbaf9e1-thumbnail.jpg" group-title="PPV-LIVE",Men's Freeski Big Air: Final
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/freestyle-skiing/mens-freeski-big-air-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="PPV-LIVE",NBC: Women's Short (Part 2)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/figure-skating/nbc-womens-short-part-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="PPV-LIVE",Two-Man Bobsled: Final Run
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-final-run
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad3f80c2fa91181ece51302aad68fa14-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Latvia (M Playoff)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-17/hockey/sweden-vs-latvia-m-playoff
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0d8172f8d0acc0be3b85cf971a30080-thumbnail.jpg" group-title="PPV-LIVE",Xavier Musketeers vs. Louisville Cardinals (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/4929/4929-4929-4929
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/082152e02e2dd40f6de65f6ab40e7e2b-thumbnail.jpg" group-title="PPV-LIVE",Tulane Green Wave vs. UCLA Bruins (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/5640/5640-5640-5640
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9b36e4939de49b8f11f0d3c8756915d5-thumbnail.jpg" group-title="PPV-LIVE",Charleston Cougars vs. Coastal Carolina Chanticleers (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/3436/3436-3436-3436
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6472a8c79ca7a6a5ffa1460f995adee9-thumbnail.jpg" group-title="PPV-LIVE",Richmond Spiders vs. North Carolina Tar Heels (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/2169/2169-2169-2169
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/515eeddf5a6013f919d5e2d7cd5a0607-thumbnail.jpg" group-title="PPV-LIVE",UNC Asheville Bulldogs vs. Tennessee Volunteers (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/8495/8495-8495-8495
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1f0c1222db85a1c9a4e34b3f564c5fa1-thumbnail.jpg" group-title="PPV-LIVE",Morehead State Eagles vs. Kentucky Wildcats (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/5809/5809-5809-5809
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3816c384bb682c34e207989b12610d46-thumbnail.jpg" group-title="PPV-LIVE",Charlotte 49ers vs. Clemson Tigers (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/7174/7174-7174-7174
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0c83e64ac2ae263fe55ca087f89fecf-thumbnail.jpg" group-title="PPV-LIVE",Troy Trojans vs. Mississippi State Bulldogs (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/4985/4985-4985-4985
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/41ed4e14b9bffe3eca960ef4c64112ef-thumbnail.jpg" group-title="PPV-LIVE",High Point Panthers vs. Wake Forest Demon Deacons (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/2526/2526-2526-2526
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/df4253307ca3e46e2372d409da742564-thumbnail.jpg" group-title="PPV-LIVE",Lamar Cardinals vs. Texas Longhorns (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/2722/2722-2722-2722
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/108d352c23d502e5184f910749da2f15-thumbnail.jpg" group-title="PPV-LIVE",Georgia Tech Yellow Jackets vs. Georgia Southern Eagles (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/3478/3478-3478-3478
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bb43637be28173d4c81024a8cbefd655-thumbnail.jpg" group-title="PPV-LIVE",Florida State Seminoles vs. Jacksonville Dolphins (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/1847/1847-1847-1847
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e05e63fa8f0a22a254807dcffd4b8af3-thumbnail.jpg" group-title="PPV-LIVE",UCF Knights vs. Miami Hurricanes (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/9227/9227-9227-9227
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8231d85f0bf88f0c792276b4d54de8b-thumbnail.jpg" group-title="PPV-LIVE",Florida Gators vs. Stetson Hatters (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/2155/2155-2155-2155
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0fb3d3447786671e36d736d9fe9a1e3c-thumbnail.jpg" group-title="PPV-LIVE",Cincinnati Bearcats vs. Auburn Tigers (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/5387/5387-5387-5387
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b6f2572a226b78a1d767fcd9a77470f9-thumbnail.jpg" group-title="PPV-LIVE",Southern Miss Golden Eagles vs. SE Louisiana Lions (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/4921/4921-4921-4921
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7aabdb8a1c65facb4fdd6aa7db54b857-thumbnail.jpg" group-title="PPV-LIVE",Texas A&M-Corpus Christi Islanders vs. Texas A&M Aggies (Baseball)
+https://ppv2.168.us.kg/stream?uri=college-baseball/4158/4158-4158-4158
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="PPV-LIVE",New York Yankees vs. Baltimore Orioles
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/nyy-bal-4367
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Chicago Cubs
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/chw-chc-6429
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Colorado Rockies
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/ari-col-3756
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="PPV-LIVE",San Diego Padres vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/sd-sea-7626
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/851a7063ab627f7c32833f32f56baf7d-thumbnail.jpg" group-title="PPV-LIVE",Michigan Wolverines vs. Purdue Boilermakers (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/2048/2048-pur
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2b5088a6abcbef6ae202594896c98b8e-thumbnail.jpg" group-title="PPV-LIVE",South Carolina Gamecocks vs. Florida Gators (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/9214/9214-fla
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c723ccc5461ba21207ca8f603d48d0f5-thumbnail.jpg" group-title="PPV-LIVE",North Carolina Tar Heels vs. NC State Wolfpack (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/8830/8830-ncsu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6645e03eeb7a50b1183094df5495d699-thumbnail.jpg" group-title="PPV-LIVE",Saint Louis Billikens vs. Rhode Island Rams (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/7718/7718-uri
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4a1098b21c03f65e6df8410ef27f49e6-thumbnail.jpg" group-title="PPV-LIVE",Louisville Cardinals vs. SMU Mustangs (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/1041/1041-smu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1ac4e982da3300ab5655de6973669568-thumbnail.jpg" group-title="PPV-LIVE",Miami (OH) RedHawks vs. Massachusetts Minutemen (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/9438/9438-mass
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5e54e592df60025b2835139f134d92d1-thumbnail.jpg" group-title="PPV-LIVE",UCLA Bruins vs. Michigan State Spartans (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/1039/1039-msu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/564521536fc079da3c89d98191f29f3c-thumbnail.jpg" group-title="PPV-LIVE",Wisconsin Badgers vs. Ohio State Buckeyes (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/9257/9257-osu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/846f8556d8417bb8e6739dfa59d6c0ac-thumbnail.jpg" group-title="PPV-LIVE",Nebraska Cornhuskers vs. Iowa Hawkeyes (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/1390/1390-iowa
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8b04b762b0e2c281a649e90f99333277-thumbnail.jpg" group-title="PPV-LIVE",Texas Tech Red Raiders vs. Arizona State Sun Devils (Basketball)
+https://ppv2.168.us.kg/stream?uri=cbb/2185/2185-asu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 1
+https://ppv2.168.us.kg/stream?uri=players-championship-board-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 2
+https://ppv2.168.us.kg/stream?uri=players-championship-board-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 3
+https://ppv2.168.us.kg/stream?uri=players-championship-board-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 4
+https://ppv2.168.us.kg/stream?uri=players-championship-board-4
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9d30ec040e29777e2aff127a80688896-thumbnail.jpg" group-title="PPV-LIVE",Galatasaray vs. Juventus
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-17/gal-juv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f0863f2a99f7b348faa48ccd2fea15ba-thumbnail.jpg" group-title="PPV-LIVE",Monaco vs. Paris
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-17/mon-psg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2b1324d86527129d588b9cd56a4c7117-thumbnail.jpg" group-title="PPV-LIVE",Benfica vs. Real Madrid
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-17/ben-rma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/378a3e6879b64bc34bc4cd512c777a2b-thumbnail.jpg" group-title="PPV-LIVE",B. Dortmund vs. Atalanta
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-17/bvb-ata
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d8d27d0b0ea59c4d2d1eee5dd1a9d9b6-thumbnail.jpg" group-title="PPV-LIVE",Qarabağ vs. Newcastle
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-18/qar-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/effe76d1da950d61688c2db9271133f0-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Villarreal
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-18/lev-vil
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a583257ace5ab5b990634d3a411794e2-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Como
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-18/mil-como
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb25a309401af9193697ac064e9951aa-thumbnail.jpg" group-title="PPV-LIVE",Wolverhampton Wanderers vs. Arsenal
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-18/wol-ars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9e1df0e8a42522952654bf65a28f0c4f-thumbnail.jpg" group-title="PPV-LIVE",Olympiacos vs. Leverkusen
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-18/oly-lev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/77131510a9e53bd17e82e84f2f853462-thumbnail.jpg" group-title="PPV-LIVE",Bodø/Glimt vs. Inter
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-18/bod-int
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/01e49b58173bea1d4fd94cd5636c3fcf-thumbnail.jpg" group-title="PPV-LIVE",Club Brugge vs. Atleti
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-18/bru-atm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="PPV-LIVE",GNK Dinamo vs. Genk
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/din-gen
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="PPV-LIVE",PAOK vs. Celta
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/paok-clt
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/689683e59432342c57086279124dbe06-thumbnail.jpg" group-title="PPV-LIVE",Brann vs. Bologna
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/brn-bol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5fdf81cf2371db4424413c171fbf9c62-thumbnail.jpg" group-title="PPV-LIVE",Fenerbahçe vs. Nott'm Forest
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/fen-nfo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c85ae60e2e1a70970c89adb10eed2992-thumbnail.jpg" group-title="PPV-LIVE",KuPS Kuopio vs. Lech Poznań
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/kup-lpo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d647071ee3225c7fef4eda812aefd4d2-thumbnail.jpg" group-title="PPV-LIVE",Noah vs. AZ Alkmaar
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/noa-az
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8e83a4837c569c5c26d2817feaad20dc-thumbnail.jpg" group-title="PPV-LIVE",Zrinjski vs. Crystal Palace
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/zri-cry
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44a2b06f28f5c4f3cc04b3377b965ee0-thumbnail.jpg" group-title="PPV-LIVE",Sigma Olomouc vs. Lausanne-Sport
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/sig-lau
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="PPV-LIVE",Ludogorets vs. Ferencváros
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lud-fer
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="PPV-LIVE",Panathinaikos vs. Viktoria Plzeň
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/pan-plz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Crvena Zvezda
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lil-zve
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="PPV-LIVE",Celtic vs. Stuttgart
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/cel-stu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="PPV-LIVE",Jagiellonia vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/jag-fio
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="PPV-LIVE",Shkëndija vs. Samsunspor
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/skn-sam
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="PPV-LIVE",Drita vs. Celje
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/dri-clj
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="PPV-LIVE",Omonoia vs. Rijeka
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/omo-rij
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="PPV-LIVE",Mainz vs. Hamburg SV
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-20/m05-hsv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Hellas Verona
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-20/sas-ver
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c19e46f3b29dd72e702cabe22e51dea-thumbnail.jpg" group-title="PPV-LIVE",Brest vs. Marseille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-20/bre-olm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d9c316794ec15c7d04375e30aa39f526-thumbnail.jpg" group-title="PPV-LIVE",Athletic Club vs. Elche
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-20/ath-elc
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="PPV-LIVE",Real Sociedad vs. Real Oviedo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/rso-ovi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/179cbfd68e77bf9e1d6c735b0f4e88b4-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Como
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/juv-como
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/63a5082dc4d83bfaa185b6605884ab19-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Bayer Leverkusen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/fcu-b04
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3af0d2bb9db955fc4773b966325bfd9-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. Eintracht Frankfurt
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/mun-sge
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/52f94f7b56c6a3a233bb5055c178eef4-thumbnail.jpg" group-title="PPV-LIVE",FC Cologne vs. TSG Hoffenheim
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/koe-tsg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86e09f7d4ea69cd98b4b26926dd93e0e-thumbnail.jpg" group-title="PPV-LIVE",VfL Wolfsburg vs. FC Augsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/wob-fca
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d1058cc31ece80bb4e6d76c61f510efa-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Leeds United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/avl-lee
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e03e3f28b7be4f2797cafcc49a05eeb9-thumbnail.jpg" group-title="PPV-LIVE",Brentford vs. Brighton & Hove Albion
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/bre-bha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad68bfae2a76a83fbecb8df178303cbf-thumbnail.jpg" group-title="PPV-LIVE",Chelsea vs. Burnley
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/che-bur
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f61e5da43352a525b3c7087d647648c3-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Rayo Vallecano
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/bet-ray
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a19f7658e4f8938ebbc8938b67f137f0-thumbnail.jpg" group-title="PPV-LIVE",Lens vs. AS Monaco
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/rcl-mon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/733bb0d372fc047931b40be498ab5240-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Inter Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/lec-int
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d48af3c4be9617ae19891d27b07393ff-thumbnail.jpg" group-title="PPV-LIVE",Osasuna vs. Real Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/osa-rma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ea5e5ed4734a8298fddbc20f1bf96537-thumbnail.jpg" group-title="PPV-LIVE",RB Leipzig vs. Borussia Dortmund
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/rbl-dor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b102e5ca9e5e1a748886ef24b48e3e8c-thumbnail.jpg" group-title="PPV-LIVE",West Ham United vs. AFC Bournemouth
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/whu-bou
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/502b92c27e6e407cf06ca34b7d8b7aac-thumbnail.jpg" group-title="PPV-LIVE",Toulouse vs. Paris FC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/tou-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb62d504d9e55e1b347e8816db33a241-thumbnail.jpg" group-title="PPV-LIVE",Cagliari vs. Lazio
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/cag-laz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0da27927e56c9430226abe77806e7af-thumbnail.jpg" group-title="PPV-LIVE",Atlético Madrid vs. Espanyol
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/atm-esp
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b9394975fea3f55a8aafa90ecd722ba7-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Newcastle United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/mnc-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36b13aa93f943b500c176b7a7a7e29d2-thumbnail.jpg" group-title="PPV-LIVE",Paris Saint-Germain vs. Metz
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/psg-metz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Torino
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/gen-tor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Sevilla
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/get-sev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Wolverhampton Wanderers
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/cry-wol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/68b21c458e09ee7fe1defb15ea0596a4-thumbnail.jpg" group-title="PPV-LIVE",Nottingham Forest vs. Liverpool
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/nfo-liv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/712ffa72750b26562bb599feeab50251-thumbnail.jpg" group-title="PPV-LIVE",Sunderland vs. Fulham
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/sun-ful
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f17742c3fa4de3d37de2e684f7441ae3-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Napoli
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/ata-nap
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b2905183a06b5a8220a0d5805a3081cb-thumbnail.jpg" group-title="PPV-LIVE",AJ Auxerre vs. Stade Rennais
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/aux-ren
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Borussia Mönchengladbach
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/scf-bmg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="PPV-LIVE",Barcelona vs. Levante
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/bar-lev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="PPV-LIVE",Angers vs. Lille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/ang-lill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/624320d23dcd5a7ac088008dc719f772-thumbnail.jpg" group-title="PPV-LIVE",Nantes vs. Le Havre AC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nan-hac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5330adb8eaef8d3d1b3dabddabce5a66-thumbnail.jpg" group-title="PPV-LIVE",Nice vs. Lorient
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nice-lor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e513d2a509058b4cc6d9a098a6cb4848-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. Werder Bremen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/stp-svw
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86105006784518af4b6d61473be85d55-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Arsenal
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/tot-ars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/79ab80591c24035b5ca90b9a7182a5ae-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Parma
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/mil-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cf386ecddb265fce8781650ebff7606a-thumbnail.jpg" group-title="PPV-LIVE",Celta Vigo vs. Mallorca
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/cel-mll
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9febd8dccf2fc5cb07a2e58721641960-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. VfB Stuttgart
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/hdh-vfb
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86278b4184030c508715910509c46bb5-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Cremonese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/roma-cre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cd26d88c1a1a0697bc723787ca21a9eb-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lyon
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/str-lyon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8e8933279b6b0a238f5a7a67dba26ac-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Valencia
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/vil-val
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f881d49c21040219f7041c39004dc79c-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Pisa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/fio-pis
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Udinese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/bol-udi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="PPV-LIVE",Alavés vs. Girona
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-23/ala-gir
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="PPV-LIVE",Everton vs. Manchester United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-23/eve-man
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1579f134cd9dd96fad9cc7e4be79cb16-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 1
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPV-LIVE",WWE: NXT
+https://ppv2.168.us.kg/stream?uri=wwe/nxt/2026-02-17
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPV-LIVE",AEW: Wednesday Night Dynamite
+https://ppv2.168.us.kg/stream?uri=aew/dynamite/2026-02-18
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact
+https://ppv2.168.us.kg/stream?uri=tna/impact/2026-02-19
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-20
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-21
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Football Club Seoul vs Sanfrecce Hiroshima lúc 18:52 WIB 17/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/f84835e501733d2407f194825236822b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Football Club Seoul vs Sanfrecce Hiroshima lúc 18:52 WIB 17/02/2026 [FLV]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/69943ad3fe262_42127.flv?expire=1771926867&sign=fab6ff5724762924404e23da6ee2b0f0
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Football Club Seoul vs Sanfrecce Hiroshima lúc 18:52 WIB 17/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/69943ad3fe262_42127/index.m3u8?expire=1771926867&sign=fab6ff5724762924404e23da6ee2b0f0
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Machida Zelvia vs Chengdu Rongcheng FC lúc 18:52 WIB 17/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/8b5db703fe7dd436bcd919108a6ee1e4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Machida Zelvia vs Chengdu Rongcheng FC lúc 18:52 WIB 17/02/2026 [FLV]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/69943b17fe262_85514.flv?expire=1771926935&sign=7900e2e475920fc93dfd8275df89f994
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League Elite] Machida Zelvia vs Chengdu Rongcheng FC lúc 18:52 WIB 17/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/69943b17fe262_85514/index.m3u8?expire=1771926935&sign=7900e2e475920fc93dfd8275df89f994
-#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Echargui M. vs Tsitsipas S. lúc 18:52 WIB 17/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Echargui M. vs Tsitsipas S. lúc 19:08 WIB 17/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699435a726633_110198.flv?expire=1771925543&sign=905b3ef3695e62ef4c37080211cc8462
-#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Echargui M. vs Tsitsipas S. lúc 18:52 WIB 17/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Echargui M. vs Tsitsipas S. lúc 19:08 WIB 17/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699435a726633_110198/index.m3u8?expire=1771925543&sign=905b3ef3695e62ef4c37080211cc8462
-#EXTINF:1 group-title="RANDOM 1",[Algeria Women's League] CF AkbouWomen vs CEA Setif (W) lúc 18:52 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Algeria Women's League] CF AkbouWomen vs CEA Setif (W) lúc 19:08 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/73ed89a7dfdeb6fac810744709e9c0c1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 18:52 WIB 17/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 19:08 WIB 17/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9574bdffab4ea50dc264b2f4eea01623/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 18:52 WIB 17/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 19:08 WIB 17/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69944a6c26633_28.flv?expire=1771930860&sign=0e3071e6e0a3fa606214bdc1339de5de
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 18:52 WIB 17/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Atakas Hatayspor vs Iğdır FK lúc 19:08 WIB 17/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69944a6c26633_28/index.m3u8?expire=1771930860&sign=0e3071e6e0a3fa606214bdc1339de5de
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/10632_1j7wcx8zak1g.png",18h00 WIB 17/02 Chanthaburi FC vs JL Chiangmai United FC (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/10632_1j7wcx8zak1g.png",18h00 WIB 17/02 Chanthaburi FC vs JL Chiangmai United FC (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/635_1gxsf6qjyq26.png",17h00 WIB 17/02 FC Seoul vs Hiroshima Sanfrecce (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/635_1gxsf6qjyq26.png",17h00 WIB 17/02 FC Seoul vs Hiroshima Sanfrecce (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1",[International Friendly] Netherlands U16 vs Japan U16 lúc 19:08 WIB 17/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/9566b8603ceaa5e1a41cc7ae3036aa1e/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5086_1hm7w4fm47g.png",18h30 WIB 17/02 Hatayspor vs 76 Igdir Belediye spor (Lương Sơn) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5086_1hm7w4fm47g.png",18h30 WIB 17/02 Hatayspor vs 76 Igdir Belediye spor (Lương Sơn) BLV TẦN CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/635_1gxsf6qjyq26.png",17h00 WIB 17/02 FC Seoul vs Hiroshima Sanfrecce (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/10632_1j7wcx8zak1g.png",18h00 WIB 17/02 Chanthaburi FC vs JL Chiangmai United FC (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/635_1gxsf6qjyq26.png",17h00 WIB 17/02 FC Seoul vs Hiroshima Sanfrecce (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/10632_1j7wcx8zak1g.png",18h00 WIB 17/02 Chanthaburi FC vs JL Chiangmai United FC (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/12617_1gq95bs2xg19.png",19h00 WIB 17/02 Bangkok FC vs Phrae United FC (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/12617_1gq95bs2xg19.png",19h00 WIB 17/02 Bangkok FC vs Phrae United FC (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7312c594f7ce1691b46f829721204fc4/image/small?v=1768601124",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9574bdffab4ea50dc264b2f4eea01623/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/85a0823ffb660e92058d8a0e382c03f1/image/small?v=1768601124",18h00 WIB 17/02 CF AkbouWomen vs CEA Setif (W) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/73ed89a7dfdeb6fac810744709e9c0c1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2f2ce8beed3d4962c2e6725e85061054/image/small?v=1768601124",14h25 WIB 17/02 Barabai FC vs Persemar Martapura (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/550ee51d694fb3f567ab12a6b8f2ee4b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9b010996b77f97fab16acdb4fcd553d9/image/small?v=1768601124",14h00 WIB 17/02 PS Badung vs MIFA (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aafd929938edcdcf92af53496a7622ca/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/00d5a31f34d7424a9864b805aa7f2327/image/small",14h30 WIB 17/02 Almaty Women vs Aktobe Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a667cde010c34d71cf3610852c2d0843/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/64ef16a1dbef724463142593cc3ef562/image/small?v=1768601124",16h00 WIB 17/02 JF KhroubWomen vs US Biskra Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1037,78 +1335,6 @@ https://live.alilicloud.com/live/0695a66e41bb5a25107f11ef23b1ca67/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/fe97ba5f4749da6ace403bd3510e3053/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e7c377349d2fdd0676dab19cbd920a23/image/small?v=1768601124",13h00 WIB 17/02 Persigubin Pegunungan Bintan vs  (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8eca3d68f7c5ed5b759a1a119068dd5c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7312c594f7ce1691b46f829721204fc4/image/small?v=1768601124",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9574bdffab4ea50dc264b2f4eea01623/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/85a0823ffb660e92058d8a0e382c03f1/image/small?v=1768601124",18h00 WIB 17/02 CF AkbouWomen vs CEA Setif (W) (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/73ed89a7dfdeb6fac810744709e9c0c1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2f2ce8beed3d4962c2e6725e85061054/image/small?v=1768601124",14h25 WIB 17/02 Barabai FC vs Persemar Martapura (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/550ee51d694fb3f567ab12a6b8f2ee4b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9b010996b77f97fab16acdb4fcd553d9/image/small?v=1768601124",14h00 WIB 17/02 PS Badung vs MIFA (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aafd929938edcdcf92af53496a7622ca/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/00d5a31f34d7424a9864b805aa7f2327/image/small",14h30 WIB 17/02 Almaty Women vs Aktobe Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a667cde010c34d71cf3610852c2d0843/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125845_a85b426e.png",18h30 WIB 17/02 Hatayspor vs 76 Iğdır Belediyespor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1357,6 +1583,14 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7312c594f7ce1691b46f829721204fc4/image/small?v=1768601124",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9574bdffab4ea50dc264b2f4eea01623/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/85a0823ffb660e92058d8a0e382c03f1/image/small?v=1768601124",18h00 WIB 17/02 CF AkbouWomen vs CEA Setif (W) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/73ed89a7dfdeb6fac810744709e9c0c1/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/64ef16a1dbef724463142593cc3ef562/image/small?v=1768601124",16h00 WIB 17/02 JF KhroubWomen vs US Biskra Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1365,30 +1599,6 @@ https://live.alilicloud.com/live/2e1b2694178cca41f5de67e980e47376/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8b5db703fe7dd436bcd919108a6ee1e4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/644f3795746b45dcab554c44bea1493f_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/644f3795746b45dcab554c44bea1493f_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/644f3795746b45dcab554c44bea1493f_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/644f3795746b45dcab554c44bea1493f_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/644f3795746b45dcab554c44bea1493f_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/39dc0c5c8baad7baa02af0c773e9d2e0/image/small?v=1768601124",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/644f3795746b45dcab554c44bea1493f_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6638476ac3ec9f0b74fb0283a59e904f/image/small?v=1768601124",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1421,334 +1631,6 @@ https://live8.fastestcdn-global.com/live8/f92e1fc8e5da444abe28c3ea9cb34581_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f84835e501733d2407f194825236822b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/c9191e3b6b474c859540ddf2a416f6c0_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/c9191e3b6b474c859540ddf2a416f6c0_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/c9191e3b6b474c859540ddf2a416f6c0_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/c9191e3b6b474c859540ddf2a416f6c0_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/c9191e3b6b474c859540ddf2a416f6c0_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 WIB 17/02 Football Club Seoul vs Sanfrecce Hiroshima (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/c9191e3b6b474c859540ddf2a416f6c0_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/093e8319bfbb7fca272a20d50ff148ec/image/small",15h00 WIB 17/02 Choco Mucho Flying Titans Women vs Capital1 Solar Spikers Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fe97ba5f4749da6ace403bd3510e3053/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7312c594f7ce1691b46f829721204fc4/image/small?v=1768601124",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9574bdffab4ea50dc264b2f4eea01623/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/85a0823ffb660e92058d8a0e382c03f1/image/small?v=1768601124",18h00 WIB 17/02 CF AkbouWomen vs CEA Setif (W) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/73ed89a7dfdeb6fac810744709e9c0c1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d503b3b827871d441b072439d857978a/image/small?v=1768601124",15h00 WIB 17/02 Sydney FC vs Auckland FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0695a66e41bb5a25107f11ef23b1ca67/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771332095-0-0-8f67d4130256a95f4cd14b5b7c4f9c83
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771332095-0-0-339d8933a362e0e0aa796c3e2f4e7df7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771332095-0-0-1bad17c44d96857fb07c517fc67b0927
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771332095-0-0-107b1ca88ab921ac177ae834c515f7f5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771332095-0-0-c67ac4f79d201c2e8bdee4cb48f36fb9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771332095-0-0-6e84984d7f12430d3bcfa6389de03367
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771332095-0-0-2edf72dbd022606bdbe54c4f26e096ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771332095-0-0-17cd89e849ac53452cd5400dd96f7ca1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771332095-0-0-6b7e98498648df0b15fbed9a5b536973
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771332095-0-0-e62e6f2fbfd38d7c0ced55539053b511
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771332095-0-0-7c2ff32d05538ec542b782a867543b36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771332095-0-0-e7f0d5f7c27db4f044e28a9d3ca76c6b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=fc36bf36d7563dd539b90a81c361da06&txTime=6994a84f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=7c7854bc93d47702e5b47426cd78978c&txTime=6994a84f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=fc36bf36d7563dd539b90a81c361da06&txTime=6994a84f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=7c7854bc93d47702e5b47426cd78978c&txTime=6994a84f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771332095-0-0-5b8874721aa69e6632eae25b10a8afdc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771332095-0-0-e96e6d264c8209ec7af226928e8bd289
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771332095-0-0-5156c796826a145906cf749dc9a49390
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771332095-0-0-c8f868c3124223340bcde945c324eceb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771332095-0-0-38967e99e98767da39ce909b11cd68d1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771332095-0-0-60185c712dbef2701c978ec237c9f3ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771332095-0-0-cefaa41b685f0749449ef0979a24e7b8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771332095-0-0-c82d22b883d32f1fa2fa38f521fc2354
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771332095-0-0-b6befbe508acdfcbca30ad9d405490fb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771332095-0-0-029ac2d47a7dc1234677222665c22447
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771332095-0-0-9cd9ab7fac3415fdd94dc60bdda62390
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771332095-0-0-847fde44c55e7cf03dda21b35651a953
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771332455-0-0-ae44a3726c8d848a40ad6ae6af0b3833
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771332455-0-0-e9c70815de60c57ab80d6a20e1fa987c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771332455-0-0-0c5b53c37f094e410c71da5ba11252df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771332455-0-0-393ae3933d3a11f7785a6aee8f8dc45a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1771332455-0-0-a349387dc096f4a29c7a321b9bcef813
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1771332455-0-0-5182bfbb6977c1699704b51fd2c00d79
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771332455-0-0-f685d43758e40077052cbcd9ecce558c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771332455-0-0-6ebcbd4ea4a67d8d34937fbc4c6e37be
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=12a1ccdbf24cf970f457ee210b870470&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=04eebe476f1a4a74d58ff31a1696379d&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=12a1ccdbf24cf970f457ee210b870470&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=04eebe476f1a4a74d58ff31a1696379d&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771332455-0-0-cd52725c5c3f1d3c15691b932d88ea89
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771332455-0-0-0fb3515f6e1f460e9a54ec2b4e309319
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771332455-0-0-73bdfbe1831e27220a46bdd0f7f162af
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771332455-0-0-c113f0919a95c4f5289827740c312d0d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771332455-0-0-4eddf4175a53399110f4bc4928d0c1af
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771332455-0-0-5bc24adf7bfc24ae9056a2518c3546b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771332455-0-0-7ec0059db2e1ab1cb5f40f010734c63a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771332455-0-0-85bb28c2d773597f8a8bb406832d183b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=ac2c7f51e5a607da8cd548e8d8ed52dc&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=13bce01025c0cb2dcb60975394001563&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=ac2c7f51e5a607da8cd548e8d8ed52dc&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=13bce01025c0cb2dcb60975394001563&txTime=6994a9b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771332455-0-0-313efedd4c44653387367df906a44aeb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771332455-0-0-10a35f7613a56c6bce29aa6b0b27ca9b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771332455-0-0-e4ec31308129c7a6dd60962c862cd27a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771332455-0-0-dd1b4b57754b994882619e39145b161c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771332455-0-0-1a163ef7bd7974c196b53e78e9c39867
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771332455-0-0-304d2f679c44b68683c35f5d42585340
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771332455-0-0-74f52596576734121a08ff4dd5367978
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771332455-0-0-74322581dccb8475892062223f75af21
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1771332455-0-0-dae77c8f196e2e4cbdd4fb6edf73859e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1771332455-0-0-8a3cfc5d59b8f3fa3bc4146e12707ff9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771332455-0-0-f9013acae55f4a552f8a3f749d544602
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771332455-0-0-206009dba9e84b43d868d4c04cdade2f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771332467-0-0-4f5193c117936cf6066826fa90b7cf69
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771332467-0-0-f49bc0a86477b934e7d8f8729ae73224
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771332467-0-0-475b9378a2c3271e15fb1d2bd180a5d3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771332467-0-0-69ea97506404d5ae63dfe540be14dac3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=48853b514b70034715a6263436e21868&txTime=6994a9c6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=a54d950652b2f26e9c1d7d448f2c72f5&txTime=6994a9c6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=48853b514b70034715a6263436e21868&txTime=6994a9c6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=a54d950652b2f26e9c1d7d448f2c72f5&txTime=6994a9c6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1771332455-0-0-4c64230d24629acf36fd6d4aa0a0849e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1771332455-0-0-6c1b190635ce9dae1e3f08b719a30979
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1771332455-0-0-8a7c62bc7307f7f36054aef59b411560
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1771332455-0-0-9fbf04465eb0902a2cdd2fc3d583bbec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771332455-0-0-c69f63093f76082e9f947723dd3cb7fd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771332455-0-0-7813c84ce94b92e27fd9cb070fc6a2db
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771332455-0-0-40b54b4a92b4f24c16a0e1098c638b5d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771332455-0-0-26ab553cce74a39c2405457d30d3c1a5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1771332455-0-0-6f3d603f694d32a5047f526c89e8a2d0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1771332455-0-0-a149547a38c6286c66230a79b748be99
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1771332455-0-0-846ec468d112f3a038586f67ccd0c3b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1771332455-0-0-8ab056e1fdad9785ad43f7d7649417e8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771332455-0-0-6ab589518e7b0221ca50beac2afbee84
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771332455-0-0-d4675734bf50c48a16f4359b87831448
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771332455-0-0-b53eef18fe35f02738467cb63f42ae63
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771332455-0-0-fca30879bc0d2480072b60b1234c248c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771332455-0-0-99cb4677c298510334d40820a4ade8ef
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771332455-0-0-2669f4a3a3966075205bb6007cb60915
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771332455-0-0-a88a71ef310b665b807b0ca0adb071c9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771332455-0-0-a10e3e470d27b38aae5938ad225c8402
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV XAVI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=a8bd04d10d00a3b522dfdd373ddcd5f6&txTime=6994ab1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV XAVI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=8df46ec53044fc299398e43493c04d6c&txTime=6994ab1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV XAVI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=a8bd04d10d00a3b522dfdd373ddcd5f6&txTime=6994ab1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fe185cd80ce5c582aae1777ba01eaa17.png",17h00 WIB 17/02 FC Seoul vs Sanfrecce Hiroshima [BLV XAVI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=8df46ec53044fc299398e43493c04d6c&txTime=6994ab1f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1771332815-0-0-d59ab0353274de5e3d9d404d0d81c2a2
@@ -1773,18 +1655,222 @@ https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=e5f7871e4c2db09e852
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=7e6af4ebf39073a45d8e6c0f73ee7e56&txTime=6994ab1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",17h00 17/02 Machida Zelvia vs Chengdu Better City (Hội Quán) FULL HD 
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",17h00 17/02 Machida Zelvia vs Chengdu Better City (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771333175-0-0-a1a3f176db3b89318d621c127dae874e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",17h00 17/02 Machida Zelvia vs Chengdu Better City (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771333175-0-0-5522a3bc61405b6f10b03edec681eabc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771333175-0-0-cd439113750d047bbcdae6256dff6e71
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771333175-0-0-3e268fa977ba2a6f449c3451df26ec56
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771333175-0-0-6662e705f97fe61624df73af02178144
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771333175-0-0-b5221c06cba5bf2a2484f73fe087b749
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771333175-0-0-b9890d0e275babe62ff6fa41662d1506
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771333175-0-0-5563378983efeef5b5e0a93fa307bced
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771333175-0-0-1741e8eb0f122764dd8519e1f35ad44e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771333175-0-0-4c317cba04dfec0b5ec70cf34d8bd996
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771333175-0-0-ab7adbcb9954646a928c010f33ebc668
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771333175-0-0-73feb2af68b000394d32019ac4874a82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771333175-0-0-7ec8aa46ae872319782a1b80b075a80d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771333175-0-0-c40cbae271c95cfa0c5a0a22166ddbc9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771333175-0-0-293dd6599617f85549413dc6fc62935b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771333175-0-0-b142f62cda912767db63da9662298ba6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771333175-0-0-c3b48768f149e274164176bcd14898a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771333175-0-0-f844298b96e1abff7515ee2718c4f3fc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771333175-0-0-3d61c0d5739516c2922b28db96d12b87
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/b1a66f41b859986b791cc59cd3dac422.png",17h00 WIB 17/02 Machida Zelvia vs Chengdu Rongcheng FC [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771333175-0-0-564645aed6d153b1971d83427fc024d6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771333175-0-0-87d4864d120068ec101c1318ab467477
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771333175-0-0-650ef18ed4e2a76e8de1c3bad9858023
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771333175-0-0-c95b5e1eedde9cdaea0fd10fe4d1348d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771333175-0-0-c859d0427f25c0809d1730ad36c9517d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771333175-0-0-64f95e66b0ef1effc2b0739750994e33
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771333175-0-0-e2d6171f23f91396b3c774d998b2f46e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771333175-0-0-b98da88a13bfb043bcd56f7def70fd39
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771333175-0-0-f27168a9814ec6241c4b552d2e09846d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771333175-0-0-562ae1ed49e97dd86c9cfb57af163f74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771333175-0-0-ecd9538290c957ec2465a0a660d10e00
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771333175-0-0-46d651e65e8a7c08dfedfede553211d0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260213/b485ccd3c4070257d0a3cc0d72520497.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771333175-0-0-2b16eb97f840a3d2b0f8261dfa0d81ae
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771333535-0-0-26f47c622b00dff2c6d85716012ea42f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771333535-0-0-343172f3bc2a8c6ccb432c60c41110d9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771333535-0-0-a94cbe117b1d3163701a850045cb18a3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771333535-0-0-0e3643508b9b2694575c240db116b51c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1771333535-0-0-f8cad96f17a2c5d4ca28142fff746f5d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1771333535-0-0-77eb5566d1cb5d815414c13a29033f6f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771333535-0-0-7bc8fa5fbf4639ca4269ac6f8ca34772
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771333535-0-0-a56f5dc34846d51030719d8305cf2ae2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771333535-0-0-b80b75be487214085353584d78fda965
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771333535-0-0-99482e85f33e31c917e7975795213a2e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771333535-0-0-4655e6300fe2360686b3c4f2139ee7be
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771333535-0-0-75463abf8bb1a2f1938c5a3f84bd3035
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=0452ff2c05f6ce9d6b55643a08d904c0&txTime=6994adef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=20f6fae689594f2dd541f43b38543466&txTime=6994adef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=0452ff2c05f6ce9d6b55643a08d904c0&txTime=6994adef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=20f6fae689594f2dd541f43b38543466&txTime=6994adef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771333535-0-0-18fa0f44de2b72e85867e6b66fcf5298
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771333535-0-0-a9ec03fd04d9399eafe0b4cc2ebfd7a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771333535-0-0-4a8dc6bf4639e77d1c04cb9347a5a836
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/7a239a1116d59d612fe5ae464c2a3afa.png",19h15 WIB 17/02 Johor Darul Ta'zim FC vs Vissel Kobe [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771333535-0-0-a6ee6193457ee45aa42c10e7d24a6d90
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1771333535-0-0-0cd31a6c7021b5476db4de622303ad49
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1771333535-0-0-486d4784ef73dd53f895ec32971785ce
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1771333535-0-0-ce5c3896266a763eccb167c5ae17a04c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1771333535-0-0-f68da52b31db5382c20f08d309838d21
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771333535-0-0-9198e2973f43cfcbe36c092ad0c79150
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771333535-0-0-203188b31bdee3c5d60e0c91e44e48c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771333535-0-0-a5f05f86ff9aa6f832230764fddb0655
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771333535-0-0-616bdb8a8b0b2dcd968464aa446cc97b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771333535-0-0-e67a21a88bb9ebb006d918d6ae935bbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771333535-0-0-09f46ff356b3c28f8c8e0556dcc832e5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771333535-0-0-ec54b9636ca0dde24fddb61b6bdd0620
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1cac5ea1635babe3b93307206d5079c2.png",18h30 WIB 17/02 Atakas Hatayspor vs Iğdır FK [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771333535-0-0-648547ef98370adc88b39495ade51f86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771333535-0-0-1ee32a784208846bb611c9a6c8a88243
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771333535-0-0-b639bbf506c6e621bed92423d3c29b55
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771333535-0-0-3d393b1c7b8c31979c8982eee955c24e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/1df2ea9fe331ec53dfe00587fefe316a.png",19h15 WIB 17/02 Buriram United vs Shanghai Shenhua FC [BLV EDRIC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771333535-0-0-2b9174aeb4bdc02840b3da4751c0351c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771333535-0-0-5ad757be811711094a52dfeb7906730f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771333535-0-0-c1f28a0bcd4cf5d28450bee82f838917
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771333535-0-0-5ccdaa0b62107bd2677daf8ff1f34b1b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260215/fa98cb9c8acd94ae396c262dfbf8fc6c.png",19h30 WIB 17/02 Enisey vs Saratov [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771333535-0-0-ac20200bad16d9e88c885c6abc558a53
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2523.png",19h15 17/02 Johor Darul Takzim FC vs Vissel Kobe (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1797,48 +1883,30 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",17h00 17/02 Machida vs Chengdu Rongcheng
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",17h00 17/02 Seoul vs Sanfrecce Hiroshima
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png!w80",18h30 17/02 Hatayspor vs Igdir FK
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 FC Seoul vs Sanfrecce Hiroshima [FHD]
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 19h15 17/02 Buriram United vs Shanghai Shenhua [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 FC Seoul vs Sanfrecce Hiroshima [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 19h15 17/02 Buriram United vs Shanghai Shenhua [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 FC Seoul vs Sanfrecce Hiroshima [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 19h15 17/02 Buriram United vs Shanghai Shenhua [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 Machida Zelvia vs Chengdu Better City [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_full-hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 Machida Zelvia vs Chengdu Better City [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League] 17h00 17/02 Machida Zelvia vs Chengdu Better City [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 17h00 17/02 Chanthaburi vs Chiangmai United [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 19h15 17/02 Chanthaburi vs Chiangmai United [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 17h00 17/02 Chanthaburi vs Chiangmai United [HD]
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 19h15 17/02 Chanthaburi vs Chiangmai United [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 17h00 17/02 Chanthaburi vs Chiangmai United [SD]
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 19h15 17/02 Chanthaburi vs Chiangmai United [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_sd.m3u8
@@ -2434,54 +2502,6 @@ https://live5.msrktz.app/live/14830711.m3u8
 #--- RANDOM 1 END ---
 
 #--- RANDOM 2 START ---
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png",17h00 ngày 17/02 FC Seoul vs Sanfrecce Hiroshima (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132416_e9d110f2.png",17h00 ngày 17/02 Machida Zelvia vs Chengdu Better City (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125845_a85b426e.png",18h30 ngày 17/02 Hatayspor vs 76 Iğdır Belediyespor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
