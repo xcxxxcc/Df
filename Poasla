@@ -1998,6 +1998,11 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771525811~acl=/*~id=0af425b5bd17547143b4976854f91154-1771482600281~hmac=01d8e81a0f028dfcbd1a61a1ced6e99233937e98589cc87574660771736009b2|User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; MiTV4A; Build/MHC19J)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0accd26eb3116b603930b7d4b440b108-1771499550591
@@ -2009,199 +2014,430 @@ https://sonymtmnew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8?hdne
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f9659f16e09f3ff14cdb033da0f4ba15-thumbnail.jpg" group-title="PPV-LIVE",China vs. Germany (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/china-vs-germany-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="PPV-LIVE",Italy vs. Switzerland (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/italy-vs-switzerland-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9fba4687aaef33bf29a9d7bdc726ea2b-thumbnail.jpg" group-title="PPV-LIVE",Norway vs. Canada (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/norway-vs-canada-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15efc79bf71680cfecbe167aede66b3e-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Czechia (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/sweden-vs-czechia-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0a435cf3f789dea425b606434fc69b9f-thumbnail.jpg" group-title="PPV-LIVE",Men's Freeski Halfpipe: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/freestyle-skiing/mens-freeski-halfpipe-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d7a4484e181f824c29479f2cc32fdb94-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Sprints: Finals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 13
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/gold-zone-day-13
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Training
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/bobsled/two-woman-bobsled-training
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8dd3841e95f8369a7b45938e5c59e686-thumbnail.jpg" group-title="PPV-LIVE",Men's Team Large Hill: 2x7.5km Relay
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/nordic-combined/mens-team-large-hill-2x75km-relay
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. South Korea (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="PPV-LIVE",Great Britain vs. Italy (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/great-britain-vs-italy-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ae5e2554698665904b050768a34ca868-thumbnail.jpg" group-title="PPV-LIVE",Japan vs. China (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/japan-vs-china-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. USA (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ac7112cef7ce5d7e23c365d7cb40c8b9-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Sweden (Women's Bronze)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="PPV-LIVE",Women's Free: Warm-Up & More
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/womens-free-warm-up--more
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="PPV-LIVE",Men's 1500m
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/short-track/mens-1500m
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="PPV-LIVE",NBC: Women's Free Skate
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/nbc-womens-free-skate
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="PPV-LIVE",Men's Semifinal
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/mens-semifinal
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Canada (Women's Gold)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/usa-vs-canada-womens-gold
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/74fb8743341b11741e7f9b79dd5f390b-thumbnail.jpg" group-title="PPV-LIVE",Women's Freeski Halfpipe: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/freestyle-skiing/womens-freeski-halfpipe-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="PPV-LIVE",New York Yankees vs. Baltimore Orioles
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/nyy-bal-4367
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Chicago Cubs
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/chw-chc-6429
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Colorado Rockies
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/ari-col-3756
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="PPV-LIVE",San Diego Padres vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/sd-sea-7626
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/896c1954a0954740419ac09e6947bf98-thumbnail.jpg" group-title="PPV-LIVE",Houston Rockets vs. Charlotte Hornets
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/hou-cha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4d50edf4004ec6e7ff12c9c6de76230c-thumbnail.jpg" group-title="PPV-LIVE",Brooklyn Nets vs. Cleveland Cavaliers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/bkn-cle
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6cf9e4e7b4e9e613cb3393bb3643ea26-thumbnail.jpg" group-title="PPV-LIVE",Atlanta Hawks vs. Philadelphia 76ers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/atl-phi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="PPV-LIVE",Indiana Pacers vs. Washington Wizards
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/ind-wsh
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1cb66651ca5096d597d5f67dd280f97a-thumbnail.jpg" group-title="PPV-LIVE",Detroit Pistons vs. New York Knicks
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/det-ny
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1c58a88b0177e70359bb4f60ba05e1f0-thumbnail.jpg" group-title="PPV-LIVE",Toronto Raptors vs. Chicago Bulls
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/tor-chi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e578b21869de5bb418c3b9728b0a09e8-thumbnail.jpg" group-title="PPV-LIVE",Phoenix Suns vs. San Antonio Spurs
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/phx-sa
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9e7ac8e190714c95526b2c2163e63c5d-thumbnail.jpg" group-title="PPV-LIVE",Boston Celtics vs. Golden State Warriors
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/bos-gs
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/beeb10fe5a88464d208fc7da6bad8217-thumbnail.jpg" group-title="PPV-LIVE",Orlando Magic vs. Sacramento Kings
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/orl-sac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/679abe96cd79f63b48afba47d87925a6-thumbnail.jpg" group-title="PPV-LIVE",Denver Nuggets vs. LA Clippers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/den-lac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="PPV-LIVE",UFC Fight Night: Strickland vs. Hernandez
+https://ppv2.168.us.kg/stream?uri=ufc-fight-night-strickland-vs.-hernandez
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="PPV-LIVE",Premier League Darts: Night 3
+https://ppv2.168.us.kg/stream?uri=premier-league-darts-night-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="PPV-LIVE",GNK Dinamo vs. Genk
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/din-gen
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="PPV-LIVE",PAOK vs. Celta
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/paok-clt
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/689683e59432342c57086279124dbe06-thumbnail.jpg" group-title="PPV-LIVE",Brann vs. Bologna
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/brn-bol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5fdf81cf2371db4424413c171fbf9c62-thumbnail.jpg" group-title="PPV-LIVE",Fenerbahçe vs. Nott'm Forest
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/fen-nfo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c85ae60e2e1a70970c89adb10eed2992-thumbnail.jpg" group-title="PPV-LIVE",KuPS Kuopio vs. Lech Poznań
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/kup-lpo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d647071ee3225c7fef4eda812aefd4d2-thumbnail.jpg" group-title="PPV-LIVE",Noah vs. AZ Alkmaar
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/noa-az
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8e83a4837c569c5c26d2817feaad20dc-thumbnail.jpg" group-title="PPV-LIVE",Zrinjski vs. Crystal Palace
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/zri-cry
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44a2b06f28f5c4f3cc04b3377b965ee0-thumbnail.jpg" group-title="PPV-LIVE",Sigma Olomouc vs. Lausanne-Sport
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/sig-lau
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="PPV-LIVE",Ludogorets vs. Ferencváros
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lud-fer
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="PPV-LIVE",Panathinaikos vs. Viktoria Plzeň
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/pan-plz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Crvena Zvezda
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lil-zve
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="PPV-LIVE",Celtic vs. Stuttgart
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/cel-stu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="PPV-LIVE",Jagiellonia vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/jag-fio
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="PPV-LIVE",Shkëndija vs. Samsunspor
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/skn-sam
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="PPV-LIVE",Drita vs. Celje
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/dri-clj
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="PPV-LIVE",Omonoia vs. Rijeka
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/omo-rij
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="PPV-LIVE",Mainz vs. Hamburg SV
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-20/m05-hsv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Hellas Verona
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-20/sas-ver
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c19e46f3b29dd72e702cabe22e51dea-thumbnail.jpg" group-title="PPV-LIVE",Brest vs. Marseille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-20/bre-olm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d9c316794ec15c7d04375e30aa39f526-thumbnail.jpg" group-title="PPV-LIVE",Athletic Club vs. Elche
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-20/ath-elc
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="PPV-LIVE",Real Sociedad vs. Real Oviedo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/rso-ovi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/179cbfd68e77bf9e1d6c735b0f4e88b4-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Como
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/juv-como
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/63a5082dc4d83bfaa185b6605884ab19-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Bayer Leverkusen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/fcu-b04
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3af0d2bb9db955fc4773b966325bfd9-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. Eintracht Frankfurt
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/mun-sge
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/52f94f7b56c6a3a233bb5055c178eef4-thumbnail.jpg" group-title="PPV-LIVE",FC Cologne vs. TSG Hoffenheim
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/koe-tsg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86e09f7d4ea69cd98b4b26926dd93e0e-thumbnail.jpg" group-title="PPV-LIVE",VfL Wolfsburg vs. FC Augsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/wob-fca
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d1058cc31ece80bb4e6d76c61f510efa-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Leeds United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/avl-lee
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e03e3f28b7be4f2797cafcc49a05eeb9-thumbnail.jpg" group-title="PPV-LIVE",Brentford vs. Brighton & Hove Albion
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/bre-bha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad68bfae2a76a83fbecb8df178303cbf-thumbnail.jpg" group-title="PPV-LIVE",Chelsea vs. Burnley
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/che-bur
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f61e5da43352a525b3c7087d647648c3-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Rayo Vallecano
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/bet-ray
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a19f7658e4f8938ebbc8938b67f137f0-thumbnail.jpg" group-title="PPV-LIVE",Lens vs. AS Monaco
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/rcl-mon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/733bb0d372fc047931b40be498ab5240-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Inter Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/lec-int
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d48af3c4be9617ae19891d27b07393ff-thumbnail.jpg" group-title="PPV-LIVE",Osasuna vs. Real Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/osa-rma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ea5e5ed4734a8298fddbc20f1bf96537-thumbnail.jpg" group-title="PPV-LIVE",RB Leipzig vs. Borussia Dortmund
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/rbl-dor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b102e5ca9e5e1a748886ef24b48e3e8c-thumbnail.jpg" group-title="PPV-LIVE",West Ham United vs. AFC Bournemouth
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/whu-bou
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/502b92c27e6e407cf06ca34b7d8b7aac-thumbnail.jpg" group-title="PPV-LIVE",Toulouse vs. Paris FC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/tou-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb62d504d9e55e1b347e8816db33a241-thumbnail.jpg" group-title="PPV-LIVE",Cagliari vs. Lazio
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/cag-laz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0da27927e56c9430226abe77806e7af-thumbnail.jpg" group-title="PPV-LIVE",Atlético Madrid vs. Espanyol
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/atm-esp
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b9394975fea3f55a8aafa90ecd722ba7-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Newcastle United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/mnc-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36b13aa93f943b500c176b7a7a7e29d2-thumbnail.jpg" group-title="PPV-LIVE",Paris Saint-Germain vs. Metz
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/psg-metz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Torino
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/gen-tor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Sevilla
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/get-sev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Wolverhampton Wanderers
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/cry-wol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/68b21c458e09ee7fe1defb15ea0596a4-thumbnail.jpg" group-title="PPV-LIVE",Nottingham Forest vs. Liverpool
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/nfo-liv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/712ffa72750b26562bb599feeab50251-thumbnail.jpg" group-title="PPV-LIVE",Sunderland vs. Fulham
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/sun-ful
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f17742c3fa4de3d37de2e684f7441ae3-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Napoli
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/ata-nap
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b2905183a06b5a8220a0d5805a3081cb-thumbnail.jpg" group-title="PPV-LIVE",AJ Auxerre vs. Stade Rennais
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/aux-ren
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Borussia Mönchengladbach
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/scf-bmg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="PPV-LIVE",Barcelona vs. Levante
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/bar-lev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="PPV-LIVE",Angers vs. Lille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/ang-lill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/624320d23dcd5a7ac088008dc719f772-thumbnail.jpg" group-title="PPV-LIVE",Nantes vs. Le Havre AC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nan-hac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5330adb8eaef8d3d1b3dabddabce5a66-thumbnail.jpg" group-title="PPV-LIVE",Nice vs. Lorient
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nice-lor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e513d2a509058b4cc6d9a098a6cb4848-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. Werder Bremen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/stp-svw
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86105006784518af4b6d61473be85d55-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Arsenal
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/tot-ars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/79ab80591c24035b5ca90b9a7182a5ae-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Parma
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/mil-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cf386ecddb265fce8781650ebff7606a-thumbnail.jpg" group-title="PPV-LIVE",Celta Vigo vs. Mallorca
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/cel-mll
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9febd8dccf2fc5cb07a2e58721641960-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. VfB Stuttgart
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/hdh-vfb
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86278b4184030c508715910509c46bb5-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Cremonese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/roma-cre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cd26d88c1a1a0697bc723787ca21a9eb-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lyon
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/str-lyon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8e8933279b6b0a238f5a7a67dba26ac-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Valencia
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/vil-val
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f881d49c21040219f7041c39004dc79c-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Pisa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/fio-pis
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Udinese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/bol-udi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="PPV-LIVE",Alavés vs. Girona
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-23/ala-gir
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="PPV-LIVE",Everton vs. Manchester United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-23/eve-man
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact
+https://ppv2.168.us.kg/stream?uri=tna/impact/2026-02-19
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-20
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-21
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="PPV-LIVE",Willow Cricket
+https://ppv2.168.us.kg/stream?uri=willow-cricket
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/533063aa046c3a81d3807b58207139d0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996da94fe265_72787.flv?expire=1772098836&sign=6c036d666b69625144a231f4bb3c404f
-#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[AFC Champions League 2] Gamba Osaka vs Pohang Steelers lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996da94fe265_72787/index.m3u8?expire=1772098836&sign=6c036d666b69625144a231f4bb3c404f
-#EXTINF:1 group-title="RANDOM 1",[COSAFA Women's Cup] Eswatini Women vs Zimbabwe Women lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[COSAFA Women's Cup] Eswatini Women vs Zimbabwe Women lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f81bc2069917388eb6f72e14924b715a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[KBL] KoGas vs Seoul Knights lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[KBL] KoGas vs Seoul Knights lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996d78226633_4733.flv?expire=1772098050&sign=b5b437aca61e39e8400e6a9b7d9f1aa8
-#EXTINF:1 group-title="RANDOM 1",[KBL] KoGas vs Seoul Knights lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[KBL] KoGas vs Seoul Knights lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996d78226633_4733/index.m3u8?expire=1772098050&sign=b5b437aca61e39e8400e6a9b7d9f1aa8
-#EXTINF:1 group-title="RANDOM 1",[International Friendly] Italy U18 vs Ukraine U18 lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[International Friendly] Italy U18 vs Ukraine U18 lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/63c350a795a80f5e63f140d23a0cf781/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[KBL] Goyang Sono vs Seoul Thunders lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[KBL] Goyang Sono vs Seoul Thunders lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996e02b26633_4439.flv?expire=1772100267&sign=086e302c2875f0d2ccdff52e714e2b29
-#EXTINF:1 group-title="RANDOM 1",[KBL] Goyang Sono vs Seoul Thunders lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[KBL] Goyang Sono vs Seoul Thunders lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996e02b26633_4439/index.m3u8?expire=1772100267&sign=086e302c2875f0d2ccdff52e714e2b29
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Adana Demirspor vs Sivasspor lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Adana Demirspor vs Sivasspor lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996e29826633_88186.flv?expire=1772100888&sign=927eca9eaa1ec1e94986798e295a4d0b
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Adana Demirspor vs Sivasspor lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Adana Demirspor vs Sivasspor lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996e29826633_88186/index.m3u8?expire=1772100888&sign=927eca9eaa1ec1e94986798e295a4d0b
-#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] FK SAFA vs Mingachevir lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] FK SAFA vs Mingachevir lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/adb09e5090ecac3cad1e3ffa190acd6f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[International Friendly] Spain U19 vs Norway U19 lúc 18:44 WIB 19/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/5a18aede76772493677212c0ab5a8532/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Sariyer vs Amedspor lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Turkish First League] Sariyer vs Amedspor lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/196fa611217b693d7cd1ca7b1f868dcb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[International Friendly] Bosnia U19 vs Montenegro  U19 lúc 18:44 WIB 19/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/59cc8814fc841588d4996518b79a1997/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] Zaqatala FK vs Difai Agsu FK lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] Zaqatala FK vs Difai Agsu FK lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9ad257f378aaab6f7e660c5e9ab74606/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Ukrainian Youth Team Championship] Veres Rivne U21 vs SC Poltava U21 lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Ukrainian Youth Team Championship] Veres Rivne U21 vs SC Poltava U21 lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/04ec38d7512f4fa0b1c163087180dba4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] Simal FK vs Shahdagh Qusar lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Azerbaijan First Division] Simal FK vs Shahdagh Qusar lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/af0f4843e016463867058bed615ad51e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Andreeva M. vs Anisimova A. lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Andreeva M. vs Anisimova A. lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996eb47fe265_42127.flv?expire=1772103111&sign=1feed85bec3dbd6ed14c1df6a51bea50
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Andreeva M. vs Anisimova A. lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Andreeva M. vs Anisimova A. lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996eb47fe265_42127/index.m3u8?expire=1772103111&sign=1feed85bec3dbd6ed14c1df6a51bea50
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:44 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/dab7dda505d497e7a125ef8929f2c6f0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:44 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6996e73d26633_44731.flv?expire=1772102077&sign=f59872eb74936fc27de4ba59e02d7a25
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:44 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Gil Vicente U23 vs Estoril U23 lúc 18:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6996e73d26633_44731/index.m3u8?expire=1772102077&sign=f59872eb74936fc27de4ba59e02d7a25
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5957_1gqbsedda81p.png",17h30 WIB 19/02 Belediye Vanspor vs Bodrumspor (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5957_1gqbsedda81p.png",17h30 WIB 19/02 Belediye Vanspor vs Bodrumspor (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1341_1hce514nnt28.png",17h30 WIB 19/02 Sariyer vs Amedspor (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1341_1hce514nnt28.png",17h30 WIB 19/02 Sariyer vs Amedspor (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764844592.jpg",17h30 WIB 19/02 FK Safa vs E Nel G Tick (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764844592.jpg",17h30 WIB 19/02 FK Safa vs E Nel G Tick (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/67529_1jbdkk204y1c.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNtNXYAkZoYZ5aC/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/67529_1jbdkk204y1c.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/30564_1gtn1ev8012w.png",18h00 WIB 19/02 Veres Rivne U21 vs SC Poltava U21 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MuQ8zyx4RrVAQChFr/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/30564_1gtn1ev8012w.png",18h00 WIB 19/02 Veres Rivne U21 vs SC Poltava U21 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58566_1gzq96w3n912.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58566_1gzq96w3n912.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",18h00 WIB 19/02 Zaqatala FK vs Difai Agsu FK (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",18h00 WIB 19/02 Zaqatala FK vs Difai Agsu FK (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9095_165750312142.png",17h00 WIB 19/02 Italy U18 vs Ukraine U18 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNtNXhVSmuZnXJk/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/9095_165750312142.png",17h00 WIB 19/02 Italy U18 vs Ukraine U18 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3591_165750121745.png",17h00 WIB 19/02 Spain U19 vs Norway U19 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNq9jFP4zKLaCdz/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/3591_165750121745.png",17h00 WIB 19/02 Spain U19 vs Norway U19 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4066_1h01nj8f2h1m.png",17h00 WIB 19/02 Bosnia and Herzegovina U19 vs Montenegro U18 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNq9jFLsWSrkHV6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4066_1h01nj8f2h1m.png",17h00 WIB 19/02 Bosnia and Herzegovina U19 vs Montenegro U18 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/16131_1h5vmbn44229.png",17h00 WIB 19/02 Swaziland (W) vs Zimbabwe (W) (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNtNXhkq8zvZwP2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/16131_1h5vmbn44229.png",17h00 WIB 19/02 Swaziland (W) vs Zimbabwe (W) (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1927_165750042421.png",17h30 WIB 19/02 Croatia U19 vs Czech Republic U19 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNtNXYF9XYWCusz/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1927_165750042421.png",17h30 WIB 19/02 Croatia U19 vs Czech Republic U19 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV THỜI THIÊN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV THỜI THIÊN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764844592.jpg",17h30 WIB 19/02 FK Safa vs E Nel G Tick (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1764844592.jpg",17h30 WIB 19/02 FK Safa vs E Nel G Tick (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1341_1hce514nnt28.png",17h30 WIB 19/02 Sariyer vs Amedspor (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1341_1hce514nnt28.png",17h30 WIB 19/02 Sariyer vs Amedspor (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5957_1gqbsedda81p.png",17h30 WIB 19/02 Belediye Vanspor vs Bodrumspor (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5957_1gqbsedda81p.png",17h30 WIB 19/02 Belediye Vanspor vs Bodrumspor (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4282_1h8asph1mx2e.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/30564_1gtn1ev8012w.png",18h00 WIB 19/02 Veres Rivne U21 vs SC Poltava U21 (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MuQ8zyx4RrVAQChFr/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/30564_1gtn1ev8012w.png",18h00 WIB 19/02 Veres Rivne U21 vs SC Poltava U21 (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/67529_1jbdkk204y1c.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVNtNXYAkZoYZ5aC/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/67529_1jbdkk204y1c.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58566_1gzq96w3n912.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58566_1gzq96w3n912.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",18h00 WIB 19/02 Zaqatala FK vs Difai Agsu FK (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/6642_1jc4pgg3cvb.png",18h00 WIB 19/02 Zaqatala FK vs Difai Agsu FK (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1927_165750042421.png",17h30 WIB 19/02 Croatia U19 vs Czech Republic U19 (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVNtNXYF9XYWCusz/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1927_165750042421.png",17h30 WIB 19/02 Croatia U19 vs Czech Republic U19 (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2ea1870862928e543545e05d03e4bd43/image/small?v=1768601124",15h45 WIB 19/02 MSPCC City Club vs Dhaka Wanderers (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5e1a3edfe9381ff997906251bb8316c6/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",17h00 WIB 19/02 Aktobe Women vs Zhetysu Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ec127514e6ad92a84dfc72db7a76d75d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9f4a4749c7fd9da698786c22580159d/image/small?v=1768601124",16h00 WIB 19/02 Dagon Star United vs Yadanarbon FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f9579656a44f0233b1f88b90a6fa7526/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1ef7d36d50014309b8ebaad787a8c2cb/image/small?v=1768601124",16h50 WIB 19/02 Azerbaijan U18 vs Russia U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4d513b9a25d23665f15938a36bfe4858/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/cd9146c5b3d2a676270f1c54238692d5/image/small?v=1768601124",14h00 WIB 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f4cafa57868d954dd38cea3392325bdf/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/27855d3163b9c6ce8b09403720b4b04a/image/small?v=1768601124",15h45 WIB 19/02 Shuktara Jubo Sangsad vs Little Friends Club (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d189c2905f238997ccab324298366422/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8e9a62b0a454bc128dcd279a3259fb38/image/small?v=1768601124",14h30 WIB 19/02 Minsk U19 vs Kazakhstan U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5f8d8d340725238bd8cf93a3b0189c0f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7922b72b73c8a494e4bbcc323aae81ed/image/small?v=1768601124",16h00 WIB 19/02 Kahibah FC vs Lambton Jarvis (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/368fd1f3d1ed3b57ad200482f55b1859/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dfd14af3f9586481c55eca48721187f8/image/small?v=1768601124",17h00 WIB 19/02 Italy U18 vs Ukraine U18 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2306,38 +2542,6 @@ https://live3.fastestcdn-global.com/live3/6d5c6c26632a40048329952f93934894_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/af0f4843e016463867058bed615ad51e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2ea1870862928e543545e05d03e4bd43/image/small?v=1768601124",15h45 WIB 19/02 MSPCC City Club vs Dhaka Wanderers (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5e1a3edfe9381ff997906251bb8316c6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",17h00 WIB 19/02 Aktobe Women vs Zhetysu Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec127514e6ad92a84dfc72db7a76d75d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9f4a4749c7fd9da698786c22580159d/image/small?v=1768601124",16h00 WIB 19/02 Dagon Star United vs Yadanarbon FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f9579656a44f0233b1f88b90a6fa7526/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1ef7d36d50014309b8ebaad787a8c2cb/image/small?v=1768601124",16h50 WIB 19/02 Azerbaijan U18 vs Russia U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4d513b9a25d23665f15938a36bfe4858/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/cd9146c5b3d2a676270f1c54238692d5/image/small?v=1768601124",14h00 WIB 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f4cafa57868d954dd38cea3392325bdf/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/27855d3163b9c6ce8b09403720b4b04a/image/small?v=1768601124",15h45 WIB 19/02 Shuktara Jubo Sangsad vs Little Friends Club (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d189c2905f238997ccab324298366422/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8e9a62b0a454bc128dcd279a3259fb38/image/small?v=1768601124",14h30 WIB 19/02 Minsk U19 vs Kazakhstan U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5f8d8d340725238bd8cf93a3b0189c0f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7922b72b73c8a494e4bbcc323aae81ed/image/small?v=1768601124",16h00 WIB 19/02 Kahibah FC vs Lambton Jarvis (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/368fd1f3d1ed3b57ad200482f55b1859/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132412_e5fc55e1.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2530,6 +2734,58 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2ea1870862928e543545e05d03e4bd43/image/small?v=1768601124",15h45 WIB 19/02 MSPCC City Club vs Dhaka Wanderers (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5e1a3edfe9381ff997906251bb8316c6/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",17h00 WIB 19/02 Aktobe Women vs Zhetysu Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ec127514e6ad92a84dfc72db7a76d75d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9f4a4749c7fd9da698786c22580159d/image/small?v=1768601124",16h00 WIB 19/02 Dagon Star United vs Yadanarbon FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f9579656a44f0233b1f88b90a6fa7526/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/dab7dda505d497e7a125ef8929f2c6f0/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/3ca7768c7c114c5f80531114fed2c0e8_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/3ca7768c7c114c5f80531114fed2c0e8_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1ef7d36d50014309b8ebaad787a8c2cb/image/small?v=1768601124",16h50 WIB 19/02 Azerbaijan U18 vs Russia U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4d513b9a25d23665f15938a36bfe4858/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/27855d3163b9c6ce8b09403720b4b04a/image/small?v=1768601124",15h45 WIB 19/02 Shuktara Jubo Sangsad vs Little Friends Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d189c2905f238997ccab324298366422/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7922b72b73c8a494e4bbcc323aae81ed/image/small?v=1768601124",16h00 WIB 19/02 Kahibah FC vs Lambton Jarvis (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/368fd1f3d1ed3b57ad200482f55b1859/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dfd14af3f9586481c55eca48721187f8/image/small?v=1768601124",17h00 WIB 19/02 Italy U18 vs Ukraine U18 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2606,270 +2862,10 @@ https://live8.fastestcdn-global.com/live8/54367453af7241f490095c77147ba7ba_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/54367453af7241f490095c77147ba7ba_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/207023b80dd9bb003d3e12395f63e096/image/small?v=1768601124",14h45 WIB 19/02 Macarthur FC vs Bangkok United FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4705ce2a367e03292dfe8de3eb187747/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/31c3a505cff31012cc002bcd884b6a44/image/small?v=1768601124",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/af0f4843e016463867058bed615ad51e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2ea1870862928e543545e05d03e4bd43/image/small?v=1768601124",15h45 WIB 19/02 MSPCC City Club vs Dhaka Wanderers (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5e1a3edfe9381ff997906251bb8316c6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",17h00 WIB 19/02 Aktobe Women vs Zhetysu Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ec127514e6ad92a84dfc72db7a76d75d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d9f4a4749c7fd9da698786c22580159d/image/small?v=1768601124",16h00 WIB 19/02 Dagon Star United vs Yadanarbon FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f9579656a44f0233b1f88b90a6fa7526/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/dab7dda505d497e7a125ef8929f2c6f0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/3ca7768c7c114c5f80531114fed2c0e8_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/3ca7768c7c114c5f80531114fed2c0e8_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/3ca7768c7c114c5f80531114fed2c0e8_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1ef7d36d50014309b8ebaad787a8c2cb/image/small?v=1768601124",16h50 WIB 19/02 Azerbaijan U18 vs Russia U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4d513b9a25d23665f15938a36bfe4858/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/27855d3163b9c6ce8b09403720b4b04a/image/small?v=1768601124",15h45 WIB 19/02 Shuktara Jubo Sangsad vs Little Friends Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d189c2905f238997ccab324298366422/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7922b72b73c8a494e4bbcc323aae81ed/image/small?v=1768601124",16h00 WIB 19/02 Kahibah FC vs Lambton Jarvis (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/368fd1f3d1ed3b57ad200482f55b1859/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771504175-0-0-43524e93e27ef9a21cbedc774a5cc19f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771504175-0-0-f5ba3dab3259c8f5c7397c5b7f665776
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771504175-0-0-0527afe01510c72f5ac50833a19eeee7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771504175-0-0-8b478b4a85eb71b153de5c6f7f55dd81
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771504175-0-0-7b362ac6fb4ebeb19a37482d0e59970b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771504175-0-0-23f0aabb7ccc021501faf63b20e5485d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771504175-0-0-c6117b68a13e2336bd53f33cbeae1e5b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771504175-0-0-ca9da220fb502b902d727a3aa4887187
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a20a61a9d52c85c9884c37e5a8d102c0&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a0b72c3dc6e72feba7dd6329e281ba73&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a20a61a9d52c85c9884c37e5a8d102c0&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a0b72c3dc6e72feba7dd6329e281ba73&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771504175-0-0-6b9f6d12bfc8b97b00325eb07fcc387a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771504175-0-0-7f8cfea1f8c15993dda972cb75fab59c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771504175-0-0-dcd73ccd24acbbded932a0356222a5bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771504175-0-0-b34a0195bfcef3974908bc71bb01ebe6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=12fa01fbc461c5c6eeb92f5f96fe6904&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=0f1a3efc03ecdca01467b4e6d7a9804e&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=12fa01fbc461c5c6eeb92f5f96fe6904&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0f1a3efc03ecdca01467b4e6d7a9804e&txTime=6997487f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771504175-0-0-8f0afdb2462667a8afa71d38eb294e7b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771504175-0-0-4c8b3783b6f74e56b760352410cc0535
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771504175-0-0-9cb07751982860b3d4268276756a1f13
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771504175-0-0-34a8dddb41ae82ee24221619221d4caa
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1771504175-0-0-a29b5c9b80c7384105c3c0d9bf460a07
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1771504175-0-0-5ae6130082ad2258f9b6dc78aa09dbdf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1771504175-0-0-3aca698d8a8aca655b58e83246e7c120
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1771504175-0-0-345e03a23efc60b946963a2f37f4f611
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771504535-0-0-8bd00392e233a7ac3beb3cebf9f86f38
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771504535-0-0-bbad084b8dfe7191e99bee99d6c09b4c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771504535-0-0-f5751c058202f63c9a505b39be0b270c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771504535-0-0-82681e9508e1c2fa264f9e7dc8b7a844
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771504535-0-0-4c60ac5ec590521f33de8b9905c6970c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771504535-0-0-51a3c9639a3e4fde1932a987631cfef4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771504535-0-0-d0c4d4f9506d4b7c70ef52948900cf3b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771504535-0-0-4f32c6d00e6234cadba051463dd5a8cc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771504535-0-0-48f5bf18de6a5b9d32802c9beb182e17
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771504535-0-0-6868d2361a307318ca76ef7a95ccdc1a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771504535-0-0-da6da4a6b3fe5b43709c3b6fb3b96447
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771504535-0-0-6febbd911d371b023aa18e897e8ea542
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771504535-0-0-6cf958b213da45eba7aba499602275a5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771504535-0-0-1e1c27acecbf191818eaa01f7465518a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771504535-0-0-fb37167a9f391aa6908dac950c26b0e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771504535-0-0-8e08084d78cf75a1e9b40addd0453db0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=4b393b683044a895bb8a5ad7f7c92079&txTime=699749e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=2bfcfc4de3eb0205d418134bb934aea6&txTime=699749e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4b393b683044a895bb8a5ad7f7c92079&txTime=699749e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2bfcfc4de3eb0205d418134bb934aea6&txTime=699749e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771504535-0-0-e12cbc2515753657e74045ae4f1d4fb8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1771504535-0-0-ea32f2c12ce3cd42dbf1827cef0df369
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771504535-0-0-f507462bb6ee5a24c9e7aa2890c01bce
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771504535-0-0-80c70f00934c2c5b661b6ea5d5713c7a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771504535-0-0-1ceca994aa30ebba29a66bb73c8123eb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771504535-0-0-4a0ab2efb9025dbbf0d16b521b90ab0d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771504535-0-0-3a2d720bc8fc15bbd2cbf589711877b0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771504535-0-0-89b3065ce005935d48542add6b8a1d98
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1771504535-0-0-ba2cea0eb8f2976324ed7b8795ea5a4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1771504535-0-0-95d2017b362c4611487c99edee1a50a0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1771504535-0-0-0d33f14e9f0ff458af3228d559c7e979
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1771504535-0-0-3c0dd92ce931683dd9ac99ab6dbf0ac5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771504535-0-0-5d7783fec1be4f62c4d0401e7d88aae9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771504535-0-0-3748d8bed64cce6f8c2306e454f75d70
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771504535-0-0-a97aac1a51cb66c62061af9f872e6946
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771504535-0-0-d4bc4c99b8eb399a2748eb89ac1f7375
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771504535-0-0-2a4234d25b29894e1780f9eb96568b15
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771504535-0-0-e56697e00a4c9deb8b1592aca904d3a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771504535-0-0-bc2aed4989f227d593cd52169156496d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771504535-0-0-64f004349f5a707fac7882ea86919e30
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771504895-0-0-1232b1504284e35dc8ecfaf4da50113b
@@ -2966,6 +2962,210 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771504895-0-0-1ce3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771504895-0-0-7cb1a20122a5e3daac57299a4793b63f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771505255-0-0-fb4d15b0a375fb4781296df9bc8817bc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771505255-0-0-7380bed12f940a0454bfb4c70cb2fccf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771505255-0-0-bd1d3e25874b48c5db5e1861b0963934
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771505255-0-0-7ae4be73cf055a32cbbfb563e03bd1c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771505255-0-0-7da163cb3b30c9cf38d9c48870fb7469
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771505255-0-0-c3680ed1e1a1717ecc7fddba5505ab21
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771505255-0-0-2054f832e29c974685e9e0d2de548405
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771505255-0-0-eaa2505976e3c31242ce4413a6775cc4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=0ff00ac6845d9cfdfd365cfac1fec9cb&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=84a628327f1afbd90f1a03b68e6921c0&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=0ff00ac6845d9cfdfd365cfac1fec9cb&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=84a628327f1afbd90f1a03b68e6921c0&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771505255-0-0-b574f2bfb484c92be6ff489fa072db2f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771505255-0-0-bab1d93870041e6be76ab4c53d1ec8b6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771505255-0-0-4ad47d7af09ac4573ab1f7ad8108a389
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771505255-0-0-945e20ea7731fe8be24e91f64cb11eaf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=156b3c5f8aade6a21a6c3a856c47892a&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=246ecf1bd800ae988e824017ccece169&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=156b3c5f8aade6a21a6c3a856c47892a&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=246ecf1bd800ae988e824017ccece169&txTime=69974cb7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771505255-0-0-a262a438ccfbb312d9ff8d0c7a93c406
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771505255-0-0-377f9839b043cb74c99ba6f0668cfc95
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771505255-0-0-b0e3e3381f8101dcfd2a0abd7f582009
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771505255-0-0-566e9d9c56c2b8990c816b8872034763
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1771505255-0-0-531d8828e2617f0eb2fa75d371171b0f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1771505255-0-0-4066af76f0edb59454dfb18ed50825c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1771505255-0-0-765e727d8b71a009c268a63625a400cb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/e22c622aa9c0f5409c5d2019ecb3a538.png",17h30 WIB 19/02 Safa Baku vs Mingachevir [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1771505255-0-0-8ba465fd9c78ff01ccb9f3ac3032330e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771505615-0-0-947d8b3d81209a00f6896302ae2a0d27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771505615-0-0-90209f24483eaba6dda65117e837cbe8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771505615-0-0-f4af6a1ff4e090875cd05c6cbc851c39
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c48a8f6171da9d5decb3f426f89374c5.png",17h30 WIB 19/02 Adana Demirspor vs Sivasspor [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771505615-0-0-cb0e978277041ca925f70a634522b595
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771505615-0-0-9c36f435023982cc8970f3c76092c3bd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771505615-0-0-c4f4c93b749a4b2f86e1d513b129bc8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771505615-0-0-8ae1b7f0564c7770e1b480c7f661e33b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771505615-0-0-3e753a36de1ff76ed54971477a698695
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771505615-0-0-d71c9992f46f2029776dbb30890ebd11
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771505615-0-0-cd0cf267ccb9c52db0c00fd01cf77416
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771505615-0-0-4e6fec6d3f21f1cc37be3febe801f6fc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/c529bb25346de8dd7333c9907d306cbe.png",17h00 WIB 19/02 Gamba Osaka vs Pohang Steelers [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771505615-0-0-f137ef987b8d89348c9cc5b753f5c60d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771505615-0-0-84873b6cd7cd7f0d60d5f2ec165e1d92
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771505615-0-0-e470eeba67cdc21524945f0eccb17508
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771505615-0-0-20029f3e4710cc4bce82752dfece3c80
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771505615-0-0-cea0f4dd57576e6e952a98467409a25c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=d6b31f5cb570b923091122234d67b539&txTime=69974e1f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=8441e23b369f66fb103618f41d3d5842&txTime=69974e1f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d6b31f5cb570b923091122234d67b539&txTime=69974e1f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8441e23b369f66fb103618f41d3d5842&txTime=69974e1f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771505615-0-0-8d9becb503c938e84739376bdc5d02b2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771505615-0-0-21a1416ca7b12aa2588cd275a3849d55
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771505615-0-0-9ccc9728af77242f28e796aa5a5dffa0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771505615-0-0-5278ea5a4a5fd46b77827828a73d9972
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1771505615-0-0-3bb53cc803385e18162a7218b515c0d4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1771505615-0-0-841556079b6ee504cc97ebe86c8ab327
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1771505615-0-0-ea3179700b2123f3dd9ed1c26acddadd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/f5edd05d7493bcc96ea456e425663425.png",17h30 WIB 19/02 Sariyer vs Amedspor [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1771505615-0-0-9cca39330ba4a0d2c18a6644986f8028
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771505615-0-0-9168d5e4bc99a87666b0484ff1caaa53
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771505615-0-0-ef4d39955374284e67a547471c105455
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771505615-0-0-4815cff677fdffadbe889ea2a9c9463f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ae24fec78acb53914b1b472eadc6cc.png",18h30 WIB 19/02 Gil Vicente U23 vs Estoril U23 [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771505615-0-0-d410bb1803d7559d31ef422f66cb6d66
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771505615-0-0-b4f7aec1ec2b7de3131f6e51c0104206
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1771505615-0-0-c9391552f4f08136cffd70576814e53b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771505615-0-0-67afe457fdd4b111c710dbd5ecf2c690
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/9e8da5b031610b1f800a3b946aa32291.png",18h00 WIB 19/02 Simal FK vs Shahdagh Qusar [Đình Bắc] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771505615-0-0-438e2404a396c8bb02999a587e61992a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771505615-0-0-76d522f531aad9141df9b037405c5db8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771505615-0-0-1a3cfd60076f284adb0c875480552be3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771505615-0-0-5c28532842d8c24b82f245835382df4b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/dba4cb5a75f38381ccb1b3945b5d7d39.png",18h00 WIB 19/02 PFK Zaqatala vs Difai Agsu FK [BLV EDRIC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771505615-0-0-8ed9abe93bfecf8a4868d35372e8116b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",17h00 19/02 Gamba Osaka vs Pohang Steelers (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2981,12 +3181,12 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",17h00 19/02 Gamba Osaka vs Pohang Steelers
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/cafffa2ecdd4dcd266fd406ef8491265.png!w80",18h30 19/02 Gil Vicente U23 vs Estoril U23
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/24067249253d42b354d1a6316a377f76.png!w80",17h30 19/02 Sariyer vs Amedspor
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/cafffa2ecdd4dcd266fd406ef8491265.png!w80",18h30 19/02 Gil Vicente U23 vs Estoril U23
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80",17h00 19/02 Goyang Carrot Jumpers vs Seoul Samsung Thunders
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/02456966.m3u8
@@ -3014,6 +3214,18 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 15h00 19/02 Chainat vs Mahasarakham United [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 15h00 19/02 Chainat vs Mahasarakham United [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Thai League 2] 15h00 19/02 Chainat vs Mahasarakham United [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
