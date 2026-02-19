@@ -2105,6 +2105,11 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771546795~acl=/*~id=09130681195325941359819050168401~hmac=d599d827ce88ff9fa4e32667a6df8aef5b7d896c91ede220f9b6a50b81926c55|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; motorola edge 30; Build/U1RDS34.80-40-5-6)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9fe3b1273b0d4862f04be72c16ce31b9-1771510056399
@@ -2116,127 +2121,305 @@ https://sonymtmnew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8?hdne
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 13
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/gold-zone-day-13
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Training
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/bobsled/two-woman-bobsled-training
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. South Korea (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="PPV-LIVE",Great Britain vs. Italy (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/great-britain-vs-italy-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ae5e2554698665904b050768a34ca868-thumbnail.jpg" group-title="PPV-LIVE",Japan vs. China (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/japan-vs-china-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. USA (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ac7112cef7ce5d7e23c365d7cb40c8b9-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Sweden (Women's Bronze)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="PPV-LIVE",Women's Free: Warm-Up & More
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/womens-free-warm-up--more
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="PPV-LIVE",Men's 1500m
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/short-track/mens-1500m
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="PPV-LIVE",NBC: Women's Free Skate
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/nbc-womens-free-skate
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="PPV-LIVE",Men's Semifinal
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/mens-semifinal
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Canada (Women's Gold)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/usa-vs-canada-womens-gold
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/74fb8743341b11741e7f9b79dd5f390b-thumbnail.jpg" group-title="PPV-LIVE",Women's Freeski Halfpipe: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/freestyle-skiing/womens-freeski-halfpipe-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="PPV-LIVE",New York Yankees vs. Baltimore Orioles
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/nyy-bal-4367
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Chicago Cubs
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/chw-chc-6429
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Colorado Rockies
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/ari-col-3756
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="PPV-LIVE",San Diego Padres vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/sd-sea-7626
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/896c1954a0954740419ac09e6947bf98-thumbnail.jpg" group-title="PPV-LIVE",Houston Rockets vs. Charlotte Hornets
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/hou-cha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4d50edf4004ec6e7ff12c9c6de76230c-thumbnail.jpg" group-title="PPV-LIVE",Brooklyn Nets vs. Cleveland Cavaliers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/bkn-cle
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6cf9e4e7b4e9e613cb3393bb3643ea26-thumbnail.jpg" group-title="PPV-LIVE",Atlanta Hawks vs. Philadelphia 76ers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/atl-phi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="PPV-LIVE",Indiana Pacers vs. Washington Wizards
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/ind-wsh
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1cb66651ca5096d597d5f67dd280f97a-thumbnail.jpg" group-title="PPV-LIVE",Detroit Pistons vs. New York Knicks
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/det-ny
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1c58a88b0177e70359bb4f60ba05e1f0-thumbnail.jpg" group-title="PPV-LIVE",Toronto Raptors vs. Chicago Bulls
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/tor-chi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e578b21869de5bb418c3b9728b0a09e8-thumbnail.jpg" group-title="PPV-LIVE",Phoenix Suns vs. San Antonio Spurs
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/phx-sa
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9e7ac8e190714c95526b2c2163e63c5d-thumbnail.jpg" group-title="PPV-LIVE",Boston Celtics vs. Golden State Warriors
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/bos-gs
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/beeb10fe5a88464d208fc7da6bad8217-thumbnail.jpg" group-title="PPV-LIVE",Orlando Magic vs. Sacramento Kings
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/orl-sac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/679abe96cd79f63b48afba47d87925a6-thumbnail.jpg" group-title="PPV-LIVE",Denver Nuggets vs. LA Clippers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-19/den-lac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="PPV-LIVE",UFC Fight Night: Strickland vs. Hernandez
+https://ppv2.168.us.kg/stream?uri=ufc-fight-night-strickland-vs.-hernandez
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="PPV-LIVE",Premier League Darts: Night 3
+https://ppv2.168.us.kg/stream?uri=premier-league-darts-night-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="PPV-LIVE",GNK Dinamo vs. Genk
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/din-gen
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="PPV-LIVE",PAOK vs. Celta
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/paok-clt
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/689683e59432342c57086279124dbe06-thumbnail.jpg" group-title="PPV-LIVE",Brann vs. Bologna
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/brn-bol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5fdf81cf2371db4424413c171fbf9c62-thumbnail.jpg" group-title="PPV-LIVE",Fenerbahçe vs. Nott'm Forest
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/fen-nfo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c85ae60e2e1a70970c89adb10eed2992-thumbnail.jpg" group-title="PPV-LIVE",KuPS Kuopio vs. Lech Poznań
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/kup-lpo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d647071ee3225c7fef4eda812aefd4d2-thumbnail.jpg" group-title="PPV-LIVE",Noah vs. AZ Alkmaar
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/noa-az
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8e83a4837c569c5c26d2817feaad20dc-thumbnail.jpg" group-title="PPV-LIVE",Zrinjski vs. Crystal Palace
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/zri-cry
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44a2b06f28f5c4f3cc04b3377b965ee0-thumbnail.jpg" group-title="PPV-LIVE",Sigma Olomouc vs. Lausanne-Sport
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/sig-lau
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="PPV-LIVE",Ludogorets vs. Ferencváros
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lud-fer
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="PPV-LIVE",Panathinaikos vs. Viktoria Plzeň
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/pan-plz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Crvena Zvezda
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lil-zve
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="PPV-LIVE",Celtic vs. Stuttgart
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/cel-stu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="PPV-LIVE",Jagiellonia vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/jag-fio
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="PPV-LIVE",Shkëndija vs. Samsunspor
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/skn-sam
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="PPV-LIVE",Drita vs. Celje
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/dri-clj
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="PPV-LIVE",Omonoia vs. Rijeka
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/omo-rij
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="PPV-LIVE",Mainz vs. Hamburg SV
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-20/m05-hsv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Hellas Verona
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-20/sas-ver
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c19e46f3b29dd72e702cabe22e51dea-thumbnail.jpg" group-title="PPV-LIVE",Brest vs. Marseille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-20/bre-olm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d9c316794ec15c7d04375e30aa39f526-thumbnail.jpg" group-title="PPV-LIVE",Athletic Club vs. Elche
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-20/ath-elc
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="PPV-LIVE",Real Sociedad vs. Real Oviedo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/rso-ovi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/179cbfd68e77bf9e1d6c735b0f4e88b4-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Como
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/juv-como
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/63a5082dc4d83bfaa185b6605884ab19-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Bayer Leverkusen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/fcu-b04
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3af0d2bb9db955fc4773b966325bfd9-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. Eintracht Frankfurt
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/mun-sge
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/52f94f7b56c6a3a233bb5055c178eef4-thumbnail.jpg" group-title="PPV-LIVE",FC Cologne vs. TSG Hoffenheim
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/koe-tsg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86e09f7d4ea69cd98b4b26926dd93e0e-thumbnail.jpg" group-title="PPV-LIVE",VfL Wolfsburg vs. FC Augsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/wob-fca
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d1058cc31ece80bb4e6d76c61f510efa-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Leeds United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/avl-lee
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e03e3f28b7be4f2797cafcc49a05eeb9-thumbnail.jpg" group-title="PPV-LIVE",Brentford vs. Brighton & Hove Albion
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/bre-bha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad68bfae2a76a83fbecb8df178303cbf-thumbnail.jpg" group-title="PPV-LIVE",Chelsea vs. Burnley
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/che-bur
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f61e5da43352a525b3c7087d647648c3-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Rayo Vallecano
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/bet-ray
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a19f7658e4f8938ebbc8938b67f137f0-thumbnail.jpg" group-title="PPV-LIVE",Lens vs. AS Monaco
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/rcl-mon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/733bb0d372fc047931b40be498ab5240-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Inter Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/lec-int
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d48af3c4be9617ae19891d27b07393ff-thumbnail.jpg" group-title="PPV-LIVE",Osasuna vs. Real Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/osa-rma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ea5e5ed4734a8298fddbc20f1bf96537-thumbnail.jpg" group-title="PPV-LIVE",RB Leipzig vs. Borussia Dortmund
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/rbl-dor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b102e5ca9e5e1a748886ef24b48e3e8c-thumbnail.jpg" group-title="PPV-LIVE",West Ham United vs. AFC Bournemouth
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/whu-bou
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/502b92c27e6e407cf06ca34b7d8b7aac-thumbnail.jpg" group-title="PPV-LIVE",Toulouse vs. Paris FC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/tou-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb62d504d9e55e1b347e8816db33a241-thumbnail.jpg" group-title="PPV-LIVE",Cagliari vs. Lazio
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/cag-laz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0da27927e56c9430226abe77806e7af-thumbnail.jpg" group-title="PPV-LIVE",Atlético Madrid vs. Espanyol
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/atm-esp
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b9394975fea3f55a8aafa90ecd722ba7-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Newcastle United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/mnc-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36b13aa93f943b500c176b7a7a7e29d2-thumbnail.jpg" group-title="PPV-LIVE",Paris Saint-Germain vs. Metz
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/psg-metz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Torino
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/gen-tor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Sevilla
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/get-sev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Wolverhampton Wanderers
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/cry-wol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/68b21c458e09ee7fe1defb15ea0596a4-thumbnail.jpg" group-title="PPV-LIVE",Nottingham Forest vs. Liverpool
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/nfo-liv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/712ffa72750b26562bb599feeab50251-thumbnail.jpg" group-title="PPV-LIVE",Sunderland vs. Fulham
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/sun-ful
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f17742c3fa4de3d37de2e684f7441ae3-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Napoli
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/ata-nap
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b2905183a06b5a8220a0d5805a3081cb-thumbnail.jpg" group-title="PPV-LIVE",AJ Auxerre vs. Stade Rennais
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/aux-ren
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Borussia Mönchengladbach
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/scf-bmg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="PPV-LIVE",Barcelona vs. Levante
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/bar-lev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="PPV-LIVE",Angers vs. Lille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/ang-lill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/624320d23dcd5a7ac088008dc719f772-thumbnail.jpg" group-title="PPV-LIVE",Nantes vs. Le Havre AC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nan-hac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5330adb8eaef8d3d1b3dabddabce5a66-thumbnail.jpg" group-title="PPV-LIVE",Nice vs. Lorient
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nice-lor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e513d2a509058b4cc6d9a098a6cb4848-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. Werder Bremen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/stp-svw
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86105006784518af4b6d61473be85d55-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Arsenal
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/tot-ars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/79ab80591c24035b5ca90b9a7182a5ae-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Parma
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/mil-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cf386ecddb265fce8781650ebff7606a-thumbnail.jpg" group-title="PPV-LIVE",Celta Vigo vs. Mallorca
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/cel-mll
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9febd8dccf2fc5cb07a2e58721641960-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. VfB Stuttgart
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/hdh-vfb
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86278b4184030c508715910509c46bb5-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Cremonese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/roma-cre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cd26d88c1a1a0697bc723787ca21a9eb-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lyon
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/str-lyon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8e8933279b6b0a238f5a7a67dba26ac-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Valencia
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/vil-val
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f881d49c21040219f7041c39004dc79c-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Pisa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/fio-pis
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Udinese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/bol-udi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="PPV-LIVE",Alavés vs. Girona
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-23/ala-gir
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="PPV-LIVE",Everton vs. Manchester United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-23/eve-man
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact
+https://ppv2.168.us.kg/stream?uri=tna/impact/2026-02-19
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-20
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-21
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="PPV-LIVE",Willow Cricket
+https://ppv2.168.us.kg/stream?uri=willow-cricket
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Mumbai City FC  vs Chennaiyin FC lúc 22:52 WIB 19/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/76de570438e60abb774b7827ff4b5637/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Mumbai City FC  vs Chennaiyin FC lúc 22:52 WIB 19/02/2026 [FLV]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/69970f62fe266_85514.flv?expire=1772112354&sign=e66d9212eea1f52f0c92837a362931a0
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Mumbai City FC  vs Chennaiyin FC lúc 22:52 WIB 19/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/69970f62fe266_85514/index.m3u8?expire=1772112354&sign=e66d9212eea1f52f0c92837a362931a0
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 22:52 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:12 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/ee6f8701fdbe733106076cd66859d156/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 22:52 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:12 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997102a26633_44731.flv?expire=1772112554&sign=cca61ee3105527d840cf3b3a596e736d
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 22:52 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:12 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997102a26633_44731/index.m3u8?expire=1772112554&sign=cca61ee3105527d840cf3b3a596e736d
-#EXTINF:1 group-title="RANDOM 1",[International Club Friendly] Sarpsborg 08 vs Brno lúc 22:52 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[International Club Friendly] Sarpsborg 08 vs Brno lúc 23:12 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4ff4b09059d586f8d596838daa7f0aea/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 22:52 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:12 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/7a842c447f363f02a49503166e7d9cb6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 22:52 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:12 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69971ef4fe266_88186.flv?expire=1772116340&sign=5dfa3ed38f8b37dd173dc3ef62c8a83b
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 22:52 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:12 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69971ef4fe266_88186/index.m3u8?expire=1772116340&sign=5dfa3ed38f8b37dd173dc3ef62c8a83b
-#EXTINF:1 group-title="RANDOM 1",[UEFA Development tournaments] Belarus U17 vs Tajikistan U16 lúc 22:52 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[UEFA Development tournaments] Belarus U17 vs Tajikistan U16 lúc 23:12 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4a9f78346d39031da91971d020af9075/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 22:52 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:12 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699721e9fe266_110198.flv?expire=1772117097&sign=e09babce1ee9ee4b5c1a83c4ebe5a612
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 22:52 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:12 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699721e9fe266_110198/index.m3u8?expire=1772117097&sign=e09babce1ee9ee4b5c1a83c4ebe5a612
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 22:52 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:12 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69971e0efe266_4439.flv?expire=1772116110&sign=e6ff2e27295551aeba6bfeebcbb8493b
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 22:52 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:12 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69971e0efe266_4439/index.m3u8?expire=1772116110&sign=e6ff2e27295551aeba6bfeebcbb8493b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="",22h00 WIB 19/02 Belarus U17 vs Tajikistan U16 (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ flv
+https://auto.cdnok9.com/live/sd-6MvVNqBy3Z3nimL4FN/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="",22h00 WIB 19/02 Belarus U17 vs Tajikistan U16 (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/23655_1gytygpyt51e.png",23h00 WIB 19/02 USFAS Bamako vs Stade Malien de Bamako (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVNqAVu3hVnmsome/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/23655_1gytygpyt51e.png",23h00 WIB 19/02 USFAS Bamako vs Stade Malien de Bamako (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1876_1gxmbm1ncd2y.png",22h00 WIB 19/02 Sarpsborg 08 vs Brno (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVNqByDFioXapfWt/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1876_1gxmbm1ncd2y.png",22h00 WIB 19/02 Sarpsborg 08 vs Brno (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="",22h00 WIB 19/02 Belarus U17 vs Tajikistan U16 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNqBy3Z3nimL4FN/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="",22h00 WIB 19/02 Belarus U17 vs Tajikistan U16 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21328_1jse7ghsh51n.png",21h00 WIB 19/02 Mumbai City vs Chennai Titans (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13642_1gq6jfv3fgm.png",22h30 WIB 19/02 FC Voluntari vs CSA Steaua Bucuresti (Lương Sơn) BLV NGŨ CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13642_1gq6jfv3fgm.png",22h30 WIB 19/02 FC Voluntari vs CSA Steaua Bucuresti (Lương Sơn) BLV NGŨ CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dfd14af3f9586481c55eca48721187f8/image/small?v=1768601124",17h00 WIB 19/02 Italy U18 vs Ukraine U18 (Khán Đài A) source
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/63c350a795a80f5e63f140d23a0cf781/playlist.m3u8
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/21d75a8b88baf5be770f2afd2080fe3c/image/small?v=1768601124",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2277,10 +2460,6 @@ https://live4.fastestcdn-global.com/live4/59bf9ff642884625807a566449b8be45_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/59bf9ff642884625807a566449b8be45_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/73d567a6d27f4ec07629d48379d8ea2e/image/small?v=1768601124",17h00 WIB 19/02 Bosnia U19 vs Montenegro U19 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/59cc8814fc841588d4996518b79a1997/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ccd842deabed2ca6252afdb31ce1e8ec/image/small?v=1768601124",20h00 WIB 19/02 Zambia Women vs Botswana  Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2293,14 +2472,6 @@ https://live.alilicloud.com/live/4ff4b09059d586f8d596838daa7f0aea/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ac56924c95b7038869b39a13332a17bc/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/148079738dd9e65a186262f8863c992c/image/small?v=1768601124",17h00 WIB 19/02 Eswatini Women vs Zimbabwe Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f81bc2069917388eb6f72e14924b715a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4d0a6d7ae775e6157d25b7447d46e06d/image/small?v=1768601124",17h00 WIB 19/02 Spain U19 vs Norway U19 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a18aede76772493677212c0ab5a8532/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/41e58b28c9efd65a478c69f40bd41e76/image/small?v=1768601124",17h30 WIB 19/02 Adana Demirspor vs Sivasspor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2321,50 +2492,6 @@ https://live.alilicloud.com/live/196fa611217b693d7cd1ca7b1f868dcb/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/af0f4843e016463867058bed615ad51e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",17h00 WIB 19/02 Aktobe Women vs Zhetysu Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec127514e6ad92a84dfc72db7a76d75d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/24cf76c6e90d16b8f4d9649bb5c674c3/image/small?v=1768601124",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/76de570438e60abb774b7827ff4b5637/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/24cf76c6e90d16b8f4d9649bb5c674c3/image/small?v=1768601124",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/27a1765384024edcb7765b250341dddb_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/24cf76c6e90d16b8f4d9649bb5c674c3/image/small?v=1768601124",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/27a1765384024edcb7765b250341dddb_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/24cf76c6e90d16b8f4d9649bb5c674c3/image/small?v=1768601124",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/27a1765384024edcb7765b250341dddb_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 WIB 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133917_611d191e.png",22h30 WIB 19/02 FC Voluntari vs CSA Steaua Bucureşti (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2541,225 +2668,162 @@ https://live8.fastestcdn-global.com/live8/41f8cac977d74ce6828c13055af501c2_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/41f8cac977d74ce6828c13055af501c2_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771519295-0-0-3610e4cc58473e6a47f78dac49ebfe5f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771519295-0-0-f5bd0729618f88016a412752aa2e0908
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771519295-0-0-7f776999e1b2935e4da610347e0eba01
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771519295-0-0-82c32499782dc9404999f25726f154ac
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771519295-0-0-10bdcc19692c1892cef413d521104c87
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771520375-0-0-bca13fac073cc1a5f4c30f5664cad9ff
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771519295-0-0-5b6bed1d8d5d9bebe47713cd36c5fd46
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771520375-0-0-711a2f8626820c45847c4ce28872cac3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771519295-0-0-70aac691d10cecee6c5a41e30d0f03bd
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771520375-0-0-8b7f0359ddd91817807179d013cca5ea
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771519295-0-0-22171e837307dd23eb168fe950e80a61
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771520375-0-0-3ff52816a359bbbb318b3a7d62621d93
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=36e5de9150fad6b73725045cef3c481d&txTime=6997838f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771520375-0-0-eddbf4989bc8f2bf9c3744707d8d1c00
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=507f7887f8f7f3eae8d841c548d6f4e0&txTime=6997838f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771520375-0-0-b407851ee2801aad9a6ac5d5521116aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=36e5de9150fad6b73725045cef3c481d&txTime=6997838f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771520375-0-0-2ca06963937e1dacf62e8865f1dbc1b6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=507f7887f8f7f3eae8d841c548d6f4e0&txTime=6997838f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1771519295-0-0-9983eae4c1f810dd5846faa46e36d488
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1771519295-0-0-7eb09fa1f2d3e029881d787ac385b501
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1771519295-0-0-9e59dc840f1ab61bc8f9b5f6556be8b4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1771519295-0-0-5758e6360b50e3ca3fee0f069f2be67e
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771520375-0-0-317968c216ac575b5790f49ebefc7082
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771519295-0-0-c421d5a6f629d1ce8d6d391f789b815d
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771520375-0-0-987ae489d8cd41f7d4f05ab5235687be
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771519295-0-0-1012c12acea10f19d88eca8e37f29ebd
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771520375-0-0-987e3e0aef31b3fa295cf99fc7052fff
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771519295-0-0-44056bbb049c125155574e90855cc7d4
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771520375-0-0-7341043256206fa5a42dd171c972a173
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771519295-0-0-1294b6760c95bd56f1029050f263885e
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771520375-0-0-66d48701d4b93a2689b8ca7acec26d35
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771519295-0-0-417b8da7bcee470311180c69289babeb
+https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771520375-0-0-6da404d260b038c7d0d1fe4954003dee
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771519295-0-0-f5c28666f2ff9151a82fee77c037533b
+https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771520375-0-0-21dc474faf835a02cd816205864c61e8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771519295-0-0-330e5f636e8a6bcf8617ed8b7b36eb11
+https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771520375-0-0-3c0f2607ceca58eb13d96ca39024e063
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771519295-0-0-79bdb4a885d5d9a7e8de08ec1251cc6f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771519655-0-0-ebfbfff1f84aeea9a815808db37a5eee
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771519655-0-0-0bd6413b87074d0aec2408a581e6fe5d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771519655-0-0-27199248217e2eda6a80d97e1e97f43c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771519655-0-0-036760083c33f5cef2020dfd98a1397f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771519655-0-0-1b62f6e9e29c10789a4670230617eca2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771519655-0-0-0f37630dff8a0c3b593cea4ba78ca3d8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771519655-0-0-10f8686d5e10ec93c1b15228a68636a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771519655-0-0-36969c12ff8288c65fb861243e79d9f0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771519655-0-0-3faa65fe0462ce4f1c77dc2342fd4f7e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771519655-0-0-5e4cd042535a15609b29ebe1a470af22
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771519655-0-0-0d7dc616ae26b3948e39aeae535f386e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771519655-0-0-35aa7c69ea7e4f84479b40e994cfdf9a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771519655-0-0-96c67d4b39ba0c9a700f6ce87b9e64e6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771519655-0-0-c3d946de6e1c3698a5f0f036da8abcd0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771519655-0-0-8358d3e0f2069aa14f116a6cb35c1ff7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771519655-0-0-d8048403562711f6de7c60bb7ec7147c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771519655-0-0-118fd1d9992227ff2d8daf07813d4c65
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771519655-0-0-fba0fab4ea7729d4fee8c22ec2170a32
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771519655-0-0-00a7a72d28c2467f8b12cd6aa96a20f0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771519655-0-0-da6e16fe5737f5d0c7ca0b4ca1df4b63
+https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771520375-0-0-a3754700158f9263b9ee2f12c349ea28
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771519655-0-0-5e36280f9385a7448d574bf216ff47d2
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771520735-0-0-ca26f169477fc0f204b1e9676b8767a0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771519655-0-0-372a68554fdde83bcbca3617d455ce9d
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771520735-0-0-6445f781fe897701d63322ac1d693ee9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771519655-0-0-926ad701e938db0538a650ad2b34951b
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771520735-0-0-ede7607182aa19d55b69e0e96e14e332
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771519655-0-0-289622c7bcaceb65640b34dde84192d4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV VOI] (Socolive) flv
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771520735-0-0-71e56e63ceea4827efc225299ad032ed
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1771520015-0-0-06ff62e4207abdea1a30e1c800dbbe8f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771520735-0-0-74ad3ce24ac464cbd3b390c84b413fdd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1771520015-0-0-5ddaba09960a0d67d672d0e01db75799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV VOI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771520735-0-0-b5ad5caf63d518a69a713615601e2484
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1771520015-0-0-6b6fdf5d502004bf40e32492c3691f22
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771520735-0-0-91ca0ce92d980cb7256b0e7cba703816
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1771520015-0-0-1c490038410b43c66b86ea7500a7ec75
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV TAP] (Socolive) flv
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771520735-0-0-21f1192f866be9689899180d86c2b1ca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771520015-0-0-92d5adce4ce2380e2d7656a445eae096
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771520735-0-0-0a1712bf688bfd58a54ea1b8d4497073
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771520015-0-0-1ef2db551ad198a64d687c1675a30a5e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV TAP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771520735-0-0-5f7a412e24f4ac4167cb0328a46412e6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771520015-0-0-db3bfacee9730237feb34f4c8cfc743d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771520735-0-0-27d2d60618c8bc69f91269d3136b3c85
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771520015-0-0-df2385e7e90f32876c067583cc3c3e5b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) flv
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771520735-0-0-38beb77a9f43443cda12bb4e7f6e6b60
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=930941fe7033380bc8a6a38bd62c1f02&txTime=6997865f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771520735-0-0-ff3040488a20f0b2b43cdd02b958f330
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=a6efe7fc2f421a4525c394e85277f3c9&txTime=6997865f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771520735-0-0-0b1be1f1b49d2613168a2b2cd791766c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=930941fe7033380bc8a6a38bd62c1f02&txTime=6997865f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771520735-0-0-537e80f680c227c075d053ba68815401
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=a6efe7fc2f421a4525c394e85277f3c9&txTime=6997865f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV  TYPN] (Socolive) flv
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771520735-0-0-7cfaf4f79336499d4dbaec0d51174d4d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1771520015-0-0-5ed59f405496f40bab89e501dbb35ed5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV  TYPN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771520735-0-0-617f9ded731e07507d3602b8883eb511
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1771520015-0-0-01d8f9f670b5bcf34206a4e5a779d24b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV  TYPN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771520735-0-0-a026637f397e6999cacd7351304a28d3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771520015-0-0-79123e0ee68c1c73464f87216e227fa2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/08d3ca1c3509063daee6dc30dcd5412a.png",21h00 WIB 19/02 Mumbai City FC vs Chennaiyin FC [BLV  TYPN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771520735-0-0-f2f10c56f2ecfb64ef0edd6c1d3e0c06
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771520015-0-0-5a1221bc0edf4cd449842208d1bffbf3
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771520735-0-0-e46f457d70fe32738d6d397699fd60b2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771520735-0-0-e305342c1fb9627ef0e35b5a58548a14
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771520735-0-0-60a86a60aa8e081a6195ffbc74251423
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771520735-0-0-3e1adb6005946e6548b508c2741e8355
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771520735-0-0-76e8e116f5d991deb69e3de895905dcc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771520015-0-0-c2275acf96f9eb2e0b8b57e20802920c
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771521095-0-0-9959004376c36bbf4476d2117bae42d3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771520015-0-0-38fb501d5757b71ce70e3cae0f995d51
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771521095-0-0-1464952488ee921efd3a64ea6779acbc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771520015-0-0-2ecfdb691ba017ccac1249c0a102b022
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771521095-0-0-e3ff612b004c4938f2e8121b4f98f6e1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771520015-0-0-44e979b8067f36c55bc7376ee2ee9ad5
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771521095-0-0-fdc1276379caad4a6d2c1f940f7fe086
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=08ef0fdde1724bd07cecf417908d817b&txTime=69978a97
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=f66932722b7ee3eb8c30aa858ecee94f&txTime=69978a97
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=08ef0fdde1724bd07cecf417908d817b&txTime=69978a97
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=f66932722b7ee3eb8c30aa858ecee94f&txTime=69978a97
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771520015-0-0-ae9dfd21dfcac5031a57bbdd7f1ccfd4
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771521095-0-0-9cb9ead2b37d58e0653a0ba8eef1c2d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771520015-0-0-c379e8cd9b6590ae74c2635276af241b
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771521095-0-0-6d1d3fddc32a85ab0a78118eab60e29e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771520015-0-0-16e6cb91ba838529e8493d5bd7b280b0
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771521095-0-0-44c3c5d1d4a437e39e56f60ee9294018
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771520015-0-0-35c330e8e1b88b26c74035475743846b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/e1389bf32867c3b93e09fc194cb545d8.png!w80",21h00 19/02 Mumbai City vs Chennaiyin
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/78905744.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771521095-0-0-f28e49175f821c05214622a90517f3d0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80",22h30 19/02 CS Voluntari vs Steaua Bucuresti
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
@@ -3367,30 +3431,6 @@ https://live5.msrktz.app/live/14830711.m3u8
 #--- RANDOM 1 END ---
 
 #--- RANDOM 2 START ---
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitong.flv
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_52aceb97.png",21h00 ngày 19/02 Mumbai City vs Chennaiyin (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitong.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133917_611d191e.png",22h30 ngày 19/02 FC Voluntari vs CSA Steaua Bucureşti (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3838,124 +3878,69 @@ https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770365494-0-0-7109
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
-#EXTINF:1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Gamba Osaka vs Pohang (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[AFC Champions League II] Gamba Osaka vs Pohang (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/UUGGQ.m3u8
-#EXTINF:1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Cosafa Cup Women] Eswatini W vs Zimbabwe W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cosafa Cup Women] Eswatini W vs Zimbabwe W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/UUGG.m3u8
-#EXTINF:1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Cosafa Cup Women] Zambia W vs Botswana W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cosafa Cup Women] Zambia W vs Botswana W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/GFFF.m3u8
-#EXTINF:1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Afghanistan vs Canada 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Afghanistan vs Canada 1 (FAWA)
+#EXTINF:1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Afghanistan vs Canada 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Afghanistan vs Canada 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/ffff.m3u8
-#EXTINF:1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Afghanistan vs Canada 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Afghanistan vs Canada 2 (FAWA)
+#EXTINF:1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Afghanistan vs Canada 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Afghanistan vs Canada 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.rtzsa.cfd/hls/ffff.m3u8
-#EXTINF:1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Sri Lanka vs Zimbabwe 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Sri Lanka vs Zimbabwe 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ffff.m3u8
-#EXTINF:1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] Sri Lanka vs Zimbabwe 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] Sri Lanka vs Zimbabwe 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://b.rtzsa.cfd/hls/ffff.m3u8
-#EXTINF:1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Cricket T20] Australia W vs India W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20] Australia W vs India W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ffffr.m3u8
-#EXTINF:1 tvg-chno="26" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1 GP] Formula 1 Testing (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="RANDOM 3",[Formula 1 GP] Formula 1 Testing (FAWA)
+#EXTINF:1 tvg-chno="17" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1 GP] Formula 1 Testing (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="RANDOM 3",[Formula 1 GP] Formula 1 Testing (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/JRRR.m3u8
-#EXTINF:1 tvg-chno="28" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Genesis Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA The Genesis Invitational (FAWA)
+#EXTINF:1 tvg-chno="19" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Genesis Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA The Genesis Invitational (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/GGGG.m3u8
-#EXTINF:1 tvg-chno="29" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf Magical Kenya Open (FAWA)" tvg-logo="https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png" group-title="RANDOM 3",[Golf] Golf Magical Kenya Open (FAWA)
+#EXTINF:1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Greece Basketball Cup] Maroussi vs Olympiacos (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Greece Basketball Cup] Maroussi vs Olympiacos (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/GGGG.m3u8
-#EXTINF:1 tvg-chno="31" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Hockey] Sweden at Switzerland (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" group-title="RANDOM 3",[Hockey] Sweden at Switzerland (STRMCNTR)
+http://205.237.104.40/hls/tttt.m3u8
+#EXTINF:1 tvg-chno="22" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Hockey] Sweden at Switzerland (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" group-title="RANDOM 3",[Hockey] Sweden at Switzerland (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestreams.pro/hls/dazhfiach15.m3u8?st=qYH6yH1_O34KGVnbuKBI_ieJuI2cLx9jcQuWSHiSUrU&e=1771520430
-#EXTINF:1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.37/hls/hrrrqQQQ.m3u8
-#EXTINF:1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.37/hls/hrrrqQQQQ.m3u8
-#EXTINF:1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[India ISL] Mumbai City vs Chennaiyin (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[India ISL] Mumbai City vs Chennaiyin (FAWA)
+#EXTINF:1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[India ISL] Mumbai City vs Chennaiyin (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[India ISL] Mumbai City vs Chennaiyin (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/GFFFQ.m3u8
-#EXTINF:1 tvg-chno="76" tvg-id="Live.Event.us" tvg-name="[Romania Liga 2] FC Voluntari vs Steaua Bucuresti (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Romania Liga 2] FC Voluntari vs Steaua Bucuresti (FAWA)
+#EXTINF:1 tvg-chno="74" tvg-id="Live.Event.us" tvg-name="[Romania Liga 2] FC Voluntari vs Steaua Bucuresti (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Romania Liga 2] FC Voluntari vs Steaua Bucuresti (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/GFFFQQ.m3u8
-#EXTINF:1 tvg-chno="77" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Snooker] Snooker Players Championship (FAWA)
+#EXTINF:1 tvg-chno="76" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Snooker] Snooker Players Championship (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.37/hls/HEEEZQq.m3u8
-#EXTINF:1 tvg-chno="78" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Lanús vs Flamengo (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 3",[Soccer] Lanús vs Flamengo (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.shadow-ran.online/beines.m3u8
-#EXTINF:1 tvg-chno="79" tvg-id="Live.Event.us" tvg-name="[Tanzania FA Cup] Azam FC vs Endumenti FC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tanzania FA Cup] Azam FC vs Endumenti FC (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.40/hls/GFFFQQQ.m3u8
-#EXTINF:1 tvg-chno="80" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
+#EXTINF:1 tvg-chno="78" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/YYYY.m3u8
-#EXTINF:1 tvg-chno="81" tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Dubai (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis WTA] Tennis WTA Dubai (FAWA)
+#EXTINF:1 tvg-chno="79" tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Dubai (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis WTA] Tennis WTA Dubai (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.37/hls/Yjjj.m3u8
-#EXTINF:1 tvg-chno="82" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Lig 1] Adana Demirspor vs Sivasspor (FAWA)" tvg-logo="https://i.gyazo.com/730673f84223a85c9b9ae66123907bba.png" group-title="RANDOM 3",[Turkey Lig 1] Adana Demirspor vs Sivasspor (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/UUGGQQ.m3u8
-#EXTINF:1 tvg-chno="83" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Lig 1] Sariyer vs Amedspor (FAWA)" tvg-logo="https://i.gyazo.com/730673f84223a85c9b9ae66123907bba.png" group-title="RANDOM 3",[Turkey Lig 1] Sariyer vs Amedspor (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/UUGGQQQ.m3u8
-#EXTINF:1 tvg-chno="84" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Lig 1] Vanspor FK vs Bodrumspor (FAWA)" tvg-logo="https://i.gyazo.com/730673f84223a85c9b9ae66123907bba.png" group-title="RANDOM 3",[Turkey Lig 1] Vanspor FK vs Bodrumspor (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/UUGGQQQQ.m3u8
 #--- RANDOM 3 END ---
