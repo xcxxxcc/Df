@@ -1804,44 +1804,256 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23090RA98I; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ca36dc0eb2950d92585a8cce7110f86a-1771470750283
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; CloudTV518; Build/MTK368P)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=31d10246800d9b10b5a1fd035d7f6be4-1771471950297
 #--- SONY END ---
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f9659f16e09f3ff14cdb033da0f4ba15-thumbnail.jpg" group-title="PPV-LIVE",China vs. Germany (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/china-vs-germany-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="PPV-LIVE",Italy vs. Switzerland (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/italy-vs-switzerland-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9fba4687aaef33bf29a9d7bdc726ea2b-thumbnail.jpg" group-title="PPV-LIVE",Norway vs. Canada (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/norway-vs-canada-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15efc79bf71680cfecbe167aede66b3e-thumbnail.jpg" group-title="PPV-LIVE",Sweden vs. Czechia (M Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/sweden-vs-czechia-m-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d141ec228d7ede0220951e4051517345-thumbnail.jpg" group-title="PPV-LIVE",Men's Team Large Hill: Ski Jump
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/nordic-combined/mens-team-large-hill-ski-jump
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1b497ec8ba9f8d532504f8c43b6912b7-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Sprints: Heats
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-heats
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0a435cf3f789dea425b606434fc69b9f-thumbnail.jpg" group-title="PPV-LIVE",Men's Freeski Halfpipe: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/freestyle-skiing/mens-freeski-halfpipe-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d7a4484e181f824c29479f2cc32fdb94-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Sprints: Finals
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 13
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/gold-zone-day-13
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Training
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/bobsled/two-woman-bobsled-training
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8dd3841e95f8369a7b45938e5c59e686-thumbnail.jpg" group-title="PPV-LIVE",Men's Team Large Hill: 2x7.5km Relay
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/nordic-combined/mens-team-large-hill-2x75km-relay
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. South Korea (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="PPV-LIVE",Great Britain vs. Italy (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/great-britain-vs-italy-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ae5e2554698665904b050768a34ca868-thumbnail.jpg" group-title="PPV-LIVE",Japan vs. China (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/japan-vs-china-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. USA (W Round-Robin)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ac7112cef7ce5d7e23c365d7cb40c8b9-thumbnail.jpg" group-title="PPV-LIVE",Switzerland vs. Sweden (Women's Bronze)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="PPV-LIVE",Women's Free: Warm-Up & More
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/womens-free-warm-up--more
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="PPV-LIVE",Men's 1500m
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/short-track/mens-1500m
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="PPV-LIVE",NBC: Women's Free Skate
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/figure-skating/nbc-womens-free-skate
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="PPV-LIVE",Men's Semifinal
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/mens-semifinal
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Canada (Women's Gold)
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/hockey/usa-vs-canada-womens-gold
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/74fb8743341b11741e7f9b79dd5f390b-thumbnail.jpg" group-title="PPV-LIVE",Women's Freeski Halfpipe: Qualifying
+https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/freestyle-skiing/womens-freeski-halfpipe-qualifying
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="PPV-LIVE",New York Yankees vs. Baltimore Orioles
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/nyy-bal-4367
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Chicago Cubs
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/chw-chc-6429
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Colorado Rockies
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/ari-col-3756
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="PPV-LIVE",San Diego Padres vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/20260216/sd-sea-7626
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="PPV-LIVE",Premier League Darts: Night 3
+https://ppv2.168.us.kg/stream?uri=premier-league-darts-night-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="PPV-LIVE",GNK Dinamo vs. Genk
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/din-gen
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="PPV-LIVE",PAOK vs. Celta
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/paok-clt
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/689683e59432342c57086279124dbe06-thumbnail.jpg" group-title="PPV-LIVE",Brann vs. Bologna
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/brn-bol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5fdf81cf2371db4424413c171fbf9c62-thumbnail.jpg" group-title="PPV-LIVE",Fenerbahçe vs. Nott'm Forest
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/fen-nfo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c85ae60e2e1a70970c89adb10eed2992-thumbnail.jpg" group-title="PPV-LIVE",KuPS Kuopio vs. Lech Poznań
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/kup-lpo
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d647071ee3225c7fef4eda812aefd4d2-thumbnail.jpg" group-title="PPV-LIVE",Noah vs. AZ Alkmaar
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/noa-az
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8e83a4837c569c5c26d2817feaad20dc-thumbnail.jpg" group-title="PPV-LIVE",Zrinjski vs. Crystal Palace
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/zri-cry
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44a2b06f28f5c4f3cc04b3377b965ee0-thumbnail.jpg" group-title="PPV-LIVE",Sigma Olomouc vs. Lausanne-Sport
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/sig-lau
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="PPV-LIVE",Ludogorets vs. Ferencváros
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lud-fer
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="PPV-LIVE",Panathinaikos vs. Viktoria Plzeň
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/pan-plz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Crvena Zvezda
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/lil-zve
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="PPV-LIVE",Celtic vs. Stuttgart
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-19/cel-stu
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="PPV-LIVE",Jagiellonia vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/jag-fio
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="PPV-LIVE",Shkëndija vs. Samsunspor
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/skn-sam
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="PPV-LIVE",Drita vs. Celje
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/dri-clj
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="PPV-LIVE",Omonoia vs. Rijeka
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-19/omo-rij
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="PPV-LIVE",Mainz vs. Hamburg SV
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-20/m05-hsv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Hellas Verona
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-20/sas-ver
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2c19e46f3b29dd72e702cabe22e51dea-thumbnail.jpg" group-title="PPV-LIVE",Brest vs. Marseille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-20/bre-olm
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d9c316794ec15c7d04375e30aa39f526-thumbnail.jpg" group-title="PPV-LIVE",Athletic Club vs. Elche
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-20/ath-elc
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="PPV-LIVE",Real Sociedad vs. Real Oviedo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/rso-ovi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/179cbfd68e77bf9e1d6c735b0f4e88b4-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Como
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/juv-como
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/63a5082dc4d83bfaa185b6605884ab19-thumbnail.jpg" group-title="PPV-LIVE",1. FC Union Berlin vs. Bayer Leverkusen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/fcu-b04
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e3af0d2bb9db955fc4773b966325bfd9-thumbnail.jpg" group-title="PPV-LIVE",Bayern Munich vs. Eintracht Frankfurt
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/mun-sge
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/52f94f7b56c6a3a233bb5055c178eef4-thumbnail.jpg" group-title="PPV-LIVE",FC Cologne vs. TSG Hoffenheim
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/koe-tsg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86e09f7d4ea69cd98b4b26926dd93e0e-thumbnail.jpg" group-title="PPV-LIVE",VfL Wolfsburg vs. FC Augsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/wob-fca
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d1058cc31ece80bb4e6d76c61f510efa-thumbnail.jpg" group-title="PPV-LIVE",Aston Villa vs. Leeds United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/avl-lee
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e03e3f28b7be4f2797cafcc49a05eeb9-thumbnail.jpg" group-title="PPV-LIVE",Brentford vs. Brighton & Hove Albion
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/bre-bha
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ad68bfae2a76a83fbecb8df178303cbf-thumbnail.jpg" group-title="PPV-LIVE",Chelsea vs. Burnley
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/che-bur
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f61e5da43352a525b3c7087d647648c3-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Rayo Vallecano
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/bet-ray
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a19f7658e4f8938ebbc8938b67f137f0-thumbnail.jpg" group-title="PPV-LIVE",Lens vs. AS Monaco
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/rcl-mon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/733bb0d372fc047931b40be498ab5240-thumbnail.jpg" group-title="PPV-LIVE",Lecce vs. Inter Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/lec-int
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/d48af3c4be9617ae19891d27b07393ff-thumbnail.jpg" group-title="PPV-LIVE",Osasuna vs. Real Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/osa-rma
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ea5e5ed4734a8298fddbc20f1bf96537-thumbnail.jpg" group-title="PPV-LIVE",RB Leipzig vs. Borussia Dortmund
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-21/rbl-dor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b102e5ca9e5e1a748886ef24b48e3e8c-thumbnail.jpg" group-title="PPV-LIVE",West Ham United vs. AFC Bournemouth
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/whu-bou
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/502b92c27e6e407cf06ca34b7d8b7aac-thumbnail.jpg" group-title="PPV-LIVE",Toulouse vs. Paris FC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/tou-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb62d504d9e55e1b347e8816db33a241-thumbnail.jpg" group-title="PPV-LIVE",Cagliari vs. Lazio
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-21/cag-laz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c0da27927e56c9430226abe77806e7af-thumbnail.jpg" group-title="PPV-LIVE",Atlético Madrid vs. Espanyol
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-21/atm-esp
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b9394975fea3f55a8aafa90ecd722ba7-thumbnail.jpg" group-title="PPV-LIVE",Manchester City vs. Newcastle United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-21/mnc-new
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/36b13aa93f943b500c176b7a7a7e29d2-thumbnail.jpg" group-title="PPV-LIVE",Paris Saint-Germain vs. Metz
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-21/psg-metz
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="PPV-LIVE",Genoa vs. Torino
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/gen-tor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="PPV-LIVE",Getafe vs. Sevilla
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/get-sev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Wolverhampton Wanderers
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/cry-wol
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/68b21c458e09ee7fe1defb15ea0596a4-thumbnail.jpg" group-title="PPV-LIVE",Nottingham Forest vs. Liverpool
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/nfo-liv
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/712ffa72750b26562bb599feeab50251-thumbnail.jpg" group-title="PPV-LIVE",Sunderland vs. Fulham
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/sun-ful
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f17742c3fa4de3d37de2e684f7441ae3-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. Napoli
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/ata-nap
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b2905183a06b5a8220a0d5805a3081cb-thumbnail.jpg" group-title="PPV-LIVE",AJ Auxerre vs. Stade Rennais
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/aux-ren
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="PPV-LIVE",SC Freiburg vs. Borussia Mönchengladbach
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/scf-bmg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="PPV-LIVE",Barcelona vs. Levante
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/bar-lev
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="PPV-LIVE",Angers vs. Lille
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/ang-lill
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/624320d23dcd5a7ac088008dc719f772-thumbnail.jpg" group-title="PPV-LIVE",Nantes vs. Le Havre AC
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nan-hac
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5330adb8eaef8d3d1b3dabddabce5a66-thumbnail.jpg" group-title="PPV-LIVE",Nice vs. Lorient
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/nice-lor
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e513d2a509058b4cc6d9a098a6cb4848-thumbnail.jpg" group-title="PPV-LIVE",St. Pauli vs. Werder Bremen
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/stp-svw
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86105006784518af4b6d61473be85d55-thumbnail.jpg" group-title="PPV-LIVE",Tottenham Hotspur vs. Arsenal
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-22/tot-ars
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/79ab80591c24035b5ca90b9a7182a5ae-thumbnail.jpg" group-title="PPV-LIVE",AC Milan vs. Parma
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/mil-par
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cf386ecddb265fce8781650ebff7606a-thumbnail.jpg" group-title="PPV-LIVE",Celta Vigo vs. Mallorca
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/cel-mll
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9febd8dccf2fc5cb07a2e58721641960-thumbnail.jpg" group-title="PPV-LIVE",1. FC Heidenheim 1846 vs. VfB Stuttgart
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-22/hdh-vfb
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86278b4184030c508715910509c46bb5-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Cremonese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-22/roma-cre
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cd26d88c1a1a0697bc723787ca21a9eb-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lyon
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-22/str-lyon
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8e8933279b6b0a238f5a7a67dba26ac-thumbnail.jpg" group-title="PPV-LIVE",Villarreal vs. Valencia
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-22/vil-val
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f881d49c21040219f7041c39004dc79c-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Pisa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/fio-pis
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Udinese
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-23/bol-udi
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="PPV-LIVE",Alavés vs. Girona
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-23/ala-gir
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="PPV-LIVE",Everton vs. Manchester United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-23/eve-man
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 2
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="PPV-LIVE",Pre-Season Testing - Day 3
+https://ppv2.168.us.kg/stream?uri=f1/2026/pre-season-testing-2/fp3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPV-LIVE",AEW: Wednesday Night Dynamite
+https://ppv2.168.us.kg/stream?uri=aew/dynamite/2026-02-18
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact
+https://ppv2.168.us.kg/stream?uri=tna/impact/2026-02-19
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-20
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-21
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Justin Bergman vs John Morra lúc 10:24 WIB 19/02/2026 [FLV]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/6995ec59fe264_103.flv?expire=1772037849&sign=e6a816c450e70c14c6cb31372118880b
-#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Justin Bergman vs John Morra lúc 10:24 WIB 19/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/6995ec59fe264_103/index.m3u8?expire=1772037849&sign=e6a816c450e70c14c6cb31372118880b
-#EXTINF:1 group-title="RANDOM 1",[Guatemala Liga Nacional] Antigua GFC vs Aurora F.C. lúc 10:24 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Guatemala Liga Nacional] Antigua GFC vs Aurora F.C. lúc 10:36 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69966746fe265_124958.flv?expire=1772069318&sign=a476f8f976417dd054e76c65930d7b55
-#EXTINF:1 group-title="RANDOM 1",[Guatemala Liga Nacional] Antigua GFC vs Aurora F.C. lúc 10:24 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Guatemala Liga Nacional] Antigua GFC vs Aurora F.C. lúc 10:36 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69966746fe265_124958/index.m3u8?expire=1772069318&sign=a476f8f976417dd054e76c65930d7b55
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:24 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:36 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:24 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:36 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69961ced26633_85514.flv?expire=1772050285&sign=46c3d41a13c2f144aeebd0c76cb04a63
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:24 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 10:36 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69961ced26633_85514/index.m3u8?expire=1772050285&sign=46c3d41a13c2f144aeebd0c76cb04a63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -1854,12 +2066,22 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a5d566fd3e0c487cd3353081d061960b/image/small?v=1768601124",08h00 WIB 19/02 Universidad O&M vs FC Cincinnati (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5237_1h6wfek5q19.png",10h00 WIB 19/02 Cartagines Deportiva SA vs Vancouver Whitecaps (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2b1ab62c67080a65edde21d22a8d527d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",08h00 WIB 19/02 Real Esteli vs HYH Export Sebaco FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/124c2e9e8ab6b304a8c9d4043bbccd57/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/69ad45e74425eff6eb5a665d3b41bb1d/image/small?v=1768601124",05h00 WIB 19/02 O.Higgins vs Bahia (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/91ad7690f53e5b5ffb6aa698ef10059a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h30 WIB 19/02 Barcelona SC(ECU) vs Argentinos Juniors (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1912,22 +2134,6 @@ https://live.alilicloud.com/live/5ddb73ddd375d7661b36fb3ebf31c70b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a4c803a4dbc971d06d576656911b55b9/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a5d566fd3e0c487cd3353081d061960b/image/small?v=1768601124",08h00 WIB 19/02 Universidad O&M vs FC Cincinnati (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2b1ab62c67080a65edde21d22a8d527d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",08h00 WIB 19/02 Real Esteli vs HYH Export Sebaco FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/124c2e9e8ab6b304a8c9d4043bbccd57/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/69ad45e74425eff6eb5a665d3b41bb1d/image/small?v=1768601124",05h00 WIB 19/02 O.Higgins vs Bahia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/91ad7690f53e5b5ffb6aa698ef10059a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133456_22a4cdbe.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2176,6 +2382,18 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a5d566fd3e0c487cd3353081d061960b/image/small?v=1768601124",08h00 WIB 19/02 Universidad O&M vs FC Cincinnati (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2b1ab62c67080a65edde21d22a8d527d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",08h00 WIB 19/02 Real Esteli vs HYH Export Sebaco FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/124c2e9e8ab6b304a8c9d4043bbccd57/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h30 WIB 19/02 Barcelona SC(ECU) vs Argentinos Juniors (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2192,78 +2410,6 @@ https://live.alilicloud.com/live/39326f2da00673a60fb98838727408f4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b7d8f1ca2737ad779d322d8e40bf51d2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a5d566fd3e0c487cd3353081d061960b/image/small?v=1768601124",08h00 WIB 19/02 Universidad O&M vs FC Cincinnati (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2b1ab62c67080a65edde21d22a8d527d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",08h00 WIB 19/02 Real Esteli vs HYH Export Sebaco FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/124c2e9e8ab6b304a8c9d4043bbccd57/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=ca5c068e41fa89864f5409661b2bd3ff&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=3e0331f6fd4f708b1626e7d1e24441f7&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=ca5c068e41fa89864f5409661b2bd3ff&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=3e0331f6fd4f708b1626e7d1e24441f7&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1771474295-0-0-cc551bc14780df8b283c485b0329ea81
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1771474295-0-0-559e2255d9462f0239fec43bf23db654
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1771474295-0-0-288ba0f06887f10377eed184c1e77b39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1771474295-0-0-469bd562cc91ce4a8e2f73fef70e658a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771474295-0-0-82c08b4babaf8023d2f8596fc8957b28
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771474295-0-0-6650ea1bce763035cfbf038a95abd38f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771474295-0-0-83e1e5878fe5a189ccf2a88a57d3bcae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771474295-0-0-d687c003a9cfd3292bbbd9e84cf5ebbf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=75a5175c6a7c0f5857084e2fb7a5e028&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=723d5373aa02a828637f01d3cc8ac332&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=75a5175c6a7c0f5857084e2fb7a5e028&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=723d5373aa02a828637f01d3cc8ac332&txTime=6996d3c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771474655-0-0-cb30f29b38d0511b5ec12386f5a2f3d4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771474655-0-0-78b73c4a7849acf612a163122672d3f2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771474655-0-0-9cca507e836e3db5be5635116abc4d9c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771474655-0-0-a86d0f0519d5b497b60559d21ce6d355
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771475015-0-0-b35e2f306eaaa48cddb19722a99d7b95
@@ -2312,6 +2458,90 @@ https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771475015-0-0-2008
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771475015-0-0-05e689bfe0a128f8bfcab5d056d61486
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=2d73f58322f79fff4b6d787fd490772c&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=2582d0a510d9bce8dd4043ed4c05c72c&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=2d73f58322f79fff4b6d787fd490772c&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=2582d0a510d9bce8dd4043ed4c05c72c&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771475375-0-0-68c7a217205ad19576b9da663bed13de
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771475375-0-0-054fe72f9f3f25ba8dedcacb22fe5b84
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771475375-0-0-4106d1efedbe30d04665f72a9e843e3b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771475375-0-0-07b8cf2cd104aa9685579b94bad3dfd2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=d764b6ad047a46f902a4ac6afdadf745&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=ccf616a513e89569ac5772825ca909b9&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=d764b6ad047a46f902a4ac6afdadf745&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/5fb6a8f407e848b64c75cf07a444601e.png",10h00 WIB 19/02 CS Cartagines vs Vancouver Whitecaps [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=ccf616a513e89569ac5772825ca909b9&txTime=6996d7ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1771475375-0-0-07911112dc4dc67bdc41ba3d2c2a2e2c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1771475375-0-0-3208d6d8c312af10c2b9b46e2222554d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1771475375-0-0-ee882be2f155264fbf019fb0e1273dc0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/afd5363f5e3d870ae56c1095b63288c2.png",09h00 WIB 19/02 Antigua GFC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1771475375-0-0-9a22d50fa87ebe58c8b9fcd703a746b6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771475735-0-0-5cbd7217937c19ab2697976980ff9b90
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771475735-0-0-1b8d6b8df2a1f38e6d1a0f5b511f09a0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771475735-0-0-d560101775051c0a5bb92d8fb319efbf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771475735-0-0-a84c04e80b25afa4c786b34f57bfe5a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771475735-0-0-e8f2b7053271b59b87d5c8b80b67e211
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771475735-0-0-8aa1cba4b155ce35c42f73f065295968
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771475735-0-0-ff2037246eb786bec9d78fe13fe9c05c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/dc533014831adfd13df2fb3db0c950de.png",11h00 WIB 19/02 Zonkeys de Tijuana vs Ostioneros de Guaymas [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771475735-0-0-36ebcd998aaffbae49b6b5e9dba49d52
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771475735-0-0-e814f8eed1162d04c60a1dd4384a123a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771475735-0-0-f1a8772a322dd2894d382c0c2b15e35b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771475735-0-0-2afee78c8ee70796e85bf2b07b9ecfeb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771475735-0-0-4ff746be7db7efd6ad74f99f0ad585af
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/820.png",10h00 19/02 CS Cartagines vs Vancouver Whitecaps (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
