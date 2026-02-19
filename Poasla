@@ -2122,6 +2122,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771546795~acl=/*~id=09130681195325941359819050168401~hmac=d599d827ce88ff9fa4e32667a6df8aef5b7d896c91ede220f9b6a50b81926c55|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; motorola edge 30; Build/U1RDS34.80-40-5-6)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9fe3b1273b0d4862f04be72c16ce31b9-1771510056399
@@ -2136,8 +2142,6 @@ https://sonymtmnew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8?hdne
 #--- PPVLAND START ---
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 13
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/gold-zone-day-13
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Training
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/bobsled/two-woman-bobsled-training
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. South Korea (W Round-Robin)
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="PPV-LIVE",Great Britain vs. Italy (W Round-Robin)
@@ -2347,85 +2351,64 @@ https://ppv2.168.us.kg/stream?uri=willow-cricket
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:36 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/ee6f8701fdbe733106076cd66859d156/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:36 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997102a26633_44731.flv?expire=1772112554&sign=cca61ee3105527d840cf3b3a596e736d
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:36 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Estrela FC U23 vs Maritimo U23 lúc 23:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997102a26633_44731/index.m3u8?expire=1772112554&sign=cca61ee3105527d840cf3b3a596e736d
-#EXTINF:1 group-title="RANDOM 1",[International Club Friendly] Sarpsborg 08 vs Brno lúc 23:36 WIB 19/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/4ff4b09059d586f8d596838daa7f0aea/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:36 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/7a842c447f363f02a49503166e7d9cb6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:36 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69971ef4fe266_88186.flv?expire=1772116340&sign=5dfa3ed38f8b37dd173dc3ef62c8a83b
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:36 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Rio Ave U23 vs Uniao Leiria U23 lúc 23:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69971ef4fe266_88186/index.m3u8?expire=1772116340&sign=5dfa3ed38f8b37dd173dc3ef62c8a83b
-#EXTINF:1 group-title="RANDOM 1",[UEFA Development tournaments] Belarus U17 vs Tajikistan U16 lúc 23:36 WIB 19/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[UEFA Development tournaments] Belarus U17 vs Tajikistan U16 lúc 23:52 WIB 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4a9f78346d39031da91971d020af9075/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:36 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699721e9fe266_110198.flv?expire=1772117097&sign=e09babce1ee9ee4b5c1a83c4ebe5a612
-#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:36 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[WTA Dubai] Coco Gauff vs Eala A. lúc 23:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699721e9fe266_110198/index.m3u8?expire=1772117097&sign=e09babce1ee9ee4b5c1a83c4ebe5a612
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:36 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69971e0efe266_4439.flv?expire=1772116110&sign=e6ff2e27295551aeba6bfeebcbb8493b
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:36 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga II] FC Voluntari vs Steaua Bucuresti lúc 23:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69971e0efe266_4439/index.m3u8?expire=1772116110&sign=e6ff2e27295551aeba6bfeebcbb8493b
-#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Alcaraz C. vs K. Khachanov lúc 23:36 WIB 19/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Alcaraz C. vs K. Khachanov lúc 23:52 WIB 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/69973106fe266_42127.flv?expire=1772120966&sign=5a1d0ed7a4466e681e0721c8c800fa30
-#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Alcaraz C. vs K. Khachanov lúc 23:36 WIB 19/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[ATP Doha] Alcaraz C. vs K. Khachanov lúc 23:52 WIB 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/69973106fe266_42127/index.m3u8?expire=1772120966&sign=5a1d0ed7a4466e681e0721c8c800fa30
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1876_1gxmbm1ncd2y.png",22h00 WIB 19/02 Sarpsborg 08 vs Brno (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVNqByDFioXapfWt/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1876_1gxmbm1ncd2y.png",22h00 WIB 19/02 Sarpsborg 08 vs Brno (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13642_1gq6jfv3fgm.png",22h30 WIB 19/02 FC Voluntari vs CSA Steaua Bucuresti (Lương Sơn) BLV NGŨ CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13642_1gq6jfv3fgm.png",22h30 WIB 19/02 FC Voluntari vs CSA Steaua Bucuresti (Lương Sơn) BLV NGŨ CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/36102_20200323144054.gif",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 (Lương Sơn) BLV QUAN VŨ flv
@@ -2664,162 +2647,150 @@ https://live.alilicloud.com/live/4a9f78346d39031da91971d020af9075/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0ebc0c34822d1e52adbbc1008f6e788f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771521815-0-0-380f01f9a4cf87b8064275194a137c38
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771521815-0-0-f50580d97dbf6e74ede62a653c5e3da4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771521815-0-0-fa9af28fe1e3e9ace1fbbb5e705475c8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771521815-0-0-e20f676706a9b92e81ca62dc210457c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771521815-0-0-bdab29817711143e86725b7946ec44c1
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771522895-0-0-4f33eab5dc1ede0f7b9db138434e5fe4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771521815-0-0-3f2b74750591480d1c35a1fc0b5662cf
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771522895-0-0-679a731704ee8b2cc2c5281612f656df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771521815-0-0-60d0fac8af48c9da0bd193124d5f9801
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771522895-0-0-a400f3124d35f458c4d45a6d58291340
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771521815-0-0-f86de6176bb53f42055486e51ed3c3d9
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771522895-0-0-024f60844ad7a37629ab5a6122b1ab63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1771522895-0-0-c00f0e02a8230cfc9c46ae3d5edc90f9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1771522895-0-0-589119a031f55cdc61c25dd98b8450b1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1771522895-0-0-8456f11ae5fa48cc51928a00507e9a0c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",RWBL: Spartak Moscow W vs UMMC Ekaterinburg W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1771522895-0-0-73e51f000a865848f448375cc8cdb5d0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771521815-0-0-d9f63d95940c1755214b66265e3c2da9
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771522895-0-0-0906065a347e3f9dce9cd17e6af975ac
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771521815-0-0-7f73e93491bc2201b647d5a6dd6f47b4
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771522895-0-0-59359ee4e2b9c263c5fb2e6cd1b9287f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771521815-0-0-0e5da949cdee0439618341ad20a88e65
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771522895-0-0-b6caed463b789d2869a89ad3d381bb7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771521815-0-0-43d2d3a4e7c8a25d854cfbc0eadc1f32
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771522895-0-0-3bcf344b083dd0f7607d8a4e54632fba
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771521815-0-0-5226f16b7a0113758d6104b8cf7690be
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771522895-0-0-9a43452252bc91b430cdf21418286d43
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771521815-0-0-cf7b14fdec62c0c2c20793f38562b239
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771522895-0-0-5e6f40749982ca1b720eb0c0870cf666
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771521815-0-0-1b9b988246d256f8ecf3be6ece3fc058
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771522895-0-0-6334c60385b528f3e0509e0212e34f32
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771521815-0-0-0e35602722515be79e33c94042163eea
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) flv
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771522895-0-0-8e7114e4461f28f8a062b0e3f750be27
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [BLV EDRIC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771521815-0-0-015f073d7c5f8b6bd79a0e8a3e70acfe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771522895-0-0-a7a307d1bb9e896ecc866ea40778ccdf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [BLV EDRIC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771521815-0-0-b17a554a6a9c63330daf8bc2d1d027d6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771522895-0-0-4dae26feccae62eaeaf359659e273140
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [BLV EDRIC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771521815-0-0-064421e937ace60fc18451be3a65a3fd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771522895-0-0-539c06d88bbe4e1df3e6e84630a32888
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771521815-0-0-f12171cc9ae1b9e254037572f259c891
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771522895-0-0-b51174842e4740b31b891b7d36e77cf4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=ab64e08a3c441c2eebb5b0a75384555b&txTime=69978ecf
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=ea1f52765e4652a4089b1e830a2b830e&txTime=69979307
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=c51bf81c7461abb230751175217529d0&txTime=69978ecf
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=0a3eb8c3c081400f417e20e6605d46ce&txTime=69979307
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=ab64e08a3c441c2eebb5b0a75384555b&txTime=69978ecf
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=ea1f52765e4652a4089b1e830a2b830e&txTime=69979307
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=c51bf81c7461abb230751175217529d0&txTime=69978ecf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771522175-0-0-5da7a122e8f2c835d8e70eaf258dee46
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771522175-0-0-2edd5d29b228109a17f78bb4d1f5943a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771522175-0-0-ba30d62abfbfdaf93de49e723b4ad251
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/3e1e5ce21f85a17110e44133a6c6b118.png",21h30 WIB 19/02 Uralmash Ekaterinburg vs Zenit Petersburg [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771522175-0-0-99f7f7e2f4ce5a65392f17df50173084
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=0a3eb8c3c081400f417e20e6605d46ce&txTime=69979307
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771522175-0-0-867dd34e58e82af4a407ab63db1a6bd7
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771523255-0-0-c2e311a2dd6cd0b30b7282a2309f5fe7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771522175-0-0-8880599147afd3e6bce59d9200a91eca
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771523255-0-0-a51e927de83becbea64332eafb16c893
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771522175-0-0-dc010f0d2fb25f1ffe1e59a7b43e21e3
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771523255-0-0-1d6627e7c8f5282b94e30ca9112e2be2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771522175-0-0-22487ead6ea719097b8acd29c47534c6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771522535-0-0-ca658b7e51972bcc604487cb1f564087
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771522535-0-0-0e17809356d46c19e8fb36836a6f216d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771522535-0-0-ce32275d00803c32dc078a80b27f7dba
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771522535-0-0-93987f0fd1dbe7fb207831650050d0b4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771522535-0-0-7711b1b36f5c2ff599d9221e199e7a5a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771522535-0-0-cebced7bea86e9f83db7656ae06032ea
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771522535-0-0-484d5bb10e3e606df0dab824e00b09ba
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771522535-0-0-1ff5081bb32c35a4bef01aab762a1f5a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771522535-0-0-e13ffb6ef30b5868d35ae65c50747003
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771522535-0-0-c64c0cbc35c20d04dac64d93447a01c5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771522535-0-0-b5aa76e3bb502d5b79f5c6576a6e3c71
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771522535-0-0-0834bb2e9ab79e28231b68c6d88da3a8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771523255-0-0-5057d2e02d4454bd9e48f14ad73b6bdd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771522535-0-0-47dca6337c9532ce173660bce682b408
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771523615-0-0-daead929e9a4b59beab3680779fe8dbc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771522535-0-0-a75941f1625dde29fa25b8a48e900a39
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771523615-0-0-eec22881ff6afeb4131c7129a8bc4266
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771522535-0-0-a7636b66317dd4a0e6ce6c87b694b5c2
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771523615-0-0-b04f7cee87f16929dab7687a0936fece
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771522535-0-0-c4ea0cd4d58d6de7ca49a093f438d9ca
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771523615-0-0-96808a59a0225e9a51d727002931297b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771523615-0-0-b901c050a37e3a7a0eafa22c4da1e06a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771523615-0-0-eca0445fda6b71526c0218a452255b2a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771523615-0-0-25975e8f0f10571831a71e0f49835f4a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",TFF 1. Lig: Sakaryaspor vs Pendikspor [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771523615-0-0-4345702ef04f572aa127a9dbee7a4440
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771523615-0-0-918e3e644e34ed4a0d8eda733f01d33b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771523615-0-0-e92595353a9e5b82ef9773fde66eded1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771523615-0-0-eae18dc4d4ff829472adcfe4401d1fc4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771523615-0-0-5ea7426c3399931a1e4aac7f6b714467
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771522535-0-0-49e1c49c5cba16dc7afbd2452daa2b51
+https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1771523615-0-0-cd2b7a6e1a82b1e884e338ddd9b5347a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771522535-0-0-73b05a02eaa1fe51d6e7971e4f019d05
+https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1771523615-0-0-3b04492ac3dfd6886a4db66e56a19373
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771522535-0-0-11b286f5ef75ebca6f6beb3f260262e6
+https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1771523615-0-0-17b83171c370a03735bba4d5eb2d7228
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/34ae4475a7c57555d986a712f494d406.png",22h00 WIB 19/02 Rio Ave U23 vs Uniao Leiria U23 [SON HÍP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771522535-0-0-65c6fb2fcdc5a34d55c10e3b1d6a1972
+https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1771523615-0-0-b81ebeddd95578d4c7dbfb8d66dcdc5c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771523615-0-0-46852c6f9e8887a2c8a6855a087f455f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771523615-0-0-e4e625398706ae94e46b9bddfa2af830
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771523615-0-0-4f608b32ae0172a0596735ca8236a347
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",22h00 WIB 19/02 Estrela FC U23 vs Maritimo U23 [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771523615-0-0-4d99e4f1821797f7fc07893363ed525b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/f105da768299b0eece32a15bb3c30574.png!w80",22h30 19/02 CS Voluntari vs Steaua Bucuresti
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
