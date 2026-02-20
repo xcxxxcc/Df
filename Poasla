@@ -2677,6 +2677,12 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090504587" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770358159193999_BLIGA_26_MD23_Mainz-vs-Hamburger-SV_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Mainz vs Hamburger SV - MD 23 - 21 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1771655403~acl=/*~id=95423713660262826213545735658176~hmac=ca87f3063f5f948f3b1dd903550a31d7f50fcdff65bd291cd1dd4dedb632a2cb|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SANSUI SmartTV; Build/RTM8.240401.021)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=47756d791ca104aa5606d9ddc0801b8d-1771623000142
@@ -2687,10 +2693,50 @@ https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=e
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 14
-https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="PPV-LIVE",USA vs. Slovakia (Men's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="PPV-LIVE",Postgame Coverage
+https://pooembed.eu/embed/olympics/2026-02-21/hockey/postgame-coverage
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/831a30674bc7d7112646b07d443ed876-thumbnail.jpg" group-title="PPV-LIVE",Norway vs. Switzerland (Men's Bronze Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/norway-vs-switzerland-mens-bronze-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="PPV-LIVE",Four-Man Bobsled: Run 1
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-1
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1efa5be4104f454dc269f11c0ec72636-thumbnail.jpg" group-title="PPV-LIVE",Men's Ski Cross: Seeding
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-seeding
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/4d5e4d08d064912d4f4bf41dc0bdde4e-thumbnail.jpg" group-title="PPV-LIVE",Mixed Team Aerials: Final
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mixed-team-aerials-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6d6d3c146290813896d686f9d3a2e08d-thumbnail.jpg" group-title="PPV-LIVE",Men's 50km Mass Start Classic
+https://pooembed.eu/embed/olympics/2026-02-21/cross-country-skiing/mens-50km-mass-start-classic
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="PPV-LIVE",Four-Man Bobsled: Run 2
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/99daab860321d8c830e8169ada290768-thumbnail.jpg" group-title="PPV-LIVE",Men's Ski Cross: Finals
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-finals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ce77568d394c170428ab8f49b790b85b-thumbnail.jpg" group-title="PPV-LIVE",Mixed Team Relay
+https://pooembed.eu/embed/olympics/2026-02-21/ski-mountaineering/mixed-team-relay
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="PPV-LIVE",Gold Zone: Day 15
+https://pooembed.eu/embed/olympics/2026-02-21/gold-zone-day-15
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/411b07d606bd47166e16f7642fda598f-thumbnail.jpg" group-title="PPV-LIVE",Canada vs. USA (W Bronze Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/canada-vs-usa-w-bronze-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b11e34b4ae0b62e963e4ce5058b29e6a-thumbnail.jpg" group-title="PPV-LIVE",Women's 12.5km Mass Start
+https://pooembed.eu/embed/olympics/2026-02-21/biathlon/womens-125km-mass-start
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="PPV-LIVE",Men's & Women's Mass Start
+https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens--womens-mass-start
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="PPV-LIVE",Men's Mass Start Semifinals
+https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens-mass-start-semifinals
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="PPV-LIVE",Four-Man Bobsled: Runs 1-2
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-runs-1-2
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e34f33c823fcca6cb3d4545592d080a9-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Run 3
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-run-3
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6dfa23fca06cf9a301dff5fb55cf84ed-thumbnail.jpg" group-title="PPV-LIVE",Great Britain vs. Canada (Men's Gold Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/great-britain-vs-canada-mens-gold-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cc4da95a94ca583402964834f978c56d-thumbnail.jpg" group-title="PPV-LIVE",Women's Freeski Halfpipe: Final
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/womens-freeski-halfpipe-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/721dc6a022c03d03d02770d0dfa83bed-thumbnail.jpg" group-title="PPV-LIVE",Exhibition Gala
+https://pooembed.eu/embed/olympics/2026-02-21/figure-skating/exhibition-gala
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="PPV-LIVE",Men's Bronze Final
+https://pooembed.eu/embed/olympics/2026-02-21/hockey/mens-bronze-final
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="PPV-LIVE",Two-Woman Bobsled: Final Run
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-final-run
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Chicago Cubs
 https://pooembed.eu/embed/mlb/20260216/chw-chc-6429
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Colorado Rockies
@@ -2828,104 +2874,68 @@ https://pooembed.eu/embed/rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Albert Januartar vs Justin Bergman lúc 06:24 WIB 21/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Albert Januartar vs Justin Bergman lúc 06:36 WIB 21/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6998889d26633_103.flv?expire=1772208925&sign=a9f3790959d4b72e7038c273d9e583bb
-#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Albert Januartar vs Justin Bergman lúc 06:24 WIB 21/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Premier League Pool 2026] Albert Januartar vs Justin Bergman lúc 06:36 WIB 21/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6998889d26633_103/index.m3u8?expire=1772208925&sign=a9f3790959d4b72e7038c273d9e583bb
-#EXTINF:1 group-title="RANDOM 1",[Brazilian Campeonato Mineiro Division 1] Tombense vs URT MG lúc 06:24 WIB 21/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/47f2799736be61862cb85e533d7fa20a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Paraguayan Primera Division] Club Libertad Asunción vs Rubio nu lúc 06:24 WIB 21/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/8d76a22df4ca2a1d9dc878f464e47c87/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Uruguay Primera Division] Cerro Montevideo vs Liverpool URU lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Uruguay Primera Division] Cerro Montevideo vs Liverpool URU lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f648871de436fca38ddebe328a31d729/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] CODM Meknes vs Olympique de Safi lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] CODM Meknes vs Olympique de Safi lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4720b36de454b98a822548469bc48abe/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Brazilian Campeonato Capixaba] Real Noroeste vs Serra lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Brazilian Campeonato Capixaba] Real Noroeste vs Serra lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f748c65fe74e40e2b0b8f176674207e1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] Yacoub El Mansour vs Maghreb Fez lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] Yacoub El Mansour vs Maghreb Fez lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d2db1ecfe6462181dba47a4ec2aa71ca/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d7a17b7f1c2d50a0a71172bc808ffc0a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:24 WIB 21/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:36 WIB 21/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6998e1adfe269_74012.flv?expire=1772231725&sign=b14f61d7bf988776b913c08f1d8c2c33
-#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:24 WIB 21/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Boca Juniors vs Racing Club de Avellaneda lúc 06:36 WIB 21/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6998e1adfe269_74012/index.m3u8?expire=1772231725&sign=b14f61d7bf988776b913c08f1d8c2c33
-#EXTINF:1 group-title="RANDOM 1",[Argentine Group B Tebolidun League Manchester] Excursionistas vs Sportivo Dock Sud lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Group B Tebolidun League Manchester] Excursionistas vs Sportivo Dock Sud lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/5924ae829c71036113b07c430c8694e3/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Instituto de Córdoba vs Atletico Tucuman lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Argentine Division 1] Instituto de Córdoba vs Atletico Tucuman lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/0ea387ebb3b104f61c5260b446612821/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Categoría Primera A] Llaneros FC vs Dep.Independiente Medellin lúc 06:24 WIB 21/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Categoría Primera A] Llaneros FC vs Dep.Independiente Medellin lúc 06:36 WIB 21/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f083c384fa86746da53b263f414f468e/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Paraguayan Primera Division] Club Sportivo 2 de Mayo vs Deportivo Recoleta lúc 06:36 WIB 21/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/8694021f6ecb7b83e99ed1f3b1e356fa/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Chilean Primera Division] D. Concepcion vs Cobresal lúc 06:36 WIB 21/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/37eef5a90a0e6dcd1ec86d0e03744f79/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/237_164940907780.png",06h00 WIB 21/02 Boca Juniors vs Racing Club (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/237_164940907780.png",06h00 WIB 21/02 Boca Juniors vs Racing Club (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6288eb84c028aaa4aaa292de4d22508d/image/small?v=1768601124",04h00 WIB 21/02 Atletico FC vs Patriotas FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d4fd4e11e4318895cbe8c31eca79ef7f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7f3f0dfb5200eebe39f3fffec42fb721/image/small?v=1768601124",03h00 WIB 21/02 Shamrock Rovers vs St. Patricks Athletic (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/44d0e6cb220d22f9665d25b2a1928a54/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2a72aab5d7472e69249c35ee70277adc/image/small?v=1768601124",03h45 WIB 21/02 CF Estrela Amadora SAD vs CD Tondela (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1d4d8ff9cd90b33f72a9c030b4279919/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/32be5af6917ca022dbc1428fcc75dd84/image/small?v=1768601124",05h00 WIB 21/02 Real Noroeste vs Serra (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f748c65fe74e40e2b0b8f176674207e1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124",04h00 WIB 21/02 Union La Calera vs Nublense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/58f10e35928403c7393ff20c0bd6ea85/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/46debca41fd7ca2fb6ffb8cb67b0ab32/image/small?v=1768601124",04h45 WIB 21/02 Cerro Montevideo vs Liverpool URU (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f648871de436fca38ddebe328a31d729/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a8d609f74ca380642e4cb5fbe334c007/image/small?v=1768601124",03h00 WIB 21/02 Blackburn Rovers vs Preston North End (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/61e3bb2afdf064dd3943361c66deee95/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6ef101229bb59189b3804ffdb471c648/image/small?v=1768601124",03h00 WIB 21/02 Dundalk vs Drogheda United (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/52e2f6c0e26cb37fe0fd0118d3c22e87/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f259ade23420b993ca320fe67a24aab1/image/small?v=1768601124",00h30 WIB 21/02 AlvsDhafra vs Shabab Al Ahli (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/504f42eaca2af03ca33a3474b401e7c0/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/739f771bfc0d6b94d559ea6039fe0451/image/small?v=1768601124",02h45 WIB 21/02 Stade Brestois 29 vs Marseille (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3070,10 +3080,6 @@ https://live.alilicloud.com/live/aa500b12cc9a8059b02feea6b3b76eb1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/342d20be042ee06d82d940e70f9a78c8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a19ed2de38f6b9991d5d2d288db65e9e/image/small?v=1768601124",00h30 WIB 21/02 SpVgg Greuther Fürth vs Arminia Bielefeld (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5c69c727a731cf8eeffb4e0bcbcb8d7f/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/78430e09e350a4543b2a773731a9208f/image/small?v=1768601124",06h00 WIB 21/02 Instituto de Córdoba vs Atletico Tucuman (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3090,6 +3096,46 @@ https://live.alilicloud.com/live/f7e308398849ae8ed2ce34cc81a3d0d4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c1b79c7790be28835686a62237b96533/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6288eb84c028aaa4aaa292de4d22508d/image/small?v=1768601124",04h00 WIB 21/02 Atletico FC vs Patriotas FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d4fd4e11e4318895cbe8c31eca79ef7f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7f3f0dfb5200eebe39f3fffec42fb721/image/small?v=1768601124",03h00 WIB 21/02 Shamrock Rovers vs St. Patricks Athletic (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/44d0e6cb220d22f9665d25b2a1928a54/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2a72aab5d7472e69249c35ee70277adc/image/small?v=1768601124",03h45 WIB 21/02 CF Estrela Amadora SAD vs CD Tondela (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1d4d8ff9cd90b33f72a9c030b4279919/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/32be5af6917ca022dbc1428fcc75dd84/image/small?v=1768601124",05h00 WIB 21/02 Real Noroeste vs Serra (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f748c65fe74e40e2b0b8f176674207e1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124",04h00 WIB 21/02 Union La Calera vs Nublense (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/58f10e35928403c7393ff20c0bd6ea85/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/46debca41fd7ca2fb6ffb8cb67b0ab32/image/small?v=1768601124",04h45 WIB 21/02 Cerro Montevideo vs Liverpool URU (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f648871de436fca38ddebe328a31d729/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a8d609f74ca380642e4cb5fbe334c007/image/small?v=1768601124",03h00 WIB 21/02 Blackburn Rovers vs Preston North End (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/61e3bb2afdf064dd3943361c66deee95/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/420f70ea5e4fcfc7c662efde3333a5b8/image/small?v=1768601124",01h00 WIB 21/02 AlvsIttifaq Dubai vs Al Arabi(UAE) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8d2eeacc90117c2f626d567af5df957d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e1d5af85577ac36dac45b072fe34ce15/image/small?v=1768601124",01h30 WIB 21/02 FC RapperswilvsJona vs Bellinzona (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8a668c65d4cfa46eccbd2f5501b83cfa/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6ef101229bb59189b3804ffdb471c648/image/small?v=1768601124",03h00 WIB 21/02 Dundalk vs Drogheda United (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/52e2f6c0e26cb37fe0fd0118d3c22e87/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131432_a5a02afb.png",06h00 WIB 21/02 Boca Juniors vs Racing Club (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3602,82 +3648,6 @@ https://stream.chuoichien.tv/chuoichon/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoichon.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6288eb84c028aaa4aaa292de4d22508d/image/small?v=1768601124",04h00 WIB 21/02 Atletico FC vs Patriotas FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d4fd4e11e4318895cbe8c31eca79ef7f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7f3f0dfb5200eebe39f3fffec42fb721/image/small?v=1768601124",03h00 WIB 21/02 Shamrock Rovers vs St. Patricks Athletic (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/44d0e6cb220d22f9665d25b2a1928a54/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c520ac539504c12cb9c281751c918dd1/image/small?v=1768601124",02h30 WIB 21/02 Frosinone vs Empoli (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/966706e1048a93f306566685724b3ff8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2a72aab5d7472e69249c35ee70277adc/image/small?v=1768601124",03h45 WIB 21/02 CF Estrela Amadora SAD vs CD Tondela (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1d4d8ff9cd90b33f72a9c030b4279919/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8c4c5e997d464af3089f23c3f1177e24/image/small?v=1768601124",02h30 WIB 21/02 Ghazl El Mahallah vs ZED FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a3bb7a213cac15e5f16615041d1206b2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/d797328b09da2234cb7c1155a154d650/image/small?v=1768601124",02h30 WIB 21/02 Widzew lodz vs Cracovia Krakow (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/01ff2e0829459784affd799bad6281a8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/32be5af6917ca022dbc1428fcc75dd84/image/small?v=1768601124",05h00 WIB 21/02 Real Noroeste vs Serra (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f748c65fe74e40e2b0b8f176674207e1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/646d3e9727ff634127177213d1e2e69a/image/small?v=1768601124",02h30 WIB 21/02 Ismaily SC vs Wadi Degla SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/51b1bc3b3c15ebf109fbe2e05c051569/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6ef101229bb59189b3804ffdb471c648/image/small?v=1768601124",03h00 WIB 21/02 Dundalk vs Drogheda United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/52e2f6c0e26cb37fe0fd0118d3c22e87/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124",04h00 WIB 21/02 Union La Calera vs Nublense (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/58f10e35928403c7393ff20c0bd6ea85/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a6ff3ebb35080b9411bd55cbf3527691/image/small?v=1768601124",05h00 WIB 21/02 Point Fortin FC vs Trinidad Tobago Police FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/318cd956b2a475a3d555917917d22306/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/57fd28a03c62c6f073d632f566deaab6/image/small?v=1768601124",02h30 WIB 21/02 US Pianese vs Guidonia (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a7fb95557e22b72918eebd44e5125817/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c04f80365ed3eb754a19027ed3e88e69/image/small?v=1768601124",05h00 WIB 21/02 Yacoub El Mansour vs Maghreb Fez (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d2db1ecfe6462181dba47a4ec2aa71ca/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/739f771bfc0d6b94d559ea6039fe0451/image/small?v=1768601124",02h45 WIB 21/02 Stade Brestois 29 vs Marseille (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f4e0aefd425dc3d42d84bebca17fe7d7/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/59eaf0b4d4ae770eea8975d33f401385/image/small?v=1768601124",02h45 WIB 21/02 Sassuolo vs Hellas Verona (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0a87617c3980f3c8b35c1fe78bb316dc/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/b8351117d59ca3a9ffa39382da09673c/image/small?v=1768601124",02h30 WIB 21/02 Zamalek SC vs Haras El Hodood (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f7e308398849ae8ed2ce34cc81a3d0d4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/46debca41fd7ca2fb6ffb8cb67b0ab32/image/small?v=1768601124",04h45 WIB 21/02 Cerro Montevideo vs Liverpool URU (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f648871de436fca38ddebe328a31d729/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a8d609f74ca380642e4cb5fbe334c007/image/small?v=1768601124",03h00 WIB 21/02 Blackburn Rovers vs Preston North End (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/61e3bb2afdf064dd3943361c66deee95/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/97cfc05d4c4017b62c0b04e42391d244/image/small?v=1768601124",06h00 WIB 21/02 Excursionistas vs Sportivo Dock Sud (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5924ae829c71036113b07c430c8694e3/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a14f6353e02e5bbacaabcba3444d3263/image/small?v=1768601124",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -3718,18 +3688,10 @@ https://live.alilicloud.com/live/141f13b5e3ce31177a0a2dd1205eee33/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/16d862a41bfe0e1032857bb025f47b7d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8e533f4cca36d6f3c6abf7fdf0c841f6/image/small?v=1768601124",02h30 WIB 21/02 Pyramids FC vs Ceramica Cleopatra FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ea0e36f428e965dc3526c05302fbacff/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fbb9fe50ee30741d2c00ace1775e0b7b/image/small?v=1768601124",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d7a17b7f1c2d50a0a71172bc808ffc0a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/121ecf47c01da51bfb88363e9692f36f/image/small?v=1768601124",02h30 WIB 21/02 First Vienna FC 1894 vs SKN St.Polten (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2a0aec5e727e999ff848d895e9836955/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/da01561d897cd06c945c2e87a4cf0f9b/image/small?v=1768601124",02h45 WIB 21/02 Shelbourne vs Galway United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -3738,98 +3700,74 @@ https://live.alilicloud.com/live/5d17186ce9cf8370490d430dfc2ac9af/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f009c46ac226bee83e3434de92dcfaa7/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1a07ac9c2f1552a16b6b0608d55aef24/image/small?v=1768601124",02h30 WIB 21/02 AD Ceuta vs Granada CF (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b9671e67ec7e683798b5a777e51f7236/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/76cebb02328dc5eca7daa9b859c1c2e7/image/small?v=1768601124",05h00 WIB 21/02 CODM Meknes vs Olympique de Safi (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4720b36de454b98a822548469bc48abe/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/18a5780a10e9dddba595c23667bc67a5/image/small?v=1768601124",02h30 WIB 21/02 Wisla Krakow vs KS Wieczysta Krakow (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4ac190d042cdd6f3c3da65c38fb2bf66/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8f2af3d243de0d4d94c31cf2db2c9776/image/small?v=1768601124",03h00 WIB 21/02 Paris Saint Germain Women vs Lens Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/44f8836073345975a9a66bdd5a54a69c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/354e8b5797c98ed0c99b9c5cf44080ee/image/small?v=1768601124",02h30 WIB 21/02 Audace Cerignola vs Casarano (Gà Vàng) source
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6288eb84c028aaa4aaa292de4d22508d/image/small?v=1768601124",04h00 WIB 21/02 Atletico FC vs Patriotas FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9d03eeec06e50902277fca298336bf1a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771632695-0-0-345f00af6cf9f1998a1e07df1f063718
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771632695-0-0-e659d092836a866f12c7d99cdf72656a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771632695-0-0-ac28590cb1f1d23a6b9863e08e40f5a2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771632695-0-0-78374f89222fed955a7200ad520f3fdb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1771632695-0-0-a64394faf12e0f876f548007ee5917a6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1771632695-0-0-fb2c34035351349ee2c30076890b840c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1771632695-0-0-8f32f1dfbff47c5b7699712fe3dc741b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1771632695-0-0-c016a81f3ed6850928bd981f975430b0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771632695-0-0-15e04973460cd26d7935b18ae784e3a3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771632695-0-0-e9b3025f799e9d16e0ff8cd451260b60
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771632695-0-0-7a460bbcb061187984ba25950e60b023
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771632695-0-0-f36649c054ff96dae4007af565818138
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771632695-0-0-449f42d57b4a4c55a3f2b6ee27e7b45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771632695-0-0-7be5347e662558b0fda3840d02aeb10f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771632695-0-0-43bfbe5a00d68745bb8915c6f7f70ece
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771632695-0-0-7b3af1302ba3c8c4cc04be5a262ffd79
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771633055-0-0-09c04823e10765556c301ce1f3dadf98
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771633055-0-0-e7c67181de337b448efb1bd44148909c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771633055-0-0-ca501319044e065fc450a2babe75f2e5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771633055-0-0-11c5cf308817d6433fe5d3630fc2059c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771633055-0-0-fb5559530d39f322ed6b9e1feef98ae5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771633055-0-0-289022d5ab4db7fd76b24fc19932f4dd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771633055-0-0-d05118a70e1cebc2165e991f727aa64a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771633055-0-0-087aa6b2b35046d7d5dcd8818e1a7e3a
+https://live.alilicloud.com/live/d4fd4e11e4318895cbe8c31eca79ef7f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7f3f0dfb5200eebe39f3fffec42fb721/image/small?v=1768601124",03h00 WIB 21/02 Shamrock Rovers vs St. Patricks Athletic (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/44d0e6cb220d22f9665d25b2a1928a54/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2a72aab5d7472e69249c35ee70277adc/image/small?v=1768601124",03h45 WIB 21/02 CF Estrela Amadora SAD vs CD Tondela (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1d4d8ff9cd90b33f72a9c030b4279919/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/32be5af6917ca022dbc1428fcc75dd84/image/small?v=1768601124",05h00 WIB 21/02 Real Noroeste vs Serra (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f748c65fe74e40e2b0b8f176674207e1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/6ef101229bb59189b3804ffdb471c648/image/small?v=1768601124",03h00 WIB 21/02 Dundalk vs Drogheda United (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/52e2f6c0e26cb37fe0fd0118d3c22e87/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124",04h00 WIB 21/02 Union La Calera vs Nublense (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/58f10e35928403c7393ff20c0bd6ea85/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a6ff3ebb35080b9411bd55cbf3527691/image/small?v=1768601124",05h00 WIB 21/02 Point Fortin FC vs Trinidad Tobago Police FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/318cd956b2a475a3d555917917d22306/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c04f80365ed3eb754a19027ed3e88e69/image/small?v=1768601124",05h00 WIB 21/02 Yacoub El Mansour vs Maghreb Fez (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d2db1ecfe6462181dba47a4ec2aa71ca/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/37a88ed896a94f40f75cb6f406b8ee82/image/small?v=1768601124",06h30 WIB 21/02 Club Sportivo 2 de Mayo vs Deportivo Recoleta (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8694021f6ecb7b83e99ed1f3b1e356fa/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2d37c2bb51c8b91236a941af2fe2d896/image/small?v=1768601124",06h30 WIB 21/02 D. Concepcion vs Cobresal (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/37eef5a90a0e6dcd1ec86d0e03744f79/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/739f771bfc0d6b94d559ea6039fe0451/image/small?v=1768601124",02h45 WIB 21/02 Stade Brestois 29 vs Marseille (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f4e0aefd425dc3d42d84bebca17fe7d7/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/59eaf0b4d4ae770eea8975d33f401385/image/small?v=1768601124",02h45 WIB 21/02 Sassuolo vs Hellas Verona (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0a87617c3980f3c8b35c1fe78bb316dc/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/46debca41fd7ca2fb6ffb8cb67b0ab32/image/small?v=1768601124",04h45 WIB 21/02 Cerro Montevideo vs Liverpool URU (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f648871de436fca38ddebe328a31d729/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a8d609f74ca380642e4cb5fbe334c007/image/small?v=1768601124",03h00 WIB 21/02 Blackburn Rovers vs Preston North End (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/61e3bb2afdf064dd3943361c66deee95/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/97cfc05d4c4017b62c0b04e42391d244/image/small?v=1768601124",06h00 WIB 21/02 Excursionistas vs Sportivo Dock Sud (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5924ae829c71036113b07c430c8694e3/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771633415-0-0-8450a90e2646cbaa9fe62b1021e81fa3
@@ -3866,6 +3804,90 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771633415-0-0-e13c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/d2e44e27117b2c0ce72da303f2ee906a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771633415-0-0-5eefb37e93fe1ca706b655049588ed63
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1771633775-0-0-53af13d9ca933347708bd2fdd14c6a5a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1771633775-0-0-244b3dcf165a13cdbcc60931e07bfcf7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1771633775-0-0-aee146a841053c2e16a96c1ce4fa029c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [BLV Hổ Lùn] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1771633775-0-0-ea3fd13cc902f56d9569d920f5683a12
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1771633775-0-0-0bd9c84e2648aeb25dd5aae0c7bd5b8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1771633775-0-0-51126f4129437a081daadbd94f7cc9c7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1771633775-0-0-016bad2fb92164e6a99659e5f12d380f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1771633775-0-0-9394d41768697653d09528f26700243a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771633776-0-0-a80936a2e40ab82f7292cfb6335e4d64
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771633776-0-0-b457d67c3cce020e6e573e011af03280
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771633776-0-0-4f2a9b175ec2495c06a184428e9c5e98
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/0e212670fcaebd41b36af385392ea30b.png",06h20 WIB 21/02 Llaneros FC vs Dep.Independiente Medellin [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771633776-0-0-b3f8061cab32bdf363dd1c1c711355b7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771633775-0-0-1f2b25439152770f1a3c4075c8375598
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771633775-0-0-4d1999efcab2fa04dcc40fde664d59ba
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771633775-0-0-06817af43f78589d18b61135686a33e9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771633775-0-0-22a34fc78b4ce381874b0434009223ce
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/de08f3c35ec08a35dcd48459aa140fa2.png",07h00 WIB 21/02 Unam Pumas Women vs Tigres Women [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1771634136-0-0-838d7dd53be5f217e0ae7167bfbddf54
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/de08f3c35ec08a35dcd48459aa140fa2.png",07h00 WIB 21/02 Unam Pumas Women vs Tigres Women [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1771634136-0-0-d2e697f37f6688d81597bfe2fca9259e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/de08f3c35ec08a35dcd48459aa140fa2.png",07h00 WIB 21/02 Unam Pumas Women vs Tigres Women [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1771634136-0-0-7172e447b7def16604425f7984d9c186
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/de08f3c35ec08a35dcd48459aa140fa2.png",07h00 WIB 21/02 Unam Pumas Women vs Tigres Women [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1771634136-0-0-9d591a50f0ec77e158d5890100d383e4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771634136-0-0-17afe89725939140d9197fcdf43d95fc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771634136-0-0-b9baee8cb9f5bbd24994f8e4c182e7f2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771634136-0-0-511416b3a6a4ff66a3b3fbbb420931a4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/c2afd290eab68d905d0da19c5f269e0f.png",06h00 WIB 21/02 Boca Juniors vs Racing Club de Avellaneda [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771634136-0-0-733dc3931f268538ba7a8db185f7c0a8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771634136-0-0-5564b7b49db7fd79fe8331e616aa19ec
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771634136-0-0-d2451b5da9abf6c813cdcd189267c792
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771634136-0-0-592564e4afa5b2a3863c86aa96e12b59
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/1e9c5b282fdccf6faad0eb654d96e038.png",06h30 WIB 21/02 D. Concepcion vs Cobresal [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771634136-0-0-da879b6a6d628e3d366db6298440aa52
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2977.png",02h00 21/02 Al Okhdood vs Al-Qadisiyah FC (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -5411,182 +5433,157 @@ http://195.178.110.2/hls/ysssq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysssqq.m3u8
-#EXTINF:1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Arizona Diamondbacks at Colorado Rockies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Arizona Diamondbacks at Colorado Rockies (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=wTNrwUCNvPdqiiBWRuCJWUSliHF9Aya_UcuJHD7znio&e=1771632118
-#EXTINF:1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago White Sox at Chicago Cubs (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Chicago White Sox at Chicago Cubs (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=bCIZLjeAfjjitKr_NrZj0Rlc89wrOp5WXlBKE-VBW7I&e=1771632120
-#EXTINF:1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Kansas City Royals at Texas Rangers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Kansas City Royals at Texas Rangers (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=eB488H_Ab-QyLee9QboYBiWIUki5QnqnciqmZ44Nd6M&e=1771632120
-#EXTINF:1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] San Diego Padres at Seattle Mariners (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] San Diego Padres at Seattle Mariners (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=jfV1jqpfdwnlgI8TcdursWB-pT7kT723jrZ5mow_HMQ&e=1771632119
-#EXTINF:1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Chile Liga de Primera] Union La Calera vs Nublense (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Chile Liga de Primera] Union La Calera vs Nublense (FAWA)
+#EXTINF:1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Chile Liga de Primera] Union La Calera vs Nublense (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Chile Liga de Primera] Union La Calera vs Nublense (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysssqqqq.m3u8
-#EXTINF:1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Chilean Primera División] Ñublense vs Unión La Calera (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1771037215_chile.png" group-title="RANDOM 3",[Chilean Primera División] Ñublense vs Unión La Calera (STRMHUB)
+#EXTINF:1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Chilean Primera División] Ñublense vs Unión La Calera (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1771037215_chile.png" group-title="RANDOM 3",[Chilean Primera División] Ñublense vs Unión La Calera (STRMHUB)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8?st=H6S6viCWTQnccjV4tPmLNQ&e=1771632026
-#EXTINF:1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Llaneros vs Ind Medellin (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="RANDOM 3",[Colombia Primera A] Llaneros vs Ind Medellin (FAWA)
+#EXTINF:1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Llaneros vs Ind Medellin (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="RANDOM 3",[Colombia Primera A] Llaneros vs Ind Medellin (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/vvvv.m3u8
-#EXTINF:1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Darts] Darts European Tour 1 (FAWA)
+#EXTINF:1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Darts] Darts European Tour 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/beeeqqqQ.m3u8
-#EXTINF:1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Blackburn Rovers vs Preston 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="RANDOM 3",[English Championship] Blackburn Rovers vs Preston 1 (FAWA)
+#EXTINF:1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Blackburn Rovers vs Preston 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="RANDOM 3",[English Championship] Blackburn Rovers vs Preston 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysss.m3u8
-#EXTINF:1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Blackburn Rovers vs Preston 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="RANDOM 3",[English Championship] Blackburn Rovers vs Preston 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s.simskimsa.shop/hls/ysss.m3u8
-#EXTINF:1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Bradford vs Catalans Dragons (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Bradford vs Catalans Dragons (FAWA)
+#EXTINF:1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Bradford vs Catalans Dragons (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Bradford vs Catalans Dragons (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.rtzsa.cfd/hls/zfffqqqq.m3u8
-#EXTINF:1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Leeds vs York RLFC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Leeds vs York RLFC (FAWA)
+#EXTINF:1 tvg-chno="29" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Leeds vs York RLFC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Leeds vs York RLFC (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.rtzsa.cfd/hls/zfffqq.m3u8
-#EXTINF:1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] St Helens vs Leigh (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] St Helens vs Leigh (FAWA)
+#EXTINF:1 tvg-chno="30" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] St Helens vs Leigh (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] St Helens vs Leigh (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.rtzsa.cfd/hls/zfffqqq.m3u8
-#EXTINF:1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[France Premiere Ligue Women] PSG W vs Lens W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[France Premiere Ligue Women] PSG W vs Lens W (FAWA)
+#EXTINF:1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[France Premiere Ligue Women] PSG W vs Lens W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[France Premiere Ligue Women] PSG W vs Lens W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/eoooozqq.m3u8
-#EXTINF:1 tvg-chno="41" tvg-id="Live.Event.us" tvg-name="[France Rugby Pro D2] Biarritz Olympique vs Vannes (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[France Rugby Pro D2] Biarritz Olympique vs Vannes (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/eoooozqqq.m3u8
-#EXTINF:1 tvg-chno="42" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Genesis Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA The Genesis Invitational (FAWA)
+#EXTINF:1 tvg-chno="36" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Genesis Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA The Genesis Invitational (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://s.simskimsa.shop/hls/GGGG.m3u8
-#EXTINF:1 tvg-chno="43" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Hockey] Slovakia at United States (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" group-title="RANDOM 3",[Hockey] Slovakia at United States (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=gCefGmXINTpPWvVDM_Hw70iRLxzEva1dR9qVJi1HETI&e=1771630207
-#EXTINF:1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Ireland Premier Division] Dundalk vs Drogheda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Ireland Premier Division] Dundalk vs Drogheda (FAWA)
+#EXTINF:1 tvg-chno="37" tvg-id="Live.Event.us" tvg-name="[Ireland Premier Division] Dundalk vs Drogheda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Ireland Premier Division] Dundalk vs Drogheda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/roooqqq.m3u8
-#EXTINF:1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="[Ireland Premier Division] Shamrock Rovers vs St Patricks (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Ireland Premier Division] Shamrock Rovers vs St Patricks (FAWA)
+#EXTINF:1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[Ireland Premier Division] Shamrock Rovers vs St Patricks (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Ireland Premier Division] Shamrock Rovers vs St Patricks (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/roooqq.m3u8
-#EXTINF:1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Atlanta Hawks vs Miami Heat (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Atlanta Hawks vs Miami Heat (FAWA)
+#EXTINF:1 tvg-chno="69" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Atlanta Hawks vs Miami Heat (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Atlanta Hawks vs Miami Heat (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/IIIIQQQ.m3u8
-#EXTINF:1 tvg-chno="100" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Charlotte Hornets vs Cleveland Cavaliers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Charlotte Hornets vs Cleveland Cavaliers (FAWA)
+#EXTINF:1 tvg-chno="70" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Charlotte Hornets vs Cleveland Cavaliers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Charlotte Hornets vs Cleveland Cavaliers (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/IIII.m3u8
-#EXTINF:1 tvg-chno="101" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Memphis Grizzlies vs Utah Jazz (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Memphis Grizzlies vs Utah Jazz (FAWA)
+#EXTINF:1 tvg-chno="71" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Los Angeles Lakers vs Los Angeles Clippers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Los Angeles Lakers vs Los Angeles Clippers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/UUUUAQ.m3u8
+#EXTINF:1 tvg-chno="72" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Memphis Grizzlies vs Utah Jazz (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Memphis Grizzlies vs Utah Jazz (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/IIIIQ.m3u8
-#EXTINF:1 tvg-chno="102" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Minnesota Timberwolves vs Dallas Mavericks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Minnesota Timberwolves vs Dallas Mavericks (FAWA)
+#EXTINF:1 tvg-chno="73" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Minnesota Timberwolves vs Dallas Mavericks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Minnesota Timberwolves vs Dallas Mavericks (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/IIIIQQQQ.m3u8
-#EXTINF:1 tvg-chno="103" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Washington Wizards vs Indiana Pacers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Washington Wizards vs Indiana Pacers (FAWA)
+#EXTINF:1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] New Orleans Pelicans vs Milwaukee Bucks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] New Orleans Pelicans vs Milwaukee Bucks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/UUUU.m3u8
+#EXTINF:1 tvg-chno="75" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Oklahoma City Thunder vs Brooklyn Nets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Oklahoma City Thunder vs Brooklyn Nets (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/UUUUA.m3u8
+#EXTINF:1 tvg-chno="76" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Portland Trail Blazers vs Denver Nuggets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Portland Trail Blazers vs Denver Nuggets (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.46/hls/UUUUAQQ.m3u8
+#EXTINF:1 tvg-chno="77" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Washington Wizards vs Indiana Pacers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="RANDOM 3",[NBA Basketball] Washington Wizards vs Indiana Pacers (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/IIIIQQ.m3u8
-#EXTINF:1 tvg-chno="150" tvg-id="Live.Event.us" tvg-name="[Olympics] Men's Hockey: U.S. vs. Slovakia (NBC) (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Olympics] Men's Hockey: U.S. vs. Slovakia (NBC) (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoxe8a5a7g4h.com/olympics.m3u8
-#EXTINF:1 tvg-chno="151" tvg-id="Live.Event.us" tvg-name="[Paraguay Primera Division] 2 de Mayo vs Recoleta (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Paraguay Primera Division] 2 de Mayo vs Recoleta (FAWA)
+#EXTINF:1 tvg-chno="132" tvg-id="Live.Event.us" tvg-name="[Paraguay Primera Division] 2 de Mayo vs Recoleta (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Paraguay Primera Division] 2 de Mayo vs Recoleta (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysssqqqqq.m3u8
-#EXTINF:1 tvg-chno="152" tvg-id="Live.Event.us" tvg-name="[Paraguay Primera Division] Libertad Asuncion vs Rubio Nu (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Paraguay Primera Division] Libertad Asuncion vs Rubio Nu (FAWA)
+#EXTINF:1 tvg-chno="133" tvg-id="Live.Event.us" tvg-name="[Paraguay Primera Division] Libertad Asuncion vs Rubio Nu (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Paraguay Primera Division] Libertad Asuncion vs Rubio Nu (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysssqqqqq.m3u8
-#EXTINF:1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Estrela vs Tondela (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="RANDOM 3",[Portugal Primeira Liga] Estrela vs Tondela (FAWA)
+#EXTINF:1 tvg-chno="136" tvg-id="Soccer.Dummy.us" tvg-name="[Portugal Primeira Liga] Estrela vs Tondela (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="RANDOM 3",[Portugal Primeira Liga] Estrela vs Tondela (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ysssqqq.m3u8
-#EXTINF:1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Portuguese Primeira Liga] Tondela vs Estrela (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1766415340_portugald.png" group-title="RANDOM 3",[Portuguese Primeira Liga] Tondela vs Estrela (STRMHUB)
+#EXTINF:1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Portuguese Primeira Liga] Tondela vs Estrela (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1766415340_portugald.png" group-title="RANDOM 3",[Portuguese Primeira Liga] Tondela vs Estrela (STRMHUB)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8?st=U-lmJTq7kso_7I2F5dM6zg&e=1771632030
-#EXTINF:1 tvg-chno="166" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Snooker] Snooker Players Championship (FAWA)
+#EXTINF:1 tvg-chno="147" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Snooker] Snooker Players Championship (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b.rtzsa.cfd/hls/HEEEZQq.m3u8
-#EXTINF:1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Elche 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Athletic Bilbao vs Elche 1 (FAWA)
+#EXTINF:1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Elche 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Athletic Bilbao vs Elche 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/roooqqqq.m3u8
-#EXTINF:1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Athletic Bilbao vs Elche 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="RANDOM 3",[Spanish La Liga] Athletic Bilbao vs Elche 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s.simskimsa.shop/hls/roooqqqq.m3u8
-#EXTINF:1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Delray Beach (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Delray Beach (FAWA)
+#EXTINF:1 tvg-chno="150" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Delray Beach (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Delray Beach (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/PPPPD.m3u8
-#EXTINF:1 tvg-chno="174" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
+#EXTINF:1 tvg-chno="151" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Doha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Doha (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/YYYY.m3u8
-#EXTINF:1 tvg-chno="175" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)
+#EXTINF:1 tvg-chno="152" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tennis ATP] Tennis ATP Rio de Janeiro (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.105.46/hls/PPPP.m3u8
-#EXTINF:1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[Uruguay Liga AUF] CA Cerro vs Liverpool M (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Uruguay Liga AUF] CA Cerro vs Liverpool M (FAWA)
+#EXTINF:1 tvg-chno="153" tvg-id="Live.Event.us" tvg-name="[Uruguay Liga AUF] CA Cerro vs Liverpool M (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Uruguay Liga AUF] CA Cerro vs Liverpool M (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
