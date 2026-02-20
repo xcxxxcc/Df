@@ -2339,6 +2339,12 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Cricket Blockbusters 24x7
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771595886~acl=/*~id=42913474970816367370727965408588~hmac=4d9b11465e9a4e8c780a5e4711646af81afd18e4b2c307730a9a444be5e307e2|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g72; Build/T2SVS33.68-21-10-3)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=171b890a5f55f74305f5706e6acd64b1-1771553400109
@@ -2357,8 +2363,6 @@ https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12-criclive/master.m3u8?hdn
 #--- ZEE5 END ---
 
 #--- PPVLAND START ---
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="PPV-LIVE",On USA: Switzerland vs. USA (W Round-Robin)
-https://ppv2.168.us.kg/stream?uri=olympics/2026-02-20/curling/on-usa-switzerland-vs-usa-w-round-robin
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/68cc86e003828c150790813c3353f1ce-thumbnail.jpg" group-title="PPV-LIVE",Women's Ski Cross: Qualifying
 https://ppv2.168.us.kg/stream?uri=olympics/2026-02-20/freestyle-skiing/womens-ski-cross-qualifying
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="PPV-LIVE",Men's Aerials: Qualifying
@@ -2554,79 +2558,67 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[NBA] Philadelphia 76ers vs Atlanta Hawks lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Philadelphia 76ers vs Atlanta Hawks lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997a0dc26633_4733.flv?expire=1772149596&sign=8d877da50809e6d549834638b2fc4387
-#EXTINF:1 group-title="RANDOM 1",[NBA] Philadelphia 76ers vs Atlanta Hawks lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Philadelphia 76ers vs Atlanta Hawks lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997a0dc26633_4733/index.m3u8?expire=1772149596&sign=8d877da50809e6d549834638b2fc4387
-#EXTINF:1 group-title="RANDOM 1",[NBA] Charlotte Hornets vs Houston Rockets lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Charlotte Hornets vs Houston Rockets lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997a870fe267_42127.flv?expire=1772151536&sign=fc13a002c0bf76523acb7ffe008d24d5
-#EXTINF:1 group-title="RANDOM 1",[NBA] Charlotte Hornets vs Houston Rockets lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Charlotte Hornets vs Houston Rockets lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997a870fe267_42127/index.m3u8?expire=1772151536&sign=fc13a002c0bf76523acb7ffe008d24d5
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Copa Libertadores] Deportivo Tachira vs Deportes Tolima lúc 09:08 WIB 20/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/17e527f3d4e4fc4df30056434c98deba/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Copa Libertadores] Deportivo Tachira vs Deportes Tolima lúc 09:08 WIB 20/02/2026 [FLV]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/6997a7f5fe267_73445.flv?expire=1772151413&sign=e318eb9b49e777fe03ac122372658e27
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Copa Libertadores] Deportivo Tachira vs Deportes Tolima lúc 09:08 WIB 20/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/6997a7f5fe267_73445/index.m3u8?expire=1772151413&sign=e318eb9b49e777fe03ac122372658e27
-#EXTINF:1 group-title="RANDOM 1",[NBA] New York Knicks vs Detroit Pistons lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[NBA] New York Knicks vs Detroit Pistons lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997a38626633_72787.flv?expire=1772150278&sign=2e347466803311c5b830798b690fa5be
-#EXTINF:1 group-title="RANDOM 1",[NBA] New York Knicks vs Detroit Pistons lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[NBA] New York Knicks vs Detroit Pistons lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997a38626633_72787/index.m3u8?expire=1772150278&sign=2e347466803311c5b830798b690fa5be
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:08 WIB 20/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:24 WIB 20/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a3132fc632ec2fd51a0056e8611e6032/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997a2fd26633_74012.flv?expire=1772150141&sign=afc6c75bf7db0220323f2785c55265dd
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[CONMEBOL Recopa Sudamericana] Club Atlético Lanús vs CR Flamengo lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997a2fd26633_74012/index.m3u8?expire=1772150141&sign=afc6c75bf7db0220323f2785c55265dd
-#EXTINF:1 group-title="RANDOM 1",[Nicaragua Liga Primera] UNAN Managua vs Managua FC lúc 09:08 WIB 20/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Nicaragua Liga Primera] UNAN Managua vs Managua FC lúc 09:24 WIB 20/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/1e77a78d3c2b5ebb7fce6cad88f0e8b1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CONMEBOL U20 Women's Sudamericano] Argentina Women U20 vs Ecuador Women U20 lúc 09:08 WIB 20/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CONMEBOL U20 Women's Sudamericano] Argentina Women U20 vs Ecuador Women U20 lúc 09:24 WIB 20/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/6a5142f01968ebfac5ce27a2831aff78/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[NBA] Chicago Bulls vs Toronto Raptors lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Chicago Bulls vs Toronto Raptors lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997ad8026633_112310.flv?expire=1772152832&sign=23a9cb6ce8bcdac2667edc12fb1303c1
-#EXTINF:1 group-title="RANDOM 1",[NBA] Chicago Bulls vs Toronto Raptors lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[NBA] Chicago Bulls vs Toronto Raptors lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997ad8026633_112310/index.m3u8?expire=1772152832&sign=23a9cb6ce8bcdac2667edc12fb1303c1
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:08 WIB 20/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:24 WIB 20/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a336871c4b7e4a9666091c12ac89213d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:08 WIB 20/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:24 WIB 20/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6997acfffe267_70498.flv?expire=1772152703&sign=2ca13b7f6255c90cb7b619abcfabb9bc
-#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:08 WIB 20/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[CNCF CHL] Sporting San Miguelito vs Los Angeles Galaxy lúc 09:24 WIB 20/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6997acfffe267_70498/index.m3u8?expire=1772152703&sign=2ca13b7f6255c90cb7b619abcfabb9bc
@@ -2636,12 +2628,6 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771521928.png",07h00 WIB 20/02 aCharlotte Hornets vs Houston Rockets (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1665_1gtzd4kmqm2a.png",07h30 WIB 20/02 Deportivo Tachira vs Deportes Tolima (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1665_1gtzd4kmqm2a.png",07h30 WIB 20/02 Deportivo Tachira vs Deportes Tolima (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/263_164940920727.png",07h30 WIB 20/02 Lanus vs Flamengo (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -2654,11 +2640,6 @@ https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/19360_1h8jkgtce6f.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/19360_1h8jkgtce6f.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvZ64e1hqiP4sLx7v/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/19360_1h8jkgtce6f.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/19360_1h8jkgtce6f.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -2899,292 +2880,292 @@ https://live.alilicloud.com/live/a3132fc632ec2fd51a0056e8611e6032/playlist.m3u8
 https://live.alilicloud.com/live/6a5142f01968ebfac5ce27a2831aff78/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771556015-0-0-37784d673e6b9a16b95ae4f27000f04f
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771557095-0-0-cdea59975850e6e4a3b4a2d8de2beb1a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771556015-0-0-f277081a4685a0a0c87cdffa14673611
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771557095-0-0-37bb564116c3801af0738c7a7f1ca0df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771556015-0-0-93d89950cea2cc72db614edee1f660a6
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771557095-0-0-2874f2379e5dcb19e13149e44e31a8a9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771556015-0-0-0a062f26772a7321607157a0dfba6183
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771557095-0-0-98439b510b444901ab32b65aa136cd48
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=217f325dc0159a4d4eec714aa4596ea1&txTime=699812ff
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=6c8f5450473a9c2304c040d68b58a986&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=096b6570d40573ab07c1e7ca4c4e4b1a&txTime=699812ff
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=e99ccc3e4a108281e79a0e291ada78d2&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=217f325dc0159a4d4eec714aa4596ea1&txTime=699812ff
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=6c8f5450473a9c2304c040d68b58a986&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=096b6570d40573ab07c1e7ca4c4e4b1a&txTime=699812ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=f3833b20d5aff5c2713ff9984e28c26e&txTime=699812ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=381f9c311b64d0ec72ad6597c4d52944&txTime=699812ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=f3833b20d5aff5c2713ff9984e28c26e&txTime=699812ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=381f9c311b64d0ec72ad6597c4d52944&txTime=699812ff
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=e99ccc3e4a108281e79a0e291ada78d2&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/aae072d2a5b81893de7d7b27bae6977e.png",08h00 WIB 20/02 Chicago Bulls vs Toronto Raptors [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771556015-0-0-e7e1b20d6562f6f5211e7864da4a24eb
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771557095-0-0-0f5b8253c4c918748370f5cb554c3ee7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/aae072d2a5b81893de7d7b27bae6977e.png",08h00 WIB 20/02 Chicago Bulls vs Toronto Raptors [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771556015-0-0-054cec1cc37b653ed5877b025ac10ecf
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771557095-0-0-30ac566963c6ec5505c28d33aed41aa8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/aae072d2a5b81893de7d7b27bae6977e.png",08h00 WIB 20/02 Chicago Bulls vs Toronto Raptors [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771556015-0-0-8b94e0430b4944016b7291d9b0d21035
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771557095-0-0-ecc6ac9a8bdf0139002ece183261b786
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/aae072d2a5b81893de7d7b27bae6977e.png",08h00 WIB 20/02 Chicago Bulls vs Toronto Raptors [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771556015-0-0-5bdd02ff45574d68e3c9969dac50751e
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771557095-0-0-24665d48f8e6222a4b0c544d3adc3ff0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=5587f422801952c0e7f4014b06d5fdcb&txTime=69981737
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=0e6405b98e9a736b5b9fff67daf84fb0&txTime=69981737
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=5587f422801952c0e7f4014b06d5fdcb&txTime=69981737
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=0e6405b98e9a736b5b9fff67daf84fb0&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=faefad4486fb4d9cc8129b87111f7cd7&txTime=699812ff
+https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=87bf41a1773ab39222212465d14e62b3&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=de4187ce32d836ff7930d6c718eedf3a&txTime=699812ff
+https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=ce37d356f1966756bbd1561ea032c3af&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=faefad4486fb4d9cc8129b87111f7cd7&txTime=699812ff
+https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=87bf41a1773ab39222212465d14e62b3&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/5d33f57df84797a5abdcd9e47baf7c38.png",08h00 WIB 20/02 Argentina Women U20 vs Ecuador Women U20 [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=de4187ce32d836ff7930d6c718eedf3a&txTime=699812ff
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=ce37d356f1966756bbd1561ea032c3af&txTime=69981737
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771556375-0-0-1092074aa3acd9bf29a06b2ecbad7470
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771557455-0-0-d150e24320e310b3f6829ddef19c8657
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771556375-0-0-f8b9fffb9ce926306336db11a73be12e
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771557455-0-0-0d31e7f9195ea7974a6e45c93a0bd1c0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771556375-0-0-58479186d70ab176b85ef192caec77be
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771557455-0-0-1196a7594db5e412b06e5b95bba11380
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771556375-0-0-59b82d5f7d8446e8a057a7c046a0c2c5
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771557455-0-0-48f330871b6a32390c990a9b3b58143b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1771556375-0-0-4cdccba45f5935ebec7d09bb4823d1da
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1771557455-0-0-8259048309d7cb172a4da05c2ed5b874
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1771556375-0-0-0dd86800963f97bc1665abac0d6900bc
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1771557455-0-0-0e568b3a2e305e26766137f3006d2f0e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771556375-0-0-e8e44483eeb031c8302974ae2ceadd9f
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1771557455-0-0-01ade94674dd17be0f30e05b40468ea7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771556375-0-0-bbfd1410fc8af8b3458c8693f20087a2
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1771557455-0-0-b847bf901abdc36e78013cf52663ae76
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771556375-0-0-ce2bff968e035705d9941ad754b46a2b
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1771557455-0-0-722783c19882a8649cae95bd4e57d619
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771556375-0-0-4d3bfd6bb67fab3c436a878122a53442
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1771557455-0-0-4b60644f97f252a798f3f71910250b1a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771556375-0-0-9ee64210eb03a63712619ec6f9e61a57
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1771557455-0-0-7aa2007157f71d25978334d6edd64f3d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771556375-0-0-67750f24c1c3c3c01a22a88e64dff8a4
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1771557455-0-0-47941b53c828c2c1832321681574dd31
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV XAVI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=17ae074fdaf4637defae35d2ea28186d&txTime=69981467
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=a8e770ddbab77b6fdca58ff6b7571e7f&txTime=6998189f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV XAVI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=733e72050430d3e183a978496c214273&txTime=69981467
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=0299ebeaa306ec8173eedcfbc3f1911c&txTime=6998189f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV XAVI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=17ae074fdaf4637defae35d2ea28186d&txTime=69981467
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=a8e770ddbab77b6fdca58ff6b7571e7f&txTime=6998189f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV XAVI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=733e72050430d3e183a978496c214273&txTime=69981467
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771556375-0-0-689df843cfa73df8e9a8f3ae79e20294
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771556375-0-0-c3530a174aa0e49d28a86835b54406dc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771556375-0-0-7f4c9e33d53cb0e8dfbb48f9e1dbd076
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771556375-0-0-d2e139fd8b93dcb5b800856148b1d3cb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771556375-0-0-43e15f9cdafe286a99867e4c9227ed12
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771556375-0-0-89f969ba915e510691de16d1907ce6b5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771556375-0-0-7033fa5165255b38b45b0eda58090a3b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771556375-0-0-c43011ccc98764e47fd32b17f5f98d50
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=0299ebeaa306ec8173eedcfbc3f1911c&txTime=6998189f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/d3eb517a941b49e4aeba09a580870338.png",07h30 WIB 20/02 New York Knicks vs Detroit Pistons [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771556375-0-0-ae49d71bb5289626d2b6209cd39a3886
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771557455-0-0-2224e94d227c9c1487c4cb2df8a99e8d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/d3eb517a941b49e4aeba09a580870338.png",07h30 WIB 20/02 New York Knicks vs Detroit Pistons [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771556375-0-0-7b9ee72baf9931e8707c6bf80d770ff8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771557455-0-0-191ae30a8632da14daccab619bd20d78
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/d3eb517a941b49e4aeba09a580870338.png",07h30 WIB 20/02 New York Knicks vs Detroit Pistons [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771556375-0-0-dd8bf09240043b7e83881f66e990c264
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771557455-0-0-5599c2d1f6b935b3371fd43d7d081482
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/d3eb517a941b49e4aeba09a580870338.png",07h30 WIB 20/02 New York Knicks vs Detroit Pistons [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771556375-0-0-e0beb17cf99c847689d2f4715b19813b
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771557455-0-0-cd3a887ec29de9c763f8076cb66880a8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1771557455-0-0-df3825f7ed80d3e5c13bf4412c332dc9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1771557455-0-0-59e9525e7e1d8e77916be944e2891003
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1771557455-0-0-b1b7fcf06919384845b84c42cd08b044
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1771557455-0-0-65f91c7b96610577ef7d7198b46fece9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771557455-0-0-6962ce73e1346531f75802b80c7e03f8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771557455-0-0-6c5610969d13d5ceb647fc314b4f7b08
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771557455-0-0-e8cda7c50aa422bc0722920f34acc57d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/f1e0a9fe9649a5b19b74c25f1e551b1d.png",07h00 WIB 20/02 Cleveland Cavaliers vs Brooklyn Nets [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771557455-0-0-85bcdeeba0ad06d1b8152d361c413713
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771556375-0-0-fce08c28a7193fbf225e909a1e4a4a44
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771557455-0-0-235b7c0d997467422e54bf1e5759a299
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771556375-0-0-ddde5eabf4c63e0df607ad0132acbc7d
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771557455-0-0-9d5469459c638c71c8ba5c37041bb235
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771556375-0-0-560e499daa6ed0527988bb688034301e
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771557455-0-0-33fd58f05568addbc833e773e0cca70a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771556375-0-0-cb9dde4c1682a07bdf6dbb6cd702b138
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=6b9b423e17343d7fc102120add10614d&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=6d89c1a4d5d8350e6edde39d03f09b34&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6b9b423e17343d7fc102120add10614d&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=6d89c1a4d5d8350e6edde39d03f09b34&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1771556735-0-0-000c2b6d0a82f230f2f3b317e0f18df0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1771556735-0-0-16548dbd90dd85ed2aa39e7ece5053e7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771556735-0-0-c64818df38bfaeb121257ab9bbfae8e3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771556735-0-0-4dd0d46d44a155eabcd69b95d17e4636
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771556735-0-0-77a7def4252bb8f7e78298b1c6cfb847
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771556735-0-0-67659743ddd55f71e13cadfcad572da1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771556735-0-0-4dc5585a601f262ecdc05bc2f0276aa4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771556735-0-0-69b76d23b3de69684a272feb4b545141
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771556735-0-0-e85141fa76d0e166de7d4d57cb9f1f14
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771556735-0-0-dfbab52930fd3e5e73e9f6e821246247
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771556735-0-0-97d2d4a5056d9ec1a76ff49c24c753a4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771556735-0-0-0efa74d35c0b18bb72e6f95bc2d8bcbc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771556735-0-0-f1326a09b1b6541a46fe7f3d502eab13
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771556735-0-0-f5e32c0a504f7d8dba575e62cc8eda30
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771556735-0-0-9ec4e8669ab7c48a61d9f6c82458b444
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771556735-0-0-cc77befb9f7b0a1722b67a90d0dd656f
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771557455-0-0-a7d5cacb42302e9bacc85cac9b102f98
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771556735-0-0-e25c28e9fcfd2ba9b60ea5e174cee011
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771557815-0-0-93a57cb6b1a1005358df0d17e2019adc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771556735-0-0-222c4f20307eabfa98152e438d855cc1
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771557815-0-0-60826f173315638505966cf3d6cf92d6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771556735-0-0-cb2925f17b5c1de884daf35482ce5e2c
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771557815-0-0-db6919c4ba1bced7232b02e948205c9e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771556735-0-0-0b7d7468719c6933c5ae3c7bbac48b25
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771557815-0-0-938359085b98f398c63270f7f25a034c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771557815-0-0-e5d248481ecf47696ebc1e996cf1feb9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771557815-0-0-6697fb62a08cad30fa97b6c6fab49e40
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771557815-0-0-37dfe7abb18480e4eb444c51dc7b7850
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771557815-0-0-7eec91a1cfaedea31cd2fd42dca90adc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=86f8dfcd40594992c8b14e9c1390f09e&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=147fd06bf3372dc179b2efe0b7940007&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=86f8dfcd40594992c8b14e9c1390f09e&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=147fd06bf3372dc179b2efe0b7940007&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771557815-0-0-82875e5ee771825d7f74815adbf60c02
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771557815-0-0-b4918a664f3e370262cb49dfb0624956
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771557815-0-0-f808162adb2d5518dd2bc5ce92f9801a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/9804b77f7a7b341531c04d0cf2e7b05e.png",08h00 WIB 20/02 Sporting San Miguelito vs Los Angeles Galaxy [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771557815-0-0-06190a7b311178e3ce3672011b22bb37
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1771557815-0-0-a32d56ce891c333f456ec061ac591f84
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1771557815-0-0-957d0bf607f7b8524b29c97376c17f04
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1771557815-0-0-f797a9074f9bf2e99959037e6d13629e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/f3dacaf86d55489e1d5a0d5490cc8a54.png",07h30 WIB 20/02 Club Atlético Lanús vs CR Flamengo [BLV  TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1771557815-0-0-081df54003c096416fc29acc86e39bcc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771557815-0-0-0969a4a5d313caecebaf4c3f479ab69d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771557815-0-0-84b75f6c2efead6bfa26972cad935d38
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771557815-0-0-7ea0c560d421b7365360005e1fb5d796
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771557815-0-0-25821d63e68ad01df219dd13f2f3856b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771556735-0-0-20a2b21605c9acfd167793464d07acfc
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771557815-0-0-c47812aa35ca9a4acb97732576491a62
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771556735-0-0-27dbb04faf058d427ee975ceb00c4edf
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771557815-0-0-53b0ddab7a532e4a070c66da381b47d7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771556735-0-0-b09cb8300d332e8f76b9ef8eb7f3988d
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771557815-0-0-539870908382a8b613840d9cbd5b2a2a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260217/bc9d49606e096f8014afc756f6eddffd.png",08h00 WIB 20/02 UNAN Managua vs Managua FC [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771556735-0-0-f14ffe6797661ad074f3a88f1aa80096
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771556735-0-0-addc9a32e8da2e2ea960cd5cb1b4ddfc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771556735-0-0-48f4f16eeebcf2ddf1050ce770a298bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771556735-0-0-08a34599d0b5c260bc233758817925d9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771556735-0-0-d123c5b7ca56e8e1bce0a9de73bdacd7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=f20710bad0fddd8531e8b089cf98efeb&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b01290223ecbc239c4f6729a782cb764&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f20710bad0fddd8531e8b089cf98efeb&txTime=699815cf
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b01290223ecbc239c4f6729a782cb764&txTime=699815cf
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771557815-0-0-c0313dd1944d5357ca8f63ec0a7fc63f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771556735-0-0-0b527ec0c84fc742a572d333181eedb5
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1771557815-0-0-475542e1b6418172d107a9fe60fbe645
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771556735-0-0-7e5244ee3d18dc6fffd5ea4c36a09b12
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1771557815-0-0-7452311f0b2dea1cb933393d148c40f2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771556735-0-0-4104b463c6f3b5d6980f58b38442ccb5
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1771557815-0-0-c3c4488fac1e0cf2230dec84084311ac
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260218/3a15f03e3951439c9af523f8cedc4f24.png",07h00 WIB 20/02 Charlotte Hornets vs Houston Rockets [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771556735-0-0-a84dd75f4c4896662e876c13b9923163
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1771557815-0-0-271123263ba636743f7e1d5422b4297c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=d4796e0a3d18444498f85a12c20f05fe&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=397a6e3bd6e66d09df93970f6e0cf1cf&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d4796e0a3d18444498f85a12c20f05fe&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=397a6e3bd6e66d09df93970f6e0cf1cf&txTime=69981a07
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1771557815-0-0-c6ff9254e404c4f998b29f7b3c30451e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1771557815-0-0-55fadfb69c06adac84e12cb0e34827b1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1771557815-0-0-8c2fa74d96ff3b663009d91e903f1831
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/d5500d2bd2147d8ea3f56df32cfdf81d.png",07h30 WIB 20/02 Deportivo Tachira F.C. vs Deportes Tolima [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1771557815-0-0-9ae8c6b20e258680f0d273ec78adbaff
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771556735-0-0-188769490b519ddf6956b7298235fdba
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771557815-0-0-13e1082a0c0f0adbc4ae15db6e0157c4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771556735-0-0-2cdd26057f25f15325296ccc0d91479c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771557815-0-0-479f8636588bb666bb1e5e3bccdd37b6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771556735-0-0-0b9aaf9dd8bd6e9748a61dd1907f31d9
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771557815-0-0-9af5a98f3c854030d090fe3dcdbfa1a7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260216/83ab6ca6857e167946eb708d93bd10c9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771556735-0-0-ee6c7ba54ba5604d3889df945d37d107
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771557815-0-0-2f451a66d91a4e427da9fed0c8111515
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/2889.png",08h00 20/02 Sporting San Miguelito vs Los Angeles Galaxy (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
