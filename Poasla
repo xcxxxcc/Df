@@ -180,6 +180,11 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090504784" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771688026410794_UEFAYouthLeague26_Roundof16_Frankfurt_vs_Sporting_CP_21feb_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Eintracht Frankfurt vs Sporting CP - 24 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1771979404~acl=/*~id=00185094983278281668398243215413~hmac=0f6bf37e745645047ad8f6b8fcd2afc0cec1c8f82d43b0ef4b01873dc2011de3|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; OX_X1; Build/OPM2.171019.012)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8f9c586a24c4571446bb6b7b70d45b17-1771947000153
@@ -189,126 +194,286 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
 
+#--- PPVLAND START ---
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/d5fba1d9b9943059a481e89fd5c627dd-thumbnail.jpg" group-title="PPV-LIVE",Detroit Tigers vs. Atlanta Braves
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/det-atl-6404
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/a8e342662a9c081deb710ed5d748bad2-thumbnail.jpg" group-title="PPV-LIVE",Pittsburgh Pirates vs. Boston Red Sox
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/pit-bos-1864
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f23bcba686ac7e8d6a7c1a5d93cbc3eb-thumbnail.jpg" group-title="PPV-LIVE",New York Yankees vs. Toronto Blue Jays
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/nyy-tor-2001
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/a5d533249fe29a22f6c96ce2da90d982-thumbnail.jpg" group-title="PPV-LIVE",Houston Astros vs. New York Mets
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/hou-nym-8029
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/31211692068ecc2385a256352d690681-thumbnail.jpg" group-title="PPV-LIVE",Cleveland Guardians vs. Los Angeles Dodgers
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/cle-lad-7954
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/4b4e98024a5f27c97a94159c3ca4008c-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Angels vs. Colorado Rockies
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/laa-col-5820
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/cf4cc4ed5fcea8832f4eaf51d8b97b99-thumbnail.jpg" group-title="PPV-LIVE",Chicago White Sox vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/20260223/chw-sea-6392
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/e2f9a90d1d9a556b5cc158e173d2cde9-thumbnail.jpg" group-title="PPV-LIVE",Philadelphia 76ers vs. Indiana Pacers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/phi-ind
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/21d7499d91f528a5dfcd77a1e9a7fdb8-thumbnail.jpg" group-title="PPV-LIVE",Washington Wizards vs. Atlanta Hawks
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/wsh-atl
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/a8c732f7754a044de3bf62a613e2974d-thumbnail.jpg" group-title="PPV-LIVE",Dallas Mavericks vs. Brooklyn Nets
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/dal-bkn
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9ec3504f7982b89957b27ba8017ef10f-thumbnail.jpg" group-title="PPV-LIVE",Oklahoma City Thunder vs. Toronto Raptors
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/okc-tor
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6d0e3ff6d941d8d1e9fd51b04555061e-thumbnail.jpg" group-title="PPV-LIVE",New York Knicks vs. Cleveland Cavaliers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/ny-cle
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/5b7625d475b593e2f089af7131ac9dfa-thumbnail.jpg" group-title="PPV-LIVE",Charlotte Hornets vs. Chicago Bulls
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/cha-chi
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/76705840d75eab0d8f3dfca47d6b0ae0-thumbnail.jpg" group-title="PPV-LIVE",Miami Heat vs. Milwaukee Bucks
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/mia-mil
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/2002d682abcb754aafa443b4dd51c431-thumbnail.jpg" group-title="PPV-LIVE",Golden State Warriors vs. New Orleans Pelicans
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/gs-no
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9e03858e39e92dc912f023a768106db3-thumbnail.jpg" group-title="PPV-LIVE",Boston Celtics vs. Phoenix Suns
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/bos-phx
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/5ae1b12b0b2b47b0ef7db6ddb9edbd91-thumbnail.jpg" group-title="PPV-LIVE",Minnesota Timberwolves vs. Portland Trail Blazers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/min-por
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/370babe7a71033f8342db5e987698b0b-thumbnail.jpg" group-title="PPV-LIVE",Orlando Magic vs. Los Angeles Lakers
+https://ppv2.168.us.kg/stream?uri=nba/2026-02-24/orl-lal
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="PPV-LIVE",Willow Cricket
+https://ppv2.168.us.kg/stream?uri=willow-cricket
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 1
+https://ppv2.168.us.kg/stream?uri=players-championship-board-1
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 2
+https://ppv2.168.us.kg/stream?uri=players-championship-board-2
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 3
+https://ppv2.168.us.kg/stream?uri=players-championship-board-3
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="PPV-LIVE",Players Championship - Board 4
+https://ppv2.168.us.kg/stream?uri=players-championship-board-4
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="PPV-LIVE",Premier League Darts: Night 4
+https://ppv2.168.us.kg/stream?uri=premier-league-darts-night-4
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/4b18ed053584349b2015bcb193f0f205-thumbnail.jpg" group-title="PPV-LIVE",Atleti vs. Club Brugge
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-24/atm-bru
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/8e9907b9b24f1d744172c2bcd085ed00-thumbnail.jpg" group-title="PPV-LIVE",Leverkusen vs. Olympiacos
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-24/lev-oly
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f7e5b71d9bf48b7a984e1e3edb0b5b4d-thumbnail.jpg" group-title="PPV-LIVE",Inter vs. Bodø/Glimt
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-24/int-bod
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/3543b50aa11e218a282f859fd2f37564-thumbnail.jpg" group-title="PPV-LIVE",Newcastle vs. Qarabağ
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-24/new-qar
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6440c4e9efc9b5c120cf47dae8a4bf9e-thumbnail.jpg" group-title="PPV-LIVE",Atalanta vs. B. Dortmund
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-25/ata-bvb
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/bea47525d34fa049f8b1ad74b4e8a5b3-thumbnail.jpg" group-title="PPV-LIVE",Paris vs. Monaco
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-25/psg-mon
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/60d428516634a9d6df73ae75a31bdfe8-thumbnail.jpg" group-title="PPV-LIVE",Juventus vs. Galatasaray
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-25/juv-gal
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6999e477e39645832ba145aa21b635ad-thumbnail.jpg" group-title="PPV-LIVE",Real Madrid vs. Benfica
+https://ppv2.168.us.kg/stream?uri=ucl/2026-02-25/rma-ben
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/31e546bae64e9b597cfbf000ef5fbbd5-thumbnail.jpg" group-title="PPV-LIVE",Fiorentina vs. Jagiellonia
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/fio-jag
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/70250674fce5ffd03170a9baaacc2323-thumbnail.jpg" group-title="PPV-LIVE",Samsunspor vs. Shkëndija
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/sam-skn
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/77ac3cbeb6269670719b5dd5772bd43f-thumbnail.jpg" group-title="PPV-LIVE",Celje vs. Drita
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/clj-dri
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9d92d639118289264ba97b391874e50e-thumbnail.jpg" group-title="PPV-LIVE",Rijeka vs. Omonoia
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/rij-omo
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/334d26d75f17e954468307b30c8acabd-thumbnail.jpg" group-title="PPV-LIVE",Ferencváros vs. Ludogorets
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/fer-lud
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/7bc6953f83aefa11ff050b2a5f35ef9b-thumbnail.jpg" group-title="PPV-LIVE",Viktoria Plzeň vs. Panathinaikos
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/plz-pan
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/d85bc55ce7116058da16ea31eba24262-thumbnail.jpg" group-title="PPV-LIVE",Crvena Zvezda vs. Lille
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/zve-lil
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/b3cd055176b0c5030d68e68b0f741ec7-thumbnail.jpg" group-title="PPV-LIVE",Stuttgart vs. Celtic
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/stu-cel
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/65e3b6c48efcec817c0f0de3e9019820-thumbnail.jpg" group-title="PPV-LIVE",Lech Poznań vs. KuPS Kuopio
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/lpo-kup
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/150dd2e03d8d7c86cb609b9d96d6b2e3-thumbnail.jpg" group-title="PPV-LIVE",AZ Alkmaar vs. Noah
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/az-noa
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/535750dac16d0d4ff6b059146bb8c823-thumbnail.jpg" group-title="PPV-LIVE",Crystal Palace vs. Zrinjski
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/cry-zri
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/00300c2873283e420c5f2dcd546a72d5-thumbnail.jpg" group-title="PPV-LIVE",Lausanne-Sport vs. Sigma Olomouc
+https://ppv2.168.us.kg/stream?uri=uecl/2026-02-26/lau-sig
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ace6d0305fc5bdb0dd3402804d3f5202-thumbnail.jpg" group-title="PPV-LIVE",Genk vs. GNK Dinamo
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/gen-din
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/2db89a6b631f783d769cdbb9abb5b494-thumbnail.jpg" group-title="PPV-LIVE",Celta vs. PAOK
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/clt-paok
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9e5ef23c02ec2b4ce68c9078a67c9e87-thumbnail.jpg" group-title="PPV-LIVE",Bologna vs. Brann
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/bol-brn
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/e6e43dfaa205999b3276bf6d721418d3-thumbnail.jpg" group-title="PPV-LIVE",Nott'm Forest vs. Fenerbahçe
+https://ppv2.168.us.kg/stream?uri=uel/2026-02-26/nfo-fen
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/1d33b21106d471cf51bf40b0473e1a51-thumbnail.jpg" group-title="PPV-LIVE",FC Augsburg vs. FC Cologne
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-27/fca-koe
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/8617c0d02462c485172d796b032b8407-thumbnail.jpg" group-title="PPV-LIVE",Parma vs. Cagliari
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-27/par-cag
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/12c3388c579d62febb56a36bd7eff87e-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lens
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-27/str-rcl
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/bc7f6698ccc4fb8afcf6ad10f7180e5d-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Alavés
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-27/lev-ala
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg" group-title="PPV-LIVE",Wolverhampton Wanderers vs. Aston Villa
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-27/wol-avl
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/cc8c66334323a6e1606c59fa9779867b-thumbnail.jpg" group-title="PPV-LIVE",AFC Bournemouth vs. Sunderland
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-28/bou-sun
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/946c174ff35775f82b3b875a91d73156-thumbnail.jpg" group-title="PPV-LIVE",Rayo Vallecano vs. Athletic Club
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-28/ray-ath
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/8deb615d76b6831d039777f7a54a9159-thumbnail.jpg" group-title="PPV-LIVE",Como vs. Lecce
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-28/como-lec
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/c13c915971d74296e74dad55828a9db7-thumbnail.jpg" group-title="PPV-LIVE",Bayer Leverkusen vs. Mainz
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-28/b04-m05
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/b0954c8aebac4240eacb6449f859cffe-thumbnail.jpg" group-title="PPV-LIVE",Borussia Mönchengladbach vs. 1. FC Union Berlin
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-28/bmg-fcu
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/849bec43d0dddff49c03a0c2737d72fd-thumbnail.jpg" group-title="PPV-LIVE",TSG Hoffenheim vs. St. Pauli
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-28/tsg-stp
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/435d5e7ce1cff3c1bdeaa24c0386a489-thumbnail.jpg" group-title="PPV-LIVE",Werder Bremen vs. 1. FC Heidenheim 1846
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-28/svw-hdh
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/eda6dacf84d21d1dba9adfec78d65e5a-thumbnail.jpg" group-title="PPV-LIVE",Burnley vs. Brentford
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-28/bur-bre
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/52141789d1add7e8aaff04fa304c00f8-thumbnail.jpg" group-title="PPV-LIVE",Liverpool vs. West Ham United
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-28/liv-whu
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/bfe26e3f4cf2b729a72060f38172ebb4-thumbnail.jpg" group-title="PPV-LIVE",Newcastle United vs. Everton
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-02-28/new-eve
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/fbd6338794f2afb10cee4b6c5c902a73-thumbnail.jpg" group-title="PPV-LIVE",Barcelona vs. Villarreal
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-28/bar-vil
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f0360a4d4c6dc9fbf1163ad8825af679-thumbnail.jpg" group-title="PPV-LIVE",Stade Rennais vs. Toulouse
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-28/ren-tou
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/77f7204b58f13d8bc4da23325e1b408a-thumbnail.jpg" group-title="PPV-LIVE",Hellas Verona vs. Napoli
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-28/ver-nap
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/465d3197bf0c898aeac5a1b48d716b31-thumbnail.jpg" group-title="PPV-LIVE",Mallorca vs. Real Sociedad
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-28/mll-rso
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/569d427df76d4ba3166bd9c4d8c41ce7-thumbnail.jpg" group-title="PPV-LIVE",Borussia Dortmund vs. Bayern Munich
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-28/dor-mun
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/817189c32d6c7fad155d6d57853a9ca9-thumbnail.jpg" group-title="PPV-LIVE",AS Monaco vs. Angers
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-28/mon-ang
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/e2c3d3c8ace61ae7ae8ebefd05a994f4-thumbnail.jpg" group-title="PPV-LIVE",Inter Milan vs. Genoa
+https://ppv2.168.us.kg/stream?uri=seriea/2026-02-28/int-gen
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/235427b6b4568dbe023c2160841a01c3-thumbnail.jpg" group-title="PPV-LIVE",Real Oviedo vs. Atlético Madrid
+https://ppv2.168.us.kg/stream?uri=laliga/2026-02-28/ovi-atm
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/92a4928645639c3a89d728f782c58c45-thumbnail.jpg" group-title="PPV-LIVE",Le Havre AC vs. Paris Saint-Germain
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-28/hac-psg
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/8dacc10d29eff60f429c4188121ee0a4-thumbnail.jpg" group-title="PPV-LIVE",Cremonese vs. AC Milan
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-01/cre-mil
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/75de302e1500bbebd6273e3e4b9adecb-thumbnail.jpg" group-title="PPV-LIVE",Elche vs. Espanyol
+https://ppv2.168.us.kg/stream?uri=laliga/2026-03-01/elc-esp
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ca013babdf9a99745704ca8cd7e9636b-thumbnail.jpg" group-title="PPV-LIVE",Brighton & Hove Albion vs. Nottingham Forest
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-03-01/bha-nfo
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/a4dea7fc2bed6174f0257e161636a2f3-thumbnail.jpg" group-title="PPV-LIVE",Fulham vs. Tottenham Hotspur
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-03-01/ful-tot
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/88e487ba2b17b678f916334e2e0f7b94-thumbnail.jpg" group-title="PPV-LIVE",Manchester United vs. Crystal Palace
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-03-01/man-cry
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/1aad3214760631518fd234d209fe5ad0-thumbnail.jpg" group-title="PPV-LIVE",Sassuolo vs. Atalanta
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-01/sas-ata
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9c8918ab5d1455a6fc168b73fc8d7fa1-thumbnail.jpg" group-title="PPV-LIVE",Paris FC vs. Nice
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/par-nice
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f8a42af7337ede2ff4f786db2ebe1125-thumbnail.jpg" group-title="PPV-LIVE",VfB Stuttgart vs. VfL Wolfsburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-03-01/vfb-wob
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/549ca58b911337ad1e316194b9789ada-thumbnail.jpg" group-title="PPV-LIVE",Valencia vs. Osasuna
+https://ppv2.168.us.kg/stream?uri=laliga/2026-03-01/val-osa
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/71733fa5766fe8614262b194bceb4845-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Nantes
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/lill-nan
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/fcdb13742dcc669045289d88e2670a97-thumbnail.jpg" group-title="PPV-LIVE",Lorient vs. AJ Auxerre
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/lor-aux
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6de63ae090404b64a29dc612e0958818-thumbnail.jpg" group-title="PPV-LIVE",Metz vs. Brest
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/metz-bre
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/cd1043a1f6dc3fd609283fb577a23984-thumbnail.jpg" group-title="PPV-LIVE",Eintracht Frankfurt vs. SC Freiburg
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-03-01/sge-scf
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ef1fbb8e34778c0fc9758eb27236a516-thumbnail.jpg" group-title="PPV-LIVE",Arsenal vs. Chelsea
+https://ppv2.168.us.kg/stream?uri=premierleague/2026-03-01/ars-che
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/9e8dd31a85b5091cf1b7bb5d210d3b02-thumbnail.jpg" group-title="PPV-LIVE",Torino vs. Lazio
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-01/tor-laz
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6ce851926554839095f1dc6784e6d078-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Sevilla
+https://ppv2.168.us.kg/stream?uri=laliga/2026-03-01/bet-sev
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/341008bf29be29802fc0a78adb5a3fdf-thumbnail.jpg" group-title="PPV-LIVE",Hamburg SV vs. RB Leipzig
+https://ppv2.168.us.kg/stream?uri=bundesliga/2026-03-01/hsv-rbl
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/32220b9199385e70a897310e450d3c49-thumbnail.jpg" group-title="PPV-LIVE",AS Roma vs. Juventus
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-01/roma-juv
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6d203316deecd436671e4fcaecab9feb-thumbnail.jpg" group-title="PPV-LIVE",Marseille vs. Lyon
+https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/olm-lyon
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/72a64840cdada990ab9542a9219ca239-thumbnail.jpg" group-title="PPV-LIVE",Girona vs. Celta Vigo
+https://ppv2.168.us.kg/stream?uri=laliga/2026-03-01/gir-cel
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ab163405d72a0bd6f1d1502acb406011-thumbnail.jpg" group-title="PPV-LIVE",Pisa vs. Bologna
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-02/pis-bol
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/aacc7d79917535d22e1fa3364076beea-thumbnail.jpg" group-title="PPV-LIVE",Udinese vs. Fiorentina
+https://ppv2.168.us.kg/stream?uri=seriea/2026-03-02/udi-fio
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="PPV-LIVE",Real Madrid vs. Getafe
+https://ppv2.168.us.kg/stream?uri=laliga/2026-03-02/rma-get
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="PPV-LIVE",WWE: NXT
+https://ppv2.168.us.kg/stream?uri=wwe/nxt/2026-02-24
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPV-LIVE",AEW: Wednesday Night Dynamite
+https://ppv2.168.us.kg/stream?uri=aew/dynamite/2026-02-25
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPV-LIVE",TNA: Impact
+https://ppv2.168.us.kg/stream?uri=tna/impact/2026-02-26
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPV-LIVE",WWE: Friday Night Smackdown
+https://ppv2.168.us.kg/stream?uri=wwe/smackdown/2026-02-27
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPV-LIVE",AEW: Saturday Night Collision
+https://ppv2.168.us.kg/stream?uri=aew/collision/2026-02-28
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPV-LIVE",24/7 South Park
+https://ppv2.168.us.kg/stream?uri=247-south-park
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPV-LIVE",24/7 COWS
+https://ppv2.168.us.kg/stream?uri=247-cows
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPV-LIVE",24/7 Family Guy
+https://ppv2.168.us.kg/stream?uri=247-family-guy
+#EXTINF:1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPV-LIVE",24/7 The Simpsons
+https://ppv2.168.us.kg/stream?uri=247-the-simpsons
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="PPV-LIVE",24/7 SpongeBob Squarepants
+https://ppv2.168.us.kg/stream?uri=247-spongebob-squarepants
+#EXTINF:1 tvg-logo="https://api.ppv.sh/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="PPV-LIVE",Rally TV
+https://ppv2.168.us.kg/stream?uri=rally-tv
+#--- PPVLAND END ---
+
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Odisha FC vs Inter Kashi lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Odisha FC vs Inter Kashi lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699da288fe274_68958.flv?expire=1772543240&sign=961512600094c39e90b5eab123823c5f
-#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Odisha FC vs Inter Kashi lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Indian Super League] Odisha FC vs Inter Kashi lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699da288fe274_68958/index.m3u8?expire=1772543240&sign=961512600094c39e90b5eab123823c5f
-#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Nardi L. vs Lehecka J. lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Nardi L. vs Lehecka J. lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699db0e2fe274_110198.flv?expire=1772546914&sign=f2f12bf900d464012f1cb2b592d1455b
-#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Nardi L. vs Lehecka J. lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Nardi L. vs Lehecka J. lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699db0e2fe274_110198/index.m3u8?expire=1772546914&sign=f2f12bf900d464012f1cb2b592d1455b
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:44 WIB 24/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:51 WIB 24/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9591c371df44ea5757979a6827b612fb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699db502fe274_133160.flv?expire=1772547970&sign=b0d133063b92defaec18dc7f091cd0ca
-#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese U23 League] Farense U23 vs Uniao Leiria U23 lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699db502fe274_133160/index.m3u8?expire=1772547970&sign=b0d133063b92defaec18dc7f091cd0ca
-#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:44 WIB 24/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:51 WIB 24/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/6daa4bb108100bfab5be0687d4c6fd1f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699db455fe274_5160.flv?expire=1772547797&sign=f6e4d351328814aa9bae81a816ce73cc
-#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[UEFA Youth League] Eintracht Frankfurt U19 vs Sporting CP U19 lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699db455fe274_5160/index.m3u8?expire=1772547797&sign=f6e4d351328814aa9bae81a816ce73cc
-#EXTINF:1 group-title="RANDOM 1",[International Club Friendly] FC Flora Tallinn vs Riga FC lúc 22:44 WIB 24/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[International Club Friendly] FC Flora Tallinn vs Riga FC lúc 22:51 WIB 24/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9babb270267db9157a2d59cb826ea85f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Humbert U. vs Tsitsipas S. lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Humbert U. vs Tsitsipas S. lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699db995fe274_4733.flv?expire=1772549141&sign=65bd5d29f0a74cdfb99e7b75526887b5
-#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Humbert U. vs Tsitsipas S. lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[ATP Dubai] Humbert U. vs Tsitsipas S. lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699db995fe274_4733/index.m3u8?expire=1772549141&sign=65bd5d29f0a74cdfb99e7b75526887b5
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:44 WIB 24/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:51 WIB 24/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/713ca2e931510f298010e6dcd01acb19/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:44 WIB 24/02/2026 [FLV]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:51 WIB 24/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/699dbd05fe274_73445.flv?expire=1772550021&sign=de72a4cfa1511807d2e5cb2200bdde71
-#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:44 WIB 24/02/2026 [HLS]
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian Second League] Yantra Gabrovo vs Etar lúc 22:51 WIB 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/699dbd05fe274_73445/index.m3u8?expire=1772550021&sign=de72a4cfa1511807d2e5cb2200bdde71
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV CHUNN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV CHUNN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5332_20200402124732.jpg",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting Lisbon U19 (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5332_20200402124732.jpg",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting Lisbon U19 (Lương Sơn) BLV VÕ TÒNG flv
@@ -337,6 +502,89 @@ https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/53882_163650976941.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 (Lương Sơn) BLV TẦN CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV CHUNN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/58567_1h0h1y68ajc.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 (Lương Sơn) BLV CHUNN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/21331_1gtn8c03cg22.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5158_1hcpezhhp62f.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV URA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV URA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5862_1grcyc2fj620.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",18h30 WIB 24/02 Malut United vs Persatuan Sepakbola Indonesia Jakarta (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/14e4921b641f31c19f6b310b7b0679e6/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ccd842deabed2ca6252afdb31ce1e8ec/image/small?v=1768601124",17h00 WIB 24/02 Zambia Women vs Eswatini Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/20d20cc88cbdfb6ec316ff3cf8e56c4b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/adfd823b6e0adeb9a8235880cef0eeaa/image/small?v=1768601124",17h00 WIB 24/02 Zimbabwe Women vs Botswana  Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/80071dd42de1376e127ad5cddbffbc14/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/89c6d98e2459c501c9365ee35bf6877c/image/small?v=1768601124",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting CP U19 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6daa4bb108100bfab5be0687d4c6fd1f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h00 WIB 24/02 Gil Vicente U23 vs Portimonense U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9c3294218ddef65b06275307e5c1ee91/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3109a169b2c183939108cba19e4aea52/image/small?v=1768601124",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9591c371df44ea5757979a6827b612fb/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124",20h30 WIB 24/02 Bhayangkara Presisi Indonesia FC vs Semen Padang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4c158ed8313c0b4084d051a1dee74502/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0b70670fa6f29ed30e0c133c687fb868/image/small?v=1768601124",20h00 WIB 24/02 Sabail FC vs Baku Sporting FK (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -401,34 +649,6 @@ https://live3.fastestcdn-global.com/live3/f1a23c3ff9824d55b2c004357453b8b6_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/713ca2e931510f298010e6dcd01acb19/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",18h30 WIB 24/02 Malut United vs Persatuan Sepakbola Indonesia Jakarta (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/14e4921b641f31c19f6b310b7b0679e6/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ccd842deabed2ca6252afdb31ce1e8ec/image/small?v=1768601124",17h00 WIB 24/02 Zambia Women vs Eswatini Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/20d20cc88cbdfb6ec316ff3cf8e56c4b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/adfd823b6e0adeb9a8235880cef0eeaa/image/small?v=1768601124",17h00 WIB 24/02 Zimbabwe Women vs Botswana  Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/80071dd42de1376e127ad5cddbffbc14/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/89c6d98e2459c501c9365ee35bf6877c/image/small?v=1768601124",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting CP U19 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6daa4bb108100bfab5be0687d4c6fd1f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/fc98b15c2fcb4aaf4eae171c96f7b892/image/small?v=1768601124",18h00 WIB 24/02 Gil Vicente U23 vs Portimonense U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9c3294218ddef65b06275307e5c1ee91/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3109a169b2c183939108cba19e4aea52/image/small?v=1768601124",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9591c371df44ea5757979a6827b612fb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124",20h30 WIB 24/02 Bhayangkara Presisi Indonesia FC vs Semen Padang (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4c158ed8313c0b4084d051a1dee74502/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134733_a234547b.png",21h00 WIB 24/02 Odisha vs Inter Kashi (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -693,6 +913,22 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/456653917ec48fed9c3efd2f5250deae/image/small?v=1768601124",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4884ab17d3e03356b62403d46f5cd32f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/89c6d98e2459c501c9365ee35bf6877c/image/small?v=1768601124",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting CP U19 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6daa4bb108100bfab5be0687d4c6fd1f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3109a169b2c183939108cba19e4aea52/image/small?v=1768601124",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9591c371df44ea5757979a6827b612fb/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124",20h30 WIB 24/02 Bhayangkara Presisi Indonesia FC vs Semen Padang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4c158ed8313c0b4084d051a1dee74502/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0b70670fa6f29ed30e0c133c687fb868/image/small?v=1768601124",20h00 WIB 24/02 Sabail FC vs Baku Sporting FK (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -745,226 +981,6 @@ https://live.alilicloud.com/live/c5d1d2db77b7fc3ce56e080d09846866/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/713ca2e931510f298010e6dcd01acb19/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/456653917ec48fed9c3efd2f5250deae/image/small?v=1768601124",21h00 WIB 24/02 Odisha FC vs Inter Kashi (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4884ab17d3e03356b62403d46f5cd32f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/89c6d98e2459c501c9365ee35bf6877c/image/small?v=1768601124",22h00 WIB 24/02 Eintracht Frankfurt U19 vs Sporting CP U19 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6daa4bb108100bfab5be0687d4c6fd1f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3109a169b2c183939108cba19e4aea52/image/small?v=1768601124",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9591c371df44ea5757979a6827b612fb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124",20h30 WIB 24/02 Bhayangkara Presisi Indonesia FC vs Semen Padang (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4c158ed8313c0b4084d051a1dee74502/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1771950576-0-0-0b909e7b5002cfea71a6dcde9d8bb563
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1771950576-0-0-e26cae7abf29864f8a411bd17b670577
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771950576-0-0-aabf20319b0faf70c0a192427b96d4cd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771950576-0-0-de62300f87dac99b3629b675b4664cfa
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771950576-0-0-a5b2325cddbd5d7f08c25e289c6b17c8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771950576-0-0-130ae839f1da5049ed738e4c0cdbd8f3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771950576-0-0-146e6a47fdf50faf103f4c9c8e083765
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771950576-0-0-d48251442b44e0b036a7391b5c0ceac6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771950576-0-0-84227ec21507b9ec9c75b96ac2995d5c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771950576-0-0-daa46bbbdf58ed59cb27010c388ea0cc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771950576-0-0-8a5ec2a7ec5cdae01573d3df8e99f463
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771950576-0-0-6faaf0adfa3a47a7ded97e644c9b8021
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771950576-0-0-70bcd54cbdad38a04d9c1fb185d21449
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771950576-0-0-340ac0a9a9732613e1f42679dde1e9cb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771950576-0-0-a61c611ea8ec4ec8ec55d5402ad2c0c9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771950576-0-0-b2d051b6190eebf0cc4206672a00d2eb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771950576-0-0-459430e94e5aaacff78df8fd8898834c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771950576-0-0-91d7f613229ae8133d1b86223d2aafe0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771950576-0-0-3c2f14b0d5e39ec8dd31a72d0ab1374f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771950576-0-0-ca3357b6f705153c84c34f7eb4cb7924
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771950576-0-0-d08011ca01c273c396b1846780ebf010
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771950576-0-0-3db47f1aa1b352ae0d6f3f0de1c6702d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771950576-0-0-1f173cf7424cc72c68a1b3a776589397
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771950576-0-0-67e2d6566489c4866bd8273d04a3efed
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1771950576-0-0-eb803e41acf412891c5e75974cd90da3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1771950576-0-0-c57c7b4d8a313e05d3d5ffc72db99be3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1771950576-0-0-36cc903bcb309d5de581f62f4dbeb3dd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1771950576-0-0-815a3fd9b15984e89cfc99b96d4fc577
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1771950576-0-0-e3e1a19cb3b6ec52740d3d066a08f797
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1771950576-0-0-13ae4dae0c14ba4768e06ac9c0350326
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1771950576-0-0-42bf4bcf4fbbb0c150c0f3ae52abf304
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1771950576-0-0-ec794ca32878760dd3a9704dc90f4b79
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771950936-0-0-c5a92223a4e4c584027ca7a0e4adacd3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771950936-0-0-87018c97146993fc515f4453382740e2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771950936-0-0-abd7a67b02cdfe6facca92fe6e2f98ae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771950936-0-0-973de4b7cb421837439e4582814991e9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=eb0fed02c9ec6226b216584fe72f3ed3&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=5a7649dcd48d3cd26c132e3243f6586f&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=eb0fed02c9ec6226b216584fe72f3ed3&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=5a7649dcd48d3cd26c132e3243f6586f&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771950936-0-0-2f7d61b45534b92ff75796d281c24be6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771950936-0-0-105eb35794a57bed0489e5ed7d4b7aa8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771950936-0-0-c8a342d3c5a79ed8e218403489a70afe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771950936-0-0-dd8406b7a44adf83e5cbfbe600738d8d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771950936-0-0-cc75f80b3e4a8637348f5b10b4ea4b49
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771950936-0-0-fecf6d4b48d540a24bd2178e0e91cf3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771950936-0-0-282c40e804120ad9378eeab4df3602f5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771950936-0-0-9c1df93094de98346af147a5933d0bd8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771950936-0-0-713dfa223ff01ca24cd3adf1849eaf97
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771950936-0-0-94e0c0e03729146c11a69b622664f246
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771950936-0-0-85bfc1a1259d62e21332058b96728a9c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771950936-0-0-da18ca44cd26cb21bf09c70d779d7a5d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771950936-0-0-bf527d66d7acd0e81e2f1b24e6a6bf89
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771950936-0-0-6933fd21527091a28e36841ef72a1536
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771950936-0-0-7e35aad703354399c064fda0786e9472
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771950936-0-0-690f26dc5ed4bd170287e2a6ba09194d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771950936-0-0-8db96a13ef51d485311ae70e43d49a41
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771950936-0-0-d21c6f4ebc85a9170175febc8f9ea348
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771950936-0-0-0875214ba245f4bc706069b3a54bf12d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771950936-0-0-58489094642af41ebe87d583418f2ed3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=2ec13d1281a8d661bf47a7a8237b8c1c&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=e1c8d08f6548cb704b1734874d6bfa3c&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2ec13d1281a8d661bf47a7a8237b8c1c&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e1c8d08f6548cb704b1734874d6bfa3c&txTime=699e19a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771950936-0-0-49a72c991a22827d660f85225c5c39cb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771950936-0-0-12ab7600ebdb73c96c2d0fa6821b43a0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771950936-0-0-90f542976b98754cb1e73a7aba3f6abc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771950936-0-0-04d5c504fd335d6025412562dbe04202
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=8fc46cc0ce7ab106f3d1b965022be795&txTime=699e1b10
@@ -1061,6 +1077,210 @@ https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=150d9533a3b3b2d0ab97
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/942cb3937dd2ca6b511031cda3357d58.png",22h30 WIB 24/02 Yantra Gabrovo vs Etar [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=93c6d70c6ae9d2487f84094c50bd22cb&txTime=699e1b10
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771951656-0-0-b3fb8d4ba2d8736aa37363d4419caa01
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771951656-0-0-07dd2b030969ae8d680b386c5568cf06
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771951656-0-0-37ecd68189708679c3e5955833f06907
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771951656-0-0-3d5654a42fc22bcf7c8d8a05389f7477
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1771951656-0-0-32d0dae4d4a4e8c58adbca1d7fab7e09
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1771951656-0-0-620b15707691478ccc2d14cbe8fbbae4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771951656-0-0-a59277d19f0d85acc06521ec2a9c3d87
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771951656-0-0-42781bb2130c5b1a7559f926859c4a9d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771951656-0-0-3bfd87d8db705ab38636d0c28d931a59
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771951656-0-0-ff188bdb658d6a5aa469f877669d922b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771951656-0-0-dbd6dd2420d5e67143edb518a4f7f877
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771951656-0-0-88a4b807c5654c80fabec57d0f193468
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771951656-0-0-65b4da9ba15ce90488d1b6e70af038c0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771951656-0-0-23a1d87c87fc4a6588745dae8ed824de
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771951656-0-0-55b210e63483619ff1d6ab03c9b1918c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771951656-0-0-d0e83680ad93009baed694ee1be13055
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1771951656-0-0-f7564847f8d9c6ee2c478dea1ca25b65
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1771951656-0-0-2260b890635053d1525d9444ec70a58f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1771951656-0-0-9535a17403a1188b15f5f16d960ad9a9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BÚA TẠ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1771951656-0-0-9fe15819dce80c3c2864ed1d59cc1bb1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771951656-0-0-39f3782473f784eb31f2b1fad92d8ce2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771951656-0-0-7c978757566acc8e7f25eea9048d83c1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771951656-0-0-004345e176d409e5fafd78ab122e452f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771951656-0-0-6a1228bbb73c39bc3ec3e73095a74f08
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771951656-0-0-037249d02d0260e794cf73ee9d2d791f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771951656-0-0-b0c637a5d6fd7072c5e7e763ea28430d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771951656-0-0-39491cdbeded38edf4bf980e6a7a966d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771951656-0-0-4c3e822f269ed5a5b050f68405b8221f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1771951656-0-0-24d02f39cd23f409f1e2c406d9fbbc43
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1771951656-0-0-1137acf5ee3ee96ebf6e90a0859e2d1a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1771951656-0-0-dda0d2c4177a1afe697df3ff0a5bd887
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/d7398c774e8038e50424e8d68e003c60.png",22h30 WIB 24/02 Concordia Chiajna vs Corvinul Hunedoara [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1771951656-0-0-6ad2293b66e4d02b75435d3e2e718126
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=3b3c630dd11d012cfadb1d591d87d894&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=780513aa1e1c4c1d62ef04219f9893bc&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=3b3c630dd11d012cfadb1d591d87d894&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=780513aa1e1c4c1d62ef04219f9893bc&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1771952016-0-0-689d1a3878f5e3ed076f6d8452e0125e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1771952016-0-0-5013488c757ecdac0b915169ff69aca7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1771952016-0-0-f81ace17cb3454a5e3493e0806dde584
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1771952016-0-0-c31fcdf404cc498d4cc7d961ee0be658
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1771952016-0-0-852fd2fd95c0ae4ec4c70638e519373e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1771952016-0-0-884b9cca1ca3c36ed968f6f9ac146495
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1771952016-0-0-6bef8aab019261acf469e83ed49a245f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260223/46291687923074fe46a5bb25ba593014.png",22h00 WIB 24/02 Eintracht Frankfurt(U19) vs Sporting Lisbon(U19) [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1771952016-0-0-6b2c0e6c30a1f40bce61c17f9f17f207
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771952016-0-0-eb419e421158d1310770325db17bfcb4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771952016-0-0-b54bc094b507e7a5948486eab46b1185
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771952016-0-0-bbcd92bb9aca93bd7bf70e26822085eb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771952016-0-0-10218e930170b791275c5c5ab2851674
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1771952016-0-0-dc5e09ba8e42ee9674392a01cf2e77d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1771952016-0-0-0a7149711169f305bd9f3e174f717138
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1771952016-0-0-8a49f1b1fa20c1ccfaf0fb9629335fe3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/223e1ae7298dd7a4b30bcbacc73ad72f.png",21h00 WIB 24/02 Odisha FC vs Inter Kashi [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1771952016-0-0-06ac53a90484424f1ed0d55bbb6e3984
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=c266fa5abbe36929fe168e86042c9cde&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=6ac25394bd8f3e1dcc0409af29a73813&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=c266fa5abbe36929fe168e86042c9cde&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6ac25394bd8f3e1dcc0409af29a73813&txTime=699e1de0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771952016-0-0-56df7b42e8d37e881bac75c16fefac44
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771952016-0-0-f8f8ea39e58c1eca791722c15078833e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771952016-0-0-c78b975c26b7391e71faa94b2ae81a99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/00612bcf5d266a53ebdfdaa84534aba5.png",22h00 WIB 24/02 Farense U23 vs Uniao Leiria U23 [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771952016-0-0-5c3821191ba1eec94ba2cfabec5aa0f5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1771952016-0-0-31f4a4eb07e7a35efbc3433c865a6be0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1771952016-0-0-0e5b7f0d7fff844fef67874d1d7b3c4a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1771952016-0-0-a7b850c173cd5de0d759c46d7471ba8a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260221/fad53254dc9f3197d94ec04318f61859.png",22h00 WIB 24/02 Estrela FC U23 vs Estoril U23 [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1771952016-0-0-6f828b519513a4c0f85cfccfa76c7c9c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771952016-0-0-b174dbc89c303d8567683f9abafdb8c6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771952016-0-0-8d4e2763273e3eec2eb46def1f081f52
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771952016-0-0-6440e3329f1e191cb792a9837c8c3f7f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771952016-0-0-29cb579efdb71b14001bb11de4eb3dd2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/7177.png",21h00 24/02 Odisha vs Inter Kashi (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
