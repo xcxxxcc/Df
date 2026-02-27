@@ -239,6 +239,11 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
+
+
+
+
+
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
@@ -246,6 +251,10 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 #--- PPVLAND START ---
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="PPV-LIVE",NFL Network
 https://ppv2.168.us.kg/stream?uri=nfl-network
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/51a7083d8a1b4ace9d4816414990d9cb-thumbnail.jpg" group-title="PPV-LIVE",Los Angeles Dodgers vs. San Francisco Giants
+https://ppv2.168.us.kg/stream?uri=mlb/2026-02-27/lad-sf
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/90d441a045fb49c6419a791b84d1de81-thumbnail.jpg" group-title="PPV-LIVE",Arizona Diamondbacks vs. Seattle Mariners
+https://ppv2.168.us.kg/stream?uri=mlb/2026-02-27/ari-sea
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/da3cc75452febffdc891d2d3ea325b2d-thumbnail.jpg" group-title="PPV-LIVE",Cleveland Cavaliers vs. Detroit Pistons
 https://ppv2.168.us.kg/stream?uri=nba/2026-02-27/cle-det
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/f86728c99d6d918d3582ecbfceb73fb0-thumbnail.jpg" group-title="PPV-LIVE",Brooklyn Nets vs. Boston Celtics
@@ -258,12 +267,6 @@ https://ppv2.168.us.kg/stream?uri=nba/2026-02-27/mem-dal
 https://ppv2.168.us.kg/stream?uri=nba/2026-02-27/den-okc
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="PPV-LIVE",Willow Cricket
 https://ppv2.168.us.kg/stream?uri=willow-cricket
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/1d33b21106d471cf51bf40b0473e1a51-thumbnail.jpg" group-title="PPV-LIVE",FC Augsburg vs. FC Cologne
-https://ppv2.168.us.kg/stream?uri=bundesliga/2026-02-27/fca-koe
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/8617c0d02462c485172d796b032b8407-thumbnail.jpg" group-title="PPV-LIVE",Parma vs. Cagliari
-https://ppv2.168.us.kg/stream?uri=seriea/2026-02-27/par-cag
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/12c3388c579d62febb56a36bd7eff87e-thumbnail.jpg" group-title="PPV-LIVE",Strasbourg vs. Lens
-https://ppv2.168.us.kg/stream?uri=ligue1/2026-02-27/str-rcl
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/bc7f6698ccc4fb8afcf6ad10f7180e5d-thumbnail.jpg" group-title="PPV-LIVE",Levante vs. Alavés
 https://ppv2.168.us.kg/stream?uri=laliga/2026-02-27/lev-ala
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg" group-title="PPV-LIVE",Wolverhampton Wanderers vs. Aston Villa
@@ -389,14 +392,18 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Peruvian Liga 1] Alianza Atletico Sullana vs AD Tarma lúc 05:07 WIB 28/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/fce7ec03796bd30d97d67355a5c35328/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Venezuela Primera Division] Portuguesa FC vs Monagas SC lúc 05:07 WIB 28/02/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Venezuela Primera Division] Portuguesa FC vs Monagas SC lúc 05:24 WIB 28/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/2d206a46294169aba26476bc21592ea6/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] AS FAR Rabat vs CODM Meknes lúc 05:24 WIB 28/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/e3da296ea9d6e471ee68eb6eba938b7e/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[The Botola Pro] Maghreb Fez vs KACM Marrakech lúc 05:24 WIB 28/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/2b49a439a4f44339b93e67e67d6b411f/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h45 WIB 28/02 Sporting CP vs Estoril (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -465,6 +472,10 @@ https://live.alilicloud.com/live/51410126199701c29a02c3e08c65f5cc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4872e14fe1d3fa8ecdddfdb3d7d84e69/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8ac20887c970da87f1f076b6f68795b7/image/small?v=1768601124",05h00 WIB 28/02 AS FAR Rabat vs CODM Meknes (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e3da296ea9d6e471ee68eb6eba938b7e/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f090b4e4f9f2d0fbdc8d89ba8c766a69/image/small?v=1768601124",01h00 WIB 28/02 Aalborg vs Hillerod Fodbold (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -521,14 +532,14 @@ https://live.alilicloud.com/live/53ba05462f745ff45652782da5ba58c7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/eba1a432cdbcf90daa13e394063fe1ca/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4981582780f74a1553b58758b1bd0f95/image/small?v=1768601124",05h00 WIB 28/02 FC Phoenix 1976 vs Trinidad Tobago Police FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/349c0105a04523ad6aa07dd95a482cd2/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f411ae93aac074a7649392906f7b6d3f/image/small?v=1768601124",03h00 WIB 28/02 Bristol City vs Watford (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d498252c1338cf275355eea9c7a6ac4d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c021a78c0db6bc690589719a29ff0b19/image/small?v=1768601124",02h30 WIB 28/02 Arka Gdynia vs Lechia Gdansk (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c51cad2ddf6075972e58429b5974552a/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0733ebf3edb9c67efd92322db7e38e43/image/small?v=1768601124",02h30 WIB 28/02 Albacete Balompié SAD vs Almeria (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -605,10 +616,6 @@ https://live.alilicloud.com/live/e9f6a813119656ed7c9ca6c005d5e2ea/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0a70eaef5188867d438aba133995b823/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1cba4c8834b5f2452b23d26f4c9f83e0/image/small?v=1768601124",03h00 WIB 28/02 Argentino de Quilmes vs Argentino de Merlo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/239519740b190c986c8aef5f8136fd42/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125618_6227fe0e.png",03h45 WIB 28/02 Sporting CP vs Estoril (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1281,6 +1288,10 @@ https://live.alilicloud.com/live/472f700af6ae8ba5d36b2735a8af89e2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b14db6eb438adddb366fac8079170dbd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8ac20887c970da87f1f076b6f68795b7/image/small?v=1768601124",05h00 WIB 28/02 AS FAR Rabat vs CODM Meknes (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e3da296ea9d6e471ee68eb6eba938b7e/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/27fc158ba952cb3940200e333e87cf60/image/small?v=1768601124",02h00 WIB 28/02 SC Telstar vs NAC Breda (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1325,6 +1336,10 @@ https://live.alilicloud.com/live/eba1a432cdbcf90daa13e394063fe1ca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/25335d3a54a4f5afbd9f95d7c498a49e/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4981582780f74a1553b58758b1bd0f95/image/small?v=1768601124",05h00 WIB 28/02 FC Phoenix 1976 vs Trinidad Tobago Police FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/349c0105a04523ad6aa07dd95a482cd2/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c58616af9557a95891f1a9010ce2660a/image/small?v=1768601124",02h45 WIB 28/02 Harrogate Town vs Cheltenham Town (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1429,114 +1444,70 @@ https://live.alilicloud.com/live/58b96546cd388409de8714a0f22a1ff5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9eb5cca7fbba8e5aa1e745e3059f3b5a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a782b781cbe49e7dba6e1c8d87ef8d63/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/2ddc906df1fa446ba379ede06a793455_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/2ddc906df1fa446ba379ede06a793455_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2ddc906df1fa446ba379ede06a793455_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2ddc906df1fa446ba379ede06a793455_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2ddc906df1fa446ba379ede06a793455_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a56f433f9bf2608f2ccd09f31e64bf9b/image/small?v=1768601124",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/2ddc906df1fa446ba379ede06a793455_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c09426c8414966479eb24c4d4316042/image/small?v=1768601124",02h45 WIB 28/02 Drogheda United vs Shelbourne (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ed9b92e9fcc1bfab554c45d7dd80e215/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/be24b06b97214d578b006ea0a9d3ea78/image/small?v=1768601124",01h30 WIB 28/02 AlvsAhli Doha vs Al Shahaniya (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/090ced4ce2d9a586e765b60245ea25cb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=86d7fc6b27330ee541f70b118bd58568&txTime=69a266c0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=9a238e220c1b4cb8950c7c2a5bfac001&txTime=69a266c0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=86d7fc6b27330ee541f70b118bd58568&txTime=69a266c0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9a238e220c1b4cb8950c7c2a5bfac001&txTime=69a266c0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772232816-0-0-b9280aefaa2c16e64646423f98f282ff
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772233896-0-0-e98097d6e169651a6e939f13000f0086
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772232816-0-0-21541b5720c84298cbdb9fd46fecac42
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772233896-0-0-92cbedb08b9b9a73152b7ef3508e0faa
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772232816-0-0-d7a167c9e3b39a3a8b9a9a6f45b4a525
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772233896-0-0-5986929821a211b22a6f3f28f5f5b9e9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772232816-0-0-1500ad6c0894022bd146a71d6870c2de
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/22e87ab66f223be9af5deb0ac1af59d1.png",03h00 WIB 28/02 Levante vs Deportivo Alavés [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772233896-0-0-66d976c15ab730e5f3512b7ea486e32a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772232816-0-0-1b47f01806f938eda391de6735cb6649
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/22e87ab66f223be9af5deb0ac1af59d1.png",03h00 WIB 28/02 Levante vs Deportivo Alavés [BLV A TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=f80e3d196c28d18738341d70ba732d08&txTime=69a26af8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772232816-0-0-d499939cf080787ab31e450d1c08bc94
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/22e87ab66f223be9af5deb0ac1af59d1.png",03h00 WIB 28/02 Levante vs Deportivo Alavés [BLV A TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=5038a84ee70881d08a859374f5fb1fe8&txTime=69a26af8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772232816-0-0-f58ea58e383eb5bdba6b89e7f893c183
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/22e87ab66f223be9af5deb0ac1af59d1.png",03h00 WIB 28/02 Levante vs Deportivo Alavés [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=f80e3d196c28d18738341d70ba732d08&txTime=69a26af8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/1f1fde538db843d3d16b375fe4a311af.png",03h45 WIB 28/02 Sporting CP vs Estoril [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772232816-0-0-5733ca142f40282c6d8726824d5ee232
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d88b467ca7a67e0008f9141e2e0ea653.png",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1772232816-0-0-4e6537b08a91d3b0b54e007296910c94
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d88b467ca7a67e0008f9141e2e0ea653.png",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1772232816-0-0-a2c7d87f2910b650b5ed4503f986ffe1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d88b467ca7a67e0008f9141e2e0ea653.png",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1772232816-0-0-4afa5604f5708388d67e3e2cc6704c7c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d88b467ca7a67e0008f9141e2e0ea653.png",03h00 WIB 28/02 Wolverhampton Wanderers vs Aston Villa [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1772232816-0-0-c220bd2be1f1cc2da7993472c448c54d
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5038a84ee70881d08a859374f5fb1fe8&txTime=69a26af8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/877d063d3e50c739123613dffc49c352.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772232816-0-0-4427497672d64ad8c7f0ce7b651f32cd
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772233896-0-0-081d9b7bf775f359f6d5a77d3a6b2f87
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/877d063d3e50c739123613dffc49c352.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772232816-0-0-634adc2d6c072ae9b6b2332e85427d6a
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772233896-0-0-bc954d04ae695da4903c6cd8895b2248
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/877d063d3e50c739123613dffc49c352.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772232816-0-0-2fe7fc4bdb2a3f21f133bdf63657e4fb
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772233896-0-0-81893105fe4c7841a50b7adf9bf8c862
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/877d063d3e50c739123613dffc49c352.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772232816-0-0-df1c3570d26c7f47dc76afffe3e3c2b3
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772233896-0-0-03f45858913374bc83ae8d25b1ca45d8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/b85e599d56cec063b8163654049c5e1e.png",05h45 WIB 28/02 FBC Melgar vs Los Chankas [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=1ad447adb3f6b7db5fad58e77c9c225b&txTime=69a26c60
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/b85e599d56cec063b8163654049c5e1e.png",05h45 WIB 28/02 FBC Melgar vs Los Chankas [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=afa4a146b6794643cad8919a9251cd31&txTime=69a26c60
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/b85e599d56cec063b8163654049c5e1e.png",05h45 WIB 28/02 FBC Melgar vs Los Chankas [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1ad447adb3f6b7db5fad58e77c9c225b&txTime=69a26c60
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/b85e599d56cec063b8163654049c5e1e.png",05h45 WIB 28/02 FBC Melgar vs Los Chankas [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=afa4a146b6794643cad8919a9251cd31&txTime=69a26c60
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d2d368146070daaf843ef156c90903f0.png",02h45 WIB 28/02 Parma vs Cagliari [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1772233536-0-0-166895262d585ffecb307ca5f9b795be
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1772234616-0-0-c104c4e7ddbf165497c972aab48143a6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d2d368146070daaf843ef156c90903f0.png",02h45 WIB 28/02 Parma vs Cagliari [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1772233536-0-0-55bbd4b578cf3c9d58594c7afeb913a0
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1772234616-0-0-739a2525ad23d53ac5ad39d3aa91f3d3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d2d368146070daaf843ef156c90903f0.png",02h45 WIB 28/02 Parma vs Cagliari [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1772233536-0-0-252be17017e25ac69281745c7b248338
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1772234616-0-0-fbf14c0cbe1a04d7d59a898a9b3a3c5f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260225/d2d368146070daaf843ef156c90903f0.png",02h45 WIB 28/02 Parma vs Cagliari [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1772233536-0-0-12af4d27577d94cf03708f5028c11dfc
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1772234616-0-0-eec56f8d0cace97479b8fa3abafb99e6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/987px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",03h00 28/02 "Levante	-	Alaves" (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
