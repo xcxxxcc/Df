@@ -903,6 +903,12 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090505221" tvg-name="Zimbabwe Women's Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | 2nd T20I - 27 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1772217006~acl=/*~id=1b2523c8badabd1fa3b0929b048401f4-1772173800157~hmac=536a24d417a18cea308ee486c24b2773ef99b71c47ad9b448eb9f7121fda8d2f|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; W2; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8dff520a999f25d98a9084b14dd902d5-1772179800109
@@ -1058,12 +1064,6 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772175283.png",14h00 WIB 27/02 Juventus vs Galatasaray (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772175283.png",14h00 WIB 27/02 Juventus vs Galatasaray (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TEST2.flv?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/65679_1jgd52aydv2c.png",14h10 WIB 27/02 Sidama Bunna (W) vs Ethiopia Nigd Bank (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6Mwd5eLtnFiC7koSyr/playlist.m3u8
@@ -1476,174 +1476,138 @@ https://live8.fastestcdn-global.com/live8/c204a6d31b9244bbb6d5701e598407a3_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/c204a6d31b9244bbb6d5701e598407a3_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772183501-0-0-3329faf446b9c8492826afee500696e5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772183501-0-0-f0ac0c0cba0a4a2b376bcabb877133b8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772183501-0-0-cb0a887c08063521c9710c429c7ae02c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772183501-0-0-ab6e9a255d68770cd1e053de88d31d0e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1772182416-0-0-5b08d97d833baabd56ffadc6790a05e7
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1772183496-0-0-8703ada743d18f1d40d56a777d20bd11
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1772182416-0-0-e1bce4435f549540cc00895a8c33fc08
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1772183496-0-0-dc561f66c354efcbb70de884bfe7b9d3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1772182416-0-0-1b4c358e0d4f0a374ddba24610f131d9
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1772183496-0-0-6fb919c90401e2dc02f96c5abdab2eb0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1772182416-0-0-f0596861f66dce066102ee614d49fa2d
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1772183496-0-0-1f92b11e4feb893dbc65768dd958a265
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772182416-0-0-cac4e39b0774aa8fd25f38700f2967cc
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772183496-0-0-bf335f8bdcabdd9f224af54846c8a94b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772182416-0-0-80b547da79c86f7071b5483dd2d556f6
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772183496-0-0-00ce8862ebc304798a145c25802fcd1a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772182416-0-0-7104d2d586c07d3f70b334c1c4b2188f
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772183496-0-0-8dc33a727337bbc434a5f99f16d8b9d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772182416-0-0-4ee4e101310a17714463f478ccc73347
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  RC Celta vs PAOK Saloniki [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772183496-0-0-390dc66529678e8d74ab23fe22bf9e6e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1772182416-0-0-c4f305034c8cc155659a36f096edbb70
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  RC Celta vs PAOK Saloniki [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772183856-0-0-a266e666ae82309e4d3f6c821ce33516
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1772182416-0-0-3a24490e14df2186d9065f4be3c64723
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  RC Celta vs PAOK Saloniki [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772183856-0-0-3fb041a17ece43e87b2a62192c506119
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1772182416-0-0-346e0eb2429ff61a61140df05e82a2bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  RC Celta vs PAOK Saloniki [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772183856-0-0-75aa25b9367a8b1c9fb3843b7695b9aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1772182416-0-0-c8129fe277e6571668ff03cbb5af30d3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  Bologna vs Brann [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1772182416-0-0-eabb216b295934fde09f9cdc8a311da6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  Bologna vs Brann [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1772182416-0-0-43c4b09b66c984002d2272d2c9823f33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  Bologna vs Brann [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1772182416-0-0-3f563ac2e6e1e19d0372a45c755b4e71
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  Bologna vs Brann [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1772182416-0-0-16f8fc002ca6581f50a520a69b8bb5e0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  VfB Stuttgart vs Celtic FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1772182416-0-0-dfc992b6e33872a74add203bf11b3297
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  VfB Stuttgart vs Celtic FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1772182416-0-0-8d190df56189e94421e4e79155a5ee23
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  VfB Stuttgart vs Celtic FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1772182416-0-0-ab93c37db8295ae21381b0240e246e82
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL -  VfB Stuttgart vs Celtic FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1772182416-0-0-de0b448e0652561bb1bea8ad6340b5d7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA CL - Real Madrid vs Benfica [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1772182416-0-0-27ea21a9d286bb2e7bbd2b5d6f9c54a7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA CL - Real Madrid vs Benfica [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1772182416-0-0-b790b2e208d79b54eeb680e742dff676
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA CL - Real Madrid vs Benfica [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1772182416-0-0-8b64d39b0725c2273361870b315c5fed
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA CL - Real Madrid vs Benfica [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1772182416-0-0-70b98766d26e7ab6698fab828b6e8ebd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Nottingham Forest vs Fenerbahce [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1772182416-0-0-713c36d32e838e82410f21a8a2c6bfcd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Nottingham Forest vs Fenerbahce [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1772182416-0-0-abb8b10139c3ba3365432602cdc2897f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Nottingham Forest vs Fenerbahce [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1772182416-0-0-5bdea3ed4b843a65ed1c8dff3bfc6563
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Nottingham Forest vs Fenerbahce [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1772182416-0-0-f22b61c6afe22664a9729f436f6c5dc1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Crvena Zvezda vs LOSC Lille [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1772182416-0-0-7508d915258c807d5f7fcc3848d0b4f3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Crvena Zvezda vs LOSC Lille [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1772182416-0-0-b99b06a0398dd4a3b8f4e5025e3c31c4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Crvena Zvezda vs LOSC Lille [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1772182416-0-0-1a5756f0f13df3300fb3e484cbf8aa58
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",Tường thuật: UEFA EL - Crvena Zvezda vs LOSC Lille [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1772182416-0-0-8804d946244a6e857429618ed9317916
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772183856-0-0-7c59455b36bf12bd408f5ee75baadc2c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/490b6905c200b3a430ec2e8b61f3e71b.png",15h30 WIB 27/02 Sydney United 58 FC vs Manly United [BLV SÓI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1772183136-0-0-ee022c01ed671b5dc41e846579cf053a
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1772184216-0-0-8ce21d0f08a704d2add6842d8cfb2e79
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/490b6905c200b3a430ec2e8b61f3e71b.png",15h30 WIB 27/02 Sydney United 58 FC vs Manly United [BLV SÓI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1772183136-0-0-4cd029d7bc4a549ecb085e9412205932
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1772184216-0-0-6340fb1fd6fbc515871c66bf952a8987
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/490b6905c200b3a430ec2e8b61f3e71b.png",15h30 WIB 27/02 Sydney United 58 FC vs Manly United [BLV SÓI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1772183136-0-0-2f0f5c2ecf585c9cb4cd5c9a10262f2c
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1772184216-0-0-abddbcdce26a81760661c9d5f6e82365
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/490b6905c200b3a430ec2e8b61f3e71b.png",15h30 WIB 27/02 Sydney United 58 FC vs Manly United [BLV SÓI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1772183136-0-0-982915bce9a9d1b9df9c9693a657bc23
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772183136-0-0-2fe8ee0fedc3418a7ded787949e15679
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772183136-0-0-fc6cc2d78446fec9266440068028db0c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772183136-0-0-08d4e1b9c67a0951429031d74af222de
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772183136-0-0-d58b0645ce46842d66f7e2dfa6e51a64
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1772183136-0-0-dd5095e7397732dee68050326ba83682
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1772183136-0-0-059d3596221d7e4caa1630c7e3ae6d43
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1772183136-0-0-d92d5d4b33bb9eb23620467117e2448a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1772183136-0-0-f0633b395a7a9b320061529c0c50842c
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1772184216-0-0-f70c7d563f83756ae3562a040333a771
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7ab0104a459e553c7fa6fcdd7c40357a.png",15h30 WIB 27/02 Heidelberg United vs Dandenong City SC [BLV KINH TẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=375295cbf3219d3d7da582fc3a0135f2&txTime=69a1a4b0
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=7e2a675f16bac5ac05948a1a0899130c&txTime=69a1a8e8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7ab0104a459e553c7fa6fcdd7c40357a.png",15h30 WIB 27/02 Heidelberg United vs Dandenong City SC [BLV KINH TẾ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=04c17bd836ee2835c2cef1c89a5ef356&txTime=69a1a4b0
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=a21b253373315a0ba841863e76f1be81&txTime=69a1a8e8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7ab0104a459e553c7fa6fcdd7c40357a.png",15h30 WIB 27/02 Heidelberg United vs Dandenong City SC [BLV KINH TẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=375295cbf3219d3d7da582fc3a0135f2&txTime=69a1a4b0
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=7e2a675f16bac5ac05948a1a0899130c&txTime=69a1a8e8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7ab0104a459e553c7fa6fcdd7c40357a.png",15h30 WIB 27/02 Heidelberg United vs Dandenong City SC [BLV KINH TẾ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=04c17bd836ee2835c2cef1c89a5ef356&txTime=69a1a4b0
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=a21b253373315a0ba841863e76f1be81&txTime=69a1a8e8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1772184216-0-0-853b300f1b8edc1ad97dfa95c8fe468b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1772184216-0-0-7824bf3452fc585011bf56eb007d0c09
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1772184216-0-0-e487bd64861aa46246709bd0ec006da2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/a4f1f91c03729ac1b970462e34284a57.png",15h30 WIB 27/02 St Albans Saints vs Oakleigh Cannons [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1772184216-0-0-eac7c6666bc42151e6c0b26fc0b41ab9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772184216-0-0-c33d9e03c8eca97c7fbd250e4fcf50ba
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772184216-0-0-79b91c6c1712378f01b004e05e9f9d48
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772184216-0-0-dee78a3b13dd0a6ed64f3476e309711c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/413d0c998678ee43d4e2d7a28761398c.png",15h30 WIB 27/02 Sydney FC Youth vs Marconi Stallions [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772184216-0-0-6cff5d2e43434b50a8222272b021660b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1772184216-0-0-788df8274eda71e2421ecfb2ba5311d7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1772184216-0-0-f1eb4ed3d6a5ec8d0eb05125c605f0fc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1772184216-0-0-d3b466cf585063486e7148840d3eb693
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1772184216-0-0-e630fb95473d3f9c9e9684c3766814d7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1772183136-0-0-19b44f5a292e7a165fbbd8746229ace6
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1772184216-0-0-4a4fb85243d804bb3a7898c6abb0bd6b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1772183136-0-0-8ab925f2282ba2e3a736d3b359162685
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1772184216-0-0-3c42fa0bdd2e215edfaaae2a5db4eb14
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1772183136-0-0-a34b8b48619a5e319a536c2420ec171b
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1772184216-0-0-5ff39e9a923204da6fcce6bd757c7dd6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260224/7edb44072ba5e9952d1abfbc8a471021.png",15h35 WIB 27/02 Melbourne Victory vs Adelaide United [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1772183136-0-0-ed1d34c9fdd2d893c99cad10fc4b1ab8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1772184216-0-0-0aa6d065ef30f18bc17102007934e775
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772183136-0-0-c52fbf94ef66871cabe86eea66e32c57
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772184216-0-0-ea35c634f15ae2c9386f7ecf33ec5d12
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772183136-0-0-4282c3a82a7d1a4ff344a8c48fb9f93b
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772184216-0-0-0692829769c1deb384bb52883797ea35
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772183136-0-0-a81f1b07bcab90924c91cd6088b7c5f3
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772184216-0-0-ad77618f72db38cb7ebcf2ab334685ac
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772183136-0-0-e6b0c809cc7e0ac8b1ed4e9cfad64441
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772184216-0-0-96f38530b02a81e2a598ae460c1ad4ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Melbourne_Victory.svg/250px-Melbourne_Victory.svg.png",15h35 27/02 Melbourne Victory vs Adelaide United (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1656,6 +1620,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1",[A-League] 15h35 27/02 Melbourne Victory vs Adelaide United [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[A-League] 15h35 27/02 Melbourne Victory vs Adelaide United [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[A-League] 15h35 27/02 Melbourne Victory vs Adelaide United [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
