@@ -96,6 +96,16 @@ http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/o
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 ######################################################################################################################################################################################################################################################################################
 
+
+
+
+
+
+#--- SONY START ---
+#EXTINF:1 tvg-id="1090505347" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772264080060596_BLIGA_26_MD24_Hamburger-SV-vs-RB-Leipzig_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Hamburger SV vs RB Leipzig - MD 24 - 1 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1772411402~acl=/*~id=11523610790401396047887626943273~hmac=dfad37cc48136bab4b6f61f773fd2c796d7664164b2106f994982e3aa4ce68c0|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; FL-100; Build/RQ2A.210505.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4e4553a68b7c72d6cb3090db17483774-1772392200121
+#--- SONY END ---
+
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
 #--- ZEE5 END ---
@@ -151,16 +161,6 @@ https://ppv2.168.us.kg/stream?uri=nba/2026-03-01/no-lac
 https://ppv2.168.us.kg/stream?uri=nba/2026-03-01/sac-lal
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="PPV-LIVE",Willow Cricket
 https://ppv2.168.us.kg/stream?uri=willow-cricket
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/71733fa5766fe8614262b194bceb4845-thumbnail.jpg" group-title="PPV-LIVE",Lille vs. Nantes
-https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/lill-nan
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/fcdb13742dcc669045289d88e2670a97-thumbnail.jpg" group-title="PPV-LIVE",Lorient vs. AJ Auxerre
-https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/lor-aux
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6de63ae090404b64a29dc612e0958818-thumbnail.jpg" group-title="PPV-LIVE",Metz vs. Brest
-https://ppv2.168.us.kg/stream?uri=ligue1/2026-03-01/metz-bre
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/cd1043a1f6dc3fd609283fb577a23984-thumbnail.jpg" group-title="PPV-LIVE",Eintracht Frankfurt vs. SC Freiburg
-https://ppv2.168.us.kg/stream?uri=bundesliga/2026-03-01/sge-scf
-#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/ef1fbb8e34778c0fc9758eb27236a516-thumbnail.jpg" group-title="PPV-LIVE",Arsenal vs. Chelsea
-https://ppv2.168.us.kg/stream?uri=premierleague/2026-03-01/ars-che
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/9e8dd31a85b5091cf1b7bb5d210d3b02-thumbnail.jpg" group-title="PPV-LIVE",Torino vs. Lazio
 https://ppv2.168.us.kg/stream?uri=seriea/2026-03-01/tor-laz
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/6ce851926554839095f1dc6784e6d078-thumbnail.jpg" group-title="PPV-LIVE",Real Betis vs. Sevilla
@@ -193,6 +193,8 @@ https://ppv2.168.us.kg/stream?uri=nhl/2026-03-01/fla-nyi
 https://ppv2.168.us.kg/stream?uri=nhl/2026-03-01/cgy-ana
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/02211fcb20ebbc4a5fab9b9526c12063-thumbnail.jpg" group-title="PPV-LIVE",IndyCar: Grand Prix of St. Petersburg
 https://ppv2.168.us.kg/stream?uri=indycar-grand-prix-of-st.-petersburg
+#EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/b8398854759f8e38aefe2ba0e761fc62-thumbnail.jpg" group-title="PPV-LIVE",NASCAR: Circuit of The Americas
+https://ppv2.168.us.kg/stream?uri=nascar-circuit-of-the-americas
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="PPV-LIVE",Australian Grand Prix - Practice 1
 https://ppv2.168.us.kg/stream?uri=f1/2026/australia/fp1
 #EXTINF:1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="PPV-LIVE",Australian Grand Prix - Practice 2
@@ -218,173 +220,100 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Spanish La Liga] Real Betis vs Sevilla FC lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Spanish La Liga] Real Betis vs Sevilla FC lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/cd9af81b976792f5c85bc9905523da51/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League]  RC Sporting Charleroi vs Club Brugge lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League]  RC Sporting Charleroi vs Club Brugge lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/9df359f301ac7b2354c9b67cff55e02a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Czech First League] Sigma Olomouc vs Bohemians 1905 lúc 02:08 WIB 02/03/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/e0b9b097b9df8c3ff03884420f3b4919/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[OTP Bank Liga] Ferencvarosi TC vs Kazincbarcika lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[OTP Bank Liga] Ferencvarosi TC vs Kazincbarcika lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/cd6d46a8276523380d39eea32009ac2d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Portuguese Primera Liga] Casa Pia AC vs Moreirense lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Portuguese Primera Liga] Casa Pia AC vs Moreirense lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d643f58dbe4044c2c4c19388829f5c47/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Greek Super League] Panathinaikos vs Aris Thessaloniki lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Greek Super League] Panathinaikos vs Aris Thessaloniki lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/074ff811ab86798885389483bdeb0c97/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Mexico Ascenso MX] Leones Negros vs CF Atlante lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Mexico Ascenso MX] Leones Negros vs CF Atlante lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/c6c0dc55e420e58fc1d34119ae1ab904/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Peruvian Liga 1] Comerciantes Unidos vs Atletico Grau lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Peruvian Liga 1] Comerciantes Unidos vs Atletico Grau lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/f4afbd59b17d16e2ca8438596ace92a0/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CONCACAF U20 Championship] Turks Caicos Islands U20 vs Bonaire U20 lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[CONCACAF U20 Championship] Turks Caicos Islands U20 vs Bonaire U20 lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/d5205aa2334ecee900d859d65a036b9f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Iraq Stars League] Amanat Baghdad vs Al-Naft SC lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Iraq Stars League] Amanat Baghdad vs Al-Naft SC lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/67c39751d991d16b8117d54c96d658e1/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Liga Portugal 2] Penafiel vs SL Benfica B lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Liga Portugal 2] Penafiel vs SL Benfica B lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/53a9f27a480a2897a4014ad0efaa4594/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League] Cercle Brugge vs FCV Dender EH lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Belgian Pro League] Cercle Brugge vs FCV Dender EH lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/663a17c97651f6ee9d57e7bbbbb11dc4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[German 3.Liga] Schweinfurt 05 FC vs 1. FC Saarbrücken lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[German 3.Liga] Schweinfurt 05 FC vs 1. FC Saarbrücken lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/77a6ed417155af159b07d70f4aedff0b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] Hamburger SV vs RB Leipzig lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] Hamburger SV vs RB Leipzig lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/b8b61372f69f5749e5c09cf4be03a986/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Poland Liga 2] Stal Stalowa Wola vs Podhale Nowy Targ lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Poland Liga 2] Stal Stalowa Wola vs Podhale Nowy Targ lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/cd5af0eedc01f0b69e5fab86b592a8c5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al Anwar SA vs Al-Raed SFC lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al Anwar SA vs Al-Raed SFC lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/bd80b9e7378dfa62ec0c8e709cf94296/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Jandal vs Abha lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Al-Jandal vs Abha lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/a98e8e11f2220cb3135fb24d80a15050/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Jubail vs Al Bukayriyah lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Saudi Arabia Division 1] Jubail vs Al Bukayriyah lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/595fde87aa604095bce8aaf75fdc7969/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al-Ahly vs Al Faisaly lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Jordan Premier League] Al-Ahly vs Al Faisaly lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/6621268f6fd37a809999882ecb3d5d00/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Romanian Liga I] UTA Arad vs Fotbal Club FCSB lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Romanian Liga I] UTA Arad vs Fotbal Club FCSB lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/8bd05814390cd13326c0e994318b525e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Categoría Primera A] Deportivo Pasto vs Cucuta Deportivo lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Categoría Primera A] Deportivo Pasto vs Cucuta Deportivo lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/4c90c6393766a794ae53fe0dec8a8c7f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Venezuela Segunda Division] Bolívar SC VEN vs Mineros de Guayana lúc 02:08 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Venezuela Segunda Division] Bolívar SC VEN vs Mineros de Guayana lúc 02:24 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/e07373ebd01a829df9cdb135ae690602/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV ĐOÀN DỰ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV ĐOÀN DỰ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",00h30 WIB 02/03 Real Betis vs Sevilla (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1",[Iraq Stars League] Al-Mina'a SC vs Al Karma lúc 02:24 WIB 02/03/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/ef8c575c60b2e840c9185e1ab23d8316/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/111_1j3veftrymp.png",00h30 WIB 02/03 Charleroi vs Club Brugge (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/245_1h5bja71et21.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/245_1h5bja71et21.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/245_1h5bja71et21.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/245_1h5bja71et21.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/867e09a0e4a85865e4808279be410cec/image/small?v=1768601124",23h00 WIB 01/03 Odra Opole vs Stal Mielec (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -633,6 +562,14 @@ https://stream.chuoichien.tv/chuoibay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoibay.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",02h45 WIB 02/03 AS Roma vs Juventus (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",02h45 WIB 02/03 AS Roma vs Juventus (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125511_cf0f54fc.png",02h45 WIB 02/03 Marseille vs Lyon (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -657,6 +594,14 @@ https://stream.chuoichien.tv/bapcai/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/bapcai.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125626_056b593c.png",03h00 WIB 02/03 Girona vs Celta Vigo (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125626_056b593c.png",03h00 WIB 02/03 Girona vs Celta Vigo (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131601_f0284879.png",04h30 WIB 02/03 Philadelphia Union vs New York City FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -833,14 +778,6 @@ https://live.alilicloud.com/live/27314db94eb870374050c36536630418/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/77a6ed417155af159b07d70f4aedff0b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/04ea330d8878c1d3bf599c94b6497d07/image/small?v=1768601124",23h00 WIB 01/03 Austria Vienna vs LASK Linz (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b9eade3de7cf5b55b7d242a3e002a1f7/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/25d5dfb73e1347414b0e467de73bdbf9/image/small?v=1768601124",23h00 WIB 01/03 Sonderjyske vs Odense BK (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3a3effa7ec4fbbc8de042dea726f4608/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/605edeb15e6f6894e93cf51df63d677b/image/small?v=1768601124",23h15 WIB 01/03 Mighty Blackpool vs Bo Rangers (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -981,6 +918,62 @@ https://live.alilicloud.com/live/e0b9b097b9df8c3ff03884420f3b4919/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/595fde87aa604095bce8aaf75fdc7969/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1d8ed3014850bc3187fc6c8a5d5add95/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/01eeb068cad949119051ec8d7f04df5a_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/01eeb068cad949119051ec8d7f04df5a_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/01eeb068cad949119051ec8d7f04df5a_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/01eeb068cad949119051ec8d7f04df5a_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/01eeb068cad949119051ec8d7f04df5a_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",02h45 WIB 02/03 AS Roma vs Juventus (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/01eeb068cad949119051ec8d7f04df5a_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c96517df9ce5948609488800c8c3c54c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/f4e857269ca347d4ab7045947bccd267_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/f4e857269ca347d4ab7045947bccd267_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f4e857269ca347d4ab7045947bccd267_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f4e857269ca347d4ab7045947bccd267_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f4e857269ca347d4ab7045947bccd267_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a527f35826813a2dbe58570a90cdf218/image/small?v=1768601124",02h45 WIB 02/03 Marseille vs Lyon (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f4e857269ca347d4ab7045947bccd267_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7f94bc407011de4a852e5c4df334e67f/image/small?v=1768601124",23h15 WIB 01/03 Lorient vs AJ Auxerre (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1003,208 +996,340 @@ https://live.alilicloud.com/live/9df359f301ac7b2354c9b67cff55e02a/playlist.m3u8
 https://live.alilicloud.com/live/3851585b936a9e1bcbb869d244f6b62b/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=beb06dcaab80df1d71f898ce7f6cb5e0&txTime=69a4df90
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=9dc1ba4f200efdceabdf50de50afcb75&txTime=69a4e3c9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=21cad899f3772b6ffdcc222fd7835ae9&txTime=69a4df90
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=d716607e6056962ac165a8e07e1d76b3&txTime=69a4e3c9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=beb06dcaab80df1d71f898ce7f6cb5e0&txTime=69a4df90
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9dc1ba4f200efdceabdf50de50afcb75&txTime=69a4e3c9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=21cad899f3772b6ffdcc222fd7835ae9&txTime=69a4df90
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d716607e6056962ac165a8e07e1d76b3&txTime=69a4e3c9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1772394817-0-0-08f8852ae3bf8a6b1b9b868263d84474
+https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1772395897-0-0-3b0f26d9b8113e260eceebff45d7523c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1772394817-0-0-744b45d5a2e6d99d72abb5a8c8099d7b
+https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1772395897-0-0-917b16ee2038e0cda416b7ad93e607d7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1772394817-0-0-eb5fbfcdad37aa8455320cce161d4b07
+https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1772395897-0-0-fb845b0248c97d8821976d3ea979892a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1772394817-0-0-5992cc5b6ed79614b29b8f1d68a480f8
+https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1772395897-0-0-3f79d820be1fa6c725ab3902be9a198e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772395897-0-0-ee7b06552034548a4386821542d66223
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772395897-0-0-df4c722cecd3f69d58876a2decac575b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772395897-0-0-6de11a2172c7cc5486ff018663d35a0d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772395897-0-0-0804ed62b768925e0c3b83ba945e8cc7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772394816-0-0-4ac6cd8f7fbc6c6f47b7b2ffcb75b3ca
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772395896-0-0-592b19c7318f676525e53f76abeeac0a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772394816-0-0-4ded2733fee11bc5bf3bc4f684cc2a5e
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772395896-0-0-18808351a3bced872a60bc7f56ae47d5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772394816-0-0-32c4cc6fbdac04018077deb713e4a268
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772395896-0-0-db81fde0671d5f88aed5bc6b23bfba8b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772394816-0-0-f0fbe0651cf91fb5bbf4aa5cf468f0cc
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772395896-0-0-4566720095af46921b0e30d9d44bfffb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1772395897-0-0-792ac076812e383bed4e71b1759c27ce
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1772395897-0-0-5e40f63851f4219751fb693a3c31af94
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1772395897-0-0-c282c6792a7fd63bf6242956bf9efe3e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1772395897-0-0-e2c33ae0ffd7151812bfeec75cb1d067
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1772395897-0-0-cd33702232b2fa07b864133035ef67ac
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1772395897-0-0-ed1bc106ea12c733a19c292142185ee5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1772395897-0-0-8ca23e29ae5d30a4d68b6fed1075dbdb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1772395897-0-0-7ecd5a978b3af78d301bebe091ff2ab5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772394816-0-0-9b977f4e7ba4b2e497d6ebe00bba3104
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772395896-0-0-32601ce37c3606cd423fe740007726b5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772394816-0-0-e3fd4f5b580b40d6cebcaa15f51e6409
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772395896-0-0-7efb498f0588e2d97b82785dd0680c72
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772394816-0-0-5370154f95459713f761bfdb1ee792f9
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772395896-0-0-4c723378541568a90368b234ad21c024
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772394816-0-0-034d1c0d7f6a39659586a28d8a6dc068
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772395896-0-0-6b99d75543d195daca19e0bf6017cc74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=20fbb1228bba43e1e229d16f9938c3ef&txTime=69a4e0f8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1772396269-0-0-305ce8e180d89bfb7ccb25652d086f4e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=84be61bdadfa1689393da8adcc8bbe08&txTime=69a4e0f8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1772396269-0-0-ada79d7c7243730b5df2bfbd1da87831
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=20fbb1228bba43e1e229d16f9938c3ef&txTime=69a4e0f8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1772396269-0-0-ac49859ea0e74f2ad9cf2968a2703d6e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=84be61bdadfa1689393da8adcc8bbe08&txTime=69a4e0f8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1772396269-0-0-cf8f2a06602aa608702d7d22a0d79251
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772395176-0-0-9c6c44fc42fabc23cf0f630915abb4ba
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772396257-0-0-5d71af93a7d7619531bfa93ad8a75e12
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772395176-0-0-c756bbdcc33e5fc14d5a2960f1e35693
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772396257-0-0-d804ca5d69493fa1f5979d2d47bd7f7b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772395176-0-0-cd24f78dfc0a3cc81ca8a9dc85ba5deb
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772396257-0-0-c18c4e20cd763745db00363b7f1bfbf3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772395176-0-0-2f9154d665be2da5c79ef2b14ee63d7d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) flv
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772396257-0-0-8a8b5af7a25ed442daef2ced29242fa4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772395536-0-0-8a7c74bf41ec2ccb1448a5c68440b941
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=62594a8cdcf3741f5e2d21ef728fb408&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772395536-0-0-2f9aa340223750c2488ea7fc3662e45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=e15ac1bfdacda4b120f332758726d628&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772395536-0-0-783940f6ff82d1683231715cfffd4576
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=62594a8cdcf3741f5e2d21ef728fb408&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772395536-0-0-cd73b8447c563b58ab5ef52e65f6068f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=e15ac1bfdacda4b120f332758726d628&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV KINH TẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1772395536-0-0-8a390c7ab907a6de4646157e9cb17571
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=521f686d9ee8b7966e596aa2d69b82a3&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV KINH TẾ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1772395536-0-0-278e6854cb0d108d6ad74b9aac321e9d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) m3u8
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=c1b6a471350965a55c5ca9fdcefb7b6e&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV KINH TẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1772395536-0-0-fa968cfb361058368caee0b406c044a7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=521f686d9ee8b7966e596aa2d69b82a3&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV KINH TẾ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1772395536-0-0-997c91e8dd47452f52284dc7cf93ab67
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=c1b6a471350965a55c5ca9fdcefb7b6e&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=484cde126bf35bb323d1a10cfebc396b&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772396257-0-0-2609fa991fb396ccd3732824bc21b14a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=445401a3094d7c304868c6062282d1a1&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772396257-0-0-aacf26d31b9b9db26f9d710c3ccd497e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=484cde126bf35bb323d1a10cfebc396b&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772396257-0-0-9d72755056623645a965972db97e840b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=445401a3094d7c304868c6062282d1a1&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) flv
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772396257-0-0-9011153b4ffff356b75456d43ec72f76
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1772395536-0-0-b154ca3b8078ad44f01b2bd2bf7c3179
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1772396257-0-0-c2bfec5b8e5b89ba231a3d53bcd16445
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1772395536-0-0-630eb06690475de21c4cc97d209aaa08
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1772396257-0-0-4d2e68a2c257e8b2daafca06642d078d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772395536-0-0-3eb12bbd7c2fa3f30b27154ab104bb93
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1772396257-0-0-1e92eaf8f479b7d73329270096ee235a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772395536-0-0-53cffe0bf55d49007c7dd0734e090243
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) flv
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1772396257-0-0-5625fa593539da707a5e22253541b48f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ADAM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1772395536-0-0-96559e84a34e47b741ed670fd8da4b92
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) hdFlv
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=4767b583c85354e8e7f770c29cd5c1c9&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ADAM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1772395536-0-0-97a3916751a432fd09594cb367128949
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=2264f01ec3d440d39f2299a031c38662&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ADAM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1772395536-0-0-4b2ff174405c9f0bb2d2601edd9e30fb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=4767b583c85354e8e7f770c29cd5c1c9&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/306ef3697f95c6ac9da584895007db15.png",02h45 WIB 02/03 AS Roma vs Juventus [BLV ADAM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1772395536-0-0-8ea8d29af136a5111b2ec4945df26f3d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=2264f01ec3d440d39f2299a031c38662&txTime=69a4e531
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ac8775a4b811dc9c5d794e8778d6d39e&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1772396257-0-0-7f49e7c975cc0bb90cca892468824016
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=f64c781b6b07cb55c80aaf81d18447d4&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1772396257-0-0-a79d78b49d337ebcd77edded725ab0cc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ac8775a4b811dc9c5d794e8778d6d39e&txTime=69a4e260
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1772396257-0-0-f212508b6a61b99bc17075ebd2e80916
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f64c781b6b07cb55c80aaf81d18447d4&txTime=69a4e260
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1772396257-0-0-b4da20444e11aa6dac31a21c29b991d8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772395536-0-0-3a8a7ccf3915b7559651fa6bb390be6b
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772396617-0-0-a943634f7a61cbbf586a78c94cb1c680
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772395536-0-0-9fc19777825d43720985a84f21816c25
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772396617-0-0-6ddf3b17457e41adf176d56ac19ca7d8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772395536-0-0-4f7d0db17d559befac526c1bd01fd60a
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772396617-0-0-9acccddc67b7b7ff18112bdc936a81da
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772395536-0-0-1b6395326366851c057b80c3f79269ff
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772396617-0-0-cf338236f83c905fc58a3fa41fa8cd56
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772396617-0-0-8c61899218e9d94144a455a2b5870ad8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772396617-0-0-764b814bdebc70aee03646f761e8b9ea
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772396617-0-0-ce8a7b6352b4f8f88a9def6c6ed851ad
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/e521d4b047d34fc6522689278d3f827b.png",01h30 WIB 02/03 Hamburger SV vs RB Leipzig [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772396617-0-0-f3cbe6e6071fc37d0e0e04c3a65ee9fe
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=efb516963be9481233bdb8e35d3b5427&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1fd2758cc127e9d5ffeaa8c92b70df0a&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=efb516963be9481233bdb8e35d3b5427&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1fd2758cc127e9d5ffeaa8c92b70df0a&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1772396617-0-0-f8349bdc23111a89109ffe5d5be5e96a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1772396617-0-0-43238361fc34afa02475c90c569cbeac
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772396617-0-0-09a4b40abe5c54737a9cc13dbb8617f3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772396617-0-0-0dc9cb33bfca50df817c1d00adaeecd8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1772396616-0-0-6633ed66af4ddc8e8a613047a2b3f1e0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1772396616-0-0-c16024154f3e5e3d447c0b0ecfd687f7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1772396616-0-0-d067d64041b35715aa010866c4fbe85d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1772396616-0-0-36c89b84ff6aa7f473840b2ab370f71d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=b6ed0c641f1bd48caf73ab6376989a30&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5559e8b47e94dfd3d82552496eb5a054&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b6ed0c641f1bd48caf73ab6376989a30&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/4aec9f249cea970bb3b3922bc70959cd.png",00h30 WIB 02/03 Real Betis vs Sevilla FC [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5559e8b47e94dfd3d82552496eb5a054&txTime=69a4e699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1772396617-0-0-3fed902b5ef831d8d8df3d9600f920cd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1772396617-0-0-e50d8eaa0b6da9a829f6978cd495df19
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1772396617-0-0-00e23eb231e86f7fc82b51023f9720aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1772396617-0-0-129de6457132714fc6b216885e0f8ce7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1772396617-0-0-450246e8632b99c3ef23dbccb50d0e1e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1772396617-0-0-cb9c0fc45e30ba4af306149f37a5aea7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1772396617-0-0-e08db30563158572ee27b62ad5fc2138
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1772396617-0-0-7234fea987a97d13f64813cbfc5ad1df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/27a2110f559b435dd84221259543018b.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772395536-0-0-9f0eb1fff92e55866cba5dad770a39e5
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772396617-0-0-0435a61d51a6caae18c02b3fa6f47a18
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/27a2110f559b435dd84221259543018b.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772395536-0-0-bb76f06fe2a4a0c9423d3d3590f26b1f
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772396617-0-0-0ec2d582a53aad4355667936517bf2ae
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/27a2110f559b435dd84221259543018b.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772395536-0-0-548fc26f03789fdd9d68361af7c8a738
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772396617-0-0-e5b852353d18c096b372b06f9eb36ed4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/27a2110f559b435dd84221259543018b.png",01h00 WIB 02/03 Casa Pia AC vs Moreirense [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772395536-0-0-6a13fab85b6d2753ef0880d093700463
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772396617-0-0-85004912bb201c9731c35dd208adfd1e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1772395536-0-0-7f8c7e74a992b9f3e1661fe72275a69c
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1772396617-0-0-dc90c35033f7b5f7ef4335c84a28eb5a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1772395536-0-0-fdfb675af7f36b51f94d5fdc18ec5f18
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1772396617-0-0-d196f43ddc43038f1c867892cc05b4f8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1772395536-0-0-0d2a415215e363fe68240d59ba371036
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1772396617-0-0-48168d7bc49ef632d1596c132c7948a3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/13cb2b081d7af133623607f5e8244bb1.png",02h00 WIB 02/03 Excelsior SBV vs Go Ahead Eagles [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1772395536-0-0-109083ddd13b7a6284fb1fdf629a84fe
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1772396617-0-0-580644ada8b9b1dd0ea72a91d5f93ff5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772395536-0-0-5890b34c72eb38843d0d0a9cca73ebdb
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772396617-0-0-947c615396608456e352fdfb68423232
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772395536-0-0-709dd37788a1ce0718f4def7d74a5ff6
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772396617-0-0-42c5bb6bd5440f806f2d24449ba6fc47
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772395536-0-0-94e0462c478d01edba75ebc2cfef78d4
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772396617-0-0-039f191fc2356f65c4413782514f2ae8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772395536-0-0-52c6c38e69fa35f592cc16f683bf8550
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772396617-0-0-63a96542fb2fd003d166d70fe9471263
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1772395536-0-0-8521904196a22b56855408c75bfdb644
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1772396617-0-0-25498d7c5d27e880519333744874d180
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1772395536-0-0-7d0491998c17ed003ae5436d22adc0b1
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1772396617-0-0-f27d2534dcb620e8e735e57331cb860f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772395536-0-0-700ca26d8a55e6a8f3574dab68698e33
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772396617-0-0-0ecd911ab802b1300c30e626946fc48c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/42ecb3a9428aeae5e4593f78f3e7e193.png",03h00 WIB 02/03 Girona FC vs RC Celta [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772395536-0-0-ba66c2e224af47c4685909dd559e70e0
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772396617-0-0-b6d3ccf09d17f1cea02ce204cd91af82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV Hổ Lùn] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1772396617-0-0-441836610d9f847045e83c4641cdd60f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV Hổ Lùn] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1772396617-0-0-89bad13ebd311bb7d084dc5ae4661f88
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV Hổ Lùn] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1772396617-0-0-bfc55b1d71335465e54a772f5b74712e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/c8340306f1cee12b1338b73182af66d7.png",02h45 WIB 02/03 Marseille vs Lyon [BLV Hổ Lùn] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1772396617-0-0-7fcef6dad76f0e815c2ba3e4f05538c5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",01h00 02/03 New York Knicks vs San Antonio Spurs (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1217,18 +1342,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 02/03 Antalyaspor vs Fenerbahçe (Hội Quán) FULL HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 02/03 Antalyaspor vs Fenerbahçe (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h00 02/03 Antalyaspor vs Fenerbahçe (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",00h30 02/03 Real Betis vs Sevilla (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1253,12 +1366,48 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/278px-AS_Roma_logo_%282017%29.svg.png?20230616090428",02h45 02/03 AS Roma vs Juventus (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/278px-AS_Roma_logo_%282017%29.svg.png?20230616090428",02h45 02/03 AS Roma vs Juventus (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/278px-AS_Roma_logo_%282017%29.svg.png?20230616090428",02h45 02/03 AS Roma vs Juventus (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80",00h30 02/03 Real Betis Balompié vs Sevilla FC
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80",01h30 02/03 Hamburger SV vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 00h30 02/03 Real Betis vs Sevilla [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 00h30 02/03 Real Betis vs Sevilla [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 00h30 02/03 Real Betis vs Sevilla [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 00h30 02/03 Hamburger SV vs RB Leipzig [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 00h30 02/03 Hamburger SV vs RB Leipzig [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 00h30 02/03 Hamburger SV vs RB Leipzig [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
@@ -1899,6 +2048,14 @@ https://stream.chuoichien.tv/chuoibay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoibay.flv
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",02h45 ngày 02/03 AS Roma vs Juventus (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",02h45 ngày 02/03 AS Roma vs Juventus (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125511_cf0f54fc.png",02h45 ngày 02/03 Marseille vs Lyon (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1923,6 +2080,14 @@ https://stream.chuoichien.tv/bapcai/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/bapcai.flv
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125626_056b593c.png",03h00 ngày 02/03 Girona vs Celta Vigo (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125626_056b593c.png",03h00 ngày 02/03 Girona vs Celta Vigo (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131601_f0284879.png",04h30 ngày 02/03 Philadelphia Union vs New York City FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
