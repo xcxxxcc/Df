@@ -94,11 +94,17 @@ http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/o
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 ######################################################################################################################################################################################################################################################################################
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015047/1770813954717228_WOF_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Wheel Of Fortune
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1772497804~acl=/*~id=15707612564806621299688781652310~hmac=daa236abccd24ac93dda75b36dbd8a5533f63581439e89eac4635a7e9487a140|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TB301XU; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a9fc1f8902d6ea5211bda4182cd64ee4-1772466600129
+https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1772497804~acl=/*~id=15707612564806621299688781652310~hmac=daa236abccd24ac93dda75b36dbd8a5533f63581439e89eac4635a7e9487a140|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; haierATVnippori; Build/RTO5.230620.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a1cdb36ac50817d29db7ce60e6d0600f-1772467800105
 #EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1772497804~acl=/*~id=15707612564806621299688781652310~hmac=daa236abccd24ac93dda75b36dbd8a5533f63581439e89eac4635a7e9487a140|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TECNO AC8; Build/RP1A.200720.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a9fc1f8902d6ea5211bda4182cd64ee4-1772466600129
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1772497804~acl=/*~id=15707612564806621299688781652310~hmac=daa236abccd24ac93dda75b36dbd8a5533f63581439e89eac4635a7e9487a140|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTO2.231226.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a1cdb36ac50817d29db7ce60e6d0600f-1772467800105
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -315,18 +321,88 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:1 group-title="RANDOM 1",[Serbian Super liga] IMT Novi Beograd vs Radnik Surdulica lúc 23:07 WIB 02/03/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/a244af8f18d42a0dbeadaeb06ba7d3dd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bulgarian First League] Ludogorets Razgrad vs Lokomotiv Plovdiv lúc 23:07 WIB 02/03/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/b2a9e333d7312b4a09d0b09d3fc78d06/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH flv
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772458380.png",21h00 WIB 02/03 JENNIE vs OK9 TV (Lương Sơn) MEGA LIVE m3u
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772458380.png",21h00 WIB 02/03 JENNIE vs OK9 TV (Lương Sơn) MEGA LIVE flv
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV ĐOÀN DỰ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/45133_1h5bja73dv31.png",23h00 WIB 02/03 IMT Novi Beograd vs Radnik Surdulica (Lương Sơn) BLV ĐOÀN DỰ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/13452_1gytycjdfre.png",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e8be8ce019b2acfc38fc01d218565367/image/small?v=1768601124",20h00 WIB 02/03 Halaba City vs Boditi Ketema (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ef0f83b2290f2c70586bfe63bb49af53/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a3480b76509006adf04b2d935e5c7e95/image/small?v=1768601124",20h30 WIB 02/03 Persatuan Sepakbola Makassar vs Persita Tangerang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/43f49e1c21eafbe8e17f3bd397a1cb0b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e2752a3290dc4cc57a4ac3505e3ab9e/image/small?v=1768601124",17h30 WIB 02/03 Menge Belashangul vs Sululta Ketema (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f206f7e9712d8e196359bb731975be09/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a49e04001d0d56218bf02e1f0a3ebc46/image/small?v=1768601124",17h30 WIB 02/03 Shashemene Ketema vs Batu Ketema (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5785b08a135309dc88bcc3fdd84a846b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c44eec156c43c0b0e6c65987c163ce43/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/5ef093b0238b41be872d93428fb7f121_720/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/5ef093b0238b41be872d93428fb7f121_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/5ef093b0238b41be872d93428fb7f121_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c13bd7cb5a9b3618d73725f6b25a0e47/image/small?v=1768601124",23h00 WIB 02/03 USFAS Bamako vs Derby Académie (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f6fc46be77794f4614ca69df74343b5e/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/b3ce91d4df9db0f4b088110b611d3586/image/small?v=1768601124",23h00 WIB 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b2a9e333d7312b4a09d0b09d3fc78d06/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a69caf09ff03b9d22269a95fffdcafb/image/small?v=1768601124",21h00 WIB 02/03 FC Asiagoal vs FC AbdyshvsAta Kant (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -355,42 +431,6 @@ https://live.alilicloud.com/live/bc5cc4c69a2b812d554ff039876676e8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2c5a37e6d5b8e07621e8cd8d8528e9b8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e8be8ce019b2acfc38fc01d218565367/image/small?v=1768601124",20h00 WIB 02/03 Halaba City vs Boditi Ketema (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ef0f83b2290f2c70586bfe63bb49af53/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a3480b76509006adf04b2d935e5c7e95/image/small?v=1768601124",20h30 WIB 02/03 Persatuan Sepakbola Makassar vs Persita Tangerang (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/43f49e1c21eafbe8e17f3bd397a1cb0b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e2752a3290dc4cc57a4ac3505e3ab9e/image/small?v=1768601124",17h30 WIB 02/03 Menge Belashangul vs Sululta Ketema (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f206f7e9712d8e196359bb731975be09/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a49e04001d0d56218bf02e1f0a3ebc46/image/small?v=1768601124",17h30 WIB 02/03 Shashemene Ketema vs Batu Ketema (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5785b08a135309dc88bcc3fdd84a846b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/009aa8ae4490cc2d4ab6a27f96274c36/image/small?v=1768601124",17h00 WIB 02/03 Ethiopia Nigd Bank Women vs Arba Minch Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c01b5ed370deec65ee44386720bd5b39/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c44eec156c43c0b0e6c65987c163ce43/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/5ef093b0238b41be872d93428fb7f121_720/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/5ef093b0238b41be872d93428fb7f121_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a4ba875fb179efe94d21e6c4f0b68ad/image/small?v=1768601124",18h00 WIB 02/03 SC Poltava vs Kudrivka (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/5ef093b0238b41be872d93428fb7f121_720/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125648_ab7df89d.png",23h00 WIB 02/03 Ludogorets vs Lokomotiv Plovdiv (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -607,6 +647,18 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a3480b76509006adf04b2d935e5c7e95/image/small?v=1768601124",20h30 WIB 02/03 Persatuan Sepakbola Makassar vs Persita Tangerang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/43f49e1c21eafbe8e17f3bd397a1cb0b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/76a6d6ada34f031eca58110c8cd6b86c/image/small?v=1768601124",23h00 WIB 02/03 FK IMT Belgrad vs Radnik Surdulica (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a244af8f18d42a0dbeadaeb06ba7d3dd/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c13bd7cb5a9b3618d73725f6b25a0e47/image/small?v=1768601124",23h00 WIB 02/03 USFAS Bamako vs Derby Académie (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f6fc46be77794f4614ca69df74343b5e/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5a69caf09ff03b9d22269a95fffdcafb/image/small?v=1768601124",21h00 WIB 02/03 FC Asiagoal vs FC AbdyshvsAta Kant (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -639,118 +691,6 @@ https://live8.fastestcdn-global.com/live8/11162e64f24441728b4f9c0a0856b95d_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/11162e64f24441728b4f9c0a0856b95d_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/a3480b76509006adf04b2d935e5c7e95/image/small?v=1768601124",20h30 WIB 02/03 Persatuan Sepakbola Makassar vs Persita Tangerang (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/43f49e1c21eafbe8e17f3bd397a1cb0b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1772469697-0-0-930ed2d3526fb0d812a5a06867ca2d44
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1772469697-0-0-4e6a0e7d7f5aff94eec2014414d3ffb4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1772469697-0-0-788d47a7e25d19cc579faafccbc3ccfb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1772469697-0-0-e9e9c2212bc155be65c30f7670e2ea38
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1772469697-0-0-8aec70725f8df40615b0e71fbd05371d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1772469697-0-0-404790d2f7d29ecd9961f3ee28730006
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1772469697-0-0-c6b2d873e33543a3a07d843fa0a063ac
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1772469697-0-0-828b3f6a222e0124e53959fcd7f6b6f4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772469697-0-0-e13b60520e895a80a1b65aee79a4bf9e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772469697-0-0-3f33462783d858cd6716ae188187163c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772469697-0-0-c88728731f1fd2fd9bce6cf2ba4c4985
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772469697-0-0-358ebe4b22aca808764724b27c887ceb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772469697-0-0-865eecd0255857dfb01bd77c5a24d242
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772469697-0-0-474234d003b193a30d6a7be4f6afd7c9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772469697-0-0-76393e5137aa1d19900a0c36675f5ece
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772469697-0-0-4290cfc22d2fc95cf188073587af95be
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1772469697-0-0-baa64b6452185473e600a3aee2f9cea0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1772469697-0-0-75c5680cdf811896dbdca386c8c8ede7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1772469697-0-0-044bb8a0dd4231ce23333dd540bfc1ed
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1772469697-0-0-45bdbf55aece3807f5839d02956ebdce
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1772469697-0-0-12fbcb4bc306ff1e0a44d81dfe417161
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1772469697-0-0-01aebe7202d7a03481d1fcfbe77f0730
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1772469697-0-0-444cf54d73237e6c4d37ef5749dbdad9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1772469697-0-0-4a17c09c3678db594b23578db624939f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772470057-0-0-f59bf45311515760ce7001f78ec27932
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772470057-0-0-0b9101c3ccdb1d220ea6404183678160
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772470057-0-0-f7a60d00950ee434768edc7465b41d38
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772470057-0-0-1b1b0eb50ad8cbaa1052fe4a58f22205
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1772470057-0-0-e87797ccc8a76c15559077469c8a082f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1772470057-0-0-098f194ef31e8d34efd416ff08478827
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1772470057-0-0-795029f97c32139c8b21548bd5cd8009
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1772470057-0-0-33173f5715430eefccdd6ff2743906bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1772470057-0-0-acf6cf2f6129a729cd485b6092896e20
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1772470057-0-0-e8dfaf3501609d07f92ee5879565c20d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772470057-0-0-13e1cc5d8faaddb9c67d27d4e4a5bd4e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772470057-0-0-aa29a702b342fbd9adbf35fe6961021e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772470417-0-0-c07135e15667d2a088a09252a14e705d
@@ -823,18 +763,6 @@ https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772470417-0-0-bc6a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772470417-0-0-20da735901b05bf5e650d0c488cf0379
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",POL D1: Zaglebie Lubin vs Wisla Plock [Giàng A Thổ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1772470444-0-0-883fac45b2d60f897de32973063c57dd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",POL D1: Zaglebie Lubin vs Wisla Plock [Giàng A Thổ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1772470444-0-0-f92d3cca2acfce4e120e39dd36be09d3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",POL D1: Zaglebie Lubin vs Wisla Plock [Giàng A Thổ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1772470444-0-0-7c2a7d53b9b7fe1448056e9a66cc902c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",POL D1: Zaglebie Lubin vs Wisla Plock [Giàng A Thổ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1772470444-0-0-61b30a44925970c9633eceddbd42f3df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772470417-0-0-a54bcf907b9aaea35fb0fee85e1c10b7
@@ -847,6 +775,138 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772470417-0-0-1d29
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772470417-0-0-1ad6d8bbe0183137afd522f06be58c2a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772470777-0-0-9c86909bc238ef7ebe78775c5afa612c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772470777-0-0-f677362805683d3af03a5b167db10053
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772470777-0-0-ce5d9ac78c0788239b9bac78e73f99f7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772470777-0-0-c9c74f3e1f7e1adb14f0ebd0480a6254
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772470777-0-0-375622c8442e988349e189870a48e0f5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772470777-0-0-a7505fab43e0510e1a27a9a0ec9709fd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772470777-0-0-2f29c9fbee3a2b7d452701420cdf66b1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772470777-0-0-e363946daff4599f254a08891830bcf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1772470777-0-0-f64a26aba492ed788a51fd51fcce75b4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1772470777-0-0-0a5d9c1960b7fe599d27a546b9f3d950
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1772470777-0-0-44e0f97ee73265e72c918cdb3df6c36e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1772470777-0-0-3507f39009ff4c344d86f0d290e5c14e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1772470777-0-0-9b0a11a94899ca250ce61b0fa00cb19d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1772470777-0-0-1a21a61685bef359cb038442ecc4aa6e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1772470777-0-0-dfd3741354b679d12b4421e45dfb13d5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1772470777-0-0-c2f6ce43f58beb3d3ebaf4d434c729fa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=8320e52535898a4f260167eb9174ffd7&txTime=69a60849
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=98b3c71f5d12a07688165806c102f763&txTime=69a60849
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=8320e52535898a4f260167eb9174ffd7&txTime=69a60849
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=98b3c71f5d12a07688165806c102f763&txTime=69a60849
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Đình Bắc] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1772470777-0-0-b6b216b510062a19fcf868f98b254d0d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Đình Bắc] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1772470777-0-0-bb1afd54b7df2a603e1f9330f398bc00
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Đình Bắc] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1772470777-0-0-3b406c25cca6b0d15cbf1f1004d57f57
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Đình Bắc] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1772470777-0-0-828a620a6b97ff24aa4d4fb3e19cf4df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260228/319ca582cf9aa6202009c4753ead079d.png",09h30 WIB 02/03 Los Angeles Lakers vs Sacramento Kings [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1772470777-0-0-87de4c30d71a0b3e3d6033d1d9a0a743
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260228/319ca582cf9aa6202009c4753ead079d.png",09h30 WIB 02/03 Los Angeles Lakers vs Sacramento Kings [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1772470777-0-0-6039a22ed7b0d21cbbf4baf76d4592eb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260228/319ca582cf9aa6202009c4753ead079d.png",09h30 WIB 02/03 Los Angeles Lakers vs Sacramento Kings [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1772470777-0-0-801a42da474a32c06d9c3633022a183c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260228/319ca582cf9aa6202009c4753ead079d.png",09h30 WIB 02/03 Los Angeles Lakers vs Sacramento Kings [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1772470777-0-0-30eec85ad445a6d663e4bf7e6421d837
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1772470777-0-0-f5a586cead1f40f71df047e4357a8cb4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1772470777-0-0-e3891302913f970262bcd1cf15a7d7cb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1772470777-0-0-24859f233b97f465916ad2676f5076e5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1772470777-0-0-b2ef841ddebc8902de4777e35281f60b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772471137-0-0-0149c437eb066c6ad99fd7ca05817cca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772471137-0-0-5e689ef1fffceba4788a33e5073313a1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772471137-0-0-b1efcd5a7e47bd9c66d3b094497a3dbb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772471137-0-0-8f13a08cead003b7e7374972848d3393
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1772471137-0-0-a2da337e820fb5393997d7d11ccf638f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1772471137-0-0-3d4f0e7c6771a417eaf0e24fd81173fd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1772471137-0-0-7ca654610d206464b09fd891289f23ed
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1772471137-0-0-573e2230e22c96ade4cc10483ad66562
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1772471137-0-0-e21593ab05f63c2a0e6131e25ad59e22
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1772471137-0-0-a47ce0651299de72663dba4389bb6cd6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1772471137-0-0-c35270aa18a4888faf9785d44b80823c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",RUS D2: Rodina Moscow vs Shinnik Yaroslavl [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1772471137-0-0-5b21a99f21a90e14d052a6b717489f92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/12316.png",23h00 02/03 IMT Novi Beograd vs Radnik Surdulica (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -883,30 +943,12 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CS GO: ESL PRO LEAGUE MÙA 23] 20h00 02/03 Parivision vs paiN Gaming [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CS GO: ESL PRO LEAGUE MÙA 23] 20h00 02/03 Parivision vs paiN Gaming [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[CS GO: ESL PRO LEAGUE MÙA 23] 20h00 02/03 Parivision vs paiN Gaming [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Liga 1] 20h00 02/03 Persebaya Surabaya vs Persib Bandung [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Liga 1] 20h00 02/03 Persebaya Surabaya vs Persib Bandung [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Liga 1] 20h00 02/03 Persebaya Surabaya vs Persib Bandung [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/3cd0dc57966a8b1f8536dd0016179664.png!w80",23h00 02/03 Ludogorets Razgrad vs Lokomotiv Plovdiv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png!w80",23h00 02/03 IMT Novi Beograd vs Radnik
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
@@ -2066,74 +2108,34 @@ https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770365494-0-0-7109
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
-#EXTINF:1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Asia Cup Women] South Korea W vs Iran W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Asia Cup Women] South Korea W vs Iran W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/ccccQQQ.m3u8
-#EXTINF:1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Ludogorets vs Lokomotiv Plovdiv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Ludogorets vs Lokomotiv Plovdiv (FAWA)
+#EXTINF:1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Ludogorets vs Lokomotiv Plovdiv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Ludogorets vs Lokomotiv Plovdiv (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/VZZZ.m3u8
-#EXTINF:1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQQ.m3u8
-#EXTINF:1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQ.m3u8
-#EXTINF:1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] PSM Makassar vs Persita (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Indonesia Liga 1] PSM Makassar vs Persita (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFFFQQQ.m3u8
-#EXTINF:1 tvg-chno="9" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] Persebaya vs Persib Bandung (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Indonesia Liga 1] Persebaya vs Persib Bandung (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFFFQQ.m3u8
-#EXTINF:1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[Kenya Premier League] Bidco United vs Ulinzi Stars (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Kenya Premier League] Bidco United vs Ulinzi Stars (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFFFQ.m3u8
-#EXTINF:1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Kenya Premier League] Kariobangi Sharks vs Tusker (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Kenya Premier League] Kariobangi Sharks vs Tusker (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFFFQ.m3u8
-#EXTINF:1 tvg-chno="106" tvg-id="Live.Event.us" tvg-name="[Russia Premier League] Sochi vs Spartak Moscow (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Russia Premier League] Sochi vs Spartak Moscow (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/KOKOKOQQ.m3u8
-#EXTINF:1 tvg-chno="107" tvg-id="Live.Event.us" tvg-name="[Serbia Super Liga] IMT Novi Beograd vs Radnik (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serbia Super Liga] IMT Novi Beograd vs Radnik (FAWA)
+#EXTINF:1 tvg-chno="106" tvg-id="Live.Event.us" tvg-name="[Serbia Super Liga] IMT Novi Beograd vs Radnik (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serbia Super Liga] IMT Novi Beograd vs Radnik (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/VZZZQ.m3u8
-#EXTINF:1 tvg-chno="108" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Independiente Rivadavia vs River Plate (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 3",[Soccer] Independiente Rivadavia vs River Plate (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://601.shadow-ran.online/main.m3u8
-#EXTINF:1 tvg-chno="110" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Pamba vs Azam (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tanzania Ligi Kuu Bara] Pamba vs Azam (FAWA)
+#EXTINF:1 tvg-chno="108" tvg-id="Live.Event.us" tvg-name="[South Africa Premiership] South Africa Rugby Varsity Cup (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[South Africa Premiership] South Africa Rugby Varsity Cup (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFFF.m3u8
+http://195.178.110.25/hls/HHHH.m3u8
 #EXTINF:1 tvg-chno="111" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Singida Black Stars vs Coastal Union (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tanzania Ligi Kuu Bara] Singida Black Stars vs Coastal Union (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/ZFFF.m3u8
-#EXTINF:1 tvg-chno="116" tvg-id="Live.Event.us" tvg-name="[Ukraine Premier League] SC Poltava vs Kudrivka (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Ukraine Premier League] SC Poltava vs Kudrivka (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/KOKOKOQ.m3u8
 #--- RANDOM 3 END ---
