@@ -503,6 +503,12 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015047/1770813954717228_WOF_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Wheel Of Fortune
 https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1772497804~acl=/*~id=15707612564806621299688781652310~hmac=daa236abccd24ac93dda75b36dbd8a5533f63581439e89eac4635a7e9487a140|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; IPB216D; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5afc9e754fee6462dd04e6c1c6b78c45-1772464200095
@@ -726,14 +732,20 @@ https://ppv2.168.us.kg/stream?uri=rally-tv
 #--- PPVLAND END ---
 
 #--- RANDOM 1 START ---
-#EXTINF:1 group-title="RANDOM 1",[Indonesian Liga 1] Persebaya Surabaya vs Persib Bandung lúc 22:07 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Indonesian Liga 1] Persebaya Surabaya vs Persib Bandung lúc 22:20 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/07f07fa2d8406231af3574d564a5b31e/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Indonesian Liga 1] PSM Makassar vs Persita Tangerang lúc 22:07 WIB 02/03/2026 [MAIN]
+#EXTINF:1 group-title="RANDOM 1",[Indonesian Liga 1] PSM Makassar vs Persita Tangerang lúc 22:20 WIB 02/03/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/43f49e1c21eafbe8e17f3bd397a1cb0b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772458380.png",21h00 WIB 02/03 JENNIE vs OK9 TV (Lương Sơn) MEGA LIVE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
@@ -746,54 +758,48 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772439459.png",21h00 WIB 02/03 Orman Gençlik vs Fenerbahce Koleji (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1691_164941019114.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14957_164941031654.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7426a9657290ac950a4f525eae3fedae/image/small?v=1768601124",16h45 WIB 02/03 Adelaide Blue Eagles vs The Cove FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1214,174 +1220,222 @@ https://live8.fastestcdn-global.com/live8/b8753fd2d2ee44b8b0dbe49f50f5dd1c_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7873ab11044a08ef71bb373786f9d430/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1772466817-0-0-c16428eb4f81201a71e04dcd7fe9a0c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1772466817-0-0-2ccbeb5c0a5bfaddb55831340770ddd2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772466817-0-0-b4f84e90fb6da04b6932ad60083b7dae
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772466817-0-0-644b3b0254e2ff08c4ec064dc35c2d23
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772466817-0-0-ee99d18f974b028efec56eafd09361c8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772466817-0-0-9cad675a1edf416039db583a2dd85a17
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772466817-0-0-267e0151a9415601e551a5d2adc1fb32
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772466817-0-0-8d2fa5a9522b233e5f98d504c12fbae2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772466817-0-0-9b15d731ed7bcc43fc25aea5157655e6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772466817-0-0-370abeac8c68b7c295ba175509c686e4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772466817-0-0-0871b61345fba6341115f6317425c692
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772466817-0-0-cad18d9f9c5aa131bc91777fa15e27f3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1772466817-0-0-19f55920e7c01ac73e5bae30b9e5efe6
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1772467897-0-0-be88275fcca0c02d8a4d5193e3b3a4ec
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1772466817-0-0-a2e656c04aa3fa5a11c7bae967e56ca7
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1772467897-0-0-bd8560780d5249d4d506699d6943c7bd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1772466817-0-0-086c02d0a3c817b7a23aa6022aa00a8a
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1772467897-0-0-8eda5a123c12eefe8b9bddb457bd22bb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1772466817-0-0-cf3f5c8fc3c9fe6216c2c0376eb8fa80
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1772467897-0-0-32dd9cd54243b01b014934d8db83aa35
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1772466817-0-0-7a0602aaf9147d680cce20838c777168
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1772467897-0-0-761a138ba2f6c22096c1fdf003a45f60
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1772466817-0-0-6d081bb254fe75d0d52114b6bb33cf3d
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1772467897-0-0-33d609a0e011d38446247f6e1f723065
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1772466817-0-0-afb7061d79150c0df50e3451ca1cbeea
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1772467897-0-0-9d4fe4e2a1aee1231cf577de0ccfcf1e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1772466817-0-0-900f80cec55caa6a13ab64f776357423
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1772467897-0-0-4ea474b6477ba0bfaea0139192426907
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=bffa308ca7902e6698773870739b1a89&txTime=69a5fa39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772467897-0-0-e2433eae810844e6d958d5f5318830f7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=9f66ad4227f7e4d6dd8aa2ddb09fe47f&txTime=69a5fa39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772467897-0-0-ef9ed7f4db6bae383bb3076f1959d01c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=bffa308ca7902e6698773870739b1a89&txTime=69a5fa39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772467897-0-0-9cbc1a8e6d272682e216f0fca3427eff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9f66ad4227f7e4d6dd8aa2ddb09fe47f&txTime=69a5fa39
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) flv
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772467897-0-0-3a6a2925d6ebb0a0fca0dad02157b172
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1772467177-0-0-b8d3018bf3f4184bcf5dea365e7779b1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1772467897-0-0-1c2ea327e648cfe2d4ca3921c818b662
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1772467177-0-0-83d9e251ea5b4fd24bf7c68393028298
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1772467897-0-0-1b121760af1eebab9b4684be098f2f54
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1772467177-0-0-393deb25d3e044b411c3b63eb22e1f86
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1772467897-0-0-e32b7340f9b0e9e0b62e9fecda6df4f5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1772467177-0-0-e757c9349478c5a51acbfe5db7152ad2
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1772467897-0-0-ae97b03acaccd53cb50f19eeb61bded6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772467897-0-0-b1d4d77035b49eaa4f20ff73b4fdb73f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772467897-0-0-c5abd62b09b99ba1ff628331352c7486
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772467897-0-0-774e087de782d0f7379f8c9f339b6063
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772467897-0-0-741ec83368f594c20e0d07331c147141
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772467177-0-0-41491a04c2b24002886c581291ebe704
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772468257-0-0-dfe1d1cac4d7ecc0f57d1021a163d6d9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772467177-0-0-1df54e17eb7295def69fa743f5461638
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772468257-0-0-b8c6585b5fe3d90f9a1544a2a14290bc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772467177-0-0-813a2ea43ae2aa63c4f6703a9bc8b026
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772468257-0-0-703e378d179291ced9c745b00f63a4c2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772467177-0-0-1ff435e83f4b1687944b03061513ddca
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772468257-0-0-e09b24fba177630c6f3c1b3e55265fe1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=ffde854122d75459436a5cc233bbda0a&txTime=69a5fe71
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=bd1809c0e0423c208190ec7de3cf8fa8&txTime=69a5fe71
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ffde854122d75459436a5cc233bbda0a&txTime=69a5fe71
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/68cd25f48510040c57787c056dc20795.png",20h30 WIB 02/03 Persebaya Surabaya vs Persib Bandung [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=bd1809c0e0423c208190ec7de3cf8fa8&txTime=69a5fe71
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1772468257-0-0-92467e6eeb0c85dc254588cf40ef05d7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1772468257-0-0-04ee4a1611faed717814619cf91cb864
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1772468257-0-0-d9b509b740f68c13e009cf387080fc8a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1772468257-0-0-0648ac1272fc50fb6bd81a01fd193628
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772467177-0-0-9eb74fe6a5160d87d0a87fa847bb4f99
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772468257-0-0-23f31582fc0f5c2b216797a6936d6c29
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772467177-0-0-39f9981255cfae5f57c74e7f2fe5f179
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772468257-0-0-71105d56f16b40acbf59e279e09fe124
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772467177-0-0-e8069121d33897979542aefaca60bc75
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772468257-0-0-afc34dcf6929904b838367802bffe6c8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772467177-0-0-218b70fc8ab67813aad84af7621f8949
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772468257-0-0-c46557fcce22b4ac264e8e09c2b1cd94
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772468257-0-0-f7ceb3b22be08e487d5bc58332d60040
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772468257-0-0-5eb298381bc347e8bbb4d5328b7011b4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772468257-0-0-ba711cd2fe408e22cf17678a73f7d565
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772468257-0-0-8a2f02d698b8ea98a9d9427d8f8d0992
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772467177-0-0-6b7d733a0d54b96388a09d2f8b9a4e0b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772468257-0-0-05e3e0fb2a7f263c3f427e4e311100e4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772467177-0-0-037f3067962d074ce5d34b68b32a51cb
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772468257-0-0-3eb0f3cbed30575b0d652c19458245cd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772467177-0-0-b161d705fe0402e911974ce65cd5cd42
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772468257-0-0-1f8356c25495c38275f27336d75b0700
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772467177-0-0-6b7d159e1b3d309fbb563887f22aa14e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1772467537-0-0-9c220a779ad19cce9a62f5e6bc0b0066
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1772467537-0-0-24d0cb7d71e75039552fe0b84d328839
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1772467537-0-0-e8512bc0d2805ace00d5976e7682e451
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1772467537-0-0-f7b472bc8286a9dba2742de27cf4a031
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1772467537-0-0-455e71f0f46883c3ec247adc64495ac6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1772467537-0-0-e3105a8061bae9c86977df984a6c0b3a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1772467537-0-0-aa1def5e801b261926d4f102c8bd0a20
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1772467537-0-0-aa96ac20b22f9101783b1bd2d85d0254
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ec3768b6b13047b6b84edbbc4efcc9b4&txTime=69a5fba1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d86769c6dd54ce26f29e552fe0195463&txTime=69a5fba1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ec3768b6b13047b6b84edbbc4efcc9b4&txTime=69a5fba1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d86769c6dd54ce26f29e552fe0195463&txTime=69a5fba1
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772468257-0-0-4c5ca6cd300990662c344081dbf64177
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=1b4b25788fed3994388cf84a6f969c15&txTime=69a5fba1
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=1bd3e284d40a4ee5a9acd036a5379b97&txTime=69a5ffd9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=12d45504d678cc30210a0b4da5558166&txTime=69a5fba1
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=bf523afff132cb7cb085a1b5ff92f6d5&txTime=69a5ffd9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=1b4b25788fed3994388cf84a6f969c15&txTime=69a5fba1
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=1bd3e284d40a4ee5a9acd036a5379b97&txTime=69a5ffd9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=12d45504d678cc30210a0b4da5558166&txTime=69a5fba1
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=bf523afff132cb7cb085a1b5ff92f6d5&txTime=69a5ffd9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772468617-0-0-790ff7a7b8ec548ac5faeb4893ad598b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772468617-0-0-3fc6de49216a8168df942475a118e246
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772468617-0-0-4c40c90e33c7e7617b4afdd6c8b9084a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",SER SL: FK IMT Belgrad vs Radnik Surdulica [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772468617-0-0-c983334b7df294226bd8012a5d3f58c7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1772468617-0-0-7dff219f9bdf51554149406d759d3a73
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1772468617-0-0-06ec3084cd9c9bb57bcf381bd34bc32e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1772468617-0-0-ab7422656c900434d62bba3731353342
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV  TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1772468617-0-0-94276cbd410b6873ca62b5a37ae8c8eb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=07960947d4b44de5128da705d8470fa0&txTime=69a5ffd9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=585a1f982dc346f9f89588b9da476744&txTime=69a5ffd9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=07960947d4b44de5128da705d8470fa0&txTime=69a5ffd9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=585a1f982dc346f9f89588b9da476744&txTime=69a5ffd9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1772468617-0-0-987b8626519dc692f35e3658561cc244
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1772468617-0-0-62a4af245f4ebc71b12f0a5eda16ea49
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1772468617-0-0-e80e9eac01aa59a9a3e8b419c758f572
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260227/79adeca0ef5d828c022fe97b8feffc4e.png",20h30 WIB 02/03 PSM Makassar vs Persita Tangerang [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1772468617-0-0-9f39c70f5ad607e6f13f6b8bd82a61d0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lsd.flv?auth_key=1772468617-0-0-ff3c6b8fd9a4ba2ad72aeb9c4cf44c8b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-586938_lhd.flv?auth_key=1772468617-0-0-48eed942dd3be805fb705a82c72830dd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lsd.m3u8?auth_key=1772468617-0-0-1921d46751ee0e4044c7de1398a40faf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [SON HÍP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-586938_lhd.m3u8?auth_key=1772468617-0-0-c86638e58017cc4fb567fbea4eaa9444
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1772468617-0-0-679d20935025e43f50b1d779bf507b74
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1772468617-0-0-8b1056bca5a2bc815e31ad90a98589d4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1772468617-0-0-9d8953aa3c5640a06471a3bb8c35b86d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260226/88b95ed2b97e35b77f747c1d85a0c1b1.png",BUL D1: Ludogorets Razgrad vs Lokomotiv Plovdiv [Casting] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1772468617-0-0-dbb51aa99cd0ebbe1ac595e8bfbcf951
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/200px-Persebaya_logo.svg.png",20h30 02/03 Persebaya Surabaya vs Persib Bandung (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
