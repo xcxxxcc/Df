@@ -270,10 +270,11 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
-#--- SONY START ---
-#EXTINF:1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONY",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1772778604~acl=/*~id=60617892801665513865966809455889~hmac=ec0653c1c705245c90a1e1a128618be0fc2a9d6f04c7571ce00c4b853ba4b5ac|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; globe; Build/GLB.MP20.1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ce6fa25cbca957d9e64c3afd09495832-1772735400158
-#--- SONY END ---
+
+
+
+
+
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
@@ -475,18 +476,24 @@ https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/380_1gtqm0cjhm20.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Lương Sơn) BLV NHỊ KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/380_1gtqm0cjhm20.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/380_1gtqm0cjhm20.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1369_1je520zh0y2d.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor (Lương Sơn) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1369_1je520zh0y2d.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/380_1gtqm0cjhm20.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Lương Sơn) BLV URA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/380_1gtqm0cjhm20.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Lương Sơn) BLV URA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
@@ -499,68 +506,10 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV TẦN CA m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",02h00 WIB 06/03 Damac FC vs Al-Riyadh (Lương Sơn) BLV VĂN VỸ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/5096_1hm7w4vera7.png",00h30 WIB 06/03 Eyupspor vs Konyaspor (Lương Sơn) BLV TẦN CA flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",02h00 WIB 06/03 Damac FC vs Al-Riyadh (Lương Sơn) BLV VĂN VỸ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124",00h30 WIB 06/03 Bodrum FK vs Iğdır FK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/03d3b97f6dba207bf05e22e42efe8d20/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",00h00 WIB 06/03 AZ Picerno ASD vs Atalanta U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8d75e6a24bc4659c30a7aca181edb97b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5aebe0d5e6cd74bfe8ec0c5d66fbff57/image/small?v=1768601124",00h30 WIB 06/03 Eyupspor vs Konyaspor (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6219c8b131c2662d899262365e35e9af/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f6f1b8c82e6cb1661ca5ea67ddde3391/image/small?v=1768601124",00h00 WIB 06/03 Latina Calcio 1932 vs AS Sorrento Calcio (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9dc47660bd5d194fb1eef564f7e3492c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/84e12ba8df446e50380fbea2e76a9837/image/small?v=1768601124",21h00 WIB 05/03 FK Gilan Gabala vs Sabah Baku (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/49512353fac35c7acdcdebeaea0e16ca/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ee876e2214a6f015ce7693b72eae3f51/image/small?v=1768601124",21h00 WIB 05/03 Maritimo U23 vs Estoril U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aa0d12bcbd43920a494222d17174355b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c576555c716170340155547a817c6ea/image/small?v=1768601124",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/85256264e3de20c32b3f0c0c1c3198b2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/efce8f226c72b1781dbc4a1fb07db1dc/image/small?v=1768601124",00h30 WIB 06/03 Antalyaspor vs Samsunspor (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4fe2e8ef3796a46cf634cd84e46e9d1a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124",00h00 WIB 06/03 Casarano vs US Siracusa (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1b6472c69e69c8425f3022ceec0dcb0a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2e547e455c673df1b43b154e637a5211/image/small?v=1768601124",00h00 WIB 06/03 Giugliano vs AC Monopoli (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/52a05ac77268e47b6c0ce0933507b906/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small?v=1768601124",21h15 WIB 05/03 Mashal Muborak vs Lokomotiv Tashkent (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/883705ba347fb2c7ec8e7956549f278b/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/b3ce91d4df9db0f4b088110b611d3586/image/small?v=1768601124",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -633,10 +582,6 @@ https://live4.fastestcdn-global.com/live4/3d11bab79f0b45c7870b19885db20fb5_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/3d11bab79f0b45c7870b19885db20fb5_720/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/82e556d14e1cfe7c46c4719990a0130f/image/small?v=1768601124",20h00 WIB 05/03 Atalanta U20 vs Cesena U20 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d90a92da9c97db0e23862f41690d0e82/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1c25645899867d8812c82c7fddbb20d2/image/small?v=1768601124",23h00 WIB 05/03 MFK Karvina vs FC Viktoria Plzen (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -657,6 +602,66 @@ https://live3.fastestcdn-global.com/live3/b6c8f4f02b114e6e802e1ede6ea81c04_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5be2c78dedaaaa388c546606cea37280/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124",00h30 WIB 06/03 Bodrum FK vs Iğdır FK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/03d3b97f6dba207bf05e22e42efe8d20/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",00h00 WIB 06/03 AZ Picerno ASD vs Atalanta U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8d75e6a24bc4659c30a7aca181edb97b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5aebe0d5e6cd74bfe8ec0c5d66fbff57/image/small?v=1768601124",00h30 WIB 06/03 Eyupspor vs Konyaspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6219c8b131c2662d899262365e35e9af/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f6f1b8c82e6cb1661ca5ea67ddde3391/image/small?v=1768601124",00h00 WIB 06/03 Latina Calcio 1932 vs AS Sorrento Calcio (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9dc47660bd5d194fb1eef564f7e3492c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/84e12ba8df446e50380fbea2e76a9837/image/small?v=1768601124",21h00 WIB 05/03 FK Gilan Gabala vs Sabah Baku (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/49512353fac35c7acdcdebeaea0e16ca/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/eead722c2518de0dcbdc1cc0482e0a84/image/small",00h00 WIB 06/03 Galatasaray vs Greenyard Maaseik (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/2480f4c6234e4701952e9cf67f263657_720/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ee876e2214a6f015ce7693b72eae3f51/image/small?v=1768601124",21h00 WIB 05/03 Maritimo U23 vs Estoril U23 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aa0d12bcbd43920a494222d17174355b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c576555c716170340155547a817c6ea/image/small?v=1768601124",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/85256264e3de20c32b3f0c0c1c3198b2/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/efce8f226c72b1781dbc4a1fb07db1dc/image/small?v=1768601124",00h30 WIB 06/03 Antalyaspor vs Samsunspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4fe2e8ef3796a46cf634cd84e46e9d1a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124",00h00 WIB 06/03 Casarano vs US Siracusa (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1b6472c69e69c8425f3022ceec0dcb0a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2e547e455c673df1b43b154e637a5211/image/small?v=1768601124",00h00 WIB 06/03 Giugliano vs AC Monopoli (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/52a05ac77268e47b6c0ce0933507b906/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/856445415df8a859469faa971c41ab7e/image/small?v=1768601124",02h00 WIB 06/03 Damac vs Al Riyadh (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6676302696c04b11736bc7854a258627/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e4b5939c5575241db2f70f00fb13dac5/image/small?v=1768601124",21h15 WIB 05/03 Mashal Muborak vs Lokomotiv Tashkent (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/883705ba347fb2c7ec8e7956549f278b/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125844_67a6a3e5.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1377,50 +1382,10 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124",00h30 WIB 06/03 Bodrum FK vs Iğdır FK (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/03d3b97f6dba207bf05e22e42efe8d20/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",00h00 WIB 06/03 AZ Picerno ASD vs Atalanta U23 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8d75e6a24bc4659c30a7aca181edb97b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5aebe0d5e6cd74bfe8ec0c5d66fbff57/image/small?v=1768601124",00h30 WIB 06/03 Eyupspor vs Konyaspor (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6219c8b131c2662d899262365e35e9af/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f6f1b8c82e6cb1661ca5ea67ddde3391/image/small?v=1768601124",00h00 WIB 06/03 Latina Calcio 1932 vs AS Sorrento Calcio (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9dc47660bd5d194fb1eef564f7e3492c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c576555c716170340155547a817c6ea/image/small?v=1768601124",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/85256264e3de20c32b3f0c0c1c3198b2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124",00h00 WIB 06/03 Casarano vs US Siracusa (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1b6472c69e69c8425f3022ceec0dcb0a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2e547e455c673df1b43b154e637a5211/image/small?v=1768601124",00h00 WIB 06/03 Giugliano vs AC Monopoli (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/52a05ac77268e47b6c0ce0933507b906/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/b3ce91d4df9db0f4b088110b611d3586/image/small?v=1768601124",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c70ee66f70e8a2702dece21a0fbdc445/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2e50915484566b238deb96a290c2579c/image/small?v=1768601124",22h00 WIB 05/03 AC Milan U20 vs US Cremonese U20 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/516fbd5ad2e66fa3cd3ebb69d7e27b19/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/523bc7fab308bf60b1cd0cd680d5745b/image/small?v=1768601124",00h00 WIB 06/03 JK Welco Elekter vs JK Tallinna Kalev (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/17582a5c37a820905a23ecbdb8364425/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c497c6898189051ba782b187630258a0/image/small?v=1768601124",23h30 WIB 05/03 Luawa FC vs Ports Authority FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/89aebb898028147ecf9eba3aeeea7dcc/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7318ceb7ad4b5be05003c043da8682d4/image/small?v=1768601124",01h00 WIB 06/03 Molde vs Bodo Glimt (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1489,318 +1454,374 @@ https://live8.fastestcdn-global.com/live8/9f9810db57564c60ae25c4193e7e4e72_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8858ffb89cde1625fcbacdb699553eb8/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/93c3b734326d5f99d3e612e44ad2f3c8/image/small?v=1768601124",22h30 WIB 05/03 Arsenal Tula vs Lokomotiv Moscow (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d48957cc4aad9e4cd6fd844624bbcd2d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1c25645899867d8812c82c7fddbb20d2/image/small?v=1768601124",23h00 WIB 05/03 MFK Karvina vs FC Viktoria Plzen (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6f5ac405df86b211aa5e76513e88530f/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7a91ad38d4f148cfef81632fbd3a50b3/image/small?v=1768601124",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5be2c78dedaaaa388c546606cea37280/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1772738977-0-0-0932ec21f5f6d5436c79f678599defa0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1772738977-0-0-ea9d2b712582facbb3bc447d60373ae5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1772738977-0-0-3f3821c58db25d4bf61e5e39d8e7d585
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1772738977-0-0-21bc5ef1b10cdcd286f8a51bf19e7165
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=d38727aeeb7994e2c33ef74cef1a7c8b&txTime=69aa1ff1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=57ecd99fd2ec7bb270b2f091acca7938&txTime=69aa1ff1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=d38727aeeb7994e2c33ef74cef1a7c8b&txTime=69aa1ff1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=57ecd99fd2ec7bb270b2f091acca7938&txTime=69aa1ff1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1772738977-0-0-1a8529f0b296a5e1fb6e10ce8c7790fe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1772738977-0-0-39d8943c7fc529c5b81521712296d1d6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1772738977-0-0-7163079dcc84f83b86db250999c49c8f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1772738977-0-0-52c8fad85375413faa95dfb971f760f3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=842a5d4be9d94591f856282a60aa5998&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=1b50b5ba7b095e16493fb4c876daaead&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=842a5d4be9d94591f856282a60aa5998&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=1b50b5ba7b095e16493fb4c876daaead&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=ff282189a75c6a85c4317da82ddbd50c&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=4159d149a4f1d7a9ce117d7c9dd0174f&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=ff282189a75c6a85c4317da82ddbd50c&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=4159d149a4f1d7a9ce117d7c9dd0174f&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772739337-0-0-cf893b6c99b36bebb4bbc3b9f64b84c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772739337-0-0-4d9a1f5a68a78eb7efd23ae18a36a2a8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772739337-0-0-5fb21407b8edf00dbbb56fdc97f5d07c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772739337-0-0-c596e5cb54980182aa28f5071b030ff0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1772739337-0-0-fa54ec0d05c18e3dac6ae1ad4a3a44c2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1772739337-0-0-bd269fb9b183b8a5cefccd0d4255551f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1772739337-0-0-7ea314752c9f25d16aed0664f57a5b93
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1772739337-0-0-ad180b30d5bf148fd7766c8b902d35b4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772739337-0-0-782120fd198e1096e1a28da74010e245
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772739337-0-0-485195db509e475b66ea3a8c071fb1cd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772739337-0-0-374f96cd2d9471e64cf4dd4d2a1c0ba5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772739337-0-0-3a54ef686e4c1fc79ce4ef369ba4ebbe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1772739337-0-0-055b5dd097fa8b03148a768073d2224f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1772739337-0-0-cb833605906a6a5456761b817b1de98a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1772739337-0-0-ee3c6468f318a6aea446c04376778a5d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1772739337-0-0-750df019c4dc374b65398794791496d2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=d5d5a326dc080d5884962cbf76dd68b7&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=252c446c9c9dcda84588d989e580353b&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=d5d5a326dc080d5884962cbf76dd68b7&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=252c446c9c9dcda84588d989e580353b&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1772739337-0-0-a8480ffacb48aa6d809d0a5738fc7820
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1772739337-0-0-1ba62316fe5edbb1d1e4af073217f9bb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1772739337-0-0-a6c5200a8d1e1f594501619a69e0c5f2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1772739337-0-0-07ddc339d75ea71ce2ce1572e763891b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124",00h30 WIB 06/03 Bodrum FK vs Iğdır FK (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/03d3b97f6dba207bf05e22e42efe8d20/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0e6dc4184eb2d2e83e51a468999f18f2/image/small?v=1768601124",00h00 WIB 06/03 AZ Picerno ASD vs Atalanta U23 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8d75e6a24bc4659c30a7aca181edb97b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/5aebe0d5e6cd74bfe8ec0c5d66fbff57/image/small?v=1768601124",00h30 WIB 06/03 Eyupspor vs Konyaspor (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6219c8b131c2662d899262365e35e9af/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f6f1b8c82e6cb1661ca5ea67ddde3391/image/small?v=1768601124",00h00 WIB 06/03 Latina Calcio 1932 vs AS Sorrento Calcio (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9dc47660bd5d194fb1eef564f7e3492c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c576555c716170340155547a817c6ea/image/small?v=1768601124",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/85256264e3de20c32b3f0c0c1c3198b2/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124",00h00 WIB 06/03 Casarano vs US Siracusa (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1b6472c69e69c8425f3022ceec0dcb0a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/2e547e455c673df1b43b154e637a5211/image/small?v=1768601124",00h00 WIB 06/03 Giugliano vs AC Monopoli (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/52a05ac77268e47b6c0ce0933507b906/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772739337-0-0-d96d36a428eb63f1d2e2f5a237b57ca2
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772741497-0-0-2a0c2694599e4cd0655a02a29eeb8d4b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772739337-0-0-13e4ab2248b61e58f256c3eda65e6630
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772741497-0-0-d49bcc0ffce15521395f3916e9b1e28f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772739337-0-0-b579c4e037e7199f83aa679223770d58
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772741497-0-0-220ca539790e5b669a5da0649565a9e0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772739337-0-0-c9916d8537abb30c1aa68118f8e14578
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772741497-0-0-b7176a8f5266161b6cda4139db2571e3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772739337-0-0-a0e54505da1b729420efe3c082ae7642
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772741497-0-0-8592bb03062e0953d3c0c1af271a93fa
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772739337-0-0-04d4755adac68845647936950300c044
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772741497-0-0-826d9acc0db6d2d69ed8d9dbfef840c2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772739337-0-0-539962fd1188a5bb7a53be0bcbae0c67
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772741497-0-0-fc8a98f55cffd0268e0e009fd6d50302
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772739337-0-0-777a4abc9ecf538b73ea7056ad72f6ec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) flv
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772741497-0-0-058aa811394c41693f0406496fe0cf25
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772739337-0-0-6553064eae35f795089dc57421c34547
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772741497-0-0-5f17038b483451628888ec533e054c0f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772739337-0-0-0c4e9674152e2df398d8820f4aa3875b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772741497-0-0-d724cf34cd00bdac7ba2a823592e0564
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772739337-0-0-406abd9a19007f9617d43629856b7aeb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772741497-0-0-3031e967460c3f8277cac92949cb2f8f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772739337-0-0-5c0a18f07d339974ca2880353b0fe628
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772741497-0-0-a3f9e24ab305687d1e40dab1976b1a71
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772739337-0-0-3645b2bd068fcb0148ae3536ff5b5c4a
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772741497-0-0-be46dad81878dae4142830d27bd3879e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772739337-0-0-9e4dc1d8dfa9a215b06051fa67f86744
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772741497-0-0-1d2a90e3a50c29ac14b8e0f08fead5ef
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772739337-0-0-531baa4d241a61b14a2f28f253051d94
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772741497-0-0-582db23ddc21c71dcd95eea385625f20
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772739337-0-0-d91e4fa6f15f3e0132b0f1054809a050
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772741497-0-0-747ebbc793198e0b2b007dc5a820b286
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1772741497-0-0-c6d223fb545cfdbfbae4a5565a943f5f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1772741497-0-0-59eebb0faa26dcb3af333f4231ba1bc1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1772741497-0-0-62dbe684a4f7df863e8f4628d93a7dd5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1772741497-0-0-035561e02d54695ad30c344bbe213b1d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=411fde6847a80458d18d2777b1500fcf&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=b078b5e599a84f3b0e330dd8022102a3&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=411fde6847a80458d18d2777b1500fcf&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=b078b5e599a84f3b0e330dd8022102a3&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1772741497-0-0-64f6adbee8f4d9f7bd728038d436e26c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1772741497-0-0-32f2c6506301a7ad808ce2eb25ae44bf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1772741497-0-0-14b8c5953d20a009bccc94c108378193
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1772741497-0-0-a9e9666bb1a14c42ebeb587111e3b3d6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1772741497-0-0-51fc49ebaa12978d515b661df84ad0fb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1772741497-0-0-832dfd3de4ca11a68e4728ffa39da0f8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1772741497-0-0-0f13bbfedf64bc425af44204f45dcb48
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1772741497-0-0-a24a2de686695866dc1d2d95a3ed0f78
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1772741497-0-0-9dda0ea679d8420ceb9b836bb945ac8b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1772741497-0-0-4b2c4e83aed2288c83572969f14daa22
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1772741497-0-0-ca172e3ff48ce9ffea32115b39c11c98
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [RED BULL] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1772741497-0-0-6a3b9ed531b4d370249b6d23f3c1ad8b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=ef89d4b4dc088468546274f2183362d7&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=36b13ea774cf78a3fd3eace9c64e025b&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ef89d4b4dc088468546274f2183362d7&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=36b13ea774cf78a3fd3eace9c64e025b&txTime=69aa29c9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772741497-0-0-efcb0db4b09fb277b701470d4fc159a4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772741497-0-0-37d3dc5356292d3c762dbde4fcfbdf3e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772741497-0-0-62c96067e898262a422c1df59d58506e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/13c5042e2665914263c57a7f4b1db122.png",00h30 WIB 06/03 Eyupspor vs Konyaspor [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772741497-0-0-f62e3ca34773d656a3ec0937a6ac99a6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1772739337-0-0-09ba15b4348aa9fdb1f821d92f023b02
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1772741497-0-0-af1ca1aa2bdcb325698f97e8761049d9
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1772739337-0-0-212c7e530c330e3ad99138328ac1dd4b
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1772741497-0-0-ed38e487976a20a31b873d1c073117c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1772739337-0-0-f274d0c97194eaf4aeb70cef67724a48
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1772741497-0-0-32bd8772cd01232a6ef9db77cbaebd29
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1772739337-0-0-08f5565ecb8394282dfa181fe9e3846a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BÚA TẠ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=4f10c9e6ff2e225d44b7b43f9091bb65&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BÚA TẠ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=6038d3f7ac1ceaa3ec081f7e286e345e&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BÚA TẠ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=4f10c9e6ff2e225d44b7b43f9091bb65&txTime=69aa2159
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/f30c5584f7f50e0cd640e3a3b47c6d10.png",23h30 WIB 05/03 Ludogorets Razgrad vs Levski Sofia [BÚA TẠ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=6038d3f7ac1ceaa3ec081f7e286e345e&txTime=69aa2159
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1772741497-0-0-9f8569b55f8dd11610ebf88bb981ae10
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1772739337-0-0-21daa3ffffdcce44e73d00f2309a8993
+https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1772741497-0-0-a7859199d601d29ba8e48f55abea309b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1772739337-0-0-47b11aa96b60930055714691ba21d589
+https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1772741497-0-0-f661278788503d82e10a805b6f14f94d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1772739337-0-0-56268486f0c2143523d50c66db5bcd34
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1772741497-0-0-5e3b3ac2a80b73e9643b781673c54cdf
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c99b0c4cf3baafdde00243b122ab5af1.png",00h30 WIB 06/03 Antalyaspor vs Samsunspor [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1772739337-0-0-43eaca3cc3ffe12ffb999f67a9038733
+https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1772741497-0-0-390262f37181ead6f64020dc0d0dc34d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1772739337-0-0-5ef79ae940d46021ed9850b653e8a817
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1772741497-0-0-e9860c16915d2209068aaae236085ce5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1772739337-0-0-1638b3645989b15af787817f19b96905
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1772741497-0-0-ce02c7a253bd5f9ed1a4a38b94797f00
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1772739337-0-0-74877e15eb3fda0a3aed6767946264e0
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1772741497-0-0-ea44dea66ab65b3270dec77ea2b96d3b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/e2ed34a4e182bc61f0dbeeee60f9d701.png",00h30 WIB 06/03 Bodrum FK vs Iğdır FK [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1772739337-0-0-8cc543d8cb435a25f7782405560e5e35
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1772741497-0-0-f11b101e549d593adb1cea2df972cb06
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1772739337-0-0-07208e6a67829dd9a99b8045550a4a99
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1772741497-0-0-01f90f2ba7e3ba10fe4bbbcb0841f711
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1772739337-0-0-653684c16c63cfa746e33268c90833bd
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1772741497-0-0-7946c74f3d014a932188378b1fd37f84
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1772739337-0-0-30e76684da293e159af26bad01055fd9
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1772741497-0-0-7ef12f031f0baefb5facfd095d2355da
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1772739337-0-0-7260d5dff9fb903eee07fefd911b14d0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772739337-0-0-fc3442802aa59217d6d72192018d0c56
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772739337-0-0-cefa1c9bee3436528acd06aeb6af9910
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772739337-0-0-2f1e9079ecfea311bdd8aa2553b18341
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772739337-0-0-0cc6b8562c82c7641443b88364eb28f4
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1772741497-0-0-f8f95eec86b04b748c3cdf7da5c11d35
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",TUR Cup : Bodrum FK vs Iğdır FK [Giàng A Thổ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1772739337-0-0-dbb5de87998f6384602c3f29c205e83a
+https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1772741497-0-0-bddde0fa74933d4b847782eeec9602db
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",TUR Cup : Bodrum FK vs Iğdır FK [Giàng A Thổ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1772739337-0-0-e680a5c78e9a08c43b3a20cc23d1df80
+https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1772741497-0-0-3eabb264d0d495f4e87ea20c9a312f9c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",TUR Cup : Bodrum FK vs Iğdır FK [Giàng A Thổ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1772739337-0-0-4c72a301aa541643ad83dd6f3350b18a
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1772741497-0-0-01a4ad1b3bedce1fa9ac4182e93f1ae5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",TUR Cup : Bodrum FK vs Iğdır FK [Giàng A Thổ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1772739337-0-0-1d719ad52f0a13186a69500bae4309b9
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1772741497-0-0-20a3595717ff192ab30919e3f3ad7b1d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772741497-0-0-4bbf43634257dc7a9f1141253b7f3f53
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772741497-0-0-3d6011a832194e7a9fb414c5d3da574b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772741497-0-0-de9076f8e9c026eaefd31c10908da98d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772741497-0-0-bd49a7bfc6f8677913f061b5dee49518
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",ACGL: Manila Digger FC vs Dewa United FC [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1772739337-0-0-3c6aef96e202cc787d7857f0e6dacd7b
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1772741497-0-0-4133f2f4887671097fbe5f486cd154d5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",ACGL: Manila Digger FC vs Dewa United FC [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1772739337-0-0-73ec6a5f5bf087b7c11fc4079bc6c556
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1772741497-0-0-1130fb8a6b99e0596b2270fef751bea2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",ACGL: Manila Digger FC vs Dewa United FC [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1772739337-0-0-740c1a68cda373886ff55b8017b76d53
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1772741497-0-0-73412ca68df7839f6358d7ee011f3a83
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",ACGL: Manila Digger FC vs Dewa United FC [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1772739337-0-0-f5575a5510da1bb57d234bdad59219ea
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1772741497-0-0-d43191bd4dfa2db5b8523c7360e9ff94
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772739337-0-0-bab6425ddb9b502e89f9242c5d5f44ec
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772741497-0-0-a2d2a257f3ad37b6a227faa65e4279f5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772739337-0-0-4ad22ed3e7e8829e94b625af7c03717e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772741497-0-0-aaaaee338ebff0dfd87f261275c81869
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772739337-0-0-404bd184488ff38656d3c93af34b9ba3
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772741497-0-0-2a8dd84dee6ab181ac993365577f0bce
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772739337-0-0-8565b8adf5586cfdbb329c662fc0bf7d
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772741497-0-0-242b13ba3704eb395b6257e25c41ba41
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772739697-0-0-e69bf62bc35c0cbe96a2c6a858c244dc
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772741857-0-0-7631fb195b9b5591c01157de841f4bf1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772739697-0-0-5fada706e41695bf4b69e926aa3f25e9
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772741857-0-0-6d163e76bdbdbe655ffe15cfd64c3cdf
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772739697-0-0-ddef562732e9947964c85b2c429be92c
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772741857-0-0-e9849c436127f350dde1eef9e2d7d0f0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772739697-0-0-912972cfe771b187918fbc1368cc793a
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772741857-0-0-a33ed946b2df4b0f05ec2e2056a4c431
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=a7382ff5e8fb9c4b9c581702760b036b&txTime=69aa2b31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=744c5f21ccba1a71ebe3a47e2899917b&txTime=69aa2b31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=a7382ff5e8fb9c4b9c581702760b036b&txTime=69aa2b31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=744c5f21ccba1a71ebe3a47e2899917b&txTime=69aa2b31
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=dd061372ea73f5edaa85a62060a2bf57&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=daa2da7ca8c9416489ea649d30dad338&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=dd061372ea73f5edaa85a62060a2bf57&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/52244a2dbc89d4c163e8fcccdcffe2d6.png",00h30 WIB 06/03 Aliaga Futbol vs Genclerbirligi [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=daa2da7ca8c9416489ea649d30dad338&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/00dcc04403421d21bbdacef31a53d438.png",03h00 WIB 06/03 Tottenham Hotspur vs Crystal Palace [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1772742217-0-0-9dcd79c14a3087c43f4926d5aa11d9b7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/00dcc04403421d21bbdacef31a53d438.png",03h00 WIB 06/03 Tottenham Hotspur vs Crystal Palace [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1772742217-0-0-9c6c5c7271bcc9582b6aaedf9611bd46
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/00dcc04403421d21bbdacef31a53d438.png",03h00 WIB 06/03 Tottenham Hotspur vs Crystal Palace [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772742217-0-0-6b4b2dd321899c6499b39ca011278f38
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/00dcc04403421d21bbdacef31a53d438.png",03h00 WIB 06/03 Tottenham Hotspur vs Crystal Palace [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772742217-0-0-1d31c4bc87a8a7ee7289319452966ef5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1772742217-0-0-d7ed997e3dac4f4658e92b17d50c7d3d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1772742217-0-0-3bcca923164b6c64ab9e932512f68a46
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1772742217-0-0-803ab0f1bc678a44d8d67d0a66661e3f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/5648162396db184335ff9a3e4a2c48d5.png",00h45 WIB 06/03 Dynamo Moscow vs Spartak Moscow [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1772742217-0-0-0e0ceda6711889c6e5780236947c4238
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1772742217-0-0-055e0fb9cd5f4a46d81df0aeb1fdd309
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1772742217-0-0-fe3586edec7d990d4aee07f2e91536d6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1772742217-0-0-98b1cb104d29b06b8ace7200c7f5bb26
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1772742217-0-0-0c8a817c0307f3861efd0a39365f98b0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1772742217-0-0-2111e4de051b697f35b73698e9d4203e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1772742217-0-0-b2f9f88b8ed93fe656e7fac47c0bd122
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1772742217-0-0-deb16f42aca337c83603f6563948090d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/dcb18900ae52b23e25cd9c30d0dc9ae1.png",02h00 WIB 06/03 Damac vs Al Riyadh [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1772742217-0-0-382c00cc8d90da041f7fce667226e8ac
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=ed615cd3b89e3defe0dd842f72de2887&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=9c84c6197e69b60d612d05cda776e05f&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=ed615cd3b89e3defe0dd842f72de2887&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/3aef5f0555b2885ce8212bdc61927131.png",02h30 WIB 06/03 Thun vs St. Gallen [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9c84c6197e69b60d612d05cda776e05f&txTime=69aa2c99
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1772742217-0-0-0c5e6c73832c7b7e80cf8d07027906fd
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1772742217-0-0-bdeb3edba0a21d52f7a80f2a1a47ae13
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772742217-0-0-c79c2cc3fde660ee5e8fb749078b1dac
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260302/c8e6c5a7d0f2facf136bf63d57c57d6c.png",02h30 WIB 06/03 FC Basel 1893 vs Grasshopper [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772742217-0-0-12f67dc8dd073043ecb4bf74a4448f36
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",22h00 05/03 All England Mở rộng ( Sân 2 ) (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1813,6 +1834,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/47.png",03h00 06/03 Tottenham vs Crystal Palace (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/47.png",03h00 06/03 Tottenham vs Crystal Palace (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.api-sports.io/football/teams/47.png",03h00 06/03 Tottenham vs Crystal Palace (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/2048px-Logo_Antalyaspor.svg.png",00h30 06/03 Antalyaspor vs Samsunspor (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1825,6 +1858,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",03h10 06/03 Lyon vs Lens (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",03h10 06/03 Lyon vs Lens (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",03h10 06/03 Lyon vs Lens (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",02h00 06/03 Damac vs Al Riyadh (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1837,6 +1882,9 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/5f0fa2c7f5502f43700281d32ee636d2.png!w80",02h00 06/03 Dhamk vs Al-Riyadh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/5f8b2ea5af09dc3f9de834892bb20ce9.png!w80",00h30 06/03 Antalyaspor vs Samsunspor
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
@@ -1855,6 +1903,18 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Pro League] 00h45 06/03 Damac vs Al Riyadh [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Pro League] 00h45 06/03 Damac vs Al Riyadh [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Pro League] 00h45 06/03 Damac vs Al Riyadh [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
@@ -3518,316 +3578,291 @@ https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770365494-0-0-7109
 #--- RANDOM 2 END ---
 
 #--- RANDOM 3 START ---
-#EXTINF:1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[AFC Champions League II] Bangkok Utd vs Tampines (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[AFC Champions League II] Bangkok Utd vs Tampines (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQQ.m3u8
-#EXTINF:1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Manila Digger vs Dewa United (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="RANDOM 3",[AFC Champions League] Manila Digger vs Dewa United (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQQQ.m3u8
-#EXTINF:1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Phnom Penh Crown vs Svay Rieng (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2200.png&scale=crop&cquality=40&location=origin&w=500&h=500" group-title="RANDOM 3",[AFC Champions League] Phnom Penh Crown vs Svay Rieng (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQ.m3u8
-#EXTINF:1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[AFL Aussie Rules] Sydney Swans vs Carlton Blues (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[AFL Aussie Rules] Sydney Swans vs Carlton Blues (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlll.m3u8
-#EXTINF:1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Asia Cup Women] Iran W vs Australia W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Asia Cup Women] Iran W vs Australia W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlllQ.m3u8
-#EXTINF:1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Baltimore Orioles at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Baltimore Orioles at Tampa Bay Rays (STRMCNTR)
+#EXTINF:1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Baltimore Orioles at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Baltimore Orioles at Tampa Bay Rays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/bzagLHzach19.m3u8
-#EXTINF:1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox at Philadelphia Phillies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Boston Red Sox at Philadelphia Phillies (STRMCNTR)
+#EXTINF:1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox at Philadelphia Phillies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Boston Red Sox at Philadelphia Phillies (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8
-#EXTINF:1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Houston Astros at Miami Marlins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Houston Astros at Miami Marlins (STRMCNTR)
+#EXTINF:1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Houston Astros at Miami Marlins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Houston Astros at Miami Marlins (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/ojzkajnach21.m3u8
-#EXTINF:1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Minnesota Twins at New York Yankees (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Minnesota Twins at New York Yankees (STRMCNTR)
+#EXTINF:1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Minnesota Twins at New York Yankees (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Minnesota Twins at New York Yankees (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8
-#EXTINF:1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] New York Mets at Washington Nationals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] New York Mets at Washington Nationals (STRMCNTR)
+#EXTINF:1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] New York Mets at Washington Nationals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] New York Mets at Washington Nationals (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/jkzahzadach20.m3u8
-#EXTINF:1 tvg-chno="14" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)
+#EXTINF:1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/Czajafjihafch18.m3u8
-#EXTINF:1 tvg-chno="16" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Toronto Blue Jays at Atlanta Braves (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Toronto Blue Jays at Atlanta Braves (STRMCNTR)
+#EXTINF:1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Toronto Blue Jays at Atlanta Braves (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[Baseball] Toronto Blue Jays at Atlanta Braves (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/dazhfiach15.m3u8
-#EXTINF:1 tvg-chno="20" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Monaco (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Fenerbahce vs Monaco (FAWA)
+#EXTINF:1 tvg-chno="16" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Monaco (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Fenerbahce vs Monaco (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ktttQQQQ.m3u8
-#EXTINF:1 tvg-chno="21" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Barcelona (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Olimpia Milano vs Barcelona (FAWA)
+#EXTINF:1 tvg-chno="17" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Barcelona (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Olimpia Milano vs Barcelona (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/kgggQQQQ.m3u8
-#EXTINF:1 tvg-chno="22" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Real Madrid vs Virtus Bologna (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Real Madrid vs Virtus Bologna (FAWA)
+#EXTINF:1 tvg-chno="18" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Real Madrid vs Virtus Bologna (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Real Madrid vs Virtus Bologna (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FYYYQQ.m3u8
-#EXTINF:1 tvg-chno="23" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Valencia vs Zalgiris Kaunas (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Valencia vs Zalgiris Kaunas (FAWA)
+#EXTINF:1 tvg-chno="19" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Valencia vs Zalgiris Kaunas (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Basketball Euroleague] Valencia vs Zalgiris Kaunas (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDD.m3u8
-#EXTINF:1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Bosnia and Herzegovina Premier League] GOSK Gabela vs Zrinjski (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bosnia and Herzegovina Premier League] GOSK Gabela vs Zrinjski (FAWA)
+#EXTINF:1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Bosnia and Herzegovina Premier League] GOSK Gabela vs Zrinjski (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bosnia and Herzegovina Premier League] GOSK Gabela vs Zrinjski (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/kgggQQ.m3u8
-#EXTINF:1 tvg-chno="25" tvg-id="Live.Event.us" tvg-name="[Bulgaria Parva Liga] Ludogorets vs Levski Sofia (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria Parva Liga] Ludogorets vs Levski Sofia (SPORT9)
+#EXTINF:1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Bulgaria Parva Liga] Ludogorets vs Levski Sofia (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria Parva Liga] Ludogorets vs Levski Sofia (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n12.sanwalyaarpya.com:1686/hls/do48.m3u8?md5=9QF40mF8gP5FmSUciBTlCA&expires=1772742628
-#EXTINF:1 tvg-chno="26" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Lokomotiv Plovdiv vs CSKA 1948 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Lokomotiv Plovdiv vs CSKA 1948 (FAWA)
+#EXTINF:1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Ludogorets vs Levski Sofia (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Ludogorets vs Levski Sofia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/RIII.m3u8
-#EXTINF:1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Lokomotiv Sofia vs Dobrudzha (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Lokomotiv Sofia vs Dobrudzha (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIII.m3u8
-#EXTINF:1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Ludogorets vs Levski Sofia (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Bulgaria efbet League] Ludogorets vs Levski Sofia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIII.m3u8
-#EXTINF:1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[Coupe de France] Lyon vs Lens (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/182.png" group-title="RANDOM 3",[Coupe de France] Lyon vs Lens (FAWA)
+#EXTINF:1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[Coupe de France] Lyon vs Lens (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/182.png" group-title="RANDOM 3",[Coupe de France] Lyon vs Lens (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/FYYYQQQQQ.m3u8
-#EXTINF:1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="[Cricket T20 World Cup] India vs England (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cricket T20 World Cup] India vs England (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/KCKCKCQ.m3u8
-#EXTINF:1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[Cupa Romaniei] Metalul Buzău vs Dinamo Bucureşti (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cupa Romaniei] Metalul Buzău vs Dinamo Bucureşti (CDNTV)
+#EXTINF:1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[Cupa Romaniei] Metalul Buzău vs Dinamo Bucureşti (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cupa Romaniei] Metalul Buzău vs Dinamo Bucureşti (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge.cdn-live.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=41ab3b7f5423db477c679d0018d1d30cd075e59ab811331dc45bc1bdf0a7deaf.1772735425.723fa4953a4f2c858a1a8c3604f6f96a.29520ef885968493f15f08d19585c2b8.69128c15da76193fc6e8766d92f57b4f&signature=242a4791e3d61d5c698886a4cd3c85b60cae7aee1ab1e69fc856a6f157d87f64
-#EXTINF:1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[Cyprus Futsal Final] AEK vs Apolllon (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cyprus Futsal Final] AEK vs Apolllon (FAWA)
+#EXTINF:1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[Cyprus Futsal Final] AEK vs Apolllon (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Cyprus Futsal Final] AEK vs Apolllon (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/GGGGA.m3u8
-#EXTINF:1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[Czech MOL Cup] Karvina vs Viktoria Plzen (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Czech MOL Cup] Karvina vs Viktoria Plzen (FAWA)
+#EXTINF:1 tvg-chno="29" tvg-id="Live.Event.us" tvg-name="[Czech MOL Cup] Karvina vs Viktoria Plzen (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Czech MOL Cup] Karvina vs Viktoria Plzen (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/DDDDDD.m3u8
-#EXTINF:1 tvg-chno="37" tvg-id="Live.Event.us" tvg-name="[Darts] Darts Premier League (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Darts] Darts Premier League (FAWA)
+#EXTINF:1 tvg-chno="30" tvg-id="Live.Event.us" tvg-name="[Darts] Darts Premier League (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Darts] Darts Premier League (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/kgggQQQ.m3u8
-#EXTINF:1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Arab Contractors vs Al Ahly (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Arab Contractors vs Al Ahly (FAWA)
+#EXTINF:1 tvg-chno="32" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Arab Contractors vs Al Ahly (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Arab Contractors vs Al Ahly (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDDQQQ.m3u8
-#EXTINF:1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Ceramica Cleopatra vs National Bank Egypt (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Ceramica Cleopatra vs National Bank Egypt (FAWA)
+#EXTINF:1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Ceramica Cleopatra vs National Bank Egypt (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Ceramica Cleopatra vs National Bank Egypt (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDDQQQQ.m3u8
-#EXTINF:1 tvg-chno="41" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Haras El Hodood vs Pyramids (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Haras El Hodood vs Pyramids (FAWA)
+#EXTINF:1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Haras El Hodood vs Pyramids (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Haras El Hodood vs Pyramids (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDDQQQQQ.m3u8
-#EXTINF:1 tvg-chno="42" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Petrojet vs El Gaish (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Petrojet vs El Gaish (FAWA)
+#EXTINF:1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[Egypt Premier League] Petrojet vs El Gaish (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Egypt Premier League] Petrojet vs El Gaish (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FYYY.m3u8
-#EXTINF:1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Tottenham vs Crystal Palace (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="RANDOM 3",[English Premier League] Tottenham vs Crystal Palace (FAWA)
+#EXTINF:1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[Ekstraklasa] Arka Gdynia vs Radomiak Radom (CDNTV)" tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="RANDOM 3",[Ekstraklasa] Arka Gdynia vs Radomiak Radom (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=f70254792d2e611edb81946b5ca08ad8a3eafa06a8fe40beeb0099759a73ddb3.1772737244.0f58fd7e6d3e21637485e3f080d731eb.c5cb3451248adc1deff5b5bf1bfb4410.5d1aaae889ca9442cf230a931c88b0ef&signature=50c3c448b333cba8802f870b6d66c866a45a1457ef7f395399741bcba82dca7e
+#EXTINF:1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Tottenham vs Crystal Palace (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="RANDOM 3",[English Premier League] Tottenham vs Crystal Palace (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/nnnn.m3u8
-#EXTINF:1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Wakefield vs Hull FC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Wakefield vs Hull FC (FAWA)
+#EXTINF:1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Wakefield vs Hull FC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[English Rugby Super League] Wakefield vs Hull FC (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FYYYQQQQ.m3u8
-#EXTINF:1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Euro U17 Women] Sweden U17 W vs Ireland U17 W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Euro U17 Women] Sweden U17 W vs Ireland U17 W (FAWA)
+#EXTINF:1 tvg-chno="40" tvg-id="Live.Event.us" tvg-name="[Euro U17 Women] Sweden U17 W vs Ireland U17 W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Euro U17 Women] Sweden U17 W vs Ireland U17 W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/GGGG.m3u8
-#EXTINF:1 tvg-chno="48" tvg-id="Basketball.Dummy.us" tvg-name="[Euroleague] Fenerbahce vs Monaco (SPORT9)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Euroleague] Fenerbahce vs Monaco (SPORT9)
+#EXTINF:1 tvg-chno="42" tvg-id="Basketball.Dummy.us" tvg-name="[Euroleague] Fenerbahce vs Monaco (SPORT9)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="RANDOM 3",[Euroleague] Fenerbahce vs Monaco (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n12.sanwalyaarpya.com:1686/hls/do94.m3u8?md5=0XQlPFsEvCikGgRPrGXSSQ&expires=1772740861
-#EXTINF:1 tvg-chno="51" tvg-id="Live.Event.us" tvg-name="[Finland Liiga] Assat vs KalPa (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Finland Liiga] Assat vs KalPa (SPORT9)
+#EXTINF:1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="[Finland Liiga] Assat vs KalPa (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Finland Liiga] Assat vs KalPa (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n13.sanwalyaarpya.com:1686/hls/do61.m3u8?md5=d53yrNvqFhuNVhzF3zmMpA&expires=1772742636
-#EXTINF:1 tvg-chno="52" tvg-id="Live.Event.us" tvg-name="[Finland Mestis] RoKi vs Kettera (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Finland Mestis] RoKi vs Kettera (SPORT9)
+#EXTINF:1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Finland Mestis] RoKi vs Kettera (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Finland Mestis] RoKi vs Kettera (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n13.sanwalyaarpya.com:1686/hls/do62.m3u8?md5=oEZxZV_mOiIJKsb5UPQ5xw&expires=1772742640
-#EXTINF:1 tvg-chno="59" tvg-id="Live.Event.us" tvg-name="[France Rugby Pro D2] Colomiers vs CA Brive (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[France Rugby Pro D2] Colomiers vs CA Brive (FAWA)
+#EXTINF:1 tvg-chno="55" tvg-id="Live.Event.us" tvg-name="[France Rugby Pro D2] Colomiers vs CA Brive (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[France Rugby Pro D2] Colomiers vs CA Brive (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FYYYQQQ.m3u8
-#EXTINF:1 tvg-chno="61" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)
+#EXTINF:1 tvg-chno="57" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="RANDOM 3",[Golf PGA] Golf PGA Arnold Palmer Invitational (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/DDDDD.m3u8
-#EXTINF:1 tvg-chno="62" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf DP World Tour Joburg Open (FAWA)" tvg-logo="https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png" group-title="RANDOM 3",[Golf] Golf DP World Tour Joburg Open (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlllQQQ.m3u8
-#EXTINF:1 tvg-chno="63" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTINF:1 tvg-chno="58" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQQ.m3u8
-#EXTINF:1 tvg-chno="64" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:1 tvg-chno="59" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/KOKOKOQQQ.m3u8
-#EXTINF:1 tvg-chno="65" tvg-id="Live.Event.us" tvg-name="[Hungary Cup] Honved vs DVTK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Hungary Cup] Honved vs DVTK (FAWA)
+#EXTINF:1 tvg-chno="60" tvg-id="Live.Event.us" tvg-name="[Hungary Cup] Honved vs DVTK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Hungary Cup] Honved vs DVTK (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/kgggQ.m3u8
-#EXTINF:1 tvg-chno="69" tvg-id="Live.Event.us" tvg-name="[India ISL] East Bengal vs Goa (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[India ISL] East Bengal vs Goa (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQ.m3u8
-#EXTINF:1 tvg-chno="70" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] Persijap Jepara vs Persis Solo (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Indonesia Liga 1] Persijap Jepara vs Persis Solo (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFZFZF.m3u8
-#EXTINF:1 tvg-chno="71" tvg-id="Live.Event.us" tvg-name="[Kenya Premier League] Posta Rangers vs Gor Mahia (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Kenya Premier League] Posta Rangers vs Gor Mahia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQQQQQ.m3u8
-#EXTINF:1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta vs Toronto (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Atlanta vs Toronto (SPORT9)
+#EXTINF:1 tvg-chno="82" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta vs Toronto (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Atlanta vs Toronto (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n10.sanwalyaarpya.com:1686/hls/do31.m3u8?md5=ozZa_7rETYSmnWjXaFo0rA&expires=1772742643
-#EXTINF:1 tvg-chno="118" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Miami vs Houston (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Miami vs Houston (SPORT9)
+#EXTINF:1 tvg-chno="111" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Miami vs Houston (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Miami vs Houston (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n12.sanwalyaarpya.com:1686/hls/do37.m3u8?md5=u2pEANal8i05sotpDIdMtA&expires=1772742657
-#EXTINF:1 tvg-chno="127" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] NY Yankees vs Minnesota (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] NY Yankees vs Minnesota (SPORT9)
+#EXTINF:1 tvg-chno="120" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] NY Yankees vs Minnesota (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] NY Yankees vs Minnesota (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n13.sanwalyaarpya.com:1686/hls/do32.m3u8?md5=SPUohasoYe3qYQnKeBY9mA&expires=1772742646
-#EXTINF:1 tvg-chno="138" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia vs Boston (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Philadelphia vs Boston (SPORT9)
+#EXTINF:1 tvg-chno="131" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia vs Boston (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Philadelphia vs Boston (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n10.sanwalyaarpya.com:1686/hls/do33.m3u8?md5=SzkKHYPLFXh1hrqfFTJItA&expires=1772742649
-#EXTINF:1 tvg-chno="142" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh vs Saint-Louis (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Pittsburgh vs Saint-Louis (SPORT9)
+#EXTINF:1 tvg-chno="135" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh vs Saint-Louis (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Pittsburgh vs Saint-Louis (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n11.sanwalyaarpya.com:1686/hls/do35.m3u8?md5=wqpFaOHaGeh-2sBDOdX5qQ&expires=1772742653
-#EXTINF:1 tvg-chno="155" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay vs Baltimore (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Tampa Bay vs Baltimore (SPORT9)
+#EXTINF:1 tvg-chno="148" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay vs Baltimore (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Tampa Bay vs Baltimore (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n13.sanwalyaarpya.com:1686/hls/do34.m3u8?md5=9DFkDeVdJ7fARfPCUo5WHA&expires=1772742651
-#EXTINF:1 tvg-chno="168" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington vs NY Mets (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Washington vs NY Mets (SPORT9)
+#EXTINF:1 tvg-chno="161" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington vs NY Mets (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 3",[MLB] Washington vs NY Mets (SPORT9)
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n13.sanwalyaarpya.com:1686/hls/do36.m3u8?md5=gp9850MNafDxNHFPfBzd8g&expires=1772742655
-#EXTINF:1 tvg-chno="258" tvg-id="Live.Event.us" tvg-name="[NRL] Melbourne Storm vs Parramatta Eels (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[NRL] Melbourne Storm vs Parramatta Eels (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlllQQ.m3u8
-#EXTINF:1 tvg-chno="259" tvg-id="Live.Event.us" tvg-name="[Norway NM Cup] Molde vs Bodo Glimt (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Norway NM Cup] Molde vs Bodo Glimt (FAWA)
+#EXTINF:1 tvg-chno="252" tvg-id="Live.Event.us" tvg-name="[Norway NM Cup] Molde vs Bodo Glimt (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Norway NM Cup] Molde vs Bodo Glimt (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/ITTTQ.m3u8
-#EXTINF:1 tvg-chno="260" tvg-id="Live.Event.us" tvg-name="[Poland Cup] Avia Swidnik vs Rakow (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Poland Cup] Avia Swidnik vs Rakow (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:1 tvg-chno="253" tvg-id="Live.Event.us" tvg-name="[PDC] Premier League Darts (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[PDC] Premier League Darts (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQQQQ.m3u8
-#EXTINF:1 tvg-chno="261" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Ekstraklasa] Radomiak Radom vs Arka Gdynia (FAWA)" tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="RANDOM 3",[Poland Ekstraklasa] Radomiak Radom vs Arka Gdynia (FAWA)
+https://n11.sanwalyaarpya.com:1686/hls/do12.m3u8?md5=jDXU3zpnc6mNKMadESQ6mA&expires=1772744450
+#EXTINF:1 tvg-chno="254" tvg-id="Soccer.Dummy.us" tvg-name="[Poland Ekstraklasa] Radomiak Radom vs Arka Gdynia (FAWA)" tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="RANDOM 3",[Poland Ekstraklasa] Radomiak Radom vs Arka Gdynia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FYYYQ.m3u8
-#EXTINF:1 tvg-chno="264" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Quadisiya vs Al Kholood (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Pro League] Al Quadisiya vs Al Kholood (CDNTV)
+#EXTINF:1 tvg-chno="257" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Quadisiya vs Al Kholood (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Pro League] Al Quadisiya vs Al Kholood (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge.cdn-live.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=8aae816952de0657ae0e54477528296c6e8adbea35bb18a93d1ed724664744cc.1772735428.c02bc7bd4e1400a6f0e5f1915a863101.ccd7b4071335ffaf9cdbd2e9d3565b7c.07d933882470475a12d355643b815159&signature=0439cc29f3c82a8438c9218e0aadf12730d63fed13556992bd6bb100772cd65f
-#EXTINF:1 tvg-chno="265" tvg-id="Live.Event.us" tvg-name="[Romania Cup] Dinamo Bucuresti vs Metalul Buzau (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Romania Cup] Dinamo Bucuresti vs Metalul Buzau (FAWA)
+#EXTINF:1 tvg-chno="258" tvg-id="Live.Event.us" tvg-name="[Romania Cup] Dinamo Bucuresti vs Metalul Buzau (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Romania Cup] Dinamo Bucuresti vs Metalul Buzau (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/ITTT.m3u8
-#EXTINF:1 tvg-chno="266" tvg-id="Live.Event.us" tvg-name="[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)
+#EXTINF:1 tvg-chno="259" tvg-id="Live.Event.us" tvg-name="[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.37/hls/DDDD.m3u8
-#EXTINF:1 tvg-chno="275" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Premier League] Damac vs Al Riyadh (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="RANDOM 3",[Saudi Premier League] Damac vs Al Riyadh (FAWA)
+#EXTINF:1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[Saudi Arabia Pro League] Al Kholood vs Al Quadisiya (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Saudi Arabia Pro League] Al Kholood vs Al Quadisiya (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://n11.sanwalyaarpya.com:1686/hls/do83.m3u8?md5=MqFp_bnohCGNn28_sNMNJw&expires=1772744455
+#EXTINF:1 tvg-chno="269" tvg-id="Live.Event.us" tvg-name="[Saudi Arabia Pro League] Damac vs Al Riyadh (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Saudi Arabia Pro League] Damac vs Al Riyadh (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://n13.sanwalyaarpya.com:1686/hls/do65.m3u8?md5=i8CZHoeCmMuhLPLx1rvA3A&expires=1772744453
+#EXTINF:1 tvg-chno="270" tvg-id="Soccer.Dummy.us" tvg-name="[Saudi Premier League] Damac vs Al Riyadh (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="RANDOM 3",[Saudi Premier League] Damac vs Al Riyadh (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/kggg.m3u8
-#EXTINF:1 tvg-chno="276" tvg-id="Live.Event.us" tvg-name="[Serbia Cup] Novi Pazar vs Crvena zvezda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serbia Cup] Novi Pazar vs Crvena zvezda (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:1 tvg-chno="272" tvg-id="Live.Event.us" tvg-name="[Serie C] Catania vs Benevento (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Catania vs Benevento (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+251&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFZFZFQQ.m3u8
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-251/playlist.m3u8?token=cdb5cda1fb553a5ec60b37abbfce3f00cca3bd0ee7ec0d8d1699b5a3f7fde25e.1772737247.eadc072dd2cab06a079a0d0449c6c4fe.b5b9635ca4523989ae80cbda857e84ec.048f42c05a26126854df524a4b54bc8a&signature=dadd28f96ecdbbf8489901c66e5e68bcc6e6bf564bc5d9286cbe307172fb6fec
+#EXTINF:1 tvg-chno="273" tvg-id="Live.Event.us" tvg-name="[Serie C] Cavese vs Crotone (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Cavese vs Crotone (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+253&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-253/playlist.m3u8?token=32bd4549c57fa1373dc322f3e399910a6c28f486063d99f146a3404571497209.1772737250.568e315ab5a97ae76078c643adfd77c6.e408fbd85441aedbf78b3047e393f718.e2c257d198b9531435a03d856bb1bd83&signature=400361db6c4973e6d6408c11cb13362fa223a8535cb49a84c9fd661a8bffcaa9
+#EXTINF:1 tvg-chno="274" tvg-id="Live.Event.us" tvg-name="[Serie C] Cosenza vs Potenza Calcio (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Cosenza vs Potenza Calcio (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+254&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-254/playlist.m3u8?token=e50645a52948c20cc80d82d366c7eadfb98e66d877d60f1bd00684db9021e82b.1772737248.2dfb749a7eb399e680483db275335c24.41dfe6d091539a9b8bd411508275f394.a1adb3dcd290d05d36be66e2687bc611&signature=5e7687fd1ee8bb5773659e790f9958243bdc197d511f3fe41cd3ed9482e986d9
+#EXTINF:1 tvg-chno="275" tvg-id="Live.Event.us" tvg-name="[Serie C] Foggia vs Team Altamura (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Foggia vs Team Altamura (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+255&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-255/playlist.m3u8?token=cff682446e414fc29ddc4147d0bbd4b44bc1fb524220ead4bed4296fbdc833dd.1772737251.c22c0489ae263e846fe10c150201e654.7b9456210d405808d8567961cace4954.e0a7f25fe9100cb1f0a1494370fb80c3&signature=c0cb589e6fe1322fb4b323ad866d69dd0898c2e7c9bf7fa546717b5711f61cf2
+#EXTINF:1 tvg-chno="277" tvg-id="Live.Event.us" tvg-name="[Serie C] Salernitana vs Casertana (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Salernitana vs Casertana (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+252&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-252/playlist.m3u8?token=978d485a21d23c2fb24b497cdd87d88090d80500bb0c57e45b73342407d8964a.1772737249.2cd64cee584ff17f9011b131d5058d1e.f0c22f19f4b747b8841a460785155c10.5f535a903dbc3ad4f61fad5ec2cabb44&signature=03d57aeacdf6ad1e45a8633e4b37f89454bfec7ccab77d25f6a4c5b8c914f1e8
+#EXTINF:1 tvg-chno="278" tvg-id="Live.Event.us" tvg-name="[Serie C] Trapani 1905 vs Audace Cerignola (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Serie C] Trapani 1905 vs Audace Cerignola (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+256&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-256/playlist.m3u8?token=d8d48417305ea2c485d5d4f21de1c7485a48ed030cb697819dd27843e6aff2d9.1772737246.b01328fcd0de11d1d64e9098c8434612.a7a298394352aadf24acd734907532ab.5d51e0a68e259728e5f172661a875e4a&signature=8d5d8e88cb3e78a852e506b9faaab562d01a973c20eb782e12d8afe18259928b
 #EXTINF:1 tvg-chno="279" tvg-id="Live.Event.us" tvg-name="[Slovenia Prva Liga] Grosuplje vs O Ljubljana (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Slovenia Prva Liga] Grosuplje vs O Ljubljana (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3903,49 +3938,39 @@ https://n13.sanwalyaarpya.com:1686/hls/do73.m3u8?md5=xW-nBOCSxOgAWvQsX0WLEA&expi
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n14.sanwalyaarpya.com:1686/hls/do72.m3u8?md5=NwAkQp3eghnyEGYlyTCJzQ&expires=1772740874
-#EXTINF:1 tvg-chno="294" tvg-id="Live.Event.us" tvg-name="[Switzerland Super League] FC Basel vs Grasshoppers (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Switzerland Super League] FC Basel vs Grasshoppers (FAWA)
+#EXTINF:1 tvg-chno="294" tvg-id="Live.Event.us" tvg-name="[Switzerland National League] Geneve-Servette HC vs EHC Biel-Bienne (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Switzerland National League] Geneve-Servette HC vs EHC Biel-Bienne (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://n12.sanwalyaarpya.com:1686/hls/do63.m3u8?md5=nG7szU8Yu4KbMuZhvd0KeQ&expires=1772744447
+#EXTINF:1 tvg-chno="295" tvg-id="Live.Event.us" tvg-name="[Switzerland Super League] FC Basel vs Grasshoppers (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Switzerland Super League] FC Basel vs Grasshoppers (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDDQQ.m3u8
-#EXTINF:1 tvg-chno="295" tvg-id="Live.Event.us" tvg-name="[Switzerland Super League] Thun vs St Gallen (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Switzerland Super League] Thun vs St Gallen (FAWA)
+#EXTINF:1 tvg-chno="296" tvg-id="Live.Event.us" tvg-name="[Switzerland Super League] Thun vs St Gallen (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Switzerland Super League] Thun vs St Gallen (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/FDDDQ.m3u8
-#EXTINF:1 tvg-chno="296" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Singida Black Stars vs Young Africans (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tanzania Ligi Kuu Bara] Singida Black Stars vs Young Africans (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.37/hls/KCKCKC.m3u8
-#EXTINF:1 tvg-chno="297" tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Tanzania Prisons vs Azam (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Tanzania Ligi Kuu Bara] Tanzania Prisons vs Azam (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/RIIIQQQQQQQ.m3u8
-#EXTINF:1 tvg-chno="300" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Aliaga vs Genclerbirligi (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Aliaga vs Genclerbirligi (FAWA)
+#EXTINF:1 tvg-chno="299" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Aliaga vs Genclerbirligi (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Aliaga vs Genclerbirligi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/kttt.m3u8
-#EXTINF:1 tvg-chno="301" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Antalyaspor vs Samsunspor (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Antalyaspor vs Samsunspor (FAWA)
+#EXTINF:1 tvg-chno="300" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Antalyaspor vs Samsunspor (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Antalyaspor vs Samsunspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ktttQ.m3u8
-#EXTINF:1 tvg-chno="302" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Bodrumspor vs Igdir FK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Bodrumspor vs Igdir FK (FAWA)
+#EXTINF:1 tvg-chno="301" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Bodrumspor vs Igdir FK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Bodrumspor vs Igdir FK (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ktttQQ.m3u8
-#EXTINF:1 tvg-chno="303" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Eyupspor vs Konyaspor (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Eyupspor vs Konyaspor (FAWA)
+#EXTINF:1 tvg-chno="302" tvg-id="Live.Event.us" tvg-name="[Turkey Cup] Eyupspor vs Konyaspor (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 3",[Turkey Cup] Eyupspor vs Konyaspor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ktttQQQ.m3u8
-#EXTINF:1 tvg-chno="304" tvg-id="Baseball.Dummy.us" tvg-name="[World Baseball Classic] South Korea vs Czech Republic (FAWA)" tvg-logo="https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp" group-title="RANDOM 3",[World Baseball Classic] South Korea vs Czech Republic (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/tlllQQQQ.m3u8
 #--- RANDOM 3 END ---
