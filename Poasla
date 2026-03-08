@@ -1371,9 +1371,15 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
+
+
+
+
+
+
 #--- SONY START ---
 #EXTINF:1 tvg-id="1090505794" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Joburg Open Day 4 - 8 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1772994604~acl=/*~id=14868597042941619919039116629443~hmac=e2f4e9642e2f3b4332db3eef41e18245d6e49f984973e7cf320a1dfd2017b00a|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LZX417; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e19b891961f574b5ad3956f75a1c36e5-1772961000103
+https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1772994604~acl=/*~id=14868597042941619919039116629443~hmac=e2f4e9642e2f3b4332db3eef41e18245d6e49f984973e7cf320a1dfd2017b00a|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 30 ultra; Build/V1SQS35H.58-10-8-3)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e19b891961f574b5ad3956f75a1c36e5-1772961000103
 #--- SONY END ---
 
 #--- ZEE5 START ---
@@ -1498,6 +1504,18 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -1510,18 +1528,6 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/89_164871263258.png",22h15 WIB 08/03 Getafe vs Real Betis (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/869_1hfze4rm9j2s.png",22h30 WIB 08/03 Estrela da Amadora vs Gil Vicente (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -1534,6 +1540,12 @@ https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/241_164871184077.png",23h15 WIB 08/03 Lille vs Lorient (Lương Sơn) BLV ĐOÀN DỰ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -1545,42 +1557,36 @@ https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/48_164577434254.png",23h30 WIB 08/03 Leeds United vs Norwich City (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png",23h15 WIB 08/03 Nice vs Rennes (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/42_164869102143.png",23h30 WIB 08/03 Queens Park Rangers (QPR) vs Middlesbrough (Lương Sơn) BLV NGŨ CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/42_164869102143.png",23h30 WIB 08/03 Queens Park Rangers (QPR) vs Middlesbrough (Lương Sơn) BLV NGŨ CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/274_164871188569.png",23h15 WIB 08/03 Stade Brestois vs Le Havre (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/274_164871188569.png",23h15 WIB 08/03 Stade Brestois vs Le Havre (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/937_164871161365.png",23h30 WIB 08/03 Union Berlin vs Werder Bremen (Lương Sơn) BLV CHUNN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/937_164871161365.png",23h30 WIB 08/03 Union Berlin vs Werder Bremen (Lương Sơn) BLV CHUNN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/274_164871188569.png",23h15 WIB 08/03 Stade Brestois vs Le Havre (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/274_164871188569.png",23h15 WIB 08/03 Stade Brestois vs Le Havre (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/869_1hfze4rm9j2s.png",22h30 WIB 08/03 Estrela da Amadora vs Gil Vicente (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -1615,6 +1621,10 @@ https://live.alilicloud.com/live/f83187fc5e73d75fabca74f6fb3eb048/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1efec0e106b8758187a2a997fb46dc0f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f02715830df4dd8429ba3b8e34bbdb78/image/small?v=1768601124",23h45 WIB 08/03 Kazincbarcika vs Debreceni VSC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/739a41789a367ce0c9ddfd34049371ce/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3a0bcacc4eecea3e8d036cecf2e6856d/image/small?v=1768601124",19h00 WIB 08/03 Djurgardens vs Brommapojkarna (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1659,10 +1669,6 @@ https://live.alilicloud.com/live/c36ae6f2876cb1358634e0c3ead5a99c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/06402a188f472c6c1980ac8eaaaa9331/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c421ee266b2290e40d7c59e08889089/image/small?v=1768601124",20h30 WIB 08/03 FC Karpaty Lviv vs Kudrivka (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/13b5d6d126f8032a5c6bcdc9764409a1/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/655a329157c9993835631352227e8ff9/image/small?v=1768601124",19h45 WIB 08/03 Racing Club Montevideo vs Cerro Montevideo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1691,14 +1697,14 @@ https://live.alilicloud.com/live/d521015c8677a9bb08ab31bff8d9e876/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5f4cb0e5f07663d76e9c6f5bad136302/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7d015f7e086f14287d8f6b7372fbb1ff/image/small?v=1768601124",17h45 WIB 08/03 FC Dobrudzha Dobrich vs Beroe Stara Zagora (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9b36c9180f541ec784535295e9fb9384/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/eb210ffcfe628427900cf70939bea96f/image/small?v=1768601124",21h30 WIB 08/03 Hradec Kralove vs FC Viktoria Plzen (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b4a019d8305eb33cf89bfb1b26e24adc/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0c421ee266b2290e40d7c59e08889089/image/small?v=1768601124",20h30 WIB 08/03 FC Karpaty Lviv vs Kudrivka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/13b5d6d126f8032a5c6bcdc9764409a1/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/0ce44a5687a7a16c891446f361bc9cac/image/small?v=1768601124",23h30 WIB 08/03 Queens Park Rangers vs Middlesbrough (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2415,14 +2421,6 @@ https://live.alilicloud.com/live/4f3d7586454259fb5075f2ef9b632e8d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/401acd89c0c7e201fb4c72c6f4c47e9d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c8120036ba931d98d6edd1822804e22b/image/small?v=1768601124",20h30 WIB 08/03 Willem II vs Den Bosch (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f7c1746f3b2c425ba375a13216646538/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/655a329157c9993835631352227e8ff9/image/small?v=1768601124",19h45 WIB 08/03 Racing Club Montevideo vs Cerro Montevideo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b09c8983af7b1cb9bb56ca8de5ff5449/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/7bac441b830874238326162f54225b0a/image/small?v=1768601124",20h00 WIB 08/03 Slavia Mozyr vs Arsenal Dzerzhinsk (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2431,6 +2429,10 @@ https://live.alilicloud.com/live/300f1f6f68924ceae46b4233e1611c59/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5178c51f67c5e63ae4c590dc6988856d/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f02715830df4dd8429ba3b8e34bbdb78/image/small?v=1768601124",23h45 WIB 08/03 Kazincbarcika vs Debreceni VSC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/739a41789a367ce0c9ddfd34049371ce/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/77d050f571edc3167f274ff3a705d59c/image/small?v=1768601124",23h30 WIB 08/03 1. FC Union Berlin vs SV Werder Bremen (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2559,426 +2561,430 @@ https://live.alilicloud.com/live/577abc2c7a856662504c80404e1afb67/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/733a8d1bddfcf13623415f4035fb45b4/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/c8120036ba931d98d6edd1822804e22b/image/small?v=1768601124",20h30 WIB 08/03 Willem II vs Den Bosch (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f7c1746f3b2c425ba375a13216646538/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1772991697-0-0-8e77c35c170820c6f56a77de7b8c8e60
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1772991697-0-0-e33ed826a9bbb104f344a031fcc59085
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1772991697-0-0-99d03311a1577a41c95a013fe4357c2f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1772991697-0-0-0159568657bd13e7b5d5e7f2a273601c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772990617-0-0-56b62a97436739746ed973da2f2980d5
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772991697-0-0-68fe6e18845ef73b266a83039e169632
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772990617-0-0-5fcdab97e0a7af16abaf0d18c6d0723d
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772991697-0-0-4c0b960c41dc73ccce19e04fc4eaab3a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772990617-0-0-7bd4dfcc822211c2760bb6b8b41f41bb
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772991697-0-0-630d52e982f70db12bb796813befdb73
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772990617-0-0-670d6b2919976eb346a47912d983edaf
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772991697-0-0-7674f4554b0d04769c93c8175273a136
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772990617-0-0-2cd1bbd31a94ed5500ddbff05c77bfca
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772991697-0-0-b085b5a0eb1228350b496b2bf621ddbb
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772990617-0-0-97878c49013978e323ea918001d84d18
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772991697-0-0-8f01219750675a6cd66251b7cccd4203
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772990617-0-0-ece6596c9e1dcad7d2f12ba0bd30ab62
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772991697-0-0-48c3d156e22338c959b164163a882626
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772990617-0-0-9c97f27411d4113c7818763fe3088435
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772991697-0-0-6d9917a1f60b6727cc029702b9c063e0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772990617-0-0-bef70914443af49b40cb8b777feb0941
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772991697-0-0-9886cbd5d10f8eb9bef87dd6f6546a6e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772990617-0-0-9acb1f30ee8beb7c71bb14fa76651ae3
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772991697-0-0-d7198d73a62a659a4035410a15ecd9d5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772990617-0-0-b408b6b3b83dfdac1c1acc440277ad90
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772991697-0-0-ec79cb837c359ec62640c8fd8e23e5d7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772990617-0-0-7201312ea3de403d1bdb1865b2bfc2e1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772991697-0-0-d579492f88fb3dc865be648fd0345879
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772990622-0-0-f0bf6d3e06ff65262fd006e8ff2af820
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772991697-0-0-b04d57270f56de95461d3a40dcca8606
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772990622-0-0-eab39e9f72ea26d3bdd661aa9dfad1b3
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772991697-0-0-86c5a9d846645dca03cc0e03c8a449bc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772990622-0-0-d587008c2986a3d67b0da15d9e3d9223
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772991697-0-0-5056de541b9f63da941b6d4363d9b3b3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772990622-0-0-a8914e5cd373ff1a0fbae364c806ab31
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772991697-0-0-c9eac9b12d737cdba55e5bf664902b3a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",NBA: Cleveland Cavaliers vs Boston Celtics [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1772990617-0-0-96ec014ac04aa9d2dbc8c63e98daf4ba
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1772991697-0-0-4381571d36d2ee59c1258b9b717c28f2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",NBA: Cleveland Cavaliers vs Boston Celtics [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1772990617-0-0-3e648c4cd38743130f642fdbd4316c75
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1772991697-0-0-88a54a87ac41e90c443712cd76eaa9fd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",NBA: Cleveland Cavaliers vs Boston Celtics [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1772990617-0-0-86aea3827365bb7322a31ed01c21236c
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1772991697-0-0-69ee740ccf51c7db8b92b06803bc5158
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",NBA: Cleveland Cavaliers vs Boston Celtics [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1772990617-0-0-9dff1a8f5907e5c47e0eba83ae428dbb
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1772990977-0-0-6c18725bb919f932589cd5322b4fd6b6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1772990977-0-0-0386ef4f21e7cd5abb1801dc78bfbe3f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1772990977-0-0-215f15c085acf45921332048f1a0fd84
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1772990977-0-0-e52625350fefd3eaa41e7e0e0c339361
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1772991697-0-0-a62cd0da4d5e848c717a501ca0928cc4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1772990977-0-0-01d780bf118786b831388f98c6afecf8
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1772992057-0-0-1e32c11d7cef8785e0496ec84026f036
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1772990977-0-0-94a2c4a5dee92a4c181acbe7f2c8acfb
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1772992057-0-0-07cc8a9248cc834f828aa9679c4fdde1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772990977-0-0-0a162cb8ed7f6c52cd79d3da3e7b1b45
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772992057-0-0-7012a1f0c73e68ac215226ab5502ae42
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772990977-0-0-a503df909e6c1e33ac0a6ac76780839b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/792ff5b3c97a77830cc2517369a7ff50.png",21h30 WIB 08/03 FC St. Pauli vs Eintracht Frankfurt [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1772990999-0-0-cd3b44b91851e72bbb1f4f9ece9f6269
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/792ff5b3c97a77830cc2517369a7ff50.png",21h30 WIB 08/03 FC St. Pauli vs Eintracht Frankfurt [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1772990999-0-0-ea3819aa573cd0646aa4189bb3d8670d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/792ff5b3c97a77830cc2517369a7ff50.png",21h30 WIB 08/03 FC St. Pauli vs Eintracht Frankfurt [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1772990999-0-0-f69cc224da3d205ca4b88dd3bfd12a46
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/792ff5b3c97a77830cc2517369a7ff50.png",21h30 WIB 08/03 FC St. Pauli vs Eintracht Frankfurt [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1772990999-0-0-27a5f3f850d17910ac3abab6526380e0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=d09415da2b5b1decbad5aa5078c2a42c&txTime=69adf851
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e586b11b00fc8102bb164e92ea7eefaa&txTime=69adf851
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=d09415da2b5b1decbad5aa5078c2a42c&txTime=69adf851
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e586b11b00fc8102bb164e92ea7eefaa&txTime=69adf851
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772992057-0-0-d01fbadd382da9c1c6b40d07730dfb5d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1772990977-0-0-b8206430a5b9a6b50a3ead9983564e85
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1772992057-0-0-15ef28f73143225992c379e7a82e0500
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1772990977-0-0-310ee568957364e86070d2b44dcda7a0
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1772992057-0-0-2afe09c084f81cdf42a7b00192b371d2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1772990977-0-0-aa737fe692999b3b8ae3c57596a65503
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1772992057-0-0-6c63017990d1ba45cc8abfd6652535d3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1772990977-0-0-135735a0b120fe18e0261dc6cd946f62
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1772992057-0-0-7854355198a63ed63f301f216b8f4f64
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=90505975071582f708714dcfbd3ee254&txTime=69adfc89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e9fb6f0ec0c2575d93082d3531378a42&txTime=69adfc89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=90505975071582f708714dcfbd3ee254&txTime=69adfc89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e9fb6f0ec0c2575d93082d3531378a42&txTime=69adfc89
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=410e3bcce92f9603d73eed82abd5bce9&txTime=69adf851
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=7eec0a77c46768398d643c3bf6bb0d67&txTime=69adfc89
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=9c66514746f305732c416bb42318c788&txTime=69adf851
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=1e6dd9436d60bf0c496f109b51cca9f3&txTime=69adfc89
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=410e3bcce92f9603d73eed82abd5bce9&txTime=69adf851
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=7eec0a77c46768398d643c3bf6bb0d67&txTime=69adfc89
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=9c66514746f305732c416bb42318c788&txTime=69adf851
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=1e6dd9436d60bf0c496f109b51cca9f3&txTime=69adfc89
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1772992057-0-0-22b6454a6eccc69cc16fd42821935ae7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1772992057-0-0-a3c95b3aba8534c1d91af1db185fc32c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1772992057-0-0-645e9334437e7a7db67d21747f2c0680
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1772992057-0-0-c8f492390f8866654d4fac1d024af184
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772990977-0-0-2f7b51d180852fcb534abc6dc91b2cba
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772992057-0-0-3e7960edc4adbd532d4e5e6dd02e73c3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772990977-0-0-1460fa13ac048d42e366194ccb540902
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772992057-0-0-ba7296fc33b2bd7d1b7f6947ccb12b92
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772990977-0-0-16ad9bedb09abba90a9e22cd1740a42d
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772992057-0-0-6028ec539d17f7f6df75bd512b22fb61
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772990977-0-0-5d34640895d395cceaea5a142c27a8c7
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772992057-0-0-9c439eadcf310a97568d171de263defa
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: Stade Brest 29 vs Havre Athletic Club [RABBIT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1772990977-0-0-c9719f184409d8b85c90e4ba0da6a14f
+https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1772992057-0-0-bb84e926d8a84d5021f0392c11bd3346
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: Stade Brest 29 vs Havre Athletic Club [RABBIT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1772990977-0-0-9103061a83bda361e2e7850c59346493
+https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1772992057-0-0-68c0f95df3db800a6ed7a698ca505c84
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: Stade Brest 29 vs Havre Athletic Club [RABBIT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1772990977-0-0-2c44c37886d9063184aa2617c07b2d66
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1772992057-0-0-2331b38b7b84d5f9ecb3ad6d8ee01458
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: Stade Brest 29 vs Havre Athletic Club [RABBIT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1772990977-0-0-bab44be976f3032cbabd52f137f0e94e
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1772992057-0-0-160ff47da5e909b68efbf71f66c428e2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1772990977-0-0-f4402399621bbfa0e1252714930beda0
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1772992057-0-0-4630c016d0174c584bf85f154e17bf96
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1772990977-0-0-abc7674775167dcd2c6d234b830a3296
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1772992057-0-0-8881298910ed5f26b2776d4abbb898a0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1772990977-0-0-5f3220972220573afa008e2af82701a9
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1772992057-0-0-910193e1e4dd04fd136379a7fbcfa3b5
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1772990977-0-0-49e07dbfe58b5a38addc687fc62fede6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1772990977-0-0-85712fc9cd9cfcb0d919561e92685d05
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1772990977-0-0-7ab8f2be576be8397b50ad15c168d69e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772990977-0-0-94307dbfa68e5179b23108cfe3a5afa4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772990977-0-0-4c2fcf372db47398264b09409a27b478
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1772990977-0-0-402eb04998e3849cc8ab1992cdb056a9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1772990977-0-0-e3cbd04137b05f4ec2267de08eeb2ea0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772990977-0-0-4b933518a20b4cb5a76e98fdf6d92d7e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772990977-0-0-f702ac2a760dba4b582b52ddccc38105
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1772992057-0-0-80d761924dd83a6b6d05b7615b70b8ac
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV LIO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772990977-0-0-5f9dbc2a95c8af81d72a2f764d5bc99d
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772992057-0-0-8e5b3d511b29aa8f8ca91683855311e6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV LIO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772990977-0-0-df986dff234dc425d5b5f39805f05d68
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772992057-0-0-ea457c70e6b60e8871e9697adf5d24bc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV LIO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772990977-0-0-b706161caec60fad886db0589fc2eda4
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772992057-0-0-f1c1732e1c64c5ad072cc383c9054a7c
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [BLV LIO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772990977-0-0-633ec1789310275b398f0504f4c825f7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) flv
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772992057-0-0-270f32830160986066cc0550edfcd5c2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1772991337-0-0-dd12d9be1ec5ed23541a87e564196214
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1772992057-0-0-535adebca22723bee4faff64e812c3e6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1772991337-0-0-2023239fbdbf6d90f14461eb122dcb66
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1772992057-0-0-83b7a80c764da7eb579b4f5ce5bca0a5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772991337-0-0-d30e5b9ad3acb9f6c05906fe8af1ad06
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772992057-0-0-587db083d3812cc9ada44f56a3f4d551
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ACB: Valencia vs Murcia [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772991337-0-0-398e48fa710b0512e40adbbeaa93e02d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772992057-0-0-19d3276d01e367d0d3a1f98427250704
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=5cdc100f78cdd2bd1a8ad7be49c5f2e5&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1772992057-0-0-36c636326500cb453f94f2bdc2d0e097
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=2ed62b8efcc6300981fc27436ff5ec1d&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1772992057-0-0-644a8a6214a772391358cf4091bedaef
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=5cdc100f78cdd2bd1a8ad7be49c5f2e5&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1772992057-0-0-9b3f16bc35c09d7ab01764c98f67085e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=2ed62b8efcc6300981fc27436ff5ec1d&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=bb4e37217ea21c929300f9c17ba0227a&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=a99a275672abfee3dcab360bdf4c4121&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=bb4e37217ea21c929300f9c17ba0227a&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=a99a275672abfee3dcab360bdf4c4121&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1772991337-0-0-8f95e32cdfd5b04f61b92b3912eb3689
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1772991337-0-0-e8df06d507efc32767939d7cf946b25f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1772991337-0-0-0ebde8626ba4d483b7a7631e490f18a0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1772991337-0-0-84f9c772e8df8aa043a3369069a1883a
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1772992057-0-0-453e6d385c2b6e92ed4b7b1689368dd3
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1772991337-0-0-6da627579c08af797fec2e79a7d86e43
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1772992417-0-0-2d3f2f9db60fdf55899d3006d9d1544f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1772991337-0-0-c726209289e60bcc6679ace7928c6384
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1772992417-0-0-4669ca161ad397a0917f988588d41838
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1772991337-0-0-d941a2ece53c26bb0cb11150767762e4
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1772992417-0-0-3fb702af3ac5eebcc12978f6c24fe92b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1772991337-0-0-d28552d37c4dd82e01dc9e670f0db4a6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772991337-0-0-25c17324097e5662ffdb258d9bba1f74
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772991337-0-0-d9262b3fa062575222c925a6d9e6a06b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772991337-0-0-27716355a3e8d5883e089a345fced9a2
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772991337-0-0-db402a53d1d982aeae1ffe533f12d1ff
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1772992417-0-0-d80d957d8568c5097fa4598c8cb2531e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772991337-0-0-61f08c4fec311005762bed2d4db18f32
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772992417-0-0-a866acca6254bafa6da7837e30e36d8d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772991337-0-0-a932af58a03c9f30b5505f90eae38829
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772992417-0-0-63f86e0fd87b7562883f1bde35e7c0ae
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772991337-0-0-466e1ffd84a73b6b1eb322d9fa250dea
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772992417-0-0-61cb430413544fd90a829a6fced32929
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772991337-0-0-2dc4c01f5167bb782bd613f47e006f24
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772992417-0-0-fcab487f91b00c13c8f9260df5faedd3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1772992417-0-0-ebbaa418481919a6ceab77e5b675513e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1772992417-0-0-4de99f129c83ca4bd680372ef34b2bf5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1772992417-0-0-3510c97aacdfa61f06e079d13bd43909
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1772992417-0-0-6ca64ca111f1173fc33979070449b929
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=ec82723ae92923a36675aa1ff3fad58a&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=3c8afc57c91ba733f5b5b561662a9fa3&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ec82723ae92923a36675aa1ff3fad58a&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=3c8afc57c91ba733f5b5b561662a9fa3&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=c501d26c363e37d4706bb077f7493dd8&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=7aa395dbfa9680588b2dc0f69c14cbd0&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=c501d26c363e37d4706bb077f7493dd8&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=7aa395dbfa9680588b2dc0f69c14cbd0&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772992417-0-0-8870d7ca046ea4ab7c6faca4f5065eca
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772992417-0-0-e63173283fb1a1dadf22c117ee2513b3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772992417-0-0-2c0fc1e9f9ff76ef3fd8b352a41572f8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",GER D1: 1. FC Union Berlin vs SV Werder Bremen [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772992417-0-0-f937b660f7a85e477943e20788a3c6c8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1772992417-0-0-fe5d99a6e931a4876eed522ae31ce625
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1772992417-0-0-426394bd19ced3e9494bbbb87cdfb466
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1772992417-0-0-c40974dfb1cbf1e68bde0a7b42af025e
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",22h15 WIB 08/03 Getafe vs Real Betis [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1772992417-0-0-d47b85bcd313ad500af02a07225f4dc7
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772991337-0-0-3fe350c8a3a5fe20a6ba6c1d1508e5da
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1772992417-0-0-978510055fc2c41cb89790748564b644
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772991337-0-0-80914afdd99e1b89364408a330287028
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1772992417-0-0-2ed19ec59ec11597e45abc1f4dd41301
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772991337-0-0-3e2e4109d3ad4a5163e273cc1401dee3
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1772992417-0-0-f4676bfae9800a507515cbee94e07046
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772991337-0-0-558af3804be4822afc3bdd0969accbec
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1772992417-0-0-ba25fff3bfae6bca15fd4a0504096e7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772991337-0-0-6221a290b22170e49f2510852446a4f7
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1772992417-0-0-d83e8e760a78d06477f7814f72d21b89
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772991337-0-0-3a4925bdd5b3e6081ecc95f6deac4e4c
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1772992417-0-0-91d727c4fedf9e37cf42e5c45ca60b55
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772991337-0-0-fb7dc7988aef5c8eb215885c57289060
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1772992417-0-0-f173c61dd5b8cd29bf9b70100f4acefc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: LOSC Lille vs Lorient [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772991337-0-0-084670c874b6e32e4dd1f5acd92a898a
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1772992417-0-0-089e94a87eece51fab8fdcfd5a332c91
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [GOAT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772991337-0-0-0a0ecb2efb7c1413efec3deceeed60b7
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772992417-0-0-77f3b68e9e4a98acadc0c4facd890e3e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [GOAT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772991337-0-0-ceeb8e0e9bdcaa62fd10ad7b82ba3b90
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772992417-0-0-181609163f9c999c06397cf027a21dcc
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [GOAT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772991337-0-0-de37972c696c209fde54d8e8acbdcf89
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772992417-0-0-9baa80c27d6e482ad22f9c9b63d29914
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ENG FAC: Leeds United vs Norwich City [GOAT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772991337-0-0-04fb5fc7a5de645b8ad0b0c33f5ec655
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772991337-0-0-01f5b413f739c690262d310c4fa587e8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772991337-0-0-2e788ef33cb0ede41472f53b45fae2da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772991337-0-0-69e995cf58e18c90d656d77e1c548b0f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772991337-0-0-203b584942b56428f8e1693c33a36858
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=38c9dbcc55ca7f586c1ac639dd92dcf5&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=a07f69c39915a56681c9d65ee947e572&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=38c9dbcc55ca7f586c1ac639dd92dcf5&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a07f69c39915a56681c9d65ee947e572&txTime=69adf9b9
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772992417-0-0-feacfcd7f9eff8eef671228a4eda5e7a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1772991337-0-0-f378aa1be15fea298f05a8c73a9e1ad0
+https://pull06.scstream.net/live/stream-570313_lsd.flv?auth_key=1772992417-0-0-ce9316d123f91999209076c9152db619
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1772991337-0-0-c3589a62354a32a4f353cf041d3bbe62
+https://pull06.scstream.net/live/stream-570313_lhd.flv?auth_key=1772992417-0-0-e295b8a6d8843a73e6cbbf4e83a1c02e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1772991337-0-0-e17b7649cf112f298981ff84f7ebe484
+https://pull.niues.live/live/stream-570313_lsd.m3u8?auth_key=1772992417-0-0-1a4706071fa8178cf5a9853a844b6a71
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",FRA D1: OGC Nice vs Stade Rennais FC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1772991337-0-0-f7a86537f1d956f0e9f9c6f9d83bbbf7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) flv
+https://pull.niues.live/live/stream-570313_lhd.m3u8?auth_key=1772992417-0-0-29a4978c356113cea4ad410c53772a9b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=535b9ff612803d729d13a5a4d9584f2b&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5f2ab559ef1f74d31eaa46dda48d1481&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=956d6c69ad2832c101bcc37f94e6b121&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e3d6015481bd723fc10fa975bf668468&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=535b9ff612803d729d13a5a4d9584f2b&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5f2ab559ef1f74d31eaa46dda48d1481&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=956d6c69ad2832c101bcc37f94e6b121&txTime=69adf9b9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e3d6015481bd723fc10fa975bf668468&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772991337-0-0-fac8c976159f2a9c875abd301838f9f8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772992417-0-0-56542a32dcebb637f0fe68e770e1074a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772991337-0-0-c487d4ed2ee9c12bc72edc16e535eb7f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772992417-0-0-14a2168af4fb39bf831b983e4747b949
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772991337-0-0-01844bf63b59132208aa4f0938dc3610
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772992417-0-0-56baf41cd94f257a6de9b8947cd9a4b2
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772991337-0-0-80c0f228809d0e7868d3300604f77a97
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772992417-0-0-7fba1a689cb53ec0279ade1bab93716d
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1772991337-0-0-e162928c2ae9cb996d9a8acc8ed20438
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1772992417-0-0-cb57217ba809b67754569b5906882be4
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1772991337-0-0-aaacd74f7be7a12311a5f620b50f9e26
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1772992417-0-0-4b57aa8f9f3d79aeb441018296bd00f2
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1772991337-0-0-6bb09838563c30b0f56c2d080f449fee
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1772992417-0-0-f442cbb6f3fd8d2f5e59ebcf03205178
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",TUR D1: Fenerbahce vs Samsunspor [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1772991337-0-0-421fd934955df77a91f253db8a77b675
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1772992417-0-0-ace6a927ec28c759887fec1e53359620
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=d3ebe6c2a9471eb4154c78e39003aabc&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=f26cb71af7a0d6d95e9e0276107b6652&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d3ebe6c2a9471eb4154c78e39003aabc&txTime=69adfdf1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260305/521b39acaa841a74c8431e9bdd2b28c9.png",21h00 WIB 08/03 Bologna vs Hellas Verona [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f26cb71af7a0d6d95e9e0276107b6652&txTime=69adfdf1
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1772991353-0-0-10a1473a63ac63c81ee92a31bf2afdc1
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1772992417-0-0-769c14ab298defacc18fe46f4237c990
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1772991353-0-0-9e2a044a7fd8b00d8b4db792a87035af
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1772992417-0-0-ac703567a5f13961a67da84478003ef6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1772991353-0-0-fec3307313a899286f61c2398358657e
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1772992417-0-0-6fa499f5c758b8d7895c98c4c07ff378
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1772991353-0-0-f19cddf0c1010afc6021723a6cb6224b
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1772992417-0-0-057933b562d6c6dab819608940f06102
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1772992417-0-0-4a290c91f7a564a27ead878d50da2201
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1772992417-0-0-51983870de0630c4bb508a48e1ec1449
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1772992417-0-0-1681151844be9b07c2a0757f9cc4b489
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",ITA D1: Genoa vs AS Roma [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1772992417-0-0-17ef6fb0d60ff8509afa1ad0cd07ef90
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772991337-0-0-282e83f34043fc3a421b7d2c8e3244db
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772992417-0-0-6a2f486a90bc447cec0e02ab5e7eb6ca
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772991337-0-0-9255cf6775ee99cf43e57a17a35a6add
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772992417-0-0-feb8d31b6c6dcedea624f7a93a616e2b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772991337-0-0-7e206d2cff612d0e384b430f384e6835
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772992417-0-0-c261258b1d1beb6e2d403f170b9ce105
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260304/2662454c798fc0d6f3151f89b098fed4.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772991337-0-0-1492101a839c53c0471e690dd02b0423
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772992417-0-0-5e170c05bd17bf96adfcf0d567bdc366
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7f/Getafe_logo.png",22h15 08/03 Getafe vs Real Betis (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3045,66 +3051,78 @@ https://live5.msrktz.app/live/68848594.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80",23h15 08/03 OGC Nice vs Stade Rennais
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/75748097.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 FC St. Pauli vs Eintracht Frankfurt [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 FC St. Pauli vs Eintracht Frankfurt [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 FC St. Pauli vs Eintracht Frankfurt [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 Union Berlin vs Werder Bremen [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 Union Berlin vs Werder Bremen [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 21h30 08/03 Union Berlin vs Werder Bremen [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[La Liga] 21h30 08/03 Getafe vs Real Betis [FHD]
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 22h15 08/03 Getafe vs Real Betis [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
-#EXTINF:1 group-title="RANDOM 1",[La Liga] 21h30 08/03 Getafe vs Real Betis [HD]
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 22h15 08/03 Getafe vs Real Betis [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[La Liga] 21h30 08/03 Getafe vs Real Betis [SD]
+#EXTINF:1 group-title="RANDOM 1",[La Liga] 22h15 08/03 Getafe vs Real Betis [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] 21h30 08/03 Leeds vs Norwich [FHD]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] 22h15 08/03 Leeds vs Norwich [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] 21h30 08/03 Leeds vs Norwich [HD]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] 22h15 08/03 Leeds vs Norwich [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[FA Cup] 21h30 08/03 Leeds vs Norwich [SD]
+#EXTINF:1 group-title="RANDOM 1",[FA Cup] 22h15 08/03 Leeds vs Norwich [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_sd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[SuperLega] 21h30 08/03 Trentino vs Lube Civitanova [FHD]
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 22h15 08/03 Union Berlin vs Werder Bremen [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 22h15 08/03 Union Berlin vs Werder Bremen [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Bundesliga] 22h15 08/03 Union Berlin vs Werder Bremen [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Serie A] 22h15 08/03 Genoa vs AS Roma [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Serie A] 22h15 08/03 Genoa vs AS Roma [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[Serie A] 22h15 08/03 Genoa vs AS Roma [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[SuperLega] 22h15 08/03 Trentino vs Lube Civitanova [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda.m3u8
-#EXTINF:1 group-title="RANDOM 1",[SuperLega] 21h30 08/03 Trentino vs Lube Civitanova [HD]
+#EXTINF:1 group-title="RANDOM 1",[SuperLega] 22h15 08/03 Trentino vs Lube Civitanova [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[SuperLega] 21h30 08/03 Trentino vs Lube Civitanova [SD]
+#EXTINF:1 group-title="RANDOM 1",[SuperLega] 22h15 08/03 Trentino vs Lube Civitanova [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_sd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[PlusLiga] 22h15 08/03 Projekt Warszawa vs Lublin [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
+#EXTINF:1 group-title="RANDOM 1",[PlusLiga] 22h15 08/03 Projekt Warszawa vs Lublin [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
+#EXTINF:1 group-title="RANDOM 1",[PlusLiga] 22h15 08/03 Projekt Warszawa vs Lublin [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
