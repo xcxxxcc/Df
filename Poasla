@@ -1749,10 +1749,10 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
-#--- SONY START ---
-#EXTINF:1 tvg-id="1090506835" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648405773805_IFC_Rajasthan_United_FC-vs-Real_Kashmir_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | Rajasthan United FC vs Real Kashmir FC - 17 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a63b1675941d69751bfd214c9fc5fb7a-1773746058315
-#--- SONY END ---
+
+
+
+
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
@@ -1767,6 +1767,18 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/449_1grzke26w41a.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju Football Club (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -1802,65 +1814,73 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/25263_1gpyv083j92x.png",17h30 WIB 17/03 Rajasthan Club vs Real Kashmir (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV KENCHU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV TẦN CA m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV TẦN CA flv
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/62353_1h7ejsen6b2f.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773681039.png",18h30 WIB 17/03 China W vs Brazil W (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1612_1h4jenwa13h.png",17h00 WIB 17/03 China (W) vs Australia (W) (Lương Sơn) BLV TÔN LẬP flv
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773681039.png",18h30 WIB 17/03 China W vs Brazil W (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV PHONG VÂN m3u
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dff48e82ce15ef7159d0590ca819cb44/image/small?v=1768601124",17h30 WIB 17/03 Grange Thistle SC vs Southside Eagles (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV PHONG VÂN flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",17h30 WIB 17/03 Gimcheon Sangmu Football Club vs Gwangju Football Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/d1aefc76917bc4005e9962c7aa18a7de/image/small",17h00 WIB 17/03 Samsung Blue Fangs vs Woori (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5c62563586306e23f86b58d7d27a336c/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/390ca8af0fb8d665ac9cab7ea8eeb794/image/small?v=1768601124",16h00 WIB 17/03 Yarmanya United FC vs Thitsar Arman FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/33382_1hwaarvbdk16.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d7dda979adb4f5686481e62309d8da8b/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png",17h00 WIB 17/03 China Women vs Australia Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1909,46 +1929,6 @@ https://live.alilicloud.com/live/047193704fe920ba90ecc6b542e52369/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b954586c81a89cbc137be6275d5d8255/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dff48e82ce15ef7159d0590ca819cb44/image/small?v=1768601124",17h30 WIB 17/03 Grange Thistle SC vs Southside Eagles (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",17h30 WIB 17/03 Gimcheon Sangmu Football Club vs Gwangju Football Club (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/d1aefc76917bc4005e9962c7aa18a7de/image/small",17h00 WIB 17/03 Samsung Blue Fangs vs Woori (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5c62563586306e23f86b58d7d27a336c/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/390ca8af0fb8d665ac9cab7ea8eeb794/image/small?v=1768601124",16h00 WIB 17/03 Yarmanya United FC vs Thitsar Arman FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d7dda979adb4f5686481e62309d8da8b/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/3f2bda0968eaa816d655d8554c1d7f67/image/small?v=1768601124",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/20260128_085928_afcd7c99.png",16h30 WIB 17/03 Mahar United FC vs Ayeyawady United (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/20260128_085928_afcd7c99.png",16h30 WIB 17/03 Mahar United FC vs Ayeyawady United (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142845_d31bb816.png",17h00 WIB 17/03 China W vs Australia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2053,6 +2033,42 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dff48e82ce15ef7159d0590ca819cb44/image/small?v=1768601124",17h30 WIB 17/03 Grange Thistle SC vs Southside Eagles (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",17h30 WIB 17/03 Gimcheon Sangmu Football Club vs Gwangju Football Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/390ca8af0fb8d665ac9cab7ea8eeb794/image/small?v=1768601124",16h00 WIB 17/03 Yarmanya United FC vs Thitsar Arman FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2129,186 +2145,6 @@ https://live.alilicloud.com/live/5c62563586306e23f86b58d7d27a336c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/aa4ec6caa99d4a6fb0cad0085043b0ef/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/dff48e82ce15ef7159d0590ca819cb44/image/small?v=1768601124",17h30 WIB 17/03 Grange Thistle SC vs Southside Eagles (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",17h30 WIB 17/03 Gimcheon Sangmu Football Club vs Gwangju Football Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://static.flashscore.com/res/image/data/APD7i7dM-nNtI3CTL.png",17h00 WIB 17/03 China Women vs Australia Women (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/86802ea5b6944844b3253317b43615d9/index.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/390ca8af0fb8d665ac9cab7ea8eeb794/image/small?v=1768601124",16h00 WIB 17/03 Yarmanya United FC vs Thitsar Arman FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773749498-0-0-cee24decfe7d89909137f71ffb95e5ad
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773749498-0-0-7b3506e9995bc9170808080a87ab2fbc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773749498-0-0-b0fa943de24772ac93ae6b2e5e07787c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773749498-0-0-0a7b6d6a6d36bf083dfa7408283f006b
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1773749498-0-0-1b51f8b5cd922454dc633be06303b9a1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1773749498-0-0-49520187605df36476bc42bc16771fec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1773749498-0-0-294ec3c07e8b8fe6e6e894d021e21ac4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1773749498-0-0-39aea096b22ef836c4bf9a009f2c75fc
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773749498-0-0-35517d28afce6618ac0fecd45152322c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773749498-0-0-89bce447ed3ac85e8b1aa9d06812df88
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773749498-0-0-3929d104a289e336459b12d788dbbb6c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773749498-0-0-b6b5218d0dd7d40ad49a7536fc269279
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=80f98dc3b4a29b5e4d42625df76b16f0&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=2b5873c43b70a2b431d4aa57d15053c4&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=80f98dc3b4a29b5e4d42625df76b16f0&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=2b5873c43b70a2b431d4aa57d15053c4&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773749498-0-0-66d0cd98a91a31970ba2e447d280393a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773749498-0-0-c5e5d75abb8fd8299dccacbdbb3311b6
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773749498-0-0-0dbf988cd45d0e9e3e075a6b555fd4b7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773749498-0-0-e7518d5a09457736f10d0456f11efb58
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1773749498-0-0-bcf115e92731dd90716d5051180a272a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1773749498-0-0-4e55a2f3c56617b02748ce797d20c5c7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1773749498-0-0-a2557807c2600325c50614e01c7f1892
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1773749498-0-0-dab2fff39831e2558fae9155f8f264d7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=aaa10e4d7fd757da1b7abe1208847ba8&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=8e1b7391b1bb8e9c2e50f50660338077&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=aaa10e4d7fd757da1b7abe1208847ba8&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8e1b7391b1bb8e9c2e50f50660338077&txTime=69b98b4a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773749858-0-0-0797cead28a7d14c5c1532a8d7df584c
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773749858-0-0-e9ff9c7576cd438e8e7f324af872bd1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773749858-0-0-9606f12eeda176d0180a27b704919996
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773749858-0-0-85e1f1093109eca48e8c7295b6a5d486
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773749858-0-0-93465d2d84066bdf829292b29ddd3d02
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773749858-0-0-759e3d1551b90e891ed9d50f72b53732
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773749858-0-0-7a82ca3cfc9ce9d5b49cbb86b63ca0fe
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773749858-0-0-4e5e1e9996ebaf4785486e4a1f061be0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773749858-0-0-e63bf0a600a0a9947c61bf49b75db059
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1773749858-0-0-1a7c072042e98f53ff4fb24569cd3b4f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773749858-0-0-f505330d1f7ba6f52a116ebeb27f23e4
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773749858-0-0-93b97a20a71ef539f9944a7e5aa67f85
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773749858-0-0-48c69392776e3fd24d45e61571cb6be1
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773749858-0-0-31721d2c1cdd605fd4ec4eeac60fc1d3
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773749858-0-0-28cfbbdc7e9ac1894bbcdac8d509618f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773749858-0-0-cbe0a34ce0f3906561aa798a379aa570
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597924_lsd.flv?auth_key=1773749858-0-0-a59dd5ba91633d6fd756094b1daecf1f
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597924_lhd.flv?auth_key=1773749858-0-0-03c648222bcfb41f74e6920890c68e87
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1773749858-0-0-97bbd899fce6794d0bbba51c16b3e15e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1773749858-0-0-f991b74c2f53c3f945d7db986437ad82
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=740bf76636381105c2a93a0ffd25deae&txTime=69b98e1a
@@ -2381,18 +2217,6 @@ https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773750218-0-0-b604
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Ferizaj vs Prishtina [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773750218-0-0-0a343aa93d8ad2096760305e24cf771e
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=e99293a61e2b605ef1744ef93ab19770&txTime=69b98e1a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=49308598c8da6bc0a2c87b9056006582&txTime=69b98e1a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e99293a61e2b605ef1744ef93ab19770&txTime=69b98e1a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=49308598c8da6bc0a2c87b9056006582&txTime=69b98e1a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV CÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1773750218-0-0-b6062e44fd6b165c9fda21dbac1d139b
@@ -2405,18 +2229,6 @@ https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1773750218-0-0-9bc0
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV CÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1773750218-0-0-49ade85505465c8cfff3110db81deed0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1773750218-0-0-2cce881b223f350e7254d6b6d95f0df7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1773750218-0-0-37e9c776416f3f39c6b8072d88342739
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1773750218-0-0-eee5c208f8db5b91e7fe6c2f24257e44
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png",16h30 WIB 17/03 Mahar United vs Ayeyawady united [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1773750218-0-0-7dfc2175e13fa3b92ec4b9a0fe62838e
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773750218-0-0-d4d7f52f9421d3561f329ba67b770ded
@@ -2441,6 +2253,186 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773750218-0-0-9e72
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773750218-0-0-7d15a3f59309c463cca75c0abba4d25c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1773750578-0-0-df836452093f2b9cbbfc4b5ae00c4ced
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1773750578-0-0-08aca90725654eb2ceb122c0ff570dc9
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1773750578-0-0-5549750621c0c0d88a10aca38e2cdfe3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1773750578-0-0-e35736c913df910aad728586a223c846
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773750578-0-0-1c49f2c806d7da4b7f2ac6b69e65cba5
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773750578-0-0-63fa24e822040752ef3b342d6a4f57e1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773750578-0-0-7b514e04da39e811404f22d8a674244f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773750578-0-0-70d79e2a6c35f58cf2a6fae51f1b9159
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773750578-0-0-b6c1b9dd241655a927f7d614b5be1d96
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773750578-0-0-5980effacaf3b1cac4fb4e97bdba3f30
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773750578-0-0-a3055f02d352ca08e993ec3f7d5c3e73
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773750578-0-0-1c32b1af69b2d3173dbe1145df34e68b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=2ef05f29bedbe3fe62e64a86655da414&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=1bb397f61c2b4d2a47a03a9cded7c662&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=2ef05f29bedbe3fe62e64a86655da414&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=1bb397f61c2b4d2a47a03a9cded7c662&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773750578-0-0-a525225859eca3a3937ff22f1e069867
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773750578-0-0-99cf9b7e45276e447e62d62948da2828
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773750578-0-0-7320818ffe1ecb7843e4bcd0f50a3c01
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",IPOR LRU23: Torreense U23 vs Santa Clara U23 [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773750578-0-0-92196e850a92217818589a176a92fff0
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=a896c3c43ad2d8435f47f89b75349e72&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a4c1c9d13ecc4b6cd0c0921a1b23aee7&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=a896c3c43ad2d8435f47f89b75349e72&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a4c1c9d13ecc4b6cd0c0921a1b23aee7&txTime=69b98f82
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1773750578-0-0-a3d32008492a7768e1f2a8e1095feace
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1773750578-0-0-7b76705b8ad0d2c7054f7c80abfdb956
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1773750578-0-0-1c2116e895121b2bd65bdf072d3d577d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1773750578-0-0-a39f2a5e3a7718e955bc94e6e19e1e36
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Ferizaj vs Prishtina [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1773750578-0-0-64b668a8944c73a2d36a6db24d7fb31c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Ferizaj vs Prishtina [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1773750578-0-0-b1e5c52f981806428fe271751a79eea8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Ferizaj vs Prishtina [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1773750578-0-0-d4620927fd99fef4a0165cf12a18309b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Ferizaj vs Prishtina [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1773750578-0-0-5a625d9eb8d42e0b5d6ff9e7fed158de
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773750938-0-0-9050f862f46af85df0e6bd2714739a4f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773750938-0-0-33dd6b6c1bde76e44b145cf0406df768
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773750938-0-0-b443435e19a9e46ee51741d024d9d61c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773750938-0-0-b002f1a24e252f9b2f0b7b4d09f128ab
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773750938-0-0-2a13cefbc01940bf8ad240a8017c879a
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773750938-0-0-0c26da01fe8f213800ca81804382f617
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773750938-0-0-3209b128646858f623cfd1a71b8bb975
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/a40fb070d2f34af3a5f339058aa3fdc2.png",17h00 WIB 17/03 China Women vs Australia Women [VENDETTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773750938-0-0-d8109c83572d6e1e18576ba43310256f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773750938-0-0-a45cc02ee73e0254b6c1acefd41e5020
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1773750938-0-0-3225daf012e5a1afdfd2289d60da4028
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773750938-0-0-5dcbbd5000d5384c27988b75641f514d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/c17b98c1aeceaade0008a30debdb5826.png",17h30 WIB 17/03 Gimcheon Sangmu FC vs Gwangju FC [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773750938-0-0-b38415592fa3307d08eeecc860b012ba
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Drenica Skenderaj vs Malisheva [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773750938-0-0-427ffc3fef43fa973018cdc4baea4683
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Drenica Skenderaj vs Malisheva [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773750938-0-0-860ecbc7a5fadcb84ac6a81be2d7b327
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Drenica Skenderaj vs Malisheva [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773750938-0-0-d590539a67db7769e6c285178567b3c4
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png",KOS SL: KF Drenica Skenderaj vs Malisheva [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773750938-0-0-9f4c87c99cbc57b953d38bd9e3002877
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773750938-0-0-5ab3ab73e400dc3cf4b12a6989c30315
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773750938-0-0-ea265ac08cdc1d19ff3b324c1e73f6ac
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773750938-0-0-8bc997916b1927e80510fad337b0e67c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png",18h00 WIB 17/03 Torreense U23 vs Santa Clara U23 [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773750938-0-0-b5c46797fac079eae5bc4907f76a9fa7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597924_lsd.flv?auth_key=1773750938-0-0-c4470188a63fe2340ea6aca2ffa8c00b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597924_lhd.flv?auth_key=1773750938-0-0-9627862fe5d4ee2cd07255850ff10477
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1773750938-0-0-e70a49c10faebbbcb37a1c5d63c69699
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1773750938-0-0-b2a73491b1be2c15fc2a080cbc284a9b
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773750938-0-0-64fd6f43d03abc3c8db35e1d460718bc
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773750938-0-0-3ca5d67309965ea718665445d4023056
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773750938-0-0-149460fb24ff1a2355c4a91d2a284747
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png",19h00 WIB 17/03 FK Kaspyi Aktau vs Okzhetpes [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773750938-0-0-f0b461e2f5723454f6ac933fe0ab9877
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Guangdong_Southern_Tigers.png",18h35 17/03 Guangdong vs Xinjiang (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2495,9 +2487,6 @@ https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80",17h00 17/03 Trung Quốc Nữ vs Úc Nữ
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80",16h30 17/03 Sagaing vs Ayeyawady
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/88508431.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80",18h00 17/03 Torreense U23 vs Santa Clara U23
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
@@ -3129,14 +3118,6 @@ https://live5.msrktz.app/live/14830711.m3u8
 #--- RANDOM 1 END ---
 
 #--- RANDOM 2 START ---
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/20260128_085928_afcd7c99.png",16h30 ngày 17/03 Mahar United FC vs Ayeyawady United (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/20260128_085928_afcd7c99.png",16h30 ngày 17/03 Mahar United FC vs Ayeyawady United (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:1 group-title="RANDOM 2" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142845_d31bb816.png",17h00 ngày 17/03 China W vs Australia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
