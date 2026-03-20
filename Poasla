@@ -342,13 +342,10 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 
 
 
-#--- SONY START ---
-#EXTINF:1 tvg-id="1090507195" tvg-name="South Africa Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016290/1773730875558868_NZ_vs_SA_3rd_T20I_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | 3rd T20I - 20 Mar 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/DAI21-criclive/master.m3u8?x-playback-session-id=e9b15fa843e18f9cb82826a3be410309-1773985800103
-#--- SONY END ---
+
+
+
+
 
 #--- ZEE5 START ---
 # Last Checked: 20/1/2026, 16:00:04
@@ -369,6 +366,18 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/165_1gtzd3qtet5.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ca8cef4bf2453e526f069bbc9411c848/image/small?v=1768601124",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/76353fe712c35ce62ac6090890ac9245/image/small?v=1768601124",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/630e917e69a94a577da077b1d8248179/image/small?v=1768601124",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fdf099ff0914198a22441f60423fc0bb/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/1ff2345d288d52fe3c419e29754fa164/image/small?v=1768601124",07h30 WIB 20/03 Laredo Heat vs El Paso Locomotive FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -401,10 +410,6 @@ https://live.alilicloud.com/live/bf76179a9956f46d6764b2131cf9eba6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8b02fefd951a24d3110a2bbf09e55c3f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/50e8c9a747e0a37e1bae4367d722ca84/image/small?v=1768601124",07h00 WIB 20/03 Club Sport Emelec vs Independiente del Valle (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0b4084ef501e8fc12add21a23fab0982/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/286bffa41b3bdb74463d7ee911d04138/image/small?v=1768601124",11h00 WIB 20/03 Briobecca Urayasu vs Yokogawa Musashino FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -413,30 +418,6 @@ https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/e1c36b1fbf3a971f685a4579aa3b9a79/image/small?v=1768601124",07h00 WIB 20/03 Rancho Santana FC vs  (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/958eac853335abb9afae7d19c72518c3/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/volleyball/team/1c2b8358a8c7ec3f733ba876a48c35e6/image/small",07h00 WIB 20/03 Indy Ignite Women vs Columbus Fury Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/11a8ed73bd30f540b30af6bce7eb957d/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ca8cef4bf2453e526f069bbc9411c848/image/small?v=1768601124",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/76353fe712c35ce62ac6090890ac9245/image/small?v=1768601124",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/f6df891137f4a32deccaf168741d15f4/image/small?v=1768601124",07h00 WIB 20/03  vs Chattanooga Red Wolves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7d4a09291596a92476572c35e68337c5/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/630e917e69a94a577da077b1d8248179/image/small?v=1768601124",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fdf099ff0914198a22441f60423fc0bb/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://media.chuoichientv.com/media/20260318_053935_63242936.png",14h00 WIB 20/03 Hà Nội - Tasco Auto vs Vietinbank (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -669,18 +650,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124",09h00 WIB 20/03 Xelaju MC vs CSD Municipal (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7f1820ad2494249a952f67fcc1446051/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/286bffa41b3bdb74463d7ee911d04138/image/small?v=1768601124",11h00 WIB 20/03 Briobecca Urayasu vs Yokogawa Musashino FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/cd4c7b2fd21026461ee40e9c2dfad013/image/small?v=1768601124",11h00 WIB 20/03 Verspah Oita vs Maruyasu Okazaki (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/ca8cef4bf2453e526f069bbc9411c848/image/small?v=1768601124",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -693,138 +662,14 @@ https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/fdf099ff0914198a22441f60423fc0bb/playlist.m3u8
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773988898-0-0-aee448522a618d54f7ba98ebf8c107ff
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773988898-0-0-7c6ccdc9eb0dc1b61255d28a246bb3d9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773988898-0-0-139e52d4aacd3ce52a31cfe52ab3bbe5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773988898-0-0-aaac2bd8390d7ab2cdbec4ab86994679
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773988898-0-0-482f4a31b52f8352770c2ffc1f34829d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773988898-0-0-6c2670c4b88a96b477b6fb281c7e4ec5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773988898-0-0-7445667c4600d59a7b8d1a4c53d3e115
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773988898-0-0-2060b63778a84636227f3dcfaf535329
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773988898-0-0-7cc6cd6ca2ee963c48456b325f7a4634
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773988898-0-0-a416bbfe91a19e851f610996990938f0
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773988898-0-0-47ce71f9563406656cd2cb0c9ebe3ec5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773988898-0-0-91b1765b0a62931fc8d8ec9bc6d9a9ec
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=34cb5e52b2c07c5ca508edbd9102fa99&txTime=69bd3272
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=8298ff1c9964e41488b2b8b0aa642698&txTime=69bd3272
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=34cb5e52b2c07c5ca508edbd9102fa99&txTime=69bd3272
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=8298ff1c9964e41488b2b8b0aa642698&txTime=69bd3272
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773989258-0-0-9966d81d146c107cda74e5e002443054
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773989258-0-0-3cd0157eac93146200fd00b5b74caa60
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773989258-0-0-b45497ee6e9a23ad43087fded8b65a6a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773989258-0-0-81f6ddedbe788c293e76830011e57065
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=566583b17732ce7c009567695bec4b15&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=1d2a7d66d24443b2a5946486fbba4c54&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=566583b17732ce7c009567695bec4b15&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1d2a7d66d24443b2a5946486fbba4c54&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=715ce4104e6844c8ee8a0af178cf30f5&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=6ffda8fb2e778642c2614b22e6e0251e&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=715ce4104e6844c8ee8a0af178cf30f5&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=6ffda8fb2e778642c2614b22e6e0251e&txTime=69bd33da
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1773989258-0-0-68fb4b2d5feef85c45cf2961c72f888a
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1773989258-0-0-c7baaeed2423fef87b24cc38246fbebd
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1773989258-0-0-cb648caef7c6d3630e000a2fea820a0d
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1773989258-0-0-d7c439e24035ef7e46ac6aaa13d3dde7
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773989258-0-0-e9e81fdf4245e2cd12cab3daa44ce7e9
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773989258-0-0-b395d6392e58dbd6b73e0fb9419b7317
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773989258-0-0-17d514b7e423805a3a211ad5b0b13192
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773989258-0-0-030c0dbb6d81f10afa5045a9d1e57118
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1773989258-0-0-9cad1da3dd26d865515e9bad4e48c0d5
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1773989258-0-0-1aa25fc1668a2caff4d449df33214d58
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1773989258-0-0-978c2e92f0035791b1d2811a946cf490
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1773989258-0-0-b3390bb9d1f9d52d694e9f0e96552574
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773989258-0-0-a109dfcf6194065eb7a3a53afa6ca955
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773989258-0-0-046451f200201f900654003be6e10080
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773989258-0-0-5e1285984b2fb82c0c28e2007cee0507
-#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773989258-0-0-6de2a39d4a6966a36b65b92f1efac147
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/286bffa41b3bdb74463d7ee911d04138/image/small?v=1768601124",11h00 WIB 20/03 Briobecca Urayasu vs Yokogawa Musashino FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.rapid-api.icu/football/team/cd4c7b2fd21026461ee40e9c2dfad013/image/small?v=1768601124",11h00 WIB 20/03 Verspah Oita vs Maruyasu Okazaki (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ded7a0c486aaa0271589804fa68ec6f1&txTime=69bd3542
@@ -849,6 +694,138 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773989618-0-0-3f0f
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773989618-0-0-200c11468f862f183458ded4516b143d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773989978-0-0-8085a183989e9910b1e1232da560a5cb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773989978-0-0-608112a993902a11376673120a009775
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773989978-0-0-7cc54bf8fb80b9c14850805fa9ae1370
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png",12h00 WIB 20/03 Gangneung Citizen vs Dangjin Citizen [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773989978-0-0-4e54671cc0b481b0f3ec0b9c9755b530
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773989978-0-0-6104228a02b26d50248b15a08a5a98ff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773989978-0-0-99a0e0d7713687cf33801bc03a12dfaa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773989978-0-0-88de9d6ac3268e1378d2a6d5f55e662d
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773989978-0-0-131cb78ab0f3591cc7ca4a05bec829ba
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773989978-0-0-d9f22ca133bf414534a1b4d3f8b22bf3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773989978-0-0-d7c3225e0cdadd3305c804c3c206bd7c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773989978-0-0-336b02a88d35027595ac3ca760204502
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773989978-0-0-743de11a50b12686fab9053ceb93fd35
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=603a58f7648547086960b05c2ecbd3a8&txTime=69bd36aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=18a555c3b4d8058983450b50e2919b40&txTime=69bd36aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=603a58f7648547086960b05c2ecbd3a8&txTime=69bd36aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=18a555c3b4d8058983450b50e2919b40&txTime=69bd36aa
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1773990338-0-0-72be26802d44c557849485d6f6036edb
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1773990338-0-0-7868140305cf6fd0a848531f6829485c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1773990338-0-0-e7cd154e81a3f0256fcbf8041850534c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",KOR D3 :  Gangneung Citizen vs Dangjin Citizen [Giàng A Thổ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1773990338-0-0-85fe0ac8f3a95c34f6ad4701c2dc8dd3
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=df8e9ddf090ea514707cc226d1a7322f&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=bed08c61da879355d61104035ae7a232&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=df8e9ddf090ea514707cc226d1a7322f&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=bed08c61da879355d61104035ae7a232&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773990338-0-0-5821b3a346adc7f949d9c74d60aa3fd1
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773990338-0-0-ece5b64fb7a4af80b58519743eb24022
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773990338-0-0-d038cb35c89d2e229ada3e931aa68635
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773990338-0-0-58374e4d19d7b48a4e22b2ff28a4f66f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1773990338-0-0-d9aaaf67151c31544f6663f34738b5cf
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1773990338-0-0-c86011d393bdc8c0dd46f8a1ae567136
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1773990338-0-0-9cff777d9fafb3123b594046bb7a8ae8
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1773990338-0-0-2ed7ca2cc3dca1b723e0cdce5a3b1e6f
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773990338-0-0-66bde394bccb39d7943c7b884d734df7
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773990338-0-0-164e3364ba66dba9cf037ee004a77a45
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773990338-0-0-3b4b4957f6506b25788952d080858d6c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png",12h00 WIB 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [VENDETTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773990338-0-0-bee9323fb07768c376fb08d1d556a51c
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=42d79e65dfab22fd4a70fbd9ca09d5e2&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=4df786f1934b36f3508d7cf0b6017460&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=42d79e65dfab22fd4a70fbd9ca09d5e2&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=4df786f1934b36f3508d7cf0b6017460&txTime=69bd3812
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773990338-0-0-304ae0ad1e1ba475894180a543e67cff
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773990338-0-0-f7f7fb4ac951b5dc1b61b49995945331
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773990338-0-0-4c7fb8cc55c65d5912b99b55f69d8467
+#EXTINF:1 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png",12h00 WIB 20/03 Albirex Niigata vs Kataller Toyama [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773990338-0-0-d31f51c9845baa0f98b8015bfa173183
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",12h00 20/03 Albirex Niigata vs Kataller Toyama (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -870,18 +847,6 @@ https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:1 group-title="RANDOM 1" tvg-logo="https://img.colatv88xd.cc/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png!w80",12h00 20/03 Gangneung vs Dangjin Citizen
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:1 group-title="RANDOM 1",[J2 League] 12h00 20/03 ThespaKusatsu Gunma vs Shonan Bellmare [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:1 group-title="RANDOM 1",[J2 League] 12h00 20/03 ThespaKusatsu Gunma vs Shonan Bellmare [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:1 group-title="RANDOM 1",[J2 League] 12h00 20/03 ThespaKusatsu Gunma vs Shonan Bellmare [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
 #EXTINF:1 group-title="RANDOM 1",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB 06/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
