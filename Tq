@@ -1,0 +1,207 @@
+import cloudscraper
+import re
+import time
+import random
+import json
+from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# --- KONFIG ---
+BASE_URL = "https://tv3.nontondrama.my"
+SAVE_PATH = "/sdcard/Download/NONTONDRAMA_SERIES_ULTIMATE.m3u"
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+    "Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/114.0 Firefox/114.0"
+]
+
+def get_ua():
+    return random.choice(USER_AGENTS)
+
+MAX_WORKER = 3 
+PAGE_RETRY = 2 
+
+# ---------------- HELPER ----------------
+def safe_get_page(url, current_scraper):
+    for i in range(PAGE_RETRY):
+        try:
+            res = current_scraper.get(url, timeout=20)
+            if res.status_code == 200:
+                return res
+        except:
+            # Jeda random pas gagal/retry
+            time.sleep(random.uniform(0.5, 2.0))
+    return None
+
+def parse_range(text, max_val):
+    if text == "all": return list(range(1, max_val + 1))
+    result = []
+    for part in text.split(","):
+        if "-" in part:
+            try:
+                a, b = map(int, part.split("-"))
+                result.extend(range(a, b + 1))
+            except: pass
+        else:
+            try: result.append(int(part))
+            except: pass
+    return [x for x in result if x <= max_val]
+
+def get_real_m3u8(player_url, movie_url, current_scraper):
+    try:
+        if not player_url.startswith("http"):
+            player_url = "https:" + player_url if player_url.startswith("//") else BASE_URL + player_url
+        
+        res_player = current_scraper.get(player_url, headers={"Referer": movie_url, "User-Agent": get_ua()}, timeout=15)
+        html = res_player.text
+        raw_m3u = re.findall(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', html)
+        for link in raw_m3u:
+            link = link.replace("\\", "")
+            if any(x in link for x in ["hownetwork", "p2p", "m3u8"]): return link
+
+        ids = re.findall(r'id[=:"\']+([a-zA-Z0-9_-]{6,})', html)
+        for vid_id in list(set(ids)):
+            try:
+                api_res = current_scraper.post(
+                    f"https://cloud.hownetwork.xyz/api2.php?id={vid_id}",
+                    data={"r": movie_url, "d": "tv3.nontondrama.my"},
+                    headers={"X-Requested-With": "XMLHttpRequest", "Referer": player_url, "User-Agent": get_ua()},
+                    timeout=12
+                )
+                if "file" in api_res.text:
+                    try: return api_res.json().get("file")
+                    except:
+                        m = re.search(r'"file":"(.*?)"', api_res.text)
+                        if m: return m.group(1).replace("\\", "")
+            except: continue
+    except: pass
+    return None
+
+def process_titles(items):
+    results = []
+    for it in items:
+        link_tag = it.find("a"); img_tag = it.find("img")
+        if not link_tag: continue
+        raw_name = link_tag.get("title") or (img_tag.get("alt") if img_tag else "No Title")
+        clean_name = re.sub(r"(Nonton|Drama|Series|Sub|Subtitle Indonesia|LK21|LayarKaca21).*", "", raw_name, flags=re.IGNORECASE).strip()
+        link = link_tag.get("href", "")
+        if link and not link.startswith("http"): link = BASE_URL + link
+        img_url = (img_tag.get("src") or img_tag.get("data-src") or "").strip()
+        if img_url.startswith("//"): img_url = "https:" + img_url
+        results.append({"title": clean_name, "link": link, "img": img_url})
+    return results
+
+# ---------------- MAIN ----------------
+def main():
+    print("\n=========== NONTONDRAMA SERIES ULTIMATE ===========")
+        # --- UPDATE MENU LENGKAP ---
+    menu = {
+        "1":"genre/action",
+        "2":"genre/animation",
+        "3":"genre/drama",
+        "4":"genre/adventure",
+        "5":"genre/horror",
+        "6":"genre/romance",
+        "7":"genre/comedy",
+        "8":"year/2026",
+        "9":"year/2025",
+        "10":"year/2024",
+        "11":"year/2023",
+        "12":"year/2022",
+        "13":"year/2021",
+        "14":"year/2020",
+        "15":"country/south-korea"
+    }
+
+    for k,v in menu.items(): print(f"{k}. {v}")
+    
+    opt = input("\nðŸŽ¯ Menu: ")
+    path = menu.get(opt, "year/2026")
+    p_start = int(input("ðŸ“‘ Start Page: "))
+    p_end = int(input("ðŸ“‘ End Page: "))
+    
+    with open(SAVE_PATH, "w", encoding="utf-8") as f: f.write("#EXTM3U\n\n")
+
+    total_added = 0
+
+    for page in range(p_start, p_end+1):
+        scraper = cloudscraper.create_scraper(delay=15)
+        print(f"\nðŸŒ Mengambil Halaman {page}...")
+        
+        res = safe_get_page(f"{BASE_URL}/{path}/page/{page}/", scraper)
+        if not res: break
+                
+        soup = BeautifulSoup(res.text, "html.parser")
+        items = soup.find_all("article", limit=24) 
+        if not items: break
+                
+        data = process_titles(items)
+        print(f"\nðŸ“¡ LIST SERIES HALAMAN {page}:")
+        for i, d in enumerate(data, 1):
+            print(f"{str(i).zfill(2)}. {d['title']}")
+
+        pilih = input("\nðŸ‘‰ Pilih nomor (1,3 / 1-24 / all / skip / stop): ").lower()
+        if pilih == "stop": break
+        if pilih == "skip": continue
+
+        selected_indices = parse_range(pilih, len(data))
+        s_rule = input("   ðŸ‘‰ Season (1 / all / latest): ").lower() or "latest"
+        e_rule = input("   ðŸ‘‰ Episode (1 / 1-10 / all): ").lower() or "all"
+
+        for idx in selected_indices:
+            film = data[idx-1]
+            print(f"\nðŸ“‚ Processing: {film['title']}")
+            res_f = scraper.get(film["link"])
+            soup_f = BeautifulSoup(res_f.text, "html.parser")
+            
+            json_data = None
+            for sc in soup_f.find_all("script", {"type": "application/json"}):
+                if sc.string and '"episode_no"' in sc.string:
+                    json_data = json.loads(sc.string)
+                    break
+            
+            if not json_data:
+                print(f"   âš ï¸ Bukan Series."); continue
+
+            seasons = [max(json_data.keys(), key=int)] if s_rule == "latest" else json_data.keys() if s_rule == "all" else [s_rule]
+            
+            for sn in seasons:
+                if sn not in json_data: continue
+                eps = json_data[sn]
+                ep_nums = [int(e["episode_no"]) for e in eps]
+                ep_target = ep_nums if e_rule == "all" else parse_range(e_rule, max(ep_nums or [0]))
+                
+                ep_list = [(sn, e["episode_no"], f"{BASE_URL}/{e['slug']}") for e in eps if int(e["episode_no"]) in ep_target]
+
+                def worker(info):
+                    s_n, e_n, url = info
+                    # Jeda random antar episode
+                    time.sleep(random.uniform(0.5, 2.0))
+                    try:
+                        r_ep = scraper.get(url, timeout=15)
+                        if not r_ep: return None
+                        pls = BeautifulSoup(r_ep.text, "html.parser").select("#player-list a")
+                        for pl in pls:
+                            m3u = get_real_m3u8(pl.get("href"), url, scraper)
+                            if m3u: return (s_n, e_n, m3u)
+                    except: pass
+                    return None
+
+                with ThreadPoolExecutor(max_workers=MAX_WORKER) as ex:
+                    futures = [ex.submit(worker, ep) for ep in ep_list]
+                    results = [f.result() for f in as_completed(futures) if f.result()]
+                
+                results.sort(key=lambda x: int(x[1]))
+                for s, e, m3u in results:
+                    with open(SAVE_PATH, "a", encoding="utf-8") as f:
+                        f.write(f'#EXTINF:-1 tvg-logo="{film["img"]}" group-title="{film["title"]}", {film["title"]} S{int(s):02d}E{int(e):02d}\n')
+                        f.write(f"#EXTVLCOPT:http-user-agent={get_ua()}\n")
+                        f.write(f"#EXTVLCOPT:http-referrer={BASE_URL}/\n")
+                        f.write(f"{m3u}\n\n")
+                    total_added += 1
+                    print(f"   âœ… S{s}E{e} OK")
+
+    print(f"\nðŸ”¥ Selesai: {SAVE_PATH}")
+
+if __name__ == "__main__":
+    main()
