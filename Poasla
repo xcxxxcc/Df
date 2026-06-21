@@ -632,6 +632,10 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?i
 
 
 
+
+
+
+
 #--- SONY START ---
 #EXTM3U
 #DATE:- 21-06-2026 22:00
@@ -647,18 +651,18 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?i
 
 #--- RANDOM 1 START ---
 #EXTM3U
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1238_1gy3vpt0ee2.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/1238_1gy3vpt0ee2.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14577_1gtqm6x9yr2a.png",03h00 WIB 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/14577_1gtqm6x9yr2a.png",03h00 WIB 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/16208_1gqgp4vg412b.png",02h30 WIB 22/06 Central Norte Salta vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV PELE m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://cdn-img.cdnokvip.com/logos/16208_1gqgp4vg412b.png",02h30 WIB 22/06 Central Norte Salta vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV PELE flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 WIB 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -1023,174 +1027,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782079881-0-0-171a8c6fc134de2900fe8c60493c8aad
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782079881-0-0-59948d6b8692c4b118ae07d7ab1b7e6c
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782079881-0-0-8b03bb348b5e673cc1f85782bb9c4d33
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782079881-0-0-fe5bd052d1f3ba028e5304615871286e
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=35cc63f7b0303ef71cf062f6b4cce728&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=55e0127aafea0c069063336c89f6e097&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=35cc63f7b0303ef71cf062f6b4cce728&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=55e0127aafea0c069063336c89f6e097&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5d317043eb67cce6e990a55e961e4547&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=630a3566165507f767fcbbed51b9d917&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5d317043eb67cce6e990a55e961e4547&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=630a3566165507f767fcbbed51b9d917&txTime=6a38a7d9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782079881-0-0-0768d97d069d46f97ed85c893571e836
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782079881-0-0-8bf1d36b97525b604df9391d031623ae
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782079881-0-0-dfe7acc61c4c26c2c134d5fbe3f73ff0
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782079881-0-0-ce1638c6fcbc40895f84a443ff108174
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=ec576029c4da5a1166ba051a30977af8&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=d4951d113ded455dd9d5e0db3aa26c27&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=ec576029c4da5a1166ba051a30977af8&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d4951d113ded455dd9d5e0db3aa26c27&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782080241-0-0-c50735c731eb3a489acfd779ad8bf2a4
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782080241-0-0-2100f7364f808662120c1dc2c3f251bb
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782080241-0-0-a49226bf32f29d947bb9c9d00b19a081
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782080241-0-0-cda557e3a79c78c1c07f4d9237a7dfa4
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-235232_lsd.flv?txSecret=5e89f9f73348fdad5d21bf2f5892f208&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-235232_lhd.flv?txSecret=a181a2a4a74cbc27de975ceed094b9dc&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=5e89f9f73348fdad5d21bf2f5892f208&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=a181a2a4a74cbc27de975ceed094b9dc&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782080278-0-0-b62302ad461f2a1aaea87a0e60a7bcb8
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782080278-0-0-03c41900f0b8fb54af7db4028a2e9473
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782080278-0-0-cb5fd8baacd22979f6b4a112a892f07c
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782080278-0-0-40abb1db16d8e296fec572bc13829bb6
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782080241-0-0-1045d739a47aaf5ccbc8443603140b62
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782080241-0-0-786dd4dac0370734545b32639a799285
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782080241-0-0-ac4e58bb9d02bf50921e780c77d4ae58
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782080241-0-0-24ce43a7321c177d0d5351f33f04a9f5
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=47895ff66180ba3be38c7a63a53407c2&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=c70d25374444f0b3a6fbc09f04a848cb&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=47895ff66180ba3be38c7a63a53407c2&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=c70d25374444f0b3a6fbc09f04a848cb&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782080241-0-0-bddf6afc3dacb6e16140f61dcf9c8e0c
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782080241-0-0-9e9f2cd8643868333efbc4dce270ff1c
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782080241-0-0-99c21815374b9e4a3e9735f5b5bb244f
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782080241-0-0-7222d191de8c00b217b11f1b8dd3628b
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=b6d5e7d178f5367d03f50c18c28f1eae&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b38c9fd4733d7280c917beb7e3249975&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b6d5e7d178f5367d03f50c18c28f1eae&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b38c9fd4733d7280c917beb7e3249975&txTime=6a38a941
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782080241-0-0-f780eda6c02cc409e0752605f2dc41a9
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782080241-0-0-e82d0d4bb01eb5a819cca4c1901600be
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782080241-0-0-a0e998f0cfd07ec4f3ec14db3d90f9a3
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782080241-0-0-ac7633de4c6c524bb32b99e604a2302d
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782080241-0-0-5765a83bced6b4f5476c6d0f8eb6eb21
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782080241-0-0-8a90553770c4516460eb61208d547e11
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782080241-0-0-01d2dd5e1e7c7bb28afbf308183c6ba0
-#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782080241-0-0-d98dbc7af37b95f46334e68021a3c078
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=872e18af5a583e1fe6626148d99ed8bc&txTime=6a38aaa9
@@ -1275,6 +1111,222 @@ https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=454d0f6b2d928722d9cd
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=fb6f2b3a9707d1c14791a614e1e950a0&txTime=6a38aaa9
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=048e21c29ccab00142fb4216db198f50&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1a5726700b21572ab9b8d23f6893710b&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=048e21c29ccab00142fb4216db198f50&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1a5726700b21572ab9b8d23f6893710b&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782080961-0-0-495a0420dd240bfe625b7efdd650e640
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782080961-0-0-7ae0da316e561dac411b9d677f776645
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782080961-0-0-a5f2c3f445429f3af6822ca63b78c3c6
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782080961-0-0-6f9e4ecf4a32c70eafc4064a07267708
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782080961-0-0-28a998f8f2f230f7569d3c0db8686a1a
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782080961-0-0-10f145b0a3a96be23a41babdaf218c4f
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782080961-0-0-0d7e2c2add53a196b441ad470d9637ff
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782080961-0-0-e712c38e6b9562bb9ec7a8785cd76feb
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782080979-0-0-0282d400fca25b7ef7e0408b7aafe81c
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782080979-0-0-ced794b2839cf70deb1009bec9721a34
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782080979-0-0-9b9181982da224ca1de6ae5c104ade6c
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782080979-0-0-aedb017fb0a7d5404646b47173f245ec
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=a7535ede5be94ba1c9e9bfcb501d768b&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=eb23651c4f5c384e58247a66c1e36d60&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=a7535ede5be94ba1c9e9bfcb501d768b&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=eb23651c4f5c384e58247a66c1e36d60&txTime=6a38ac11
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782080961-0-0-be795ee1be21ff73fc39a775b83b1455
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782080961-0-0-85ef1c0ebeade1d4a29e58148faccfc2
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782080961-0-0-39f3b8db344522ca86e66e2713d55f7a
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782080961-0-0-27a585f00b37c81cadac928a9bd33cf7
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782081321-0-0-17acebc691207097858bff8bbb69f0c5
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782081321-0-0-c603c1268859b83e09c0c1a5e9d68c65
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782081321-0-0-e67860c44806549cf4e539e83eaca3b6
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782081321-0-0-835af92329caa4dde01327a9c3c8b6a4
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=1fd20fc2564ce43846c7fe26539ed124&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=3c521f7d54850080398ab698bef7c092&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=1fd20fc2564ce43846c7fe26539ed124&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3c521f7d54850080398ab698bef7c092&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=8d0e8664cf701c51f0b2d8d4dce46ad5&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=ce29e44f020eed86733a57ab8777e7c2&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=8d0e8664cf701c51f0b2d8d4dce46ad5&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=ce29e44f020eed86733a57ab8777e7c2&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lsd.flv?txSecret=71952fe803d7b0ef5b0374e0480077fb&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lhd.flv?txSecret=e4c9e393c200cb9c8d94341fb22e7d78&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=71952fe803d7b0ef5b0374e0480077fb&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05h00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=e4c9e393c200cb9c8d94341fb22e7d78&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782081321-0-0-0d8bcc7178f2ae381e9cf19f64b84d37
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782081321-0-0-1511bbd7c609b26bb121bcce7ecfe8bf
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782081321-0-0-0ccba3d1b95f847e4faa1e53c777cb0d
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04h30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782081321-0-0-a0b93790a6757e0afb9fdc0bc82f4ffa
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782081321-0-0-711ef256385d67294d6b9236072cbc7d
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782081321-0-0-2883d3a8898bfc592882e6e1249c339b
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782081321-0-0-9eb7314c1505cafa6a6988053df8637a
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03h00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782081321-0-0-e840838a352e5a93770d801052d63195
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782081321-0-0-94b7781c89dcb7b264c9c75c52ed23af
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782081321-0-0-7b67a98e04e498ddc03a1d65f723a60e
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782081321-0-0-8133475b6d709888ecf9ba5d534ef67a
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03h15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782081321-0-0-54f2541079a7b7246395eacf7b9826bd
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=c41d7c8d00fa3e5ec69de1d4edbc1068&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=500a66b5d4cce32fd8ac73a0f2a92160&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c41d7c8d00fa3e5ec69de1d4edbc1068&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04h30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=500a66b5d4cce32fd8ac73a0f2a92160&txTime=6a38ad79
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05h00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782081321-0-0-0c58e0e3ecd7040e6fd6717a48e97a21
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05h00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782081321-0-0-f67f35d8734e0df6abe250b919346058
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05h00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782081321-0-0-2cd9d9993284a87188d8433fd9f7a366
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05h00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782081321-0-0-6c2b1dacc4a6803761f936ca74bbc888
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782081321-0-0-50b141d39aa80d365fc2b3192b9a751f
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782081321-0-0-f7575777a4958c0eeca47cc0eb357416
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782081321-0-0-ebd1b306cc46ee5832541746ba32faba
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05h00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782081321-0-0-5a6bf32b496515767d89d45043f48dcf
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05h00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782081321-0-0-bb1f64e46680bb67c694ab1355c53350
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05h00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782081321-0-0-4b9300fc87a6ecc99fddee91d5b72689
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05h00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782081321-0-0-f8a3dbac72d1e1954e46addb82d6c199
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05h00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782081321-0-0-75cd119361717145e4c38fc26590ee09
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782081321-0-0-7686c97915c59f2ecc81e576ff76c0ab
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782081321-0-0-c23062b7407ebcc73949503d02732d66
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782081321-0-0-9457bf6cb016f8a22c98db707d57e1ed
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782081321-0-0-fd8ccbe64617b357467011141a65cea5
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1287,6 +1339,30 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="RANDOM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="RANDOM 1" tvg-logo="https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",05h00 22/06 Uruguay vs Cape Verde
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.apusport.com/live/99121525.m3u8
@@ -1387,145 +1463,151 @@ https://edgestreams.pro/hls/ijfnakfidch22.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/bzagLHzach19.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Boxing] Boxing : Lorusso vs Santiago (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Boxing] Boxing : Lorusso vs Santiago (FAWA)
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Boxing] Boxing : Lorusso vs Santiago (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Boxing] Boxing : Lorusso vs Santiago (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/eeeeeeqq.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] CRB vs Fortaleza (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] CRB vs Fortaleza (FAWA)
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] CRB vs Fortaleza (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] CRB vs Fortaleza (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/TAAAAQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] Goias vs Operario-PR (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] Goias vs Operario-PR (FAWA)
+#EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] Goias vs Operario-PR (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] Goias vs Operario-PR (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/YAAAZQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] Sao Bernardo vs Juventude (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] Sao Bernardo vs Juventude (FAWA)
+#EXTINF:-1 tvg-chno="19" tvg-id="Live.Event.us" tvg-name="[Brazil Serie B] Sao Bernardo vs Juventude (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Brazil Serie B] Sao Bernardo vs Juventude (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/YAAAZQ.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Curico Unido vs Nublense (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] Curico Unido vs Nublense (FAWA)
+#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Curico Unido vs Nublense (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] Curico Unido vs Nublense (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/NQQQQZZ.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Deportes Temuco vs D Concepcion (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] Deportes Temuco vs D Concepcion (FAWA)
+#EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Deportes Temuco vs D Concepcion (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] Deportes Temuco vs D Concepcion (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/NQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Chile Copa] U De Chile vs S Wanderers (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] U De Chile vs S Wanderers (FAWA)
+#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Chile Copa] U De Chile vs S Wanderers (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Chile Copa] U De Chile vs S Wanderers (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/YAAAZQQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 9 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Darts] Darts European Tour 9 (FAWA)
+#EXTINF:-1 tvg-chno="27" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 9 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Darts] Darts European Tour 9 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/KDDDSSSSSQ.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran (FAWA)
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.47/hls/Xlplplpqq.m3u8
+http://193.47.62.47/hls/Xlplplpq.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran (STRMHUB)
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/esx51jdn9y.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran 1 (FAWA)
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran HD (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.nbs3g.com/live/hd-en-1-4460921.m3u8?txSecret=bd68af72a76c033a3df099a695d3bb7b&txTime=6A3984C8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran HD 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran HD 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Cape Verde vs Uruguay (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Cape Verde vs Uruguay (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/index.m3u8
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Egypt vs New Zealand (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Egypt vs New Zealand (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/index.m3u8
-
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Iran vs Belgium (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Iran vs Belgium (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc0ff/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMGZmOjE3ODIwODEwMTkwNzY6Y2RubGl2ZXR2LnR2OjM0MWU4MjU1OWY1ZjI2Y2QuZmI4YWZmMjAwMzA0NmI3MTBjNTQzZTJmNjQ1ZmYxMGNkM2FmMjdlZDI1MzIzODI5OGNmYWFmMTIyZTZkMmMyZg
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Iran vs Belgium (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Iran vs Belgium (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/index.m3u8
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Japan vs Tunisia (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Japan vs Tunisia (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/index.m3u8
-
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Saudi Arabia vs Spain (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Saudi Arabia vs Spain (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://instreams.pro/EU/HDWC1/index.m3u8
-
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spain vs Saudi Arabia (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Spain vs Saudi Arabia (STRMHUB)
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/esx51jdn9y.m3u8
-
-#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.47/hls/XlplplpA.m3u8
-
-#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde HD (FAWA)
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran HD (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde HD 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde HD 2 (FAWA)
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Iran HD 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Belgium vs Iran HD 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Cape Verde vs Uruguay (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Cape Verde vs Uruguay (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc0ff/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMGZmOjE3ODIwOTE4MTcwNjM6Y2RubGl2ZXR2LnR2OmM0M2ZjYTEzODUyOWE3YjUuNzUwZjFlZjg2NjE1YjBkZjM4ZmRlNDYzNDVkOTM3MmM4ZTMyNTg2NjI3YTE2ZDg2ZDcxOWZlYTI2MTcyYTJlNg
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Cape Verde vs Uruguay (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Cape Verde vs Uruguay (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Egypt vs New Zealand (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Egypt vs New Zealand (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Iran vs Belgium (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Iran vs Belgium (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc0ff/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMGZmOjE3ODIwODEwMTkwNzY6Y2RubGl2ZXR2LnR2OjM0MWU4MjU1OWY1ZjI2Y2QuZmI4YWZmMjAwMzA0NmI3MTBjNTQzZTJmNjQ1ZmYxMGNkM2FmMjdlZDI1MzIzODI5OGNmYWFmMTIyZTZkMmMyZg
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Iran vs Belgium (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Iran vs Belgium (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Japan vs Tunisia (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Japan vs Tunisia (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Saudi Arabia vs Spain (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Saudi Arabia vs Spain (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spain vs Saudi Arabia (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Spain vs Saudi Arabia (STRMHUB)
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/esx51jdn9y.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.47/hls/Xlplplpq.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde HD (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.47/hls/Xlplplpqqqq.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Uruguay vs Cape Verde HD 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="RANDOM 2",[FIFA World Cup] Uruguay vs Cape Verde HD 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -1669,191 +1751,197 @@ http://193.47.62.42/hls/ROOOZQQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/TAAAAQQQQQ.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Los Angeles Dodgers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Baltimore Orioles vs Los Angeles Dodgers (CDNTV)
+#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Los Angeles Dodgers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Baltimore Orioles vs Los Angeles Dodgers (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20CA&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc166/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY2OjE3ODIwODY0MjM3MzQ6Y2RubGl2ZXR2LnR2OmI0YjNkMDBhMmM5NWEwNmUuZjZjMDE5N2E4ZmI2ODYwYWM4YmM2ZDc0ZGE1ZWVmMDU4ODM5ODQ3YmE2NDhmZDZkY2I2MjFjOWM2MjAzYzFjZA
 
-#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Los Angeles Dodgers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Baltimore Orioles vs Los Angeles Dodgers (ROXIE)
+#EXTINF:-1 tvg-chno="102" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Los Angeles Dodgers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Baltimore Orioles vs Los Angeles Dodgers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb13.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Seattle Mariners (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Boston Red Sox vs Seattle Mariners (ROXIE)
+#EXTINF:-1 tvg-chno="106" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Seattle Mariners (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Boston Red Sox vs Seattle Mariners (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb14.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Detroit Tigers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Chicago White Sox vs Detroit Tigers (ROXIE)
+#EXTINF:-1 tvg-chno="112" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Detroit Tigers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Chicago White Sox vs Detroit Tigers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.sman1asjap.my.id/mlb4.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs New York Yankees (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Cincinnati Reds vs New York Yankees (ROXIE)
+#EXTINF:-1 tvg-chno="114" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs New York Yankees (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Cincinnati Reds vs New York Yankees (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Houston Astros (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Cleveland Guardians vs Houston Astros (ROXIE)
+#EXTINF:-1 tvg-chno="115" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Houston Astros (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Cleveland Guardians vs Houston Astros (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb6.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Athletics (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Los Angeles Angels vs Athletics (CDNTV)
+#EXTINF:-1 tvg-chno="126" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Athletics (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Los Angeles Angels vs Athletics (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODIwODY0MjI1NDE6Y2RubGl2ZXR2LnR2OjYyOWJmODZjNGZkYTJjOGMuODNlYTUwMDAzNDYyMmRjNzE3M2IzMjYzODAxZTMzMGZmNjBjNDY4ZTA2MTViMTIxMzg4NDNlMGZlZjkzZDIxMQ
 
-#EXTINF:-1 tvg-chno="132" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Athletics (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Los Angeles Angels vs Athletics (ROXIE)
+#EXTINF:-1 tvg-chno="128" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Athletics (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Los Angeles Angels vs Athletics (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb12.m3u8
 
-#EXTINF:-1 tvg-chno="141" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Atlanta Braves (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Milwaukee Brewers vs Atlanta Braves (ROXIE)
+#EXTINF:-1 tvg-chno="136" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Atlanta Braves (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Milwaukee Brewers vs Atlanta Braves (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.mercadodavoz.com.br/mlb2.m3u8
 
-#EXTINF:-1 tvg-chno="143" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Minnesota Twins vs Arizona Diamondbacks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Minnesota Twins vs Arizona Diamondbacks (ROXIE)
+#EXTINF:-1 tvg-chno="138" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Minnesota Twins vs Arizona Diamondbacks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Minnesota Twins vs Arizona Diamondbacks (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb11.m3u8
 
-#EXTINF:-1 tvg-chno="145" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Mets vs Philadelphia Phillies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] New York Mets vs Philadelphia Phillies (ROXIE)
+#EXTINF:-1 tvg-chno="140" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Mets vs Philadelphia Phillies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] New York Mets vs Philadelphia Phillies (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb15.m3u8
 
-#EXTINF:-1 tvg-chno="154" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh Pirates vs Colorado Rockies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Pittsburgh Pirates vs Colorado Rockies (ROXIE)
+#EXTINF:-1 tvg-chno="148" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh Pirates vs Colorado Rockies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Pittsburgh Pirates vs Colorado Rockies (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb10.m3u8
 
-#EXTINF:-1 tvg-chno="158" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Texas Rangers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Diego Padres vs Texas Rangers (CDNTV)
+#EXTINF:-1 tvg-chno="152" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Texas Rangers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Diego Padres vs Texas Rangers (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc341/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQxOjE3ODIwODEwMjA1MTA6Y2RubGl2ZXR2LnR2OjdlY2U4MzVkNWFlNGUyNDIuZWY3MjU1MWU1OTIyYzYxZDMxNzVmODg4MWUxMGQ1YjU5ODRlYWRkMWMxN2Q4ZjNjN2ZhMzA0NTZhYTU5Yzk1OQ
 
-#EXTINF:-1 tvg-chno="160" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Texas Rangers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Diego Padres vs Texas Rangers (ROXIE)
+#EXTINF:-1 tvg-chno="154" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Texas Rangers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Diego Padres vs Texas Rangers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb9.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants vs Miami Marlins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Francisco Giants vs Miami Marlins (ROXIE)
+#EXTINF:-1 tvg-chno="156" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants vs Miami Marlins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] San Francisco Giants vs Miami Marlins (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb5.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] St. Louis Cardinals vs Kansas City Royals (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] St. Louis Cardinals vs Kansas City Royals (ROXIE)
+#EXTINF:-1 tvg-chno="161" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] St. Louis Cardinals vs Kansas City Royals (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] St. Louis Cardinals vs Kansas City Royals (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb7.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Chicago Cubs (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Toronto Blue Jays vs Chicago Cubs (ROXIE)
+#EXTINF:-1 tvg-chno="165" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Chicago Cubs (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Toronto Blue Jays vs Chicago Cubs (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb8.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals vs Tampa Bay Rays (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Washington Nationals vs Tampa Bay Rays (ROXIE)
+#EXTINF:-1 tvg-chno="168" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals vs Tampa Bay Rays (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="RANDOM 2",[MLB] Washington Nationals vs Tampa Bay Rays (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mlb3.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-id="Live.Event.us" tvg-name="[Nascar] Nascar Cup Series Anduril 250 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Nascar] Nascar Cup Series Anduril 250 (FAWA)
+#EXTINF:-1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[Nascar] Nascar Cup Series Anduril 250 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Nascar] Nascar Cup Series Anduril 250 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/NQQQQZZZ.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Indy NXT - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] Indy NXT - Race (ROXIE)
+#EXTINF:-1 tvg-chno="174" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Indy NXT - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] Indy NXT - Race (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Indycar Series - XPEDL Grand Prix (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] Indycar Series - XPEDL Grand Prix (ROXIE)
+#EXTINF:-1 tvg-chno="175" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Indycar Series - XPEDL Grand Prix (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] Indycar Series - XPEDL Grand Prix (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.mercadodavoz.com.br/indy.m3u8
 
-#EXTINF:-1 tvg-chno="184" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP (MX2) - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MXGP (MX2) - Race (ROXIE)
+#EXTINF:-1 tvg-chno="176" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP (MX2) - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MXGP (MX2) - Race (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mxgp.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MXGP - Race (ROXIE)
+#EXTINF:-1 tvg-chno="177" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MXGP - Race (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.formaturamaxi.com.br/mxgp.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MotoGP - Coverage (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MotoGP - Coverage (ROXIE)
+#EXTINF:-1 tvg-chno="178" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MotoGP - Coverage (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] MotoGP - Coverage (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.mercadodavoz.com.br/tnt2.m3u8
 
-#EXTINF:-1 tvg-chno="187" tvg-id="Racing.Dummy.us" tvg-name="[Racing] NASCAR Cup Series - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] NASCAR Cup Series - Race (ROXIE)
+#EXTINF:-1 tvg-chno="179" tvg-id="Racing.Dummy.us" tvg-name="[Racing] NASCAR Cup Series - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Racing] NASCAR Cup Series - Race (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Belgium vs Iran (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Belgium vs Iran (ROXIE)
+#EXTINF:-1 tvg-chno="180" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Belgium vs Iran (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Belgium vs Iran (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://ataide0.mercadodavoz.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="190" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] New Zealand vs Egypt (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] New Zealand vs Egypt (ROXIE)
+#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] New Zealand vs Egypt (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] New Zealand vs Egypt (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://ataide0.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Spain vs Saudi Arabia (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Spain vs Saudi Arabia (ROXIE)
+#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Spain vs Saudi Arabia (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Spain vs Saudi Arabia (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://ataide0.mercadodavoz.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Uruguay vs Cape Verde (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Uruguay vs Cape Verde (ROXIE)
+#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Uruguay vs Cape Verde (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="RANDOM 2",[Soccer] Uruguay vs Cape Verde (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://ataide0.sman1asjap.my.id/tsn.m3u8
 
-#EXTINF:-1 tvg-chno="194" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] Turkey W vs China W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Volleyball Nations League] Turkey W vs China W (FAWA)
+#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] Turkey W vs China W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Volleyball Nations League] Turkey W vs China W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/JSSSSQQQQQZQQ.m3u8
 
-#EXTINF:-1 tvg-chno="195" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] Las Vegas Aces W vs Golden State Valkyries W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[WNBA Basketball] Las Vegas Aces W vs Golden State Valkyries W (FAWA)
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] Las Vegas Aces W vs Golden State Valkyries W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[WNBA Basketball] Las Vegas Aces W vs Golden State Valkyries W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/eeeeee.m3u8
+
+#EXTINF:-1 tvg-chno="191" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Washington Mystics vs Minnesota Lynx (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="RANDOM 2",[WNBA] Washington Mystics vs Minnesota Lynx (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5d3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQzOjE3ODIwOTE4MTg0Nzk6Y2RubGl2ZXR2LnR2OjIyOTQ4YjMwOTIwMGYwYmYuZGJiODczY2RkYjVlNWJhZDNhNzY4ZWFlZDUwZDY2NTIwYTI4NjBhNGMzOTI0OWRlM2MzYzg5NjBmMDQ5MjZkNw
 
 
 #--- RANDOM 2 END ---
