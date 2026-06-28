@@ -36,6 +36,16 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782672502/ei/F
 
 ######################################################################################################################################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="PILDUN DARURAT",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://cors-anywhere.ammoapps.com/https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="PILDUN DARURAT",TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://cors-anywhere.ammoapps.com/https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
 #EXTINF:-1 tvg-id="Dsport 1 #1" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="PILDUN DARURAT",Dsport 1 #1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
