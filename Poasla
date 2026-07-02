@@ -16,24 +16,39 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783026782/ei/_
 #EXTINF:-1 group-title="ESPORT" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-my-dearest-assassin-2026-lk21.jpg", 
 #EXTVLCOPT:http-referrer=
 
-#EXTINF:-1 tvg-id="WC 1" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC",1
+#EXTINF:-1 tvg-id="WC 1" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC" xtm-buffer="8000",1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#KODIPROP:inputstream.adaptive.max_video_width=1280
+#KODIPROP:inputstream.adaptive.max_video_height=720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cors-anywhere.creativeclaritycreations.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-id="WC 2" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC",2
+#EXTINF:-1 tvg-id="WC 2" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC" xtm-buffer="8000",2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#KODIPROP:inputstream.adaptive.max_video_width=1280
+#KODIPROP:inputstream.adaptive.max_video_height=720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cors-anywhere.creativeclaritycreations.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(telemundodeportes)/master.mpd
 
-#EXTINF:-1 tvg-id="WC 3" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC",3
+#EXTINF:-1 tvg-id="WC 3" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC" xtm-buffer="8000",3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#KODIPROP:inputstream.adaptive.max_video_width=1280
+#KODIPROP:inputstream.adaptive.max_video_height=720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cors-anywhere.creativeclaritycreations.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
-#EXTINF:-1 tvg-id="WC 4" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC",4
+#EXTINF:-1 tvg-id="WC 4" tvg-logo="https://i.ibb.co.com/P2ZpjRz/Pdn.webp" group-title="WC WC WC" xtm-buffer="8000",4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#KODIPROP:inputstream.adaptive.max_video_width=1280
+#KODIPROP:inputstream.adaptive.max_video_height=720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cors-anywhere.creativeclaritycreations.com/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
 
 ######################################################################################################################################################################################################################################################################################
