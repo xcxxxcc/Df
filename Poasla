@@ -3267,6 +3267,11 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.li
 
 
 
+
+
+
+
+
 #--- SONY START ---
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:1 tvg-id="1090536267" tvg-name="Glasgow 2026 Commonwealth Games" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784732583536218_CWG_BOWLS_and_PARA_BOWLS_INDvsMalta_landscape_thumb.jpg" tvg-language="English" group-title="SONY",ENG | India vs Malta - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026
@@ -3764,6 +3769,12 @@ https://live05.koepgd.app/live/90865415.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.41/hls/GAAAAQ.m3u8
 
+#EXTINF:-1 tvg-chno="23" tvg-id="Live.Event.us" tvg-name="[Cricket The Hundred] London Spirit W vs Manchester Super Giants W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Cricket The Hundred] London Spirit W vs Manchester Super Giants W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.43/hls/vaaaa.m3u8
+
 #EXTINF:-1 tvg-chno="24" tvg-id="Live.Event.us" tvg-name="[Cricket] Zimbabwe vs India (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Cricket] Zimbabwe vs India (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3878,7 +3889,19 @@ http://193.47.62.41/hls/XAAAAQQX.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f2/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWYyOjE3ODQ4MjYwNDYwNTc6Y2RubGl2ZXR2LnR2OmFmMjA4ZmJmZTZmOGMwMTkuMWUwZDM1MjgzMjg4NmRiZWMwMzFjMzc3MDdkOWFiMjM0NmZjYzJhNDZmMGM5YWZmMjQzNzM4MWVlMzY3YWRlMw
 
-#EXTINF:-1 tvg-chno="80" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] USA W vs China W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Volleyball Nations League] USA W vs China W (FAWA)
+#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Austria Wien vs Liepāja (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="RANDOM 2",[UEFA Conference League] Austria Wien vs Liepāja (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=PULS%204%20AT%20HD&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=PULS%204%20AT%20HD&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccd34/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZDM0OjE3ODQ4Mjk2MTM3NTE6Y2RubGl2ZXR2LnR2OjM0MmM5YTg4OTdlZTJmYTguNWFkYzQzNGE1ZmY3MThhMTRhYmIxN2JiMWU2NjcyNGI2NmJiZmU1ZDk4MWU4MGFiNjUyMDVhY2RiYmI3NjJiMQ
+
+#EXTINF:-1 tvg-chno="77" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Malisheva vs Hibernian (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="RANDOM 2",[UEFA Conference League] Malisheva vs Hibernian (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=a7929e3151507d3530aa3c75f8ecbb89&txTime=6A636AB8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League] USA W vs China W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="RANDOM 2",[Volleyball Nations League] USA W vs China W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
